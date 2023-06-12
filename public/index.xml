@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Scott Knight</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Home on Scott Knight</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jun 2023 10:30:59 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ready Player One</title>
+      <link>http://example.org/ready-player-one/</link>
+      <pubDate>Sun, 11 Jun 2023 17:36:42 -0500</pubDate>
+      
+      <guid>http://example.org/ready-player-one/</guid>
+      <description>Here we go again.</description>
+    </item>
+    
+    <item>
+      <title>Inspiration for this Site</title>
+      <link>http://example.org/inspiration/</link>
+      <pubDate>Sun, 11 Jun 2023 16:13:07 -0500</pubDate>
+      
+      <guid>http://example.org/inspiration/</guid>
+      <description>Some of the people and ideas that inspired me to make this site:
+  zwbetz for his invaluable Hugo tutorial and site design, which was emulated while learning Hugo to create this site (design will be evolving soon)
+  Suckless Software Philosophy
+  Karl Bartel&amp;rsquo;s Exercises in Simplicity
+  The 512K Club, a collective of performance-minded developers striving to make the internet less of a bloated mess</description>
+    </item>
+    
+  </channel>
+</rss>
