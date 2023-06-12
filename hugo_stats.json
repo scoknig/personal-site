@@ -1,0 +1,57 @@
+{
+  "htmlElements": {
+    "tags": [
+      "!doctype",
+      "a",
+      "body",
+      "br",
+      "code",
+      "div",
+      "em",
+      "h1",
+      "h2",
+      "head",
+      "html",
+      "i",
+      "li",
+      "link",
+      "link\n",
+      "main",
+      "meta",
+      "nav",
+      "p",
+      "script",
+      "span",
+      "strong",
+      "style",
+      "time",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "badge",
+      "badge-light",
+      "breathing-room",
+      "btn",
+      "btn-outline-light",
+      "btn-sm",
+      "container",
+      "custom-card",
+      "custom-nav",
+      "custom-title",
+      "font-125",
+      "justify-content-center",
+      "nav",
+      "nav-link",
+      "tag-btn"
+    ],
+    "ids": [
+      "blog",
+      "contact",
+      "main",
+      "nav",
+      "nav-border",
+      "work"
+    ]
+  }
+}

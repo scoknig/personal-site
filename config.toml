@@ -5,6 +5,9 @@ title = "Scott Knight"
 [permalinks]
     blog = "/:filename"
 
+[build]
+  writeStats = true
+
 # See https://feathericons.com/
 # The value of pre is the icon name
 [menu]

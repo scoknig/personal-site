@@ -2,8 +2,18 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   {{ hugo.Generator }}
-  {{ $css := "css/bootstrap.min.css" | relURL }}
-  <link rel="stylesheet" href="{{ $css }}">
+  {{ $css := resources.Get "css/bootstrap.css" | resources.PostCSS }}
+
+  {{ if hugo.IsProduction }}
+    {{ $css = $css | minify | fingerprint | resources.PostProcess }}
+  {{ end }}
+
+  <link
+    rel="stylesheet"
+    href="{{ $css.RelPermalink }}"
+    integrity="{{ $css.Data.Integrity }}"
+  >
+  
   {{ $title := print .Title " | " .Site.Title }}
   <title>{{ $title }}</title>
   {{ partial "style.html" . }}
