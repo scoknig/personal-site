@@ -1,3 +1,14 @@
+{{ $bootstrapCss := resources.Get "css/bootstrap.css" }}
+
+{{ $customCss := resources.Get "css/custom.css" }}
+
+{{ $bundledCss := slice $bootstrapCss $customCss | resources.Concat "css/bundled.css" | resources.PostCSS }}
+
+{{ if hugo.IsProduction }}
+  {{ $bundledCss = $bundledCss | minify | fingerprint | resources.PostProcess }}
+{{ end }}
+
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -10,8 +21,8 @@
 
   <link
     rel="stylesheet"
-    href="{{ $css.RelPermalink }}"
-    integrity="{{ $css.Data.Integrity }}"
+    href="{{ $bundledCss.RelPermalink }}"
+    integrity="{{ $bundledCss.Data.Integrity }}"
   >
   
   {{ $title := print .Title " | " .Site.Title }}
