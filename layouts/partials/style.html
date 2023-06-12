@@ -6,22 +6,22 @@
         color: #efefef;
         background-color: #222222;
     }
-    body a {
+    .container a, a:visited, a:active {
         color: #efefef;
-        text-decoration: underline;
+        border-bottom: 2px solid#efefef;
+        text-decoration: none;
     }
-    a:hover {
-      color: #72bf8c;
+    .container a:hover {
+        color: #72bf8c;
+        border-bottom: 2px solid #72bf8c;
     }
     .container {
       max-width: 700px;
     }
-    #nav {
-        vertical-align: middle;
-    }
     #nav a {
       font-weight: bold;
       color: #efefef;
+      text-decoration: none;
     }
     #nav :hover {
         color: #72bf8c;
@@ -64,7 +64,7 @@
         padding-bottom: 1em;
         background-color: #222222;
     }
-    .custom-nav a {
+    .nav-link {
         text-decoration: none;
         vertical-align: middle;
     }
