@@ -7,7 +7,7 @@ draft: false
 
 Hi there. I'm Scott Knight, a Data Automation Engineer in Houma, LA.
 
-Having been a software & data engineer for some time I've realized that I like to keep things simple.
+Having written loads of complex software for clients through the years as a software & data engineer, I like to keep things simple.
 
 In creating this site as my own little slice of the internet, I have taken [inspiration from several sources](/inspiration/) in striving to keep this site as simple as practical.
 
