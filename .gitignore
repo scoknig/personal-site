@@ -1,0 +1,9 @@
+# Hugo
+public/
+.DS_Store
+
+# Node
+node_modules/
+
+# Java
+*.class

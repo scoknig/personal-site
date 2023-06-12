@@ -21,7 +21,7 @@ I have a B.S. in Computer Science from Southeastern Louisiana University and an 
 
 ## Blog
 
-In the [blog](/blog/) you'll find a collection of thoughts, resources, and other miscellaneous items which I've evidently deemed worthy of recording. 
+In the [blog](/blog/) you'll find an ever-growing collection of my personal brain dumps.
 
 Feel free to have a look around, you might find something interesting.
 
