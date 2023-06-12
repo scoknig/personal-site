@@ -26,7 +26,9 @@ title = "Scott Knight"
 
 [params]
     dateFormat = "Jan 2, 2006"
-    homeText = "Test content"
+    accentColorPrimary = "#72bf8c"
+    linkColor = "#bf727c"
+    # homeText = "Test content"
 
 [taxonomies]
   tag = "tags"
