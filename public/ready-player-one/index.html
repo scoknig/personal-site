@@ -13,11 +13,15 @@
         font-size: 18px;
         font-weight: 400;
         line-height: 1.6;
-        color: #212529;
-        background-color: #fcfcfc;
+        color: #efefef;
+        background-color: #222222;
     }
-    a :hover {
-      color: #bf727c;
+    body a {
+        color: #efefef;
+        text-decoration: underline;
+    }
+    a:hover {
+      color: #72bf8c;
     }
     .container {
       max-width: 700px;
@@ -27,13 +31,13 @@
     }
     #nav a {
       font-weight: bold;
-      color: white;
+      color: #efefef;
     }
     #nav :hover {
         color: #72bf8c;
     }
     #nav-border {
-      border-bottom: 2px solid #212529;
+      border-bottom: 2px solid #efefef;
     }
     #main {
       margin-top: 1em;
@@ -55,7 +59,7 @@
         padding-top: 1.5rem;
         padding-bottom: 1.5rem;
         margin-bottom: 1.5rem;
-        background-color: rgba(0, 0, 0, 0.1);
+        background-color: #222222;
         border-bottom: 2px solid;
         text-align: center;
     }
@@ -65,7 +69,7 @@
     .custom-nav {
         padding-top: 1em;
         padding-bottom: 1em;
-        background-color: #212529;
+        background-color: #222222;
     }
     .custom-terms {
         max-width: 250px;
@@ -81,7 +85,7 @@
         margin-bottom: 0.25rem;
     }
     code {
-        background-color: rgba(0, 0, 0, 0.05);
+        background-color: #4d4d4d;
         border-radius: 4px;
         font-size: 0.875em;
         word-wrap: break-word;
@@ -128,24 +132,23 @@
   <i data-feather="tag"></i>
   
   
-  <a class="btn btn-sm btn-outline-dark tag-btn" href="/tags/life">life</a>
+  <a class="btn btn-sm btn-outline-light tag-btn" href="/tags/life">life</a>
   
 
 <br><br>
 <p>As I&rsquo;m putting the finishing touches on this site, I&rsquo;m also thinking back on the graveyard of &ldquo;personal sites past&rdquo; I&rsquo;ve left behind over the years.</p>
 <p>Since the dawn of the internet there&rsquo;s been an unspoken peer pressure to create a &ldquo;digital presence&rdquo; where people can find you online (doubly so for developers). For most people these days, social media fills this void. However, I&rsquo;ve never really felt the pull of social media and, while I have accounts on a few platforms, post <em>maybe</em> a couple times per year.</p>
 <p>A more useful thing to have, at least where I&rsquo;m concerned, is a place to keep ideas, resources, and other random tidbits that I may want to look back on later. In recent years I&rsquo;ve come across Tiago Forte&rsquo;s idea of building a <a href="https://fortelabs.com/blog/basboverview/">second brain</a>. The only issue there is I can&rsquo;t figure out what type of person (psychopath?) has the time or attention to maintaining such a detailed thing.</p>
-<p>So, that&rsquo;s where this site comes in. This won&rsquo;t be a blog in the traditional sense. I won&rsquo;t be publishing anything on a regular schedule, and it won&rsquo;t be for a particular audience. I&rsquo;ll be writing about things that are interesting and/or useful for myself, and there may be times when I&rsquo;ll go months without posting anything new.</p>
-<p>If you&rsquo;re reading this, you may be thinking, &ldquo;what&rsquo;s the point?&rdquo; And that&rsquo;s a fair question.</p>
-<p>My line of thinking is that if I &ldquo;open-source&rdquo; my stuff here, someone out there (maybe you) might find something useful. So, feel free to browse around at your leisure.</p>
-<p>You may have also noticed is that the design here is minimal to the point of having no design at all. That&rsquo;s also intentional.</p>
-<p>Like I mentioned, through the years I&rsquo;ve gone through <em>many</em> iterations of finding a new platform, creating a new personal site/blog/whatever with the best intentions, and then months later archiving it.</p>
-<p>The only way this is going to work is if I set this baby up and let her run with the least possible amount of maintenance required. Not only that, but like the creator of <a href="https://512kb.club">the 512K Club</a> states, the internet has become a <strong>bloated mess</strong>, and I don&rsquo;t feel the need to contribute to that aspect of it.</p>
-<p>This is probably why no previous iterations have survived. There&rsquo;s always another platform to upgrade, a JavaScript library to update, yada yada yada.</p>
-<p>Many thanks to my former colleague <code>zwbetz</code> and his fantastic <a href="https://zwbetz.com/make-a-hugo-blog-from-scratch/">intro to Hugo</a>, I was able to set this up quickly and intend to keep it running as one of the most lightweight sites on the net.</p>
-<p>I also rather like the idea of digital frugality; of not using more than absolutely necessary for a project. In my opinion, the more you get carried away with shiny libraries and tools, the more technical debt you create for yourself. Keep it simple. This site aims to do just that, paying homage to the barebones-yet-somehow-nostalgic sites of Web 1.0.</p>
+<p>Not only that, but the principles of <a href="https://indieweb.org/POSSE">POSSE</a> are hard to argue against. Why create content on someone else&rsquo;s platform? I&rsquo;ll just put everything I want here as a single source of truth for all my online content.</p>
+<p>So, that&rsquo;s where this site comes in. This won&rsquo;t be a blog in the traditional sense. I won&rsquo;t be publishing anything on a regular schedule, and it won&rsquo;t be for a particular audience. I&rsquo;ll be writing about things that I find interesting and/or useful, and there may be times when I&rsquo;ll go months without posting anything new.</p>
+<p>You may have also noticed is that the design here is minimal to the point of having no design at all. That&rsquo;s also <a href="https://thewebisfucked.com/">intentional</a>.</p>
+<p>Like I mentioned, through the years I&rsquo;ve gone through <em>many</em> iterations of finding a new platform, creating a new personal site/blog/whatever with the best intentions, and then months later archiving it. Rinse, lather, repeat.</p>
+<p>The only way this is going to work is if I set this baby up and let her run with the least possible amount of maintenance required. Not only that, but like the creator of <a href="https://512kb.club">the 512K Club</a> states, the internet has become a <strong>bloated mess</strong>, and I don&rsquo;t feel the need to contribute to that trend.</p>
+<p>In past projects, there&rsquo;s always another platform to upgrade, a code library to update, yada yada yada.</p>
+<p>Thanks to my former colleague <code>zwbetz</code> and his fantastic <a href="https://zwbetz.com/make-a-hugo-blog-from-scratch/">intro to Hugo</a>, I was able to set this up quickly and intend to keep it running as one of the most lightweight sites around.</p>
+<p>You might be thinking to yourself, <em>why is this site so ugly?</em> Is it? If you&rsquo;ve paid attention so far, you&rsquo;ll have realized this site is heavily content-focused and will stay that way. It&rsquo;s beauty is in its simplicity.</p>
+<p>In my opinion, the more you get carried away with shiny libraries and tools, the more technical debt you create for yourself. Keep it simple. I&rsquo;m aiming to do just that, while paying homage to the barebones-yet-somehow-nostalgic sites of Web 1.0.</p>
 <p>So, to kick things off in the spirit of that era: <code>Ready Player One</code></p>
-<p>If you&rsquo;re still reading this, then kudos for sticking around through to the end. Have a <a href="https://duckduckgo.com/cookie?ia=images&amp;iax=images">cookie</a> and enjoy the rest of the site.</p>
 
 
 

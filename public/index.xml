@@ -13,7 +13,7 @@
       <pubDate>Sun, 11 Jun 2023 17:36:42 -0500</pubDate>
       
       <guid>http://example.org/ready-player-one/</guid>
-      <description>Here we go again.</description>
+      <description>Let&amp;rsquo;s get this party started.</description>
     </item>
     
     <item>
@@ -23,10 +23,11 @@
       
       <guid>http://example.org/inspiration/</guid>
       <description>Some of the people and ideas that inspired me to make this site:
-  zwbetz for his invaluable Hugo tutorial and site design, which was emulated while learning Hugo to create this site (design will be evolving soon)
+  zwbetz for his invaluable Hugo tutorial and site design, which was emulated while learning Hugo to create this site
   Suckless Software Philosophy
   Karl Bartel&amp;rsquo;s Exercises in Simplicity
-  The 512K Club, a collective of performance-minded developers striving to make the internet less of a bloated mess</description>
+  Kev Quirk
+  The 512K Club, a collective of performance-minded developers striving to make the internet less of a bloated mess (run by Kev Quirk)</description>
     </item>
     
   </channel>
