@@ -11,7 +11,7 @@
         text-decoration: underline;
     }
     a:hover {
-      color: {{ .Site.Params.accentColorPrimary | default "#72bf8c" | safeCSS }};
+      color: #72bf8c;
     }
     .container {
       max-width: 700px;
@@ -24,7 +24,7 @@
       color: #efefef;
     }
     #nav :hover {
-        color: {{ .Site.Params.accentColorPrimary | default "#72bf8c" | safeCSS }};
+        color: #72bf8c;
     }
     #nav-border {
       border-bottom: 2px solid #efefef;
@@ -45,6 +45,9 @@
     img {
       max-width: 100%;
     }
+    .btn {
+        text-decoration: none;
+    }
     .custom-title {
         padding-top: 1.5rem;
         padding-bottom: 1.5rem;
@@ -63,6 +66,7 @@
     }
     .custom-nav a {
         text-decoration: none;
+        vertical-align: middle;
     }
     .custom-terms {
         max-width: 250px;
