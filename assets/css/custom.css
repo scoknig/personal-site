@@ -41,6 +41,9 @@ body {
 .tag-btn {
   margin-bottom: 0.3em;
 }
+.btn:hover {
+    color: #222222 !important;
+}
 img {
   max-width: 100%;
 }
@@ -62,10 +65,18 @@ img {
     padding-top: 1em;
     padding-bottom: 1em;
     background-color: #222222;
+    
+}
+#nav a {
+    margin: 0 1rem 0 1rem;
+
 }
 .nav-link {
     text-decoration: none;
     vertical-align: middle;
+}
+#nav a:hover {
+    color: #222222 !important;
 }
 .custom-terms {
     max-width: 250px;
@@ -76,6 +87,12 @@ img {
     border-width: 2px;
     border-style: solid;
     border-radius: 4px;
+}
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    list-style: none;
 }
 .breathing-room {
     margin-bottom: 0.25rem;
