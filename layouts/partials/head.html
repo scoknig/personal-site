@@ -29,6 +29,10 @@
   <title>{{ $title }}</title>
   {{ partial "style.html" . }}
 
+  {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
+
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 </head>
