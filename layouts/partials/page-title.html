@@ -1,5 +1,5 @@
 <div class="custom-title">
     <div class="container">
-      <h1>{{ .Title }}</h1>
+      <h1>{{ if .IsHome }}Scott Knight{{ else }}{{ if .Page.Title}}{{ .Page.Title }}{{ end }}{{ end }}</h1>
     </div>
 </div>

@@ -5,15 +5,13 @@ toc: false
 draft: false
 ---
 
-Hi there. I'm Scott Knight, a Data Automation Engineer in Houma, LA.
+Hi there. As you can see up there in the title, I'm Scott Knight. I'm a Data Automation Engineer in south Louisiana.
 
-Having written loads of complex software for clients through the years as a software & data engineer, I like to keep things simple.
-
-In creating this site as my own little slice of the internet, I have taken [inspiration from several sources](/inspiration/) in striving to keep this site as simple as practical.
+Having written loads of complex software for clients through the years as a software & data engineer, I like to keep things simple when it comes to my own projects. This site is a testament to that principle.
 
 ## Work
 
-Coming from a full-stack engineering background, I'm currently a Data Automation Engineer at [Sev1Tech](https://sev1tech.com). 
+Coming from a full-stack engineering background, I'm currently Sa Data Automation Engineer at [Sev1Tech](https://sev1tech.com). 
 
 I also occasionally consult on technical projects and build fun things through [KnightLab](https://knightlab.co). Recently, KnightLab began branching out from the software world and is now offering [old media archival and digitization services](https://knightlab.film) as well.
 
