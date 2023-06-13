@@ -21,6 +21,8 @@ I have a B.S. in Computer Science from Southeastern Louisiana University and an 
 
 In the [blog](/blog/) you'll find an ever-growing collection of my personal brain dumps.
 
+If you use an RSS reader, [here's a link to the blog feed](/blog/index.xml).
+
 Feel free to have a look around, you might find something interesting.
 
 ## Contact

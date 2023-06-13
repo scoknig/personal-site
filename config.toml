@@ -1,6 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Scott Knight"
+copyright = "2023 Scott Knight All rights reserved"
+
+[author]
+  name = "Scott Knight"
+  email = "scottk@hey.com"
 
 [permalinks]
     blog = "/:filename"
