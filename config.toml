@@ -21,6 +21,11 @@ title = "Scott Knight"
     pre = "edit"
     url = "/blog/"
     weight = 2
+  [[menu.main]]
+    name = "Projects"
+    pre = "edit"
+    url = "/projects/"
+    weight = 3
 
 [params]
     dateFormat = "Jan 2, 2006"
