@@ -1,13 +1,13 @@
 {{ define "main" }}
 
 {{ range .Pages.ByPublishDate.Reverse }}
-  <p>
-    <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  <div class="custom-card">
+    <a class="font-125 breathing-room" href="{{ .RelPermalink }}">{{ .Title }}</a>
     <br>
-    {{ .Summary }}
+    <div class="breathing-room custom-summary">{{ .Summary }}</div>
     <br>
     {{ partial "date-and-tags.html" . }}
-  </p>
+  </div>
 {{ end }}
 
 {{ end }}
