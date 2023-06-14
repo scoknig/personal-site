@@ -5,7 +5,7 @@ copyright = "2023 Scott Knight All rights reserved"
 
 [author]
   name = "Scott Knight"
-  email = "scottk@hey.com"
+  email = "f93@knight.mba"
 
 [permalinks]
     blog = "/:filename"
@@ -27,9 +27,9 @@ copyright = "2023 Scott Knight All rights reserved"
     url = "/blog/"
     weight = 2
   [[menu.main]]
-    name = "Projects"
-    pre = "edit"
-    url = "/projects/"
+    name = "Contact"
+    pre = "phone"
+    url = "/contact/"
     weight = 3
 
 [params]

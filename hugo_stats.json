@@ -27,10 +27,13 @@
       "ul"
     ],
     "classes": [
+      "ankle-border",
+      "ankle-btn",
       "badge",
       "badge-light",
       "breathing-room",
       "btn",
+      "btn-lg",
       "btn-outline-light",
       "btn-sm",
       "container",
@@ -50,6 +53,9 @@
     "ids": [
       "blog",
       "contact",
+      "email--siteauthoremail-",
+      "email-hahahugoshortcode-s0-hbhb",
+      "email-hahahugoshortcode-s0-hbhbmailtohahahugoshortcode-s1-hbhb",
       "main",
       "nav",
       "nav-border",

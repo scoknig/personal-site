@@ -72,11 +72,9 @@ img {
     padding-top: 1em;
     padding-bottom: 1em;
     background-color: var(--dark-bg);
-    
 }
 #nav a {
     margin: 0 1rem 0 1rem;
-
 }
 .nav-link {
     text-decoration: none;
@@ -115,4 +113,13 @@ code {
     word-wrap: break-word;
     padding: 0.2em 0.4em;
     color: inherit;
+}
+.ankle-border {
+    border-top: 2px solid var(--light-contrast);
+    justify-content: center;
+    display: flex;
+}
+.ankle-btn {
+    margin-top: 1rem;
+    font-weight: bold;
 }
