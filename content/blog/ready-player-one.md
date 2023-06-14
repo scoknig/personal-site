@@ -2,7 +2,7 @@
 title: "Ready Player One"
 date: 2023-06-11T17:36:42-05:00
 lastmod: 2023-06-13
-tags: [life]
+tags: [meta]
 summary: Let's get this party started.
 toc: false
 draft: false
