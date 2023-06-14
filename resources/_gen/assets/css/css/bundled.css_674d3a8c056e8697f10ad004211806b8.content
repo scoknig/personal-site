@@ -9056,12 +9056,15 @@ img {
     max-width: 250px;
 }
 .custom-card {
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     padding: 1rem;
     border-width: 2px;
     border-style: solid;
     border-radius: 4px;
     box-shadow: 6px 10px #efefef;
+}
+.custom-summary {
+    margin-top: 0.5rem;
 }
 .flex-container {
     display: flex;
