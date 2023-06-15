@@ -5,7 +5,9 @@ toc: false
 draft: false
 ---
 
-Hi there. As you can see up there in the title, I'm Scott Knight. I'm a Data Automation Engineer in south Louisiana.
+Hi there. As you can see up there in the title, I'm Scott Knight. 
+
+I'm a Data Automation Engineer in South Louisiana.
 
 Having written loads of complex software for clients through the years as a software & data engineer, I like to practice digital minimalism and keep things simple when it comes to my own projects. This site is a testament to that.
 
