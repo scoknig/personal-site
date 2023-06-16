@@ -18,19 +18,20 @@ copyright = "2023 Scott Knight All rights reserved"
 [menu]
   [[menu.main]]
     name = "Home"
-    pre = "home"
     url = "/"
     weight = 1
   [[menu.main]]
     name = "Blog"
-    pre = "edit"
     url = "/blog/"
     weight = 2
   [[menu.main]]
     name = "Contact"
-    pre = "phone"
     url = "/contact/"
     weight = 3
+  [[menu.main]]
+    name = "Other"
+    url = "/links/"
+    weight = 4
 
 [params]
     dateFormat = "Jan 2, 2006"

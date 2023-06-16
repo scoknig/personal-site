@@ -8978,6 +8978,8 @@ a.text-dark:hover, a.text-dark:focus {
     --title-bg: #2d2d2d;
     --code-bg: #4d4d4d;
     --light-contrast: #efefef;
+    --custom-border-width-thick: 0.25rem;
+    --custom-border-style: solid;
 }
 body {
     font-size: 18px;
@@ -9034,7 +9036,7 @@ img {
 .custom-title {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
     background-color: var(--title-bg);
     border-bottom: 2px solid;
     text-align: center;
@@ -9096,4 +9098,9 @@ code {
 .ankle-btn {
     margin-top: 1rem;
     font-weight: bold;
+}
+blockquote {
+    padding-left: 1rem;
+    border-left-width: var(--custom-border-width-thick);
+    border-left-style: var(--custom-border-style);
 }

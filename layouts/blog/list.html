@@ -1,13 +1,14 @@
 {{ define "main" }}
-
-{{ range .Pages.ByPublishDate.Reverse }}
-  <div class="custom-card">
-    <a class="font-125 breathing-room" href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <br>
-    <div class="breathing-room custom-summary">{{ .Summary }}</div>
-    <br>
-    {{ partial "date-and-tags.html" . }}
-  </div>
-{{ end }}
+<div class="container">
+  {{ range .Pages.ByPublishDate.Reverse }}
+    <div class="custom-card">
+      <a class="font-125 breathing-room" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <br>
+      <div class="breathing-room custom-summary">{{ .Summary }}</div>
+      <br>
+      {{ partial "date-and-tags.html" . }}
+    </div>
+  {{ end }}
+</div>
 
 {{ end }}

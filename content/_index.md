@@ -7,13 +7,13 @@ draft: false
 
 Hi there. As you can see up there in the title, I'm Scott Knight. 
 
-I'm a Data Automation Engineer in South Louisiana.
+I'm a Data Automation Engineer in South Louisiana who enjoys tech, cycling, and the great outdoors.
 
-Having written loads of complex software for clients through the years as a software & data engineer, I like to practice digital minimalism and keep things simple when it comes to my own projects. This site is a testament to that.
+Having written loads of complex software for clients through the years as a software & data engineer, I've come to enjoy practicing digital minimalism and keeping things simple when it comes to my own projects. This site is a testament to that.
 
 ## Work
 
-Coming from a full-stack engineering background, I'm currently a Data Automation Engineer at [Sev1Tech](https://sev1tech.com).
+I work at [Sev1Tech](https://sev1tech.com).
 
 I also occasionally consult on technical projects and build fun things through [KnightLab](https://knightlab.co). Recently, KnightLab began branching out from the software world and is now offering [old media archival and digitization services](https://knightlab.film) as well.
 
@@ -21,7 +21,7 @@ I have a B.S. in Computer Science from Southeastern Louisiana University and an 
 
 ## Blog
 
-In the [blog](/blog/) you'll find an ever-growing collection of my personal brain dumps.
+In the [blog](/blog/) you'll find an ever-growing collection of my thoughts, things I've learned, and interesting nuggets I find.
 
 If you use an RSS reader, [here's a link to the blog feed](/blog/index.xml).
 
