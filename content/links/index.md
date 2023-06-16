@@ -7,8 +7,6 @@ toc: false
 draft: false
 ---
 
-## More Links
-
 - [Current Projects](/projects/)
 
 - [Tools I Use for This Site](/tools/)

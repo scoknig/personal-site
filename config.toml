@@ -28,10 +28,6 @@ copyright = "2023 Scott Knight All rights reserved"
     name = "Contact"
     url = "/contact/"
     weight = 3
-  [[menu.main]]
-    name = "Other"
-    url = "/links/"
-    weight = 4
 
 [params]
     dateFormat = "Jan 2, 2006"
