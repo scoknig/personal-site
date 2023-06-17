@@ -35,4 +35,10 @@ If you'd like to get in touch, you can email me at [{{< email >}}](mailto:{{< em
 
 ## Links
 
-Here is a [list of other links](/links/).
+- [Current Projects](/projects/)
+
+- [Tools I Use for This Site](/tools/)
+
+- [Inspiration for This Site](/inspiration/)
+
+- [Disclaimer](/disclaimer/)
