@@ -1,5 +1,5 @@
 ---
-title: "Forest Bathing: A Mindful Journey Through the Woods"
+title: "A Mindful Journey Through the Woods"
 date: 2023-06-16T11:03:59-05:00
 tags: [life]
 summary: Reflecting on a recent solo camping trip.

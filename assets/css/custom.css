@@ -133,7 +133,6 @@ blockquote {
 footer {
     margin-top: 2rem;
     padding-top: 2rem;
-    padding-bottom: 0.5rem;
     border-top: 2px solid var(--light-contrast);
     text-align: center;
 }
