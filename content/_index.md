@@ -44,9 +44,3 @@ If you'd like to get in touch, you can email me at [{{< email >}}](mailto:{{< em
 - [Inspiration for This Site](/inspiration/)
 
 - [Disclaimer](/disclaimer/)
-
-- This site is a member of:
-
-    - {{< 512kb >}}
-
-    - 👻 [darktheme.club](https://darktheme.club/) 👻
