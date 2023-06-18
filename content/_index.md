@@ -5,7 +5,7 @@ toc: false
 draft: false
 ---
 
-Hi there. As you can see up there in the title, I'm Scott Knight. 
+Hi there. As you can see up there in the title, I'm Scott Knight.
 
 I'm a Data Automation Engineer in South Louisiana who enjoys tech, cycling, and the great outdoors.
 
@@ -36,6 +36,8 @@ If you'd like to get in touch, you can email me at [{{< email >}}](mailto:{{< em
 ## Links
 
 - [Current Projects](/projects/)
+
+- [Blogroll](/blogroll/)
 
 - [Tools I Use for This Site](/tools/)
 

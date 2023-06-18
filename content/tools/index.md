@@ -15,4 +15,6 @@ Tools I use to build and maintain this site:
 
 - Hosted with [Netlify](https://www.netlify.com/)
 
+- Analytics with [GoatCounter](https://www.goatcounter.com)
+
 - Domain from [Namecheap](https://www.namecheap.com/)
