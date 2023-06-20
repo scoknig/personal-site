@@ -5,9 +5,7 @@ toc: false
 draft: false
 ---
 
-Hi there. As you can see up there in the title, I'm Scott Knight.
-
-I'm a Data Automation Engineer in South Louisiana who enjoys tech, cycling, and the great outdoors.
+Hi there. I'm a Data Automation Engineer in South Louisiana who enjoys tech, open data, cycling, and being outdoors.
 
 Having written loads of complex software for clients through the years as a software & data engineer, I've come to enjoy practicing digital minimalism and keeping things simple when it comes to my own projects. This site is a testament to that.
 
@@ -23,7 +21,7 @@ I have a B.S. in Computer Science from Southeastern Louisiana University and an 
 
 In the [blog](/blog/) you'll find an ever-growing collection of my thoughts, things I've learned, and interesting nuggets I find.
 
-If you use an RSS reader, [here's a link to the blog feed](/blog/index.xml).
+If you use an RSS reader, here's the [blog's RSS feed](/blog/index.xml).
 
 Feel free to have a look around, you might find something interesting.
 
