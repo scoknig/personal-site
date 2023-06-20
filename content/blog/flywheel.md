@@ -2,7 +2,7 @@
 title: "Spinning the Flywheel"
 date: 2023-06-20T15:04:15-05:00
 tags: [life]
-summary:
+summary: An updated take on an old idea.
 toc: false
 draft: false
 ---
