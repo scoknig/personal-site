@@ -123,7 +123,11 @@ code {
 }
 .ankle-btn {
     margin-top: 1rem;
-    font-weight: bold;
+    /* font-weight: bold; */
+    box-shadow: 3px 4px var(--light-contrast);
+}
+.ankle-btn:hover {
+    box-shadow: none;
 }
 blockquote {
     padding-left: 1rem;
@@ -135,4 +139,7 @@ footer {
     padding-top: 2rem;
     border-top: 2px solid var(--light-contrast);
     text-align: center;
+}
+h2 {
+    margin-top: 2rem;
 }
