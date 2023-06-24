@@ -31,6 +31,8 @@ If you'd like to get in touch, you can email me at [{{< email >}}](mailto:{{< em
 
 (Read more about that on my [contact page](/contact/))
 
+I'm also on {{< mastodon >}}.
+
 ## Links
 
 - [Current Projects](/projects/)

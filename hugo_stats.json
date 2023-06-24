@@ -14,7 +14,6 @@
       "h2",
       "h3",
       "head",
-      "hr",
       "html",
       "img",
       "li",
@@ -53,14 +52,12 @@
       "justify-content-center",
       "nav",
       "nav-link",
-      "row",
       "tag-btn"
     ],
     "ids": [
       "a-anecdote",
       "additional-thoughts",
       "blog",
-      "bonus",
       "bonus-speaking-tips",
       "contact",
       "current-perspective",
