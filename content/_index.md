@@ -21,7 +21,7 @@ I have a B.S. in Computer Science from Southeastern Louisiana University and an 
 
 In the [blog](/blog/) you'll find an ever-growing collection of my thoughts, things I've learned, and interesting nuggets I find.
 
-If you use an RSS reader, here's the [blog's RSS feed](/blog/index.xml).
+If you use an RSS reader ([a what?](https://aboutfeeds.com/)), here's the [blog's RSS feed](/blog/index.xml).
 
 Feel free to have a look around, you might find something interesting.
 
