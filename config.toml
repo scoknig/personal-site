@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Scott Knight"
 copyright = "2023 Scott Knight All rights reserved"
+paginate = 5
 
 [author]
   name = "Scott Knight"

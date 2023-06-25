@@ -1,14 +1,74 @@
 {{ define "main" }}
-<div class="container">
-  {{ range .Pages.ByPublishDate.Reverse }}
-    <div class="custom-card">
-      <a class="font-125 breathing-room" href="{{ .RelPermalink }}">{{ .Title }}</a>
-      <br>
-      <div class="breathing-room custom-summary">{{ .Summary }}</div>
-      <br>
-      {{ partial "date-and-tags.html" . }}
+  {{ $pages := .RegularPages.ByPublishDate.Reverse }}
+  {{ $paginator := .Paginate $pages }}
+
+  <div class="container">
+    {{ range $paginator.Pages }}
+      <div class="custom-card">
+        <a class="font-125 breathing-room" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <br>
+        <div class="breathing-room custom-summary">{{ .Summary }}</div>
+        <br>
+        {{ partial "date-and-tags.html" . }}
+      </div>
+    {{ end }}
+
+    <div class="custom-paginator">
+      <nav class="custom-paginator-buttons">
+        <ul class="pagination">
+          {{ with $paginator.First }}
+            <li class="page-item">
+              <a class="page-link" href="{{ .URL }}">
+                Newest
+              </a>
+            </li>
+          {{ end }}
+
+          {{ with $paginator.Prev }}
+            <li class="page-item">
+              <a class="page-link" href="{{ .URL }}">
+                Previous
+              </a>
+            </li>
+          {{ else }}
+            <li class="page-item disabled">
+              <a class="page-link">
+                Previous
+              </a>
+            </li>
+          {{ end }}
+
+          {{ with $paginator.Next }}
+            <li class="page-item">
+              <a class="page-link" href="{{ .URL }}">
+                Next
+              </a>
+            </li>
+          {{ else }}
+            <li class="page-item disabled">
+              <a class="page-link">
+                Next
+              </a>
+            </li>
+          {{ end }}
+
+          {{ with $paginator.Last }}
+            <li class="page-item">
+              <a class="page-link" href="{{ .URL }}">
+                Last
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </nav>
+
+      <div class="custom-paginator-totals">
+        <strong>Current page:</strong> {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+        <br>
+        <strong>Total blog posts:</strong> {{ $paginator.TotalNumberOfElements }}
+      </div>
     </div>
-  {{ end }}
-</div>
+
+  </div>
 
 {{ end }}
