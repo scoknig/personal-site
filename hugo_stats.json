@@ -7,6 +7,7 @@
       "body",
       "br",
       "code",
+      "del",
       "div",
       "em",
       "footer",
@@ -74,10 +75,18 @@
       "main",
       "nav",
       "nav-border",
+      "ongoing-issues",
       "original-post",
       "reflections",
+      "res",
       "t-tie-back",
+      "the-problem",
+      "the-problems",
+      "the-situation",
       "this-is-my-personal-website-the-opinions-expressed-here-are-my-own-and-not-those-of-my-current-or-any-past-employer",
+      "what-happens-now",
+      "what-happensnow",
+      "what-now",
       "work"
     ]
   }
