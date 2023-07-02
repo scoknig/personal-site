@@ -11,7 +11,7 @@ There's an old story that goes something like this:
 
 > There are five frogs sitting on a log. One decides to jump off. How many frogs are left on the log?
 
-Most folks would answer, "one". But that's wrong.
+Most folks would answer, "four". But that's wrong.
 
 The real answer is that *five frogs are still sitting on the log.*
 
