@@ -9096,8 +9096,13 @@ code {
     justify-content: center;
     display: flex;
 }
+.ko-fi {
+    justify-content: center;
+    display: flex;
+    font-size: 1rem;
+}
 .ankle-btn {
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     /* font-weight: bold; */
     box-shadow: 3px 4px var(--light-contrast);
 }
