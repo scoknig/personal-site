@@ -29,8 +29,6 @@ Feel free to have a look around, you might find something interesting.
 
 If you'd like to get in touch, you can email me at [{{< email >}}](mailto:{{< email >}})
 
-(Read more about that on my [contact page](/contact/))
-
 I'm also on {{< mastodon >}}.
 
 ## Links
