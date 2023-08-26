@@ -32,7 +32,8 @@
       <pubDate>{{ .Date.Format "Jan 2, 2006" | safeHTML }}</pubDate>
       <author>{{ with $.Site.Author.name }}{{.}}{{end}}</author>
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | html }}</description>
+      <description>{{ .Summary | html }}</description>
+      <content>{{ .Content | html }}</content>
     </item>
     {{ end }}
   </channel>
