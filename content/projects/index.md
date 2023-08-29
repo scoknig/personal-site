@@ -13,7 +13,7 @@ Here's a few things I'm currently working on:
 
 - [Building my home lab](/linux-poll/) to experiment with new (to me) tech
 
-- Learning [CircuitPython](https://circuitpython.org/) to program microcontrollers and build cool electronics projects (more on that soon)
+- Learning [CircuitPython](https://circuitpython.org/) to program microcontrollers and build cool electronics projects
 
 - [Using data](http://www.markwk.com/data-analysis-for-apple-health.html) to systematically improve my nutrition and activity habits
 

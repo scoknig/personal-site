@@ -19,7 +19,8 @@
     --dark-bg: #312229;
     --title-bg: #D5C5AE;
     --code-bg: #B18653;
-    --title-text: #54101D;
+    /* --title-text: #54101D; */
+    --title-text: #312229;
     --light-contrast: #efefef;
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;

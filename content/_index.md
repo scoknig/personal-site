@@ -37,7 +37,7 @@ I'm also on {{< mastodon >}}.
 
 - [Blogroll](/blogroll/)
 
-- [Tools I Use for This Site](/tools/)
+- [Made With](/tools/)
 
 - [Inspiration for This Site](/inspiration/)
 
