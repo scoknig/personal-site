@@ -7,13 +7,13 @@ draft: false
 
 Hi there. I'm a Data Automation Engineer in South Louisiana who enjoys tech, open data, cycling, and exploring outdoors.
 
-Having written loads of complex software for clients through the years as a software & data engineer, I've come to enjoy practicing digital minimalism and keeping things simple when it comes to my own projects. This site is a testament to that.
+Having written loads of complex software for clients through the years as a software & data engineer, I've come to enjoy keeping things simple and easy when it comes to my own projects. This site is a testament to that practice.
 
 ## Work
 
 I work at [Sev1Tech](https://sev1tech.com).
 
-I also occasionally consult on technical projects and build fun things through [KnightLab](https://knightlab.co). Recently, KnightLab began branching out from the software world and is now offering [old media archival and digitization services](https://knightlab.film) as well.
+I also consult on technical projects and build fun things through [KnightLab](https://knightlab.co). Recently, KnightLab began branching out from the software world and is now offering [old media archival and digitization services](https://knightlab.film) as well.
 
 I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. (hence the domain extension) in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.
 
