@@ -8995,7 +8995,8 @@ a.text-dark:hover, a.text-dark:focus {
     --code-bg: #B18653;
     /* --title-text: #54101D; */
     --title-text: #312229;
-    --light-contrast: #efefef;
+    /* --light-contrast: #efefef; */
+    --light-contrast: #f2eee7;
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
     --custom-border-radius: 4px;
