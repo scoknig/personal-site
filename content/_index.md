@@ -19,7 +19,9 @@ I have a B.S. in Computer Science from Southeastern Louisiana University and an 
 
 ## Blog
 
-In the [blog](/blog/) you'll find an ever-growing collection of my thoughts, things I've learned, and interesting nuggets I find.
+In the [blog](/blog/) you'll find an ever-growing collection of my thoughts, things I've learned, and interesting nuggets I find. Here are several of my most recent posts:
+
+{{< recents >}}
 
 If you use an RSS reader ([a what?](https://aboutfeeds.com/)), here's the [blog's RSS feed](/blog/index.xml).
 
