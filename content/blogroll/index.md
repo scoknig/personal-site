@@ -7,9 +7,11 @@ toc: false
 draft: false
 ---
 
-This page lists some of my favorite blogs. It's by no means an exhaustive list, but these are some I'd recommend if you like personal blogs.
+This page lists some of my favorite blogs. It's not an exhaustive list, but these are some I'd recommend if you like personal blogs.
 
 - [Ali Abdaal](https://aliabdaal.com/)
+
+- [Cal Newport](https://calnewport.com/blog/)
 
 - [Kev Quirk](https://kevquirk.com/)
 
