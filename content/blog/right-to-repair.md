@@ -2,7 +2,7 @@
 title: "The Right to Repair: Fighting Planned Obsolescence"
 date: 2023-09-06T15:41:08-05:00
 tags: [tech, business]
-summary:
+summary: They don't make stuff like they used to.
 toc: false
 draft: false
 ---
