@@ -39,7 +39,7 @@ I'm also on {{< mastodon >}}.
 
 - [Blogroll](/blogroll/)
 
-- [Made With](/tools/)
+- [Uses](/tools/)
 
 - [Inspiration for This Site](/inspiration/)
 
