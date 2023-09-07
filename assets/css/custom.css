@@ -207,3 +207,43 @@ h2 {
     background-color: var(--light-contrast);
     color: var(--dark-bg);
 }
+
+/* Email Sub */
+input, label {
+    margin-bottom: 1rem;
+}
+
+input {
+    background-color: var(--dark-bg);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: var(--custom-border-radius);
+    border-color: var(--light-contrast);
+    color: var(--light-contrast) !important;
+    padding: 4px;
+    letter-spacing: .02rem;
+    padding-left: 10px;
+}
+
+.email-sub {
+    justify-content: center;
+    display: flex;
+    padding: 1rem;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: var(--custom-border-radius);
+    box-shadow: 6px 10px var(--light-contrast);
+    width: 70%;
+    margin: auto;
+}
+
+.email-sub p {
+    font-size: 1rem;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .email-sub {
+      width: 100%;
+    }
+  }
