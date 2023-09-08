@@ -8976,7 +8976,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 /* Normal Theme: */
 /* :root {
-    --primary-accent-color: #8CC92D;
+    --primary-accent-color: #FACE34; /* Volt Green #CEFF00
     --dark-bg: #111013;
     --title-bg: #111013;
     --code-bg: #111013;
@@ -8985,16 +8985,16 @@ a.text-dark:hover, a.text-dark:focus {
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
     --custom-border-radius: 4px;
-    --font-primary: Verdana,system-ui,sans-serif;
+    --font-primary: Futura,Verdana,system-ui,sans-serif;
 } */
 
 /* Fall Theme */
 :root {
     --primary-accent-color: #D5C5AE;
-    --dark-bg: #3D0C02;
+    --dark-bg: #1A120B;
     --title-bg: #D5C5AE;
     --code-bg: #333333;
-    --title-text: #3D0C02;
+    --title-text: #1A120B;
     --light-contrast: #f2eee7;
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
@@ -9195,6 +9195,7 @@ input {
     padding: 4px;
     letter-spacing: .02rem;
     padding-left: 10px;
+    font-size: 1.1rem;
 }
 
 .email-sub {
