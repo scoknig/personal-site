@@ -1,3 +1,19 @@
-<div class="ankle-border justify-content-center">
-    <a class='btn btn-lg btn-outline-light ankle-btn' href="mailto:{{ .Site.Author.email }}?subject=Re: {{ .Title }}">Reply via email</a>
+<div class="ankle-border justify-content-center flex-wrapper">
+    <div class="previous-post">
+        {{ if .PrevInSection }}
+        <a class="link-reverse" href="{{ .PrevPage.Permalink }}">« Last Post</a>
+        {{ else }}
+        <a class="link-reverse" href="#" style="pointer-events: none; color: gray; text-decoration: none; border: none;">« Last Post</a>
+        {{ end }}
+    </div>
+    <div class="email-btn">
+        <a class='btn btn-lg btn-outline-light ankle-btn' href="mailto:{{ .Site.Author.email }}?subject=Re: {{ .Title }}">Reply via email</a> 
+    </div>
+    <div class="next-post">
+        {{ if .NextInSection }}
+        <a class="link-reverse" href="{{ .NextPage.Permalink }}">Next Post »</a>
+        {{ else }}
+        <a class="link-reverse" href="#" style="pointer-events: none; color: gray; text-decoration: none; border: none;">Next Post »</a>
+        {{ end }}
+    </div>
 </div>

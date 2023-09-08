@@ -8974,34 +8974,34 @@ a.text-dark:hover, a.text-dark:focus {
 }
 /*# sourceMappingURL=bootstrap.css.map *//* Fall Color Pallette: https://coolors.co/312229-54101d-47596f-b18653-d5c5ae */
 
-/* Original Theme: */
+/* Normal Theme: */
 /* :root {
-    --primary-accent-color: #72bf8c;
-    --dark-bg: #222222;
-    --title-bg: #2d2d2d;
-    --code-bg: #4d4d4d;
-    --title-text: #efefef;
-    --light-contrast: #efefef;
+    --primary-accent-color: #8CC92D;
+    --dark-bg: #111013;
+    --title-bg: #111013;
+    --code-bg: #111013;
+    --title-text: #F5EFDF;
+    --light-contrast: #F5EFDF;
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
     --custom-border-radius: 4px;
-}  */
+    --font-primary: Verdana,system-ui,sans-serif;
+} */
 
 /* Fall Theme */
 :root {
     --primary-accent-color: #D5C5AE;
     --dark-bg: #3D0C02;
     --title-bg: #D5C5AE;
-    --code-bg: #B18653;
-    /* --title-text: #54101D; */
+    --code-bg: #333333;
     --title-text: #3D0C02;
-    /* --light-contrast: #efefef; */
     --light-contrast: #f2eee7;
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
     --custom-border-radius: 4px;
     --font-primary: ui-serif,Palatino,"Palatino Linotype","Times New Roman",serif;
 }
+
 body {
     font-size: 1.25rem;
     /* font-size: 18px; */
@@ -9108,7 +9108,6 @@ img {
     margin-bottom: 0.25rem;
 }
 code {
-    background-color: var(--code-bg);
     border-radius: 4px;
     font-size: 0.875em;
     word-wrap: break-word;
@@ -9127,7 +9126,6 @@ code {
 }
 .ankle-btn {
     margin-top: 1.5rem;
-    /* font-weight: bold; */
     box-shadow: 3px 4px var(--light-contrast);
 }
 .ankle-btn:hover {
@@ -9218,6 +9216,37 @@ input {
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .email-sub {
-      width: 100%;
+        width: 100%;
     }
-  }
+}
+
+/* Next-Prev Post */
+.flex-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: .5rem;
+    margin-bottom: 1rem;
+}
+
+.previous-post { 
+    order: 1;
+}
+
+.email-btn {
+    order: 2;
+    flex: 2;
+    display: flex;
+    justify-content: center;
+}
+.next-post { 
+    order: 3;
+}
+
+.disabled {
+    pointer-events: none; 
+    color: gray; 
+    text-decoration: none; 
+    border: none;
+}

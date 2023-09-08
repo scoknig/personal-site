@@ -14,8 +14,6 @@ paginate = 5
 [build]
   writeStats = true
 
-# See https://feathericons.com/
-# The value of pre is the icon name
 [menu]
   [[menu.main]]
     name = "Home"
@@ -32,9 +30,9 @@ paginate = 5
 
 [params]
     dateFormat = "Jan 2, 2006"
-    accentColorPrimary = "#72bf8c"
-    linkColor = "#bf727c"
-    # homeText = "Test content"
 
 [taxonomies]
   tag = "tags"
+
+pygmentsCodefences = true
+pygmentsStyle = "solarized-light"
