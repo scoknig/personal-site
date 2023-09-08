@@ -17,10 +17,10 @@
 /* Fall Theme */
 :root {
     --primary-accent-color: #D5C5AE;
-    --dark-bg: #1A120B;
+    --dark-bg: #2b1e12;
     --title-bg: #D5C5AE;
     --code-bg: #333333;
-    --title-text: #1A120B;
+    --title-text:#2b1e12;
     --light-contrast: #f2eee7;
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
