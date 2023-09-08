@@ -244,6 +244,10 @@ input {
     .email-sub {
         width: 100%;
     }
+
+    .next-post, .previous-post {
+        display: none;
+    }
 }
 
 /* Next-Prev Post */
