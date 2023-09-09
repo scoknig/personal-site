@@ -10,6 +10,8 @@
       "del",
       "div",
       "em",
+      "figcaption",
+      "figure",
       "footer",
       "form\n",
       "h1",

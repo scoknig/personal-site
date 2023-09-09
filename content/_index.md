@@ -7,7 +7,7 @@ draft: false
 
 Hi there. I'm a Data Automation Engineer in South Louisiana who enjoys tech, open data, cycling, and exploring outdoors.
 
-Having written loads of complex software for clients through the years as a software & data engineer, I've come to enjoy keeping things simple and easy when it comes to my own projects. This site is a testament to that practice.
+Having written loads of complex software for clients through the years, I've come to enjoy keeping things simple and easy when it comes to my own projects. This site is a testament to that practice.
 
 ## Work
 
