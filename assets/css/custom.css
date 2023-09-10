@@ -10,6 +10,7 @@
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
     --custom-border-radius: 4px;
+    --custom-border-width: 2px;
     --font-primary: Futura,Verdana,system-ui,sans-serif;
 } */
 
@@ -308,3 +309,12 @@ img {
     border-bottom-left-radius: var(--custom-border-radius);
     border-bottom-right-radius: var(--custom-border-radius);
   }
+
+  /* table */
+table td,
+table th
+{
+  border: var(--custom-border-width) var(--custom-border-style) var(--light-contrast) !important;
+  background-color: var(--dark-bg);
+  color: var(--light-contrast);
+}

@@ -10,8 +10,6 @@
       "del",
       "div",
       "em",
-      "figcaption",
-      "figure",
       "footer",
       "form\n",
       "h1",
@@ -33,8 +31,14 @@
       "script",
       "span",
       "strong",
+      "table",
+      "tbody",
+      "td",
+      "th",
+      "thead",
       "time",
       "title",
+      "tr",
       "ul"
     ],
     "classes": [
@@ -75,6 +79,10 @@
       "page-link",
       "pagination",
       "previous-post",
+      "table",
+      "table-bordered",
+      "table-dark",
+      "table-striped",
       "tag-btn"
     ],
     "ids": [
