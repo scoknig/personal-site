@@ -7,16 +7,36 @@ toc: false
 draft: false
 ---
 
+## Personal
+
 Here's a few things I'm currently working on:
 
 - [This website](/tools/)
 
-- [Building my home lab](/linux-poll/) to experiment with new (to me) tech
+- [Building my home lab](/linux-poll/) to experiment with new tech
 
 - Learning [CircuitPython](https://circuitpython.org/) to program microcontrollers and build cool electronics projects
 
-- [Using data](http://www.markwk.com/data-analysis-for-apple-health.html) to systematically improve my nutrition and activity habits
+- [Using data](http://www.markwk.com/data-analysis-for-apple-health.html) to improve my nutrition and activity habits
 
 - [Digitizing and preserving old media](https://knightlab.film/) like 8mm film, VHS tapes, film negatives/positives, etc.
 
-- Apps and various things through [KnightLab](https://knightlab.co)
+## For Clients
+
+A few of the website projects I've built for my [KnightLab](https://knightlab.co/) clients:
+
+- [Breastfeeding Solutions, L.L.C.](https://breastfeedingsolutionsllc.com/)
+
+- [Denham Patty](https://www.denhampatty.com/)*
+
+- [Denham Springs Masonic Lodge #297](https://dsmasoniclodge.com/)
+
+- [Louisiana College, S.R.I.C.F.](https://lasricf.org/)
+
+- [Priority One Safety, L.L.C.](https://priorityonesafetyllc.com/)*
+
+- [St. Francis Episcopal Church](https://stfrands.org)*
+
+- [Valley of Baton Rouge, A.A.S.R.](https://valleyofbatonrouge.org/)
+
+\* *Currently maintained by client.*
