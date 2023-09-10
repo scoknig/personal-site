@@ -2,10 +2,11 @@
 
 /* Normal Theme: */
 /* :root {
-    --primary-accent-color: #FACE34; /* Volt Green #CEFF00
-    --dark-bg: #111013;
-    --title-bg: #111013;
-    --title-text: #F5EFDF;
+    /* Darker Palette: Black #111013 | Soft Yellow #F5EFDF | Accent Yellow #FACE34 */
+    /* --primary-accent-color: #CEFF00; /* Volt Green
+    --dark-bg: #162936; /* Cyan Blue
+    --title-bg: #162936;
+    --title-text: #F5EFDF; /* Soft Yellow
     --light-contrast: #F5EFDF;
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;

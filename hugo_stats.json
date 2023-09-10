@@ -1,7 +1,6 @@
 {
   "htmlElements": {
     "tags": [
-      "!doctype",
       "a",
       "blockquote",
       "body",
@@ -11,7 +10,7 @@
       "div",
       "em",
       "footer",
-      "form\n",
+      "form",
       "h1",
       "h2",
       "h3",
@@ -22,7 +21,6 @@
       "label",
       "li",
       "link",
-      "link\n",
       "main",
       "meta",
       "nav",
@@ -31,14 +29,8 @@
       "script",
       "span",
       "strong",
-      "table",
-      "tbody",
-      "td",
-      "th",
-      "thead",
       "time",
       "title",
-      "tr",
       "ul"
     ],
     "classes": [
@@ -79,10 +71,6 @@
       "page-link",
       "pagination",
       "previous-post",
-      "table",
-      "table-bordered",
-      "table-dark",
-      "table-striped",
       "tag-btn"
     ],
     "ids": [
@@ -97,7 +85,7 @@
       "contact",
       "current-perspective",
       "data-collection",
-      "email-hahahugoshortcode-s0-hbhbmailtohahahugoshortcode-s1-hbhb",
+      "email-hahahugoshortcode4s0hbhbmailtohahahugoshortcode4s1hbhb",
       "existential-crisis",
       "f-feeling",
       "how-can-companies-transition",
