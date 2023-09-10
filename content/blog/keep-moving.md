@@ -2,7 +2,7 @@
 title: "Keep Moving"
 date: 2023-09-10T13:41:24-05:00
 tags: [life]
-summary: 
+summary: A quick fitness update.
 toc: false
 draft: false
 ---
