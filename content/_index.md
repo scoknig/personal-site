@@ -5,7 +5,7 @@ toc: false
 draft: false
 ---
 
-Hi there. I'm a Data Automation Engineer in South Louisiana who enjoys tech, open data, cycling, and exploring outdoors.
+Hi there. I'm a Data Automation Engineer in South Louisiana who enjoys open data, cycling, and exploring outdoors.
 
 Having written loads of complex software for clients through the years, I've come to enjoy keeping things simple and easy when it comes to my own projects. This site is a testament to that practice.
 
@@ -19,11 +19,13 @@ I have a B.S. in Computer Science from Southeastern Louisiana University and an 
 
 ## Blog
 
-In the [blog](/blog/) you'll find an ever-growing collection of my thoughts, things I've learned, and interesting nuggets I find. Here are several of my most recent posts:
+In the [blog](/blog/) you'll find an ever-growing collection of my thoughts, things I've learned, and interesting nuggets I find. 
+
+Here are several of my most recent posts:
 
 {{< recents >}}
 
-If you use an RSS reader ([a what?](https://aboutfeeds.com/)), here's the [blog's RSS feed](/blog/index.xml).
+If you [use an RSS reader](https://aboutfeeds.com/), here's the [blog's RSS feed](/blog/index.xml).
 
 Feel free to have a look around, you might find something interesting.
 
@@ -35,12 +37,14 @@ I'm also on {{< mastodon >}}.
 
 ## Links
 
-- [Current Projects](/projects/)
-
 - [Blogroll](/blogroll/)
 
-- [Uses](/tools/)
+- [Current Projects](/projects/)
+
+- [Design Archive](/design-archive/)
+
+- [Disclaimer](/disclaimer/)
 
 - [Inspiration for This Site](/inspiration/)
 
-- [Disclaimer](/disclaimer/)
+- [Uses](/tools/)

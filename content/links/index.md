@@ -7,10 +7,14 @@ toc: false
 draft: false
 ---
 
+- [Blogroll](/blogroll/)
+
 - [Current Projects](/projects/)
 
-- [Tools I Use for This Site](/tools/)
+- [Design Archive](/design-archive/)
+
+- [Disclaimer](/disclaimer/)
 
 - [Inspiration for This Site](/inspiration/)
 
-- [Disclaimer](/disclaimer/)
+- [Uses](/tools/)
