@@ -35,7 +35,9 @@ A few of the website projects I've built for my [KnightLab](https://knightlab.co
 
 - [Priority One Safety, L.L.C.](https://priorityonesafetyllc.com/)*
 
-- [St. Francis Episcopal Church](https://stfrands.org)*
+- [St. Francis Episcopal Church](https://stfrands.org/)*
+
+- [Taylor Nauta Music](https://taylornautamusic.com/)
 
 - [Valley of Baton Rouge, A.A.S.R.](https://valleyofbatonrouge.org/)
 
