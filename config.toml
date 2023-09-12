@@ -30,9 +30,12 @@ paginate = 5
 
 [params]
     dateFormat = "Jan 2, 2006"
+    description = "Scott Knight's place on the web where he writes about tech, business, life, and anything else he finds interesting or useful."
 
 [taxonomies]
   tag = "tags"
 
 pygmentsCodefences = true
 pygmentsStyle = "solarized-light"
+
+enableRobotsTXT = true

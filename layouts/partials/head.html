@@ -29,9 +29,21 @@
   <title>{{ $title }}</title>
   {{ partial "style.html" . }}
 
+  {{- if .IsHome -}}
+    <meta name="description" content="{{ site.Params.description }}" />
+  {{- else -}}
+    <meta name="description" content="{{ .Params.Summary }}" />
+  {{- end }}
+
   {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
+
+  {{- if isset .Params "canonical" -}}
+    <link rel="canonical" href="{{ .Params.canonical }}" />
+  {{- else -}}
+    <link rel="canonical" href="{{ .Permalink }}" />
+  {{- end }}
 
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
