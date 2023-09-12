@@ -6,7 +6,7 @@ paginate = 5
 
 [author]
   name = "Scott Knight"
-  email = "f93@knight.mba"
+  email = "www@knight.mba"
 
 [permalinks]
     blog = "/:filename"

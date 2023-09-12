@@ -13,6 +13,4 @@ Email is the easiest way to reach me. I usually respond fairly quickly.
 
 &nbsp;
 
-__Please note:__ This is a randomly generated email that I change regularly to prevent spam. My reply will come from my actual email address so we can continue the conversation.
-
-*(Via [Kev Quirk](https://kevquirk.com/ban-the-spam/))*
+__Please note:__ The email above is subject to change from time to time; just another layer of protection from spam. I'll reply from my actual email address so we can continue the conversation.
