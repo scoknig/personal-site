@@ -8975,12 +8975,13 @@ a.text-dark:hover, a.text-dark:focus {
 /*# sourceMappingURL=bootstrap.css.map *//* Fall Color Pallette: https://coolors.co/312229-54101d-47596f-b18653-d5c5ae */
 
 /* Normal Theme: */
+  /* Darker Palette: Black #111013 | Soft Yellow #F5EFDF | Accent Yellow #FACE34 */
+  /* Current: Cyan Blue #162936 | Soft Yellow #F5EFDF | Nike Volt Green #CEFF00 */
 /* :root {
-    /* Darker Palette: Black #111013 | Soft Yellow #F5EFDF | Accent Yellow #FACE34 */
-    /* --primary-accent-color: #CEFF00; /* Volt Green
-    --dark-bg: #162936; /* Cyan Blue
+    --primary-accent-color: #CEFF00;
+    --dark-bg: #162936;
     --title-bg: #162936;
-    --title-text: #F5EFDF; /* Soft Yellow
+    --title-text: #F5EFDF;
     --light-contrast: #F5EFDF;
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
