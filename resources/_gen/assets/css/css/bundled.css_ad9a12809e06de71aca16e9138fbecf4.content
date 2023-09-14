@@ -9056,9 +9056,6 @@ body {
 .btn:hover {
     color: var(--dark-bg) !important;
 }
-img {
-  max-width: 100%;
-}
 .btn {
     text-decoration: none;
 }
@@ -9268,11 +9265,12 @@ input {
 img {
     max-width: 100%;
     height: auto;
-  }
+}
   
-  /* figure */
-  
-  figure {
+/* figure */
+
+figure {
+    width: auto;
     margin-top: 0;
     margin-left: 0;
     margin-right: 0;
@@ -9280,15 +9278,15 @@ img {
     border-width: var(--custom-border-width);
     border-style: var(--custom-border-style);
     border-radius: var(--custom-border-radius);
-  }
-  
-  figcaption {
+}
+
+figcaption {
     padding: 1rem;
     border-top-width: var(--custom-border-width);
     border-top-style: var(--custom-border-style);
     border-bottom-left-radius: var(--custom-border-radius);
     border-bottom-right-radius: var(--custom-border-radius);
-  }
+}
 
 /* table */
 
@@ -9297,7 +9295,7 @@ table{
     width: 100%;
     border-collapse: collapse;
     font-family: Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace;
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     border-bottom: 1px solid var(--light-contrast);
 }
 
@@ -9321,4 +9319,4 @@ table tbody td,table tbody th{
     padding: .5rem 1rem;
 }
 
-table td[colspan]{ border:0; }[scope="rowgroup"] {background: var(--light-contrast);} table :last-child{ margin-bottom:0;}
+table td[colspan]{ border:0; }[scope="rowgroup"] {background: var(--light-contrast);} table :last-child{ margin-bottom: 0; }
