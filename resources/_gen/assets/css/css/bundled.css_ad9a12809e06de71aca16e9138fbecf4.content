@@ -8987,6 +8987,7 @@ a.text-dark:hover, a.text-dark:focus {
     --custom-border-style: solid;
     --custom-border-radius: 4px;
     --custom-border-width: 2px;
+    --custom-link-style: solid;
     --font-primary: Futura,Verdana,system-ui,sans-serif;
 } */
 
@@ -9000,6 +9001,7 @@ a.text-dark:hover, a.text-dark:focus {
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
     --custom-border-radius: 4px;
+    --custom-link-style: solid;
     --font-primary: ui-serif,Palatino,"Palatino Linotype","Times New Roman",serif;
     --custom-border-width: 2px;
     --custom-border-style: solid;
@@ -9014,14 +9016,14 @@ body {
     color: var(--light-contrast);
     background-color: var(--dark-bg);
 }
-.container a, a:visited {
+.container a, a:visited:not(.btn):not(.page-link) {
     color: var(--light-contrast);
-    border-bottom: 2px solid var(--light-contrast);
+    border-bottom: 0.125em var(--custom-link-style) var(--light-contrast);
     text-decoration: none;
 }
-.container a:hover {
+.container a:hover:not(.btn):not(.page-link) {
     color: var(--primary-accent-color);
-    border-bottom: 2px solid var(--primary-accent-color);
+    border-bottom: 0.125em solid var(--primary-accent-color);
 }
 .container {
   max-width: 600px;
@@ -9168,10 +9170,12 @@ h2 {
 .page-item a {
     text-decoration: none;
     background-color: var(--dark-bg);
+    color: var(--light-contrast);
 }
 
 .page-link:hover {
     color: var(--dark-bg) !important;
+    background-color: var(--light-contrast);
 }
 
 .disabled {
@@ -9286,11 +9290,35 @@ img {
     border-bottom-right-radius: var(--custom-border-radius);
   }
 
-  /* table */
-table td,
-table th
-{
-  border: var(--custom-border-width) var(--custom-border-style) var(--light-contrast) !important;
-  background-color: var(--dark-bg);
-  color: var(--light-contrast);
+/* table */
+
+table{
+    font-size: .75em;
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace;
+    margin-bottom: 3rem;
+    border-bottom: 1px solid var(--light-contrast);
 }
+
+table th{
+    text-align: left;
+    white-space: nowrap;
+    font-weight: normal;
+}
+
+table thead th {
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    border-bottom: 2px solid var(--light-contrast);
+    padding: .5rem 1rem;
+}
+
+table tbody td,table tbody th{
+    vertical-align: top;
+    border: 0;
+    border-top: 1px solid var(--light-contrast);
+    padding: .5rem 1rem;
+}
+
+table td[colspan]{ border:0; }[scope="rowgroup"] {background: var(--light-contrast);} table :last-child{ margin-bottom:0;}
