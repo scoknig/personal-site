@@ -25,20 +25,12 @@ Here's a few things I'm currently working on:
 
 A few of the website projects I've built for my [KnightLab](https://knightlab.co/) clients:
 
-- [Breastfeeding Solutions, L.L.C.](https://breastfeedingsolutionsllc.com/)
-
 - [Denham Patty](https://www.denhampatty.com/)*
 
 - [Denham Springs Masonic Lodge #297](https://dsmasoniclodge.com/)
 
 - [Louisiana College, S.R.I.C.F.](https://lasricf.org/)
 
-- [Priority One Safety, L.L.C.](https://priorityonesafetyllc.com/)*
-
-- [St. Francis Episcopal Church](https://stfrands.org/)*
-
 - [Taylor Nauta Music](https://taylornautamusic.com/)
 
 - [Valley of Baton Rouge, A.A.S.R.](https://valleyofbatonrouge.org/)
-
-\* *Currently maintained by client.*
