@@ -2,6 +2,21 @@
   <div class="container">
     {{ partial "toc.html" . }}
     {{ .Content }}
+
+      {{ range ( where .Site.RegularPages "Type" "blog" | first 7 ) }}
+        <div class="custom-card">
+          <a class="font-125 breathing-room" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <br>
+          <div class="breathing-room custom-summary">{{ .Summary }}</div>
+          <br>
+          {{ partial "date-and-tags.html" . }}
+        </div>
+      {{ end }}
+
+    <div class="email-btn">
+      <a class='btn btn-lg btn-outline-light ankle-btn' href="/blog/">Read more</a> 
+    </div>
+
     {{ partial "footer.html" . }}
   </div>
 {{ end }}

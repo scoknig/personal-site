@@ -7,7 +7,13 @@ toc: false
 draft: false
 ---
 
+- [About](/about/)
+
+- [Blog Posts](/blog/)
+
 - [Blogroll](/blogroll/)
+
+- [Contact](/contact/)
 
 - [Current Projects](/projects/)
 

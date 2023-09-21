@@ -1,11 +1,14 @@
 ---
 title: "A Matter of Structural Preference"
 date: 2023-09-18T16:48:47-05:00
+modified: 2023-09-21
 tags: [meta]
 summary: Of all the ways to organize a personal blog, which is best?
 toc: false
 draft: false
 ---
+
+*Update: After some polling, I decided to make these changes. Also added a Links page to the main navigation with a sitemap.*
 
 I whipped up this site a while back with a few main goals in mind:
 
