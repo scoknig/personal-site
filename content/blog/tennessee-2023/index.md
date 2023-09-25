@@ -13,9 +13,9 @@ For years, a favorite vacation spot of our family has been Tennessee. Yesterday 
 
 I discovered Tracy City back in 2020 through a cabin I rented through AirBnb for another weekend getaway. I enjoyed it so much the first time that we decided to reserve another cabin on the property for this trip. 
 
-Tracy City is a quiet little mountain town that was founded after a few local boys discovere coal while digging around after a groundhog. It has an interesting history and once even [elected a dead man as its mayor](https://en.wikipedia.org/wiki/Tracy_City,_Tennessee#Government).
+Tracy City is a quiet little mountain town that was founded after a few local boys discovered coal while digging around after a groundhog. It has an interesting history and once even [elected a dead man as its mayor](https://en.wikipedia.org/wiki/Tracy_City,_Tennessee#Government).
 
-Of the seven venues offered at [The Falls at Sewanee Creek](https://tnwaterfallgetaway.com/), we stayed in the [Log Cabin](https://tnwaterfallgetaway.com/log-cabin). The rental cabin sits on a sprawling and abundant landscape of about forty five acres, complete with it's own nature trails, overlook, creek, and its focal point---a *private waterfall*. 
+Of the seven venues offered at [The Falls at Sewanee Creek](https://tnwaterfallgetaway.com/), we stayed in the [Log Cabin](https://tnwaterfallgetaway.com/log-cabin). The rental cabin sits on a sprawling and abundant landscape of about forty five acres, complete with its own nature trails, overlook, creek, and its focal point---a *private waterfall*. 
 
 If you want a scenic and unique stay in south-central Tennessee, look no further. The hosts, Grant and Becky, will make sure you have everything you need (including a private tour of the grounds and welding lessons).
 
@@ -27,7 +27,7 @@ options="600x" >}}
 
 {{< figure
 img="autos.jpg"
-caption="Some cool vehicles on the property with some serious Jurassic Park vibes."
+caption="Some cool vehicles on the property with serious Jurassic Park vibes."
 command="Resize"
 options="600x" >}}
 
@@ -65,7 +65,7 @@ options="600x" >}}
 
 {{< figure
 img="jd_firetrucks.jpg"
-caption="Jack Daniel's has its own fire brigade."
+caption="The J.D. distillery has its own fire brigade."
 command="Resize"
 options="600x" >}}
 
