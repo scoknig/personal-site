@@ -14,7 +14,7 @@
     --custom-border-radius: 4px;
     --custom-border-width: 2px;
     --custom-link-style: solid;
-    --font-primary: Futura,Verdana,system-ui,sans-serif;
+    --font-primary: system-ui, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 } */
 
 /* Fall Theme */
@@ -28,7 +28,7 @@
     --custom-border-style: solid;
     --custom-border-radius: 4px;
     --custom-link-style: solid;
-    --font-primary: ui-serif,Palatino,"Palatino Linotype","Times New Roman",serif;
+    --font-primary: Palatino,"Palatino Linotype","Times New Roman",serif;
     --custom-border-width: 2px;
     --custom-border-style: solid;
 }
@@ -135,13 +135,58 @@ body {
 .breathing-room {
     margin-bottom: 0.25rem;
 }
-code {
-    border-radius: 4px;
+/* code {
+    border-radius: var(--custom-border-radius);
     font-size: 0.875em;
     word-wrap: break-word;
     padding: 0.2em 0.4em;
     color: inherit;
+    background-color: rgb(0,0,0,0.5);
+} */
+
+/* code */
+
+pre,
+code {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: var(--custom-border-radius);
 }
+
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  overflow: auto;
+  font-size: 0.875em;
+}
+
+pre,
+pre code {
+  word-wrap: normal;
+}
+
+pre code {
+  font-size: inherit;
+  word-break: normal;
+  padding: 0;
+  color: inherit;
+  background-color: transparent;
+  border: none;
+}
+
+code {
+  font-size: 0.875em;
+  word-wrap: break-word;
+  padding: 0.2em 0.4em;
+  color: inherit;
+}
+
+a>code {
+  color: inherit;
+}
+
+
 .ankle-border {
     border-top: 2px solid var(--light-contrast);
     justify-content: center;

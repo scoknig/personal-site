@@ -35,7 +35,12 @@ paginate = 5
 [taxonomies]
   tag = "tags"
 
+pygmentsUseClasses = false
 pygmentsCodefences = true
-pygmentsStyle = "solarized-light"
+
+[markup.highlight]
+  codeFences = true
+  noClasses = true
+  style = "solarized-light"
 
 enableRobotsTXT = true
