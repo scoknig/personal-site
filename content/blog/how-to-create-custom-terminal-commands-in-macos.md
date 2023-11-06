@@ -2,7 +2,7 @@
 title: "How to Create Custom Terminal Commands in MacOS"
 date: 2023-11-06T16:30:27-06:00
 tags: [tech]
-summary: 
+summary: Making automation easier with custom commands on MacOS.
 toc: false
 draft: false
 ---
