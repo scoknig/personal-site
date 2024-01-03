@@ -1,9 +1,9 @@
 /* Fall Color Pallette: https://coolors.co/312229-54101d-47596f-b18653-d5c5ae */
 
 /* Normal Theme: */
-  /* Darker Palette: Black #111013 | Soft Yellow #F5EFDF | Accent Yellow #FACE34 */
-  /* Current: Cyan Blue #162936 | Soft Yellow #F5EFDF | Nike Volt Green #CEFF00 */
-/* :root {
+  /* Darker Palette: Black #111013 | Soft Yellow #F5EFDF | Accent Yellow #FACE34 | Alt: Softer Yellow #FBE094 */
+  /* Current: Cyan Blue #162936 | Soft Yellow #F5EFDF | Nike Volt Green #CEFF00 | Alt: Bright Green #8CC92D */
+:root {
     --primary-accent-color: #CEFF00;
     --dark-bg: #162936;
     --title-bg: #162936;
@@ -15,10 +15,10 @@
     --custom-border-width: 2px;
     --custom-link-style: solid;
     --font-primary: system-ui, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-} */
+}
 
-/* Fall Theme */
-:root {
+/* Library Theme */
+/* :root {
     --primary-accent-color: #D5C5AE;
     --dark-bg: #2B100D;
     --title-bg: #D5C5AE;
@@ -31,7 +31,7 @@
     --font-primary: Palatino,"Palatino Linotype","Times New Roman",serif;
     --custom-border-width: 2px;
     --custom-border-style: solid;
-}
+} */
 
 body {
     font-size: 1.2rem;
