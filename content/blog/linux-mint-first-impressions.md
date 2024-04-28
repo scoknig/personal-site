@@ -1,7 +1,7 @@
 ---
 title: "A Week with Linux Mint"
 date: 2023-07-14T15:31:48-05:00
-tags: [tech]
+tags: [tech, homelab]
 summary: A few of my first impressions.
 toc: false
 draft: false

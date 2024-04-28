@@ -1,7 +1,7 @@
 ---
 title: "Using Data to Choose a Linux Distro"
 date: 2023-07-07T16:51:29-05:00
-tags: [data, tech]
+tags: [data, tech, homelab]
 summary: An interesting data exercise I ran with with the Mastodon community.
 toc: false
 draft: false

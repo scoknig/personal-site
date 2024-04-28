@@ -1,7 +1,7 @@
 ---
 title: "Personal Automations"
 date: 2023-10-25T07:36:43-05:00
-tags: [life, data]
+tags: [life, tech, homelab]
 summary: How I automate some of the boring/tedious stuff in life.
 toc: false
 draft: false
