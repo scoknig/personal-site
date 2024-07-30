@@ -1,19 +1,1517 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Scott Knight</title>
-    <link>http://example.org/blog/</link>
-    <description>Recent content in Blog on Scott Knight</description>
+    <title>Scott Knight's Blog</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content from Scott Knight</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jun 2023 17:36:42 -0500</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>"en-us"</language>
+    <managingEditor>Scott Knight</managingEditor>
+    <webMaster>Scott Knight</webMaster>
+    <copyright>2023 Scott Knight All rights reserved</copyright>
+    <lastBuildDate>Sat, 27 Apr 2024 09:00:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homelab Update</title>
+      <link>http://localhost:1313/homelab-update/</link>
+      <pubDate>Sat, 27 Apr 2024 09:00:28 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/homelab-update/</guid>
+      <description>&lt;p&gt;Some time last year I wrote about using a cheap &lt;a href=&#34;https://www.stacksocial.com/sales/lenovo-thinkcentre-m900-tiny-core-i5-6500t-16gb-256gb-ssd-wi-fi-windows-10-pro-refurbished&#34;&gt;Lenovo Thinkcentre&lt;/a&gt; I bought as a lab machine to run my &lt;a href=&#34;https://www.reddit.com/r/homelab/wiki/introduction/&#34;&gt;homelab&lt;/a&gt; server. Initially I used it to &lt;a href=&#34;http://localhost:1313/linux-poll/&#34;&gt;try out a new (to me) Linux distro&lt;/a&gt;, which I installed straight onto the machine. I enjoyed test driving it, but it never replaced my primary system.&lt;/p&gt;
+&lt;p&gt;So, this week I decided to repurpose the ThinkCentre as a general lab server to locally host open-source applications and dust off some of my brain&amp;rsquo;s cobwebs around server configs and networking.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/olUD_F37n0E?si=zmN2r9tcmL9jTKta&#34;&gt;This YouTube video from TechHut&lt;/a&gt; provides a really easy way to get set up if you&amp;rsquo;re interested in doing something similar.&lt;/p&gt;
+&lt;p&gt;For now I&amp;rsquo;m running &lt;a href=&#34;https://ubuntu.com/download/server&#34;&gt;Ubuntu Server LTS&lt;/a&gt; with &lt;a href=&#34;https://www.docker.com&#34;&gt;Docker&lt;/a&gt; and &lt;a href=&#34;https://www.portainer.io/&#34;&gt;Portainer&lt;/a&gt; for container management.&lt;/p&gt;
+&lt;p&gt;On top of this, I installed &lt;a href=&#34;https://cosmos-cloud.io/&#34;&gt;Cosmos&lt;/a&gt; as a dashboard which looks nice and has a really decent OOTB feature set. So far, I dig it.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/homelab-update/cosmos.png&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/homelab-update/cosmos_hu431f369f8b7299a19622cd0c885f5d3a_195258_600x0_resize_box_3.png&#34; width=&#34;600&#34; height=&#34;314&#34; alt=&#34;A tiny view of the Cosmos dashboard. The default color scheme reminds me of Mardi Gras.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      A tiny view of the Cosmos dashboard. The default color scheme reminds me of Mardi Gras.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;Future plans include trying out some new apps (&lt;em&gt;this sure beats more software subscriptions&lt;/em&gt;) and adding a &lt;a href=&#34;https://www.howtogeek.com/742893/what-is-a-nas/&#34;&gt;NAS&lt;/a&gt; to the lab, so if you have any recommendations send me an email reply using the button below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>6-to-1 Grocery Method</title>
+      <link>http://localhost:1313/6-to-1-grocery-method/</link>
+      <pubDate>Fri, 19 Apr 2024 12:43:55 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/6-to-1-grocery-method/</guid>
+      <description>&lt;p&gt;While settling into my new home I&amp;rsquo;ve had to get back in the swing of grocery shopping and proper meal planning. And if there&amp;rsquo;s one thing I&amp;rsquo;ve noticed, it&amp;rsquo;s that it can be incredibly easy to get carried away at the grocery store and let the bill get out of hand.&lt;/p&gt;
+&lt;p&gt;I recently came across a social media post (sorry, I don&amp;rsquo;t remember the exact source to credit) outlining a method for grocery shopping I really like that helps prevent overspending while prioritize healthier ingredients, which is a win-win in my book. It&amp;rsquo;s called the &amp;ldquo;6-to-1&amp;rdquo; method, which essentially goes as follows.&lt;/p&gt;
+&lt;p&gt;When you&amp;rsquo;re grocery shopping, challenge yourself to stick to buying:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6 vegetables&lt;/li&gt;
+&lt;li&gt;5 fruits&lt;/li&gt;
+&lt;li&gt;4 proteins&lt;/li&gt;
+&lt;li&gt;3 starches&lt;/li&gt;
+&lt;li&gt;2 sauces&lt;/li&gt;
+&lt;li&gt;1 treat/snack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I like this because it&amp;rsquo;s simple, easy to remember, and should leave you stocked up for the week with a healthy selection of meal options. Plus, it offers flexibility since there aren&amp;rsquo;t specific quantities or items given for the categories.&lt;/p&gt;
+&lt;p&gt;Try it out and save yourself some dough :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keeping Analog Alive</title>
+      <link>http://localhost:1313/keeping-analog-alive/</link>
+      <pubDate>Wed, 17 Apr 2024 15:28:21 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/keeping-analog-alive/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve written here about my career in the software industry, but I&amp;rsquo;m also a big fan of analog technology. Digital stuff can be fun, but once you&amp;rsquo;re ingrained in the tech world for so long and understand how it all (or, at least, most of it) works, it can lose a bit of its magic. For that reason I&amp;rsquo;ve always been drawn to the machines and devices of yesteryear.&lt;/p&gt;
+&lt;p&gt;One way I express that interest is through my collection of vintage and antique typewriters. I have a handful of them which I&amp;rsquo;ve picked up and restored to working condition over the years. I use them for all sorts of things like recording recipes, notes, letters, greeting cards; the uses are endless. The tactile action and sound of the clacking keys as you type makes using them fun, while simultaneously allowing you to slow down, think, and appreciate the process of writing.&lt;/p&gt;
+&lt;p&gt;A greatly helpful resource I&amp;rsquo;ve used to clean, restore, and maintain my typewriters is &lt;a href=&#34;https://www.youtube.com/@Joe_VanCleave&#34;&gt;Joe Van Cleave&amp;rsquo;s YouTube channel&lt;/a&gt;. Joe&amp;rsquo;s been making videos on vintage and analog tech since the 1980&amp;rsquo;s and has &lt;em&gt;hundreds&lt;/em&gt; of videos on just about anything to do with writing, typewriters (their usage, maintenance, collecting), and camera systems. Unfortunately, the number of people knowledgable about these machines is dwindling and it is increasingly hard to find good resources on restoring them. Thankfully, however, there are still folks like Joe who are doing their best to pass their knowledge along.&lt;/p&gt;
+&lt;p&gt;I admire Joe&amp;rsquo;s consistency in creating useful content around something he&amp;rsquo;s passionate about, and his bona fide wealth of knowledge shines throughout each video he posts. If you&amp;rsquo;re into vintage/antique writing technology or just want to learn something interesting, check out Joe&amp;rsquo;s videos.&lt;/p&gt;
+&lt;p&gt;Joe&amp;rsquo;s Channel: &lt;a href=&#34;https://www.youtube.com/@Joe_VanCleave&#34;&gt;https://www.youtube.com/@Joe_VanCleave&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. It&amp;rsquo;s been a busy couple of months so I haven&amp;rsquo;t been posting as regularly. I&amp;rsquo;m hoping to get back to posting more frequently soon. &lt;em&gt;C&amp;rsquo;est la vie.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsubscribing from New Homeowner Scams</title>
+      <link>http://localhost:1313/new-homeowner-scams/</link>
+      <pubDate>Sun, 25 Feb 2024 10:13:24 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/new-homeowner-scams/</guid>
+      <description>&lt;p&gt;I recently wrote here about buying my new home. Since then, the experience has been slightly soured from a never-ending onslaught of predatory junk mail and door-knocking salespeople trying to swindle me into signing up for products or services I neither need nor want, targeting me as a new homeowner.&lt;/p&gt;
+&lt;p&gt;Many of them use fear-mongering tactics disguised as helpful advice, from mortgage warranty companies warning of natural disasters or my own death to security system salespeople making up stories about a &amp;ldquo;recent string of burglaries in my neighborhood&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s worse, these exploitative and predatory practices are &lt;em&gt;completely legal&lt;/em&gt;. My information was sold, traded, and exploited to bring these scammers right to my doorstep, which is at once unsettling and infuriating.&lt;/p&gt;
+&lt;p&gt;Already settling into a new mortgage, renovations/repairs, and unforeseen expenses, the last thing new homeowners need is predatory companies adding to the pressure.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re experiencing something similar, stay informed and don&amp;rsquo;t fall for it.&lt;/p&gt;
+&lt;p&gt;Here are some resources to protect yourself:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://consumer.ftc.gov/&#34;&gt;Federal Trade Commission (FTC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.consumerfinance.gov/&#34;&gt;Consumer Financial Protection Bureau (CFPB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://optoutprescreen.com/&#34;&gt;OptOutPrescreen.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First One Down</title>
+      <link>http://localhost:1313/first-one-down/</link>
+      <pubDate>Sat, 17 Feb 2024 12:08:11 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/first-one-down/</guid>
+      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m particularly proud of this accomplishment. I&amp;rsquo;ve worked tirelessly toward this and have cultivated a wealth of financial discipline to make this happen. It has definitely been a learning process, but I enjoyed the challenge and look forward to taking the next step in my investing career soon.&lt;/p&gt;
+&lt;p&gt;Now to press on with the rest of the list!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ozymandias</title>
+      <link>http://localhost:1313/ozymandias/</link>
+      <pubDate>Fri, 05 Jan 2024 13:29:46 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/ozymandias/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I met a traveller from an antique land,&lt;br&gt;
+Who said—“Two vast and trunkless legs of stone&lt;br&gt;
+Stand in the desert&amp;hellip; Near them, on the sand,&lt;br&gt;
+Half sunk a shattered visage lies, whose frown,&lt;br&gt;
+And wrinkled lip, and sneer of cold command,&lt;br&gt;
+Tell that its sculptor well those passions read&lt;br&gt;
+Which yet survive, stamped on these lifeless things,&lt;br&gt;
+The hand that mocked them, and the heart that fed;&lt;br&gt;
+And on the pedestal, these words appear:&lt;br&gt;
+My name is Ozymandias, King of Kings;&lt;br&gt;
+Look on my Works, ye Mighty, and despair!&lt;br&gt;
+Nothing beside remains. Round the decay&lt;br&gt;
+Of that colossal Wreck, boundless and bare&lt;br&gt;
+The lone and level sands stretch far away.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;em&gt;Ozymandias&lt;/em&gt;, Percey Shelley&lt;/p&gt;
+&lt;p&gt;Ozymandias is one of my favorite classic poems.&lt;/p&gt;
+&lt;p&gt;Most analyses of this piece focus on the temporary nature of power, but for me the tale has always served as a poignant reminder of human mortality and how we should address it.&lt;/p&gt;
+&lt;p&gt;The sonnet shines a spotlight on the transient nature of our existence, urging us to prioritize meaningful actions over the pursuit of ephemeral power or stature. As the old epigram goes:
+&amp;ldquo;The world was not big enough for Alexander the Great, but a coffin was.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Memento mori&lt;/em&gt; indeed.&lt;/p&gt;
+&lt;p&gt;The fate of Ozymandias calls us to embrace the brevity of life by cultivating our relationships and leaving a positive impact on the lives of those around us. Rather than erecting monuments of stone, we should instead strive to build legacies of compassion, love, and benevolence.&lt;/p&gt;
+&lt;p&gt;In the face of life&amp;rsquo;s transience, let Ozymandias remind us of the enduring value of human connection and the importance of our contributions to the collective human experience. Make every moment count, recognizing that even the grandest legacies will ultimately fade into the sands of time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>24 in &#39;24</title>
+      <link>http://localhost:1313/24-in-24/</link>
+      <pubDate>Wed, 03 Jan 2024 09:17:41 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/24-in-24/</guid>
+      <description>&lt;p&gt;Welcome back, fellow adventurers. As we dive headfirst into a new year, I can&amp;rsquo;t help but feel a surge of excitement and anticipation for the possibilities that await.&lt;/p&gt;
+&lt;p&gt;2024 is poised to be a year of growth, new experiences, and thrilling challenges. To kick things off, I thought it&amp;rsquo;d be fun to publish a list of 24 goals and projects I&amp;rsquo;m aiming to tackle in 2024. I&amp;rsquo;ll come back occasionally and cross them off the list as they&amp;rsquo;re completed.&lt;/p&gt;
+&lt;p&gt;In no particular order:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Average Reading 25 Pages Per Day&lt;/strong&gt;: Rather than set a book goal, I think it&amp;rsquo;s more reasonable to set a page target. The point is, I want to set a pace and consistently keep up with my reading list.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Maintain My Personal Financial System&lt;/strong&gt;: Continue consistently tracking and improve the financial tracking system I developed in 2023.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;del&gt;&lt;strong&gt;Buy a House&lt;/strong&gt;&lt;/del&gt;: Since I&amp;rsquo;ve improved my financial position, I&amp;rsquo;m now looking to buy my first home. I want to close and move in by the end of spring.&lt;br&gt;
+&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;http://localhost:1313/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Visit Three New Places&lt;/strong&gt;: Satiate my travel bug by exploring three new destinations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conquer a Challenging Hiking Trail&lt;/strong&gt;: Take on a demanding hiking trail to test my physical and mental endurance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Learn Fly Fishing&lt;/strong&gt;: Embark on a new outdoor adventure by learning the art of fly fishing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complete a New Hardware Project&lt;/strong&gt;: Hone my tech skills and learn a new technology. I&amp;rsquo;m particularly interested in the Raspberry Pi Pico W and Circuit Python.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complete a DIY Home Improvement Project&lt;/strong&gt;: Channel my inner handyman and take on a DIY home improvement project in my soon-to-be first house.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complete a Leatherworking Project&lt;/strong&gt;: I came into some leatherworking tools recently. I want to learn the basics of leathercraft and complete a basic project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explore a National Park&lt;/strong&gt;: Discover the natural wonders of a new national park and revel in the beauty of the great outdoors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Publish 52 Blog Posts&lt;/strong&gt;: Be consistent about publishing thoughts and interesting stuff here on the site.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Learn a New Language&lt;/strong&gt;: Challenge myself by picking up the basics of a new language. Being in South Louisiana I grew up learning French, so now I&amp;rsquo;m targeting Spanish.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Take a Cooking Class&lt;/strong&gt;: Expand my culinary skills by enrolling in a cooking class and mastering a new cuisine.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cycle Over 1500 Miles&lt;/strong&gt;: In 2023 I developed a cycling practice as my primary exercise (I broke 1000 miles!). This year, I want to develop that habit and increase my stamina and distance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Attain My Goal Weight&lt;/strong&gt;: Continue getting back into shape and reach my goal weight this year. (I&amp;rsquo;m already over halfway there)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Track and Improve Nutrition&lt;/strong&gt;: Related to the previous goal, I want to prep and cook using more whole foods and avoid processed and fast foods.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Plan a Solo Backpacking Trip&lt;/strong&gt;: Embark on a solo backpacking adventure to embrace self-discovery and solitude in nature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Become a Master Naturalist&lt;/strong&gt;: Bolster my knowledge of the natural world and local ecosystem by becoming a certified Master Naturalist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Take a Philosophy Course&lt;/strong&gt;: Most of my personal reading these days leans toward philosophy, so I want to take a more formal course to build a proper foundation in the discipline.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Start a Research Project&lt;/strong&gt;: Channel my interest in learning and research into a personal project that fuels curiosity and knowledge.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Practice Mindfulness Daily&lt;/strong&gt;: Incorporate daily mindfulness practices to enhance well-being and reduce stress. Even for a few minutes per day.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Perform a Digital Detox&lt;/strong&gt;: Take a fortnight completely unplugged and detached from the digital world.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Spend a Day Volunteering&lt;/strong&gt;: Always a good way to give back to the community.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Celebrate Achievements with a Memorable Trip&lt;/strong&gt;: Cap off the year by celebrating my accomplishments with a memorable and well-deserved trip.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here&amp;rsquo;s to a year filled with exciting new experiences and the joy of crossing off each goal from the list.&lt;/p&gt;
+&lt;p&gt;How do you plan to challenge yourself for this year?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Happy Holidays</title>
+      <link>http://localhost:1313/happy-holidays/</link>
+      <pubDate>Wed, 27 Dec 2023 12:51:46 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/happy-holidays/</guid>
+      <description>&lt;p&gt;You may have noticed it&amp;rsquo;s been quiet around here lately. No, the site&amp;rsquo;s not abandoned and I haven&amp;rsquo;t neglected to keep writing here; I&amp;rsquo;m just taking a break to enjoy the holiday season with family and friends.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll be back to posting in 2024 with some new writings and whatever else I find worth discussing here.&lt;/p&gt;
+&lt;p&gt;So whatever your faith, practice, tradition, culture, or custom, I hope you make time to enjoy some earned rest and have a happy holiday season.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Once</title>
+      <link>http://localhost:1313/once/</link>
+      <pubDate>Fri, 01 Dec 2023 15:19:52 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/once/</guid>
+      <description>&lt;p&gt;Since I started using &lt;a href=&#34;https://hey.com/&#34;&gt;Hey&lt;/a&gt; for my personal email a while back, I&amp;rsquo;ve enjoyed following the stuff coming out of the &lt;a href=&#34;https://https://37signals.com/&#34;&gt;37signals&lt;/a&gt; shop. They have a unique and refreshing take on business, work philosophy, and building tech.&lt;/p&gt;
+&lt;p&gt;I saw that they&amp;rsquo;re releasing a new line of products soon over at &lt;a href=&#34;https://once.com/&#34;&gt;Once.com&lt;/a&gt;. I checked their site and, for now at least, it&amp;rsquo;s just a placeholder landing page. However, I read through the message and wanted to share an excerpt here because I appreciate the sentiment behind the project:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Something happened to business software.&lt;/p&gt;
+&lt;p&gt;You used to pay for it once, install it, and run it. Whether on someone’s computer, or a server for &amp;gt;everyone, it felt like you owned it. And you did.&lt;/p&gt;
+&lt;p&gt;Today, most software is a service. Not owned, but rented. Buying it enters you into a perpetual landlord–tenant agreement. Every month you pay for essentially the same thing you had last month. And if you stop paying, the software stops working. Boom, you’re evicted.&lt;/p&gt;
+&lt;p&gt;For nearly two decades, the SaaS model benefitted landlords handsomely. With routine prayers — and payers — to the Church of Recurring Revenue, valuations shot to the moon on the backs of businesses subscribed at luxury prices for commodity services they had little control over.&lt;/p&gt;
+&lt;p&gt;Add up your SaaS subscriptions last year. You should own that shit by now.&lt;/p&gt;
+&lt;p&gt;SaaS still makes sense for many products, but its grip will slip. Installation and administration used to be hopelessly complicated, but self–hosting tech is simpler now and vastly improved. Plus, IT departments are hungry to run their own IT again, tired of being subservient to Big Tech’s reign clouds.&lt;/p&gt;
+&lt;p&gt;Once upon a time you owned what you paid for, you controlled what you depended on, and your privacy and security were your own business. We think it’s that time again.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And you know what? I think they have a valid point.&lt;/p&gt;
+&lt;p&gt;Subscription-based software has really gotten out of hand, and for some essential products I don&amp;rsquo;t necessarily think users should have to pay for access. Subscriptions have their place, and the benefit really depends on whether the team is regularly and reliably shipping new features to justify an ongoing perpetual cost to the user. Otherwise, to the 37signals team&amp;rsquo;s point, you&amp;rsquo;re really just &amp;ldquo;renting&amp;rdquo; the software. Sometimes, if a software product is embedded enough into your workflow, the subscription cost almost feels like a ransom to avoid losing your data or work.&lt;/p&gt;
+&lt;p&gt;Either way, I&amp;rsquo;m glad to see someone striving to rebalance things in terms of pricing models and a philosophy that&amp;rsquo;s user-centric. And I look forward to seeing what the Once product suite will have to offer in the near future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Create Custom Terminal Commands in MacOS</title>
+      <link>http://localhost:1313/how-to-create-custom-terminal-commands-in-macos/</link>
+      <pubDate>Mon, 06 Nov 2023 16:30:27 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/how-to-create-custom-terminal-commands-in-macos/</guid>
+      <description>&lt;p&gt;I recently wrote here about some of my favorite &lt;a href=&#34;http://localhost:1313/personal-automations/&#34;&gt;personal automations&lt;/a&gt;. When updating my a finance automation script recently, I decided I wanted a way to quickly run the automation anywhere. I typically have a terminal open, so I thought a custom terminal command would be the best way to fire off my scripts when I need them.&lt;/p&gt;
+&lt;p&gt;Unfortunately, the resources are slim out there regarding how to configure custom terminal commands in MacOS. Using an article I dug up (linked below), I was able to figure it out.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s how I was able to get it set it up in a few steps:&lt;/p&gt;
+&lt;h2 id=&#34;1-create-a-file-to-store-your-custom-commands&#34;&gt;1. Create a file to store your custom commands&lt;/h2&gt;
+&lt;p&gt;Open a terminal window and navigate to the Home directory using the command:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#cb4b16&#34;&gt;cd&lt;/span&gt; ~
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now, create the custom commands file using the command:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;touch .my_custom_commands.sh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;2-add-custom-commands&#34;&gt;2. Add custom commands&lt;/h2&gt;
+&lt;p&gt;Open the file in Visual Studio Code or your preferred text editor. Note that the dot we added before the filename creates a hidden file, so be sure you&amp;rsquo;re able to locate and open it properly.&lt;/p&gt;
+&lt;p&gt;In the new file, add your custom commands using the following structure and save:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#93a1a1;font-style:italic&#34;&gt;#!/bin/bash
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#93a1a1;font-style:italic&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#859900&#34;&gt;function&lt;/span&gt; my_function_name() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    python ~/path/to/my/script.py
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;3-set-up-file-permissions-if-needed&#34;&gt;3. Set up file permissions, if needed&lt;/h2&gt;
+&lt;p&gt;The new file may generate a &amp;ldquo;permission denied&amp;rdquo; message. If so, you should be able to fix this by running the following command:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chmod +x .my_custom_commands.sh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;4-make-it-available-in-the-terminal&#34;&gt;4. Make it available in the terminal&lt;/h2&gt;
+&lt;p&gt;If you try to run the command (the name of the function) you just created, you won&amp;rsquo;t be able to quite yet. We&amp;rsquo;ll need to let the terminal know to load your commands to each new session.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the &lt;code&gt;rc&lt;/code&gt; file:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;open ~/.zshrc
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;After the last line, add:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#cb4b16&#34;&gt;source&lt;/span&gt; ~/.my_custom_commands.sh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Save the file, then exit and start a new terminal.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Once you have all this set up, you can add a new custom command any time by simply adding a new function to your commands file. Just note that you&amp;rsquo;ll need to start in a new terminal session whenever you edit the file so your new command gets loaded up.&lt;/p&gt;
+&lt;p&gt;Aside from automations, this is also useful for repetitive strings of commands. Here&amp;rsquo;s one I created to set up virtual environments for new Python projects, so rather than memorizing the extra commands I can just enter &lt;code&gt;create_env&lt;/code&gt; and the rest is covered:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#859900&#34;&gt;function&lt;/span&gt; create_env() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    python -m venv env
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#cb4b16&#34;&gt;source&lt;/span&gt; env/bin/activate
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;As always, feel free to use this as a starting point and make it your own.&lt;/p&gt;
+&lt;p&gt;(Source: &lt;a href=&#34;https://medium.com/devnetwork/how-to-create-your-own-custom-terminal-commands-c5008782a78e&#34;&gt;Medium&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Automate Anything</title>
+      <link>http://localhost:1313/how-to-automate-anything/</link>
+      <pubDate>Mon, 30 Oct 2023 17:57:51 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/how-to-automate-anything/</guid>
+      <description>&lt;p&gt;After some interest from my last post where I discussed some of my personal automations, I&amp;rsquo;d like to expand on the topic of personal automation a bit and discuss how you can automate (mostly) the boring or tedious stuff in &lt;em&gt;your&lt;/em&gt; life!&lt;/p&gt;
+&lt;p&gt;I say &amp;ldquo;mostly&amp;rdquo; because while with enough time and resources, you &lt;em&gt;could&lt;/em&gt; automate anything with a repeatable process. However, considering our main goal here is to save time, you&amp;rsquo;ll have to evaluate which things are pragmatically worth expending your time and effort to automate.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s my general process:&lt;/p&gt;
+&lt;h2 id=&#34;1-choose-what-you-want-to-automate&#34;&gt;1. Choose what you want to automate&lt;/h2&gt;
+&lt;p&gt;An obvious first step, I know. But as I just mentioned, here&amp;rsquo;s where you sift through your daily life to see where your pain points are. Make a short list of the most tedious things you&amp;rsquo;d rather not have to do, and then pick out the things that don&amp;rsquo;t require human skill as part of the process. That is to say, the best candidates for automation are those with a repeatable process.&lt;/p&gt;
+&lt;h2 id=&#34;2-record-the-steps&#34;&gt;2. Record the steps&lt;/h2&gt;
+&lt;p&gt;Now that you&amp;rsquo;ve chosen a task that can be reasonably automated, write out the steps to give yourself an idea of what the automation needs to accomplish. If the task is complex, that&amp;rsquo;s okay for now. Just write down the general steps as a working outline.&lt;/p&gt;
+&lt;h2 id=&#34;3-identify-the-most-painful-step&#34;&gt;3. Identify the most painful step&lt;/h2&gt;
+&lt;p&gt;From the list you just created, look through the process to find the most pressing bottleneck or pain point. This is likely the best place to start automating. You may have thought we were going to automate the entire process all at once, but in my opinion it&amp;rsquo;s best to start small and iterate your automation until it captures the overall process over time.&lt;/p&gt;
+&lt;p&gt;This approach has several advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The effort of automating is minimized, since you are only tackling one &lt;em&gt;step&lt;/em&gt; at a time.&lt;/li&gt;
+&lt;li&gt;You get to test each step to make sure it works fully and accurately before moving onto the next.&lt;/li&gt;
+&lt;li&gt;The work is spread out over time, so you don&amp;rsquo;t spend one large chunk of time automating an entire complex process (unless you really, really want to).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-choose-your-platform&#34;&gt;4. Choose your platform&lt;/h2&gt;
+&lt;p&gt;Now, for the task(s) you&amp;rsquo;ve just targeted for automation, you&amp;rsquo;ll want to consider which platform best suits the triggers/actions involved. For example, my simple &amp;ldquo;Blog to Social Media&amp;rdquo; automation is done using &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt; since there is no complex logic involved. That automation is simply a trigger (a new post is published to my &lt;a href=&#34;https://scottk.mba/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt;) and subsequent actions (a new post is published to Mastodon and X/Twitter) are executed.&lt;/p&gt;
+&lt;p&gt;A more complex example might be my financial automation. I&amp;rsquo;m taking a CSV of my checking account transactions, parsing through that and performing some matching to categorize each transaction, and then saving the result to an Excel file for my records. For this, I opted to write a custom Python script which handles the more sophisticated logic.&lt;/p&gt;
+&lt;p&gt;The point is, I choose a platform that&amp;rsquo;s appropriate for the complexity level of the task at hand. It&amp;rsquo;s not a one-size-fits-all sort of thing.&lt;/p&gt;
+&lt;h2 id=&#34;5-automate-it&#34;&gt;5. Automate it&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ve chosen your most painful step to automate, as well as your platform. From here, create the script as required to solve the problem at hand. You may need to consider how often to run the automation or what triggers need to be configured so that the automation is run as needed.&lt;/p&gt;
+&lt;p&gt;Depending on the scenario, you might only need to run your automation manually (on a case-by-case basis, as my finance automation) or via some other action like my RSS-to-Social script.&lt;/p&gt;
+&lt;p&gt;As a tip: if you&amp;rsquo;re opting for a no-code platform like IFTTT or Make to set things up, it still helps to have some surface-level familiarity with APIs and how to use them. This will come in handy for cases in which you need to interact with some service that doesn&amp;rsquo;t have a built-in set of building blocks.&lt;/p&gt;
+&lt;h2 id=&#34;6-repeat-steps-3-5-until-the-whole-process-is-automated&#34;&gt;6. Repeat steps 3-5 until the whole process is automated&lt;/h2&gt;
+&lt;p&gt;Keep working through your Step 3 list until the whole process is done. This will help you automate the most difficult parts of a process, significantly cutting down on your pain points even from the first iteration.&lt;/p&gt;
+&lt;h2 id=&#34;7-deploy&#34;&gt;7. Deploy&lt;/h2&gt;
+&lt;p&gt;Set up your automation using the appropriate triggers, as mentioned previously. If you&amp;rsquo;re using an online service like IFTTT, this is probably already taken care of. If you&amp;rsquo;ve opted for something more custom like a Python script, you&amp;rsquo;ll need to consider how to deploy that so it&amp;rsquo;ll run when you need it.&lt;/p&gt;
+&lt;p&gt;Good solutions for this could be &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt;, &lt;a href=&#34;https://aws.amazon.com/console/&#34;&gt;Amazon Web Services&lt;/a&gt;, or one of any number of similar cloud hosting services. Find one that fits your expertise and budget.&lt;/p&gt;
+&lt;h2 id=&#34;8-monitor-iterate-and-improve&#34;&gt;8. Monitor, iterate, and improve&lt;/h2&gt;
+&lt;p&gt;While this is all called &amp;ldquo;automation&amp;rdquo;, you&amp;rsquo;d be sorely missing a step by just setting everything and forgetting about it. You&amp;rsquo;ll want to monitor things over time to make sure that, once you&amp;rsquo;re &amp;ldquo;done&amp;rdquo;, everything &lt;em&gt;keeps&lt;/em&gt; running as intended.&lt;/p&gt;
+&lt;p&gt;APIs and services change their available functions, the timing of tasks is prone to change at various points, and many other things may change over time from your initial configuration.&lt;/p&gt;
+&lt;p&gt;In addition, you may think of ways to improve your automation or use the extra time you&amp;rsquo;ve saved to add more steps that wouldn&amp;rsquo;t have been possible when you were handling things manually.&lt;/p&gt;
+&lt;p&gt;Feel free to experiment, and have fun with it!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Automations</title>
+      <link>http://localhost:1313/personal-automations/</link>
+      <pubDate>Wed, 25 Oct 2023 07:36:43 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/personal-automations/</guid>
+      <description>&lt;p&gt;Since I learned to code, I&amp;rsquo;ve always been a fan of eliminating boring and/or tedious stuff with automation. This can involve anything from custom scripting (usually with Python, in my case) to using a service like &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt;, &lt;a href=&#34;https://zapier.com/&#34;&gt;Zapier&lt;/a&gt;, or &lt;a href=&#34;https://www.make.com/en/integromat-evolves-to-make/&#34;&gt;Make&lt;/a&gt; (formerly Integromat). With these tools you can connect most common services that expose an &lt;a href=&#34;https://www.ibm.com/topics/api/&#34;&gt;API&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While automation use cases are usually born out of some personal pain point or specific challenge, I&amp;rsquo;m always interested in seeing what other people automate and how they choose do it. I&amp;rsquo;ve also taken great inspiration from pieces like Al Sweigart&amp;rsquo;s &lt;a href=&#34;https://automatetheboringstuff.com/&#34;&gt;&lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/NARKOZ/hacker-scripts&#34;&gt;this classic Github repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I recently bought an IFTTT subscription and audited my personal life for a list of things that take up too much time or involve a tedious process.&lt;/p&gt;
+&lt;p&gt;Here are some of my favorites:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Email/SMS to Brag File (IFTTT)&lt;/strong&gt;: Sending an email or text to IFTTT creates a new row in my career &lt;a href=&#34;https://www.thefountaininstitute.com/blog/brag-documents&#34;&gt;brag file&lt;/a&gt; with text I include. (My &amp;ldquo;brag file&amp;rdquo; is what I humbly call the personal doc where I track my professional accomplishments so I don&amp;rsquo;t forget about past wins.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Blog RSS to Socials (IFTTT)&lt;/strong&gt;: Each time I publish a new post on this site, it gets automatically posted to my Twitter and Mastodon accounts. (Bonus&amp;mdash;&lt;a href=&#34;https://buttondown.email/&#34;&gt;Buttondown&lt;/a&gt; also sends an RSS-driven email to readers subscribed to my posts)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Instapaper to Trello (IFTTT)&lt;/strong&gt;: New articles saved to Instapaper automatically get added to a &amp;ldquo;future blog posts&amp;rdquo; list on my personal Trello board.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Trello Board Automations (Trello)&lt;/strong&gt;: Using Trello&amp;rsquo;s built-in automation capability, I&amp;rsquo;ve set up rules and buttons that keep my task board organized so I never lose track of any reminders, tasks, or projects. These are driven by due-dates, sources (cards added via email, etc.), and task age (highlighting overdue items and so on).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Smart Home/IoT Automations (IFTTT)&lt;/strong&gt;: Various applets turn on/off lights and appliances using smart plugs driven by my location, times, alarms, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Custom Transaction Categorization (Python)&lt;/strong&gt;: A custom script I wrote using Python which can take a CSV export of my bank transactions and categorize them for my accounting. It can categorize a year&amp;rsquo;s worth of transactions in less than a second, which is pretty neat. It&amp;rsquo;s also more secure and private than granting access or uploading my bank info to some third-party company&amp;rsquo;s database.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Is there anything useful or cool that you&amp;rsquo;ve automated? Send me an email, I&amp;rsquo;m interested to learn more about it!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Burning CDs in 2023</title>
+      <link>http://localhost:1313/burning-cds-in-2023/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/burning-cds-in-2023/</guid>
+      <description>&lt;p&gt;After my grandparents&amp;rsquo; house fire last year, we came across a bunch of old photo slides and 8mm film reels. Before we scrapped them I decided to buy some digitizing equipment and archive the content for us to preserve some of our family history. As I mentioned the project to other friends and family, I quickly realized this is a service that many folks are seeking.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve since turned it into &lt;a href=&#34;https://knightlab.film/&#34;&gt;a local business providing media digitization services&lt;/a&gt; for customers in our local area. There are companies online who do this sort of thing, but in my experience the majority of people would rather not risk shipping off their original media. As fragile as it normally is, it would be catastrophic if something happened in shipping, so they&amp;rsquo;d prefer hiring someone local like me who&amp;rsquo;ll take extra hands-on care with their items.&lt;/p&gt;
+&lt;p&gt;So I&amp;rsquo;m currently digitizing some audio cassette tapes and film transparencies for a returning client who requested that the audio be burned onto CDs, so they can listen to the tracks on their home system.&lt;/p&gt;
+&lt;p&gt;Seems simple enough, but you may be surprised (ok, maybe not) at how tricky this task is in 2023.&lt;/p&gt;
+&lt;p&gt;As a kid in the early 2000s I can remember burning my music onto CDs with no issues. Since the world has moved away from the CD as a primary media format, less and less tech is even capable of facilitating its creation.&lt;/p&gt;
+&lt;p&gt;Luckily, I have an older Mac from 2011 around that has a built-in CD reader/burner. The only issue is formatting the audio properly so that CD players can actually play the media. Again, you&amp;rsquo;d think this was simple but I must&amp;rsquo;ve gone through an entire stack of CDs at this point trying to nail down the right configuration.&lt;/p&gt;
+&lt;p&gt;My research tells me most CD players should recognize .WAV or .MP3 format (some don&amp;rsquo;t support compressed formats like MP3, though) with a sample rate of 44100 Hz. I&amp;rsquo;m exporting the audio from Audacity and have tried every combination of these and more, yet not a single disc has played correctly on any of multiple CD players.&lt;/p&gt;
+&lt;p&gt;Maybe it&amp;rsquo;s just me, but burning audio CDs sure ain&amp;rsquo;t as simple as it used to be.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>You Should Have a Website</title>
+      <link>http://localhost:1313/you-should-have-a-website/</link>
+      <pubDate>Mon, 16 Oct 2023 14:41:57 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/you-should-have-a-website/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s often the case that I&amp;rsquo;m referred potential &lt;a href=&#34;https://knightlab.co&#34;&gt;website clients&lt;/a&gt; who have never had their own site before. In many of these cases, the person is reaching out because someone they know told them they need one, but they still aren&amp;rsquo;t fully on board with the idea.&lt;/p&gt;
+&lt;p&gt;After all, they&amp;rsquo;ve gone this long without a website; why get one now?&lt;/p&gt;
+&lt;p&gt;Whether you&amp;rsquo;re a business owner or an individual with a personal brand, a fundamental way to establish your presence online is by having a well-designed, user-friendly website.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re old-school and/or have had second thoughts on this, let me assure you&amp;mdash;the benefits far outweigh any initial hesitations you might have.&lt;/p&gt;
+&lt;p&gt;Here are some reasons I believe it&amp;rsquo;s important to have your own website.&lt;/p&gt;
+&lt;h2 id=&#34;1-professional-credibility&#34;&gt;1. Professional Credibility&lt;/h2&gt;
+&lt;p&gt;Imagine you&amp;rsquo;re in need of a particular service or product. What&amp;rsquo;s the first thing you do? You pull out your smartphone or sit down at your computer and search for it online. In today&amp;rsquo;s digital landscape, your website is often the first point of contact that potential customers have with your brand. A well-designed website signals professionalism and establishes trust. It conveys that you&amp;rsquo;re serious about what you do and are accessible to your audience.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t have your own website, then you&amp;rsquo;re not controlling your public image.&lt;/p&gt;
+&lt;p&gt;Speaking of which&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;2-control-your-brand-image&#34;&gt;2. Control Your Brand Image&lt;/h2&gt;
+&lt;p&gt;Your website is like your digital storefront. It&amp;rsquo;s where you have complete control over how your brand is presented. You can choose the colors, design, content, and overall vibe to ensure consistency with your brand identity. This control allows you to tailor the user experience, and in turn more effectively communicate your message and values to your audience.&lt;/p&gt;
+&lt;h2 id=&#34;3-global-reach&#34;&gt;3. Global Reach&lt;/h2&gt;
+&lt;p&gt;The internet is a vast space, and having a website means you have the potential to reach a global audience. Your website is accessible 24/7, allowing people from different time zones to learn about you and your offerings, even when you&amp;rsquo;re asleep.&lt;/p&gt;
+&lt;p&gt;This global reach can significantly expand your customer base and generate new business opportunities.&lt;/p&gt;
+&lt;h2 id=&#34;4-effective-marketing-tool&#34;&gt;4. Effective Marketing Tool&lt;/h2&gt;
+&lt;p&gt;You can optimize your website for search engines (SEO) to improve its visibility in search results, attracting organic traffic. Additionally, you can integrate various marketing strategies such as email campaigns, social media integration, and blogging to engage and retain your audience, ultimately driving more conversions and business growth. With all of these working in your favor, your website can be a powerfully effective marketing tool to reach your audience.&lt;/p&gt;
+&lt;h2 id=&#34;5-showcase-your-offerings&#34;&gt;5. Showcase Your Offerings&lt;/h2&gt;
+&lt;p&gt;For artists, photographers, entrepreneurs, or anyone with a creative or business venture, a website is an ideal platform to showcase your work or products. High-quality images, videos, testimonials, and detailed descriptions can be displayed to captivate visitors and give them a clear understanding of what you&amp;rsquo;re offering.&lt;/p&gt;
+&lt;h2 id=&#34;6-enhanced-communication-and-engagement&#34;&gt;6. Enhanced Communication and Engagement&lt;/h2&gt;
+&lt;p&gt;Having a website allows for direct interaction with your audience through contact forms, email subscriptions, and comment sections. This two-way communication helps in understanding your audience&amp;rsquo;s needs, preferences, and feedback. You can address their inquiries promptly and build a community around your brand.&lt;/p&gt;
+&lt;p&gt;This can seem overwhelming or unattractive at first, I know. I&amp;rsquo;m simply illustrating the potential here, but you can start with the benefit of just having your existing points of contact in one place (even if it&amp;rsquo;s just phone or email).&lt;/p&gt;
+&lt;h2 id=&#34;7-cost-effective-and-scalable&#34;&gt;7. Cost-Effective and Scalable&lt;/h2&gt;
+&lt;p&gt;Contrary to what some may think, creating a website today is more accessible and cost-effective than ever. With various user-friendly platforms and tools available, you don&amp;rsquo;t need to be a tech whiz to set up a professional website. Moreover, as your business or personal brand grows, your website can scale with you, accommodating increased traffic and expanding offerings.&lt;/p&gt;
+&lt;h2 id=&#34;closing-thoughts&#34;&gt;Closing Thoughts&lt;/h2&gt;
+&lt;p&gt;Having a website used to be a novelty or a luxury. These days, it&amp;rsquo;s a necessity.&lt;/p&gt;
+&lt;p&gt;Whether you&amp;rsquo;re a small business owner, a freelancer, an artist, or just someone with a passion to share, a website offers a platform to showcase your expertise, connect with your audience, and enhance your credibility in the online world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automate Your Data Governance</title>
+      <link>http://localhost:1313/automate-your-data-governance/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/automate-your-data-governance/</guid>
+      <description>&lt;p&gt;After reading about &lt;a href=&#34;https://techcrunch.com/2023/10/10/23andme-resets-user-passwords-after-genetic-data-posted-online/&#34;&gt;23andMe&amp;rsquo;s recent data breach issue&lt;/a&gt; this morning, I&amp;rsquo;d like to share some thoughts on data governance from my perspective as a Data Automation Engineer.&lt;/p&gt;
+&lt;p&gt;Data drives just about every aspect of our world, and increasingly so as technology continues to evolve. A growing challenge with this is the art of managing and governing this ever-growing volume of data in a way that ensures the proper maintenance of its quality and security.&lt;/p&gt;
+&lt;p&gt;In my career as a data professional I have seen how data governance can slip into an afterthought, particularly in small or mid-sized organizations. Luckily, automated data governance can be a powerful tool to ensure data quality, security, and compliance without much effort.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s take a moment to explore the idea and understand how it is poised to shape the future of data management.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-data-governance&#34;&gt;What is data governance?&lt;/h2&gt;
+&lt;p&gt;Where data analysis is the practice of collecting, transforming, visualizing, and utilizing data to inform decision making, data governance involves the establishment of policies, procedures, and controls to ensure data quality, integrity, privacy, and security. It&amp;rsquo;s about defining who has access to what data, how the data should be used, and maintaining compliance with regulatory requirements like GDPR, HIPAA, or other industry-specific standards that apply to your organization.&lt;/p&gt;
+&lt;p&gt;Traditionally, data governance has been a manual and resource-intensive process which is prone to human error. However, automation can streamline these processes with much more efficiency and effectiveness.&lt;/p&gt;
+&lt;p&gt;Before we move on, I would like to note that, as with all things involving automation, I do recommend including some element of regular human-led oversight to ensure everything functions as intended. If erroneous automations are left to their own devices and decide to go off the rails, whatever they control will quickly suffer from a lack of regular oversight.&lt;/p&gt;
+&lt;h2 id=&#34;why-should-data-governance-be-automated&#34;&gt;Why should data governance be automated?&lt;/h2&gt;
+&lt;h3 id=&#34;keep-pace-with-scale-and-complexity&#34;&gt;Keep pace with scale and complexity&lt;/h3&gt;
+&lt;p&gt;As a business grows, so does their data. While it may seem fine to manage data policy in a smaller organization, this task quickly becomes unfeasible as a company expands both internally and externally; internally, with respect to access control and permissions monitoring, and externally, with respect to data volume and security.&lt;/p&gt;
+&lt;h3 id=&#34;real-time-monitoring&#34;&gt;Real-time monitoring&lt;/h3&gt;
+&lt;p&gt;Automation allows you to monitor your data usage in real time, which in turn ensures more immediate responses to violations or discrepancies.&lt;/p&gt;
+&lt;h3 id=&#34;improved-consistency-and-efficiency&#34;&gt;Improved consistency and efficiency&lt;/h3&gt;
+&lt;p&gt;By implementing automation you are simultaneously ensuring the consistent application of your governance policies, reducing the error stemming from human-led governance.&lt;/p&gt;
+&lt;h3 id=&#34;guaranteed-compliance&#34;&gt;Guaranteed compliance&lt;/h3&gt;
+&lt;p&gt;Automated processes can be configured to comply with the latest data privacy regulations, making sure your compliance never lapses.&lt;/p&gt;
+&lt;h2 id=&#34;how-can-automation-enhance-data-governance&#34;&gt;How can automation enhance data governance?&lt;/h2&gt;
+&lt;h3 id=&#34;quality-monitoring-and-cleaning&#34;&gt;Quality monitoring and cleaning&lt;/h3&gt;
+&lt;p&gt;Automations can be configured to monitor data quality continuously, so flagging and remediation of inconsistencies or bad data can be carried out even if you have a constant stream of incoming data.&lt;/p&gt;
+&lt;h3 id=&#34;access-control&#34;&gt;Access control&lt;/h3&gt;
+&lt;p&gt;Perhaps an obvious place to implement automation is with access rights and permissions. As an organization grows, it should not be granting access rights to individual users as it may have been done with a smaller team. Automations should be in place to manage access with user groups and predefined roles and rules.&lt;/p&gt;
+&lt;h3 id=&#34;managing-metadata&#34;&gt;Managing metadata&lt;/h3&gt;
+&lt;p&gt;Using automated processes to extract and manage metadata can provide valuable insights into data lineage, usage, and relevance. For example, I implemented automated metadata management on a previous team using SharePoint Document Libraries. This helped us create the versioning, rollback, and artifact creation we needed to pass a &lt;a href=&#34;https://www.cmmiinstitute.com/learning/appraisals/levels&#34;&gt;CMMI Maturity Level 3 appraisal&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;policy-enforcement&#34;&gt;Policy enforcement&lt;/h3&gt;
+&lt;p&gt;Governance policies, such as data retention policies and privacy configurations, can be automated using roles and rules as mentioned before. This allows your policies to be enforced consistently across the organization.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-get-started&#34;&gt;How to get started&lt;/h2&gt;
+&lt;h3 id=&#34;1-assess-the-playing-field&#34;&gt;1. Assess the playing field.&lt;/h3&gt;
+&lt;p&gt;Conduct an in-depth analysis of your existing data to identify areas that can be automated. Common examples of areas may include those mentioned in the section above.&lt;/p&gt;
+&lt;h3 id=&#34;2-choose-your-tools&#34;&gt;2. Choose your tools.&lt;/h3&gt;
+&lt;p&gt;Select automation tools that align with your organization&amp;rsquo;s requirements to integrate seamlessly with your existing systems.&lt;/p&gt;
+&lt;h3 id=&#34;3-implement-and-test&#34;&gt;3. Implement and test.&lt;/h3&gt;
+&lt;p&gt;Use the appropriate resources to design and implement automated data governance processes. Be sure to run a sufficient amount of testing to identify bugs and defects before putting your automations into a production environment. This will help you avoid many potential hiccups during your roll-out.&lt;/p&gt;
+&lt;h3 id=&#34;4-train-and-integrate&#34;&gt;4. Train and integrate.&lt;/h3&gt;
+&lt;p&gt;Train your team and communicate to the organization where appropriate on your new data governance processes. Educating your team is about how it works and who to reach out to for support will help things run smoothly after launch.&lt;/p&gt;
+&lt;h2 id=&#34;wrapping-up&#34;&gt;Wrapping up&lt;/h2&gt;
+&lt;p&gt;Automating your data governance isn&amp;rsquo;t just a new trend in tech. It&amp;rsquo;s a necessity in today&amp;rsquo;s data-centric world. By learning how to leverage automation, you can ensure your organization maintains a high degree a data quality and compliance, paving the way for improved decision-making and sustainable growth. And in doing so, you&amp;rsquo;ll watch your data management transform into a seamless, efficient, and secure process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leveraging the Power of No-Code</title>
+      <link>http://localhost:1313/leveraging-the-power-of-no-code/</link>
+      <pubDate>Thu, 05 Oct 2023 15:45:02 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/leveraging-the-power-of-no-code/</guid>
+      <description>&lt;p&gt;As a founding fellow of the Engineering fellowship at &lt;a href=&#34;https://joincoho.com/&#34;&gt;Coho&lt;/a&gt;, I was asked to write a guest post for their inaugural &lt;a href=&#34;https://blueprint.joincoho.com/&#34;&gt;Blueprint&lt;/a&gt; newsletter when it launched a few months ago.&lt;/p&gt;
+&lt;p&gt;I chose to write an informative piece about how low- and no-code tools can be leveraged by non-technical folks to multiply their daily efforts by developing their own software tools.&lt;/p&gt;
+&lt;p&gt;I still believe this can be a game changer for those not familiar with traditional programming experience. If you&amp;rsquo;ve ever thought about a software solution for a problem or something you&amp;rsquo;d want to automate but weren&amp;rsquo;t sure how to bring it to life, this one&amp;rsquo;s for you.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blueprint.joincoho.com/p/leveraging-the-power-of-no-code-to-transform-workflows-and-empowering-teams&#34;&gt;Read the full article on Blueprint here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FIRE Flow Chart</title>
+      <link>http://localhost:1313/fire-flow-chart/</link>
+      <pubDate>Mon, 02 Oct 2023 18:17:05 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/fire-flow-chart/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s a ton of advice out there on personal finance, but I&amp;rsquo;ve only ever found one resource that provided an actionable path to gaining Financial Independence and Retiring Early (F.I.R.E.). Read more about that concept &lt;a href=&#34;https://www.reddit.com/r/Fire&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a handy flow chart created by a member of the &lt;a href=&#34;https://www.reddit.com/r/financialindependence&#34;&gt;r/financialindependence&lt;/a&gt; subreddit. Just within the last year this flow chart has helped me pay off nearly all debt, grow my net worth, and drastically increase my savings rate.&lt;/p&gt;
+&lt;p&gt;I wanted to save it here for quick reference, but if you live in the U.S. and want to retire early and/or become financially independent I recommend starting here.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://u.cubeupload.com/demonlesondledon/FinFlowChartv43.png&#34;&gt;FIRE Flow Chart v4.3 - Light Mode&lt;/a&gt; (PNG)&lt;br&gt;
+&lt;a href=&#34;https://u.cubeupload.com/demonlesondledon/FinFlowChartv43Dark.png&#34;&gt;FIRE Flow Chart v4.3 - Dark Mode&lt;/a&gt; (PNG)&lt;/p&gt;
+&lt;p&gt;(via &lt;a href=&#34;https://www.reddit.com/r/financialindependence/comments/16xymii/fire_flow_chart_version_43/&#34;&gt;Reddit&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Join a Board of Directors</title>
+      <link>http://localhost:1313/how-to-join-a-board-of-directors/</link>
+      <pubDate>Thu, 28 Sep 2023 15:13:07 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/how-to-join-a-board-of-directors/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been a board member of a local non-profit for several years now.&lt;/p&gt;
+&lt;p&gt;My organization provides certified teaching staff, supplies, and facilities for children with dyslexia to get extra learning assistance outside of their school programs, all at no cost to parents. Being a board member of this organization has been a rewarding way to use my skills and business experience to give back to my community.&lt;/p&gt;
+&lt;p&gt;However, I&amp;rsquo;ll admit&amp;mdash;joining a board of directors isn&amp;rsquo;t always easy. It requires hard work, dedication, and a willingness to learn. But if you&amp;rsquo;re up for the challenge, it can be an incredibly rewarding experience.&lt;/p&gt;
+&lt;p&gt;Here are a few tips on how to join a board of directors:&lt;/p&gt;
+&lt;h2 id=&#34;know-the-difference-between-corporate-and-non-profit-boards&#34;&gt;Know the difference between &lt;em&gt;corporate&lt;/em&gt; and &lt;em&gt;non-profit&lt;/em&gt; boards.&lt;/h2&gt;
+&lt;p&gt;There are several key differences between corporate and non-profit boards.&lt;/p&gt;
+&lt;p&gt;Corporate board positions are highly sought after because members are typically compensated for the position either through a salary, profit distributions, or both. Corporate boards drive the strategic direction and oversight of companies. Because of this, open positions are competitive and board members are chosen to fill specific strategic roles in the experience and skill set of the board as a whole.&lt;/p&gt;
+&lt;p&gt;Non-profit boards, as the name suggests, do not operate for profit and board members are not usually compensated for their work. Rather, board members operate on a volunteer basis, and are often even expected to help raise money for the organization or donate money personally to join the board. This concept may occasionally be referred to as &amp;ldquo;Give, Get, or Get Out&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Although these tips apply to both types of boards, for the purposes of this article I&amp;rsquo;ll be mainly referring to non-profit boards.&lt;/p&gt;
+&lt;p&gt;Here are some key tips to help you find a good fit:&lt;/p&gt;
+&lt;h2 id=&#34;start-by-networking&#34;&gt;Start by networking.&lt;/h2&gt;
+&lt;p&gt;One of the best ways to find board opportunities is through your network. Talk to your friends, family, and colleagues to see if they know of any boards that are looking for new members. You can also attend industry events and conferences to meet potential board members and recruiters. When you talk to people, make it known that you are seeking a board position and what your goals are.&lt;/p&gt;
+&lt;h2 id=&#34;do-your-research&#34;&gt;Do your research.&lt;/h2&gt;
+&lt;p&gt;Once you&amp;rsquo;ve identified a few boards that you&amp;rsquo;re interested in, take some time to learn more about them. What is the organization&amp;rsquo;s mission? What are the board&amp;rsquo;s responsibilities? What kind of skills and experience are they looking for in new members?&lt;/p&gt;
+&lt;p&gt;It is not advisable to join a board just for the title. If you don&amp;rsquo;t have a complementary skill set or lack passion for the cause, you will not be an effective board member and could even do more harm than good. Finding the right fit is a critical step here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bonus tip:&lt;/em&gt; Be creative in your search. In addition to traditional networking and job boards, there are a number of other ways to find board opportunities. For example, you can search online databases like &lt;a href=&#34;https://boardstrong.org/&#34;&gt;BoardStrong&lt;/a&gt; and &lt;a href=&#34;https://www.bridgespan.org/&#34;&gt;OnBoard&lt;/a&gt;. You can also connect with recruiters who specialize in board placements. And don&amp;rsquo;t be afraid to reach out directly to organizations that you&amp;rsquo;re interested in serving on.&lt;/p&gt;
+&lt;h2 id=&#34;prepare-your-pitch&#34;&gt;Prepare your pitch.&lt;/h2&gt;
+&lt;p&gt;When you&amp;rsquo;re ready to start applying for board positions, be prepared to pitch yourself. Write a brief bio that highlights your skills and experience, and explain why you&amp;rsquo;re interested in serving on the organization&amp;rsquo;s board. You may also want to write a cover letter that addresses the specific skills and experience that the board is looking for. This will help you stand out as a solid candidate.&lt;/p&gt;
+&lt;h2 id=&#34;be-patient-and-persistent&#34;&gt;Be patient and persistent.&lt;/h2&gt;
+&lt;p&gt;It may take some time to find the right board position for you. Don&amp;rsquo;t get discouraged if you don&amp;rsquo;t get the first few positions you apply for. Keep networking, doing your research, and preparing your pitch, and eventually you&amp;rsquo;ll find the perfect fit.&lt;/p&gt;
+&lt;p&gt;Here are a few additional tips to help you stand out from the competition:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Be specific about your interests and skills.&lt;/strong&gt; Don&amp;rsquo;t just say that you&amp;rsquo;re interested in serving on a board of directors. Be specific about the types of organizations and industries that you&amp;rsquo;re passionate about. And be sure to highlight your unique skills and experience that would make you a valuable asset to any board.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Be confident.&lt;/strong&gt; When you&amp;rsquo;re networking or interviewing for a board position, be confident in your abilities and your value proposition. Remember, you&amp;rsquo;re bringing something unique to the table.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Be prepared to give back.&lt;/strong&gt; Serving on a board of directors is a big responsibility and requires a big commitment of time and energy. But it&amp;rsquo;s also a big opportunity to make a real difference at an organization that you care about. Look for opportunities to share your knowledge and experience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Following these tips can certainly improve your chances of success.&lt;/p&gt;
+&lt;p&gt;Oh, and one last thing: &lt;em&gt;don&amp;rsquo;t forget to have fun!&lt;/em&gt; Serving on a board of directors should be an enjoyable experience. If you&amp;rsquo;re not passionate about the organization and its mission, it&amp;rsquo;s going to be difficult to stay motivated. So choose a board you&amp;rsquo;re excited about, roll up your sleeves, and get to work making a difference.&lt;/p&gt;
+&lt;p&gt;With a little effort and creativity, you can find the perfect board opportunity for you. Good luck!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tennessee 2023</title>
+      <link>http://localhost:1313/tennessee-2023/</link>
+      <pubDate>Mon, 25 Sep 2023 11:05:00 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/tennessee-2023/</guid>
+      <description>&lt;p&gt;For years, a favorite vacation spot of our family has been Tennessee. Yesterday I returned from a nice trip with some of my family to the Volunteer State, and thought I&amp;rsquo;d share a bit about it here.&lt;/p&gt;
+&lt;h2 id=&#34;home-base-tracy-city&#34;&gt;Home Base: Tracy City&lt;/h2&gt;
+&lt;p&gt;I discovered Tracy City back in 2020 through a cabin I rented through AirBnb for another weekend getaway. I enjoyed it so much the first time that we decided to reserve another cabin on the property for this trip.&lt;/p&gt;
+&lt;p&gt;Tracy City is a quiet little mountain town that was founded after a few local boys discovered coal while digging around after a groundhog. It has an interesting history and once even &lt;a href=&#34;https://en.wikipedia.org/wiki/Tracy_City,_Tennessee#Government&#34;&gt;elected a dead man as its mayor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Of the seven venues offered at &lt;a href=&#34;https://tnwaterfallgetaway.com/&#34;&gt;The Falls at Sewanee Creek&lt;/a&gt;, we stayed in the &lt;a href=&#34;https://tnwaterfallgetaway.com/log-cabin&#34;&gt;Log Cabin&lt;/a&gt;. The rental cabin sits on a sprawling and abundant landscape of about forty five acres, complete with its own nature trails, overlook, creek, and its focal point&amp;mdash;a &lt;em&gt;private waterfall&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;If you want a scenic and unique stay in south-central Tennessee, look no further. The hosts, Grant and Becky, will make sure you have everything you need (including a private tour of the grounds and welding lessons).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/porch.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/porch_hub129dbfc46e9c4e83fc9d6f09b26001f_226809_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      A view from the back porch of our cabin.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/autos.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/autos_hu875a1ed34f233f33fd6c52ef7055a975_247294_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      Some cool vehicles on the property with serious Jurassic Park vibes.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h2 id=&#34;day-1-chattanooga&#34;&gt;Day 1: Chattanooga&lt;/h2&gt;
+&lt;p&gt;Thursday we ventured out to Chattanooga to explore &lt;a href=&#34;https://www.seerockcity.com/&#34;&gt;Rock City&lt;/a&gt;, a Tennessee tourist classic.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_waterfall.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_waterfall_huad1f7e1970d2ac0b99af6304c242e213_158800_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      One of Rock City&amp;rsquo;s many water features.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_overlook.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_overlook_hu3e5c15e10ea86f4d40342a3ddb9ea1de_96435_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      See 7 states at once from Lookout Mountain.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_lizard.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_lizard_huc22e8f804d85e54679769cf9d61572df_380313_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      A blue-tailed skink I found sunbathing on the trail.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h2 id=&#34;day-2-lynchburg&#34;&gt;Day 2: Lynchburg&lt;/h2&gt;
+&lt;p&gt;Friday we drove over to Lynchburg with reservations for a tour and tasting at the &lt;a href=&#34;https://www.jackdaniels.com/&#34;&gt;Jack Daniel&amp;rsquo;s Whiskey Distillery&lt;/a&gt;. We also popped into the local &lt;a href=&#34;https://www.lynchburgwinery.com/&#34;&gt;Lynchburg Winery&lt;/a&gt; for a tasting.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_truck.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_truck_hu4b1367d38d4f607a3eccea57379ddabb_146736_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      An old truck that used to deliver Jack Daniel&amp;rsquo;s Whiskey.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks_hubf3dfc4ad040798d10032a1338cbfa70_226875_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      The J.D. distillery has its own fire brigade.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h2 id=&#34;day-3-nashville&#34;&gt;Day 3: Nashville&lt;/h2&gt;
+&lt;p&gt;Saturday featured a trip up to Nashville, where we checked out &lt;a href=&#34;https://www.antiquearchaeology.com/&#34;&gt;Antique Archaeology&lt;/a&gt;, home of the American Pickers from the History Channel show. Their shop is located in the old &lt;a href=&#34;https://www.marathonvillage.net/about/&#34;&gt;Marathon Motor Works&lt;/a&gt; car factory, which has a pretty neat museum inside as well.&lt;/p&gt;
+&lt;p&gt;After that, we headed to &lt;a href=&#34;https://www.grimeys.com/&#34;&gt;Grimey&amp;rsquo;s Record Shop&lt;/a&gt; before finding a bite to eat.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/aa_shop.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/aa_shop_hu9ed620c3c6d772d24ffca4a88d697ba0_334343_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      Antique Archaeology, home of the American Pickers.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/motor_works.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/motor_works_hu65aed353c15e1474bde34de517640463_151723_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h2 id=&#34;local-eats&#34;&gt;Local Eats&lt;/h2&gt;
+&lt;p&gt;My favorites from the trip, alphabetically:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blacktap.com/&#34;&gt;Black Tap&lt;/a&gt; (Nashville)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/people/The-DEPOT-CAFE/100057597125654/&#34;&gt;Depot Cafe&lt;/a&gt; (Monteagle)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dutchmaid.net/&#34;&gt;Dutch Maid Bakery&lt;/a&gt; (Tracy City)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mtngoatmarket.com/&#34;&gt;Mountain Goat Market&lt;/a&gt; (Monteagle)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;a-tip-for-fellow-travelers&#34;&gt;A Tip for Fellow Travelers&lt;/h2&gt;
+&lt;p&gt;The next time you travel, consider exploring the smaller towns and spaces in between the usual tourist areas and beaten paths. These are where I always find the most fun, meaningful, and memorable stuff in my travels.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Matter of Structural Preference</title>
+      <link>http://localhost:1313/a-matter-of-structural-preference/</link>
+      <pubDate>Mon, 18 Sep 2023 16:48:47 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/a-matter-of-structural-preference/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Update: After some polling, I decided to make these changes. Also added a Links page to the main navigation with a sitemap.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I whipped up this site a while back with a few main goals in mind:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Establish a place on the web to publish my thoughts, useful/interesting bits of info I encounter, and generally &lt;a href=&#34;https://indieweb.org/POSSE&#34;&gt;POSSE&lt;/a&gt; my content on the internet to break out of social media silos (check)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learn a new platform to keep my web development skills from getting rusty (check)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Put out content that might be useful or interesting to other folks (check, hopefully)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My original design here has featured what would normally function as an &amp;ldquo;About&amp;rdquo; page as my actual &lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt; page. Though, my thinking lately is that it may benefit readers to make my posts more easily accessible, since this is a main function of the site.&lt;/p&gt;
+&lt;p&gt;This change would require moving my Home page to an About page, which wouldn&amp;rsquo;t be a huge effort but it would be one of the larger structural changes I made since publishing the initial version of this site.&lt;/p&gt;
+&lt;p&gt;Ultimately, while I think it makes sense to present first-time visitors with a blurb about myself, from a UX perspective this does force returning readers to click through at least two pages to access my newest post.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m thinking that moving my Home page content to an About page and featuring my post content up front would have the most net benefit. Readers would have an easier time getting to my posts and my bio content would still be there for those interested in it.&lt;/p&gt;
+&lt;p&gt;Do you have a preference when it comes to blog structure? Am I overthinking it? If you have any opinions on this, I&amp;rsquo;d like to know. Reply to this post via email and lets chat about it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real Estate by the Numbers</title>
+      <link>http://localhost:1313/real-estate-by-the-numbers/</link>
+      <pubDate>Thu, 14 Sep 2023 15:20:12 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/real-estate-by-the-numbers/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Title&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;&lt;a href=&#34;https://store.biggerpockets.com/products/real-estate-by-the-numbers&#34;&gt;Real Estate by the Numbers: A Complete Reference Guide to Deal Analysis&lt;/a&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Author(s)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;J. Scott &amp;amp; Dave Meyer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Published&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;2022&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Pages&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;385&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;My Rating&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;5 / 5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;As I prepare to purchase my first home, I&amp;rsquo;ve been immersing myself in the world of real estate. A long-term personal goal of mine is to build a return-generating portfolio as a real estate investor. And of course, I want to give myself the best possible foundation to make sound investing decisions.&lt;/p&gt;
+&lt;p&gt;One of the best resources I picked up so far is this book I just finished reading, which has been a solid refresher on many of the investing and finance concepts I studied in grad school. These are critical tools for any &lt;del&gt;good&lt;/del&gt; great investor.&lt;/p&gt;
+&lt;p&gt;Some of the key concepts covered are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Key questions to ask before any investment&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Basic rules for growing your money (general finance, compounding interest, time value of money, etc.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Specific formulas to derive metrics that inform deal analysis&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Using those metrics to compare potential deals&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Varied strategies for financing deals&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to track investment performance over time&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As a sweet bonus, if you get the book from &lt;a href=&#34;https://store.biggerpockets.com/products/real-estate-by-the-numbers&#34;&gt;Bigger Pockets&lt;/a&gt; (not an affiliate link) you get all of the Excel files used in the book, so you can work the examples as you read along. I found these to be extremely helpful with internalizing the material.&lt;/p&gt;
+&lt;p&gt;Overall, this book is the most approachable introduction I&amp;rsquo;ve come across on these concepts. Even if you&amp;rsquo;re not &amp;ldquo;into&amp;rdquo; real estate from an investment perspective, I&amp;rsquo;d still highly recommend picking up a copy for the financial literacy lessons. You&amp;rsquo;re sure to pick up some good nuggets if you do.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design Archival Project</title>
+      <link>http://localhost:1313/design-archival-project/</link>
+      <pubDate>Mon, 11 Sep 2023 14:08:42 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/design-archival-project/</guid>
+      <description>&lt;p&gt;I thought it&amp;rsquo;d be a fun exercise to create a space for tracking changes to this site&amp;rsquo;s design, as I&amp;rsquo;m always tinkering with the theme and improving various things. I wanted to do this in a visual way so I can look back and get a sense of how things evolve over time.&lt;/p&gt;
+&lt;p&gt;To avoid loading a ton of screenshots onto the site, I&amp;rsquo;m using Internet Archive&amp;rsquo;s Wayback Machine to snapshot the site when I make big changes and linking to those instead. This effectively provides an archive that can be interacted with, rather than just browsing photos.&lt;/p&gt;
+&lt;p&gt;The new archive page lives here: &lt;a href=&#34;http://localhost:1313/design-archive/&#34;&gt;Design Archive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As of now I do want to keep things content-focused and &lt;a href=&#34;https://512kb.club/&#34;&gt;avoid a bunch of bells and whistles&lt;/a&gt;, so I don&amp;rsquo;t anticipate any big changes to the structure of the site. This is also how I keep things somewhat consistent as I still want returning visitors to be able to recognize my site to some degree.&lt;/p&gt;
+&lt;p&gt;Just wanted to drop a quick note here in case others are interested in this sort of thing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keep Moving</title>
+      <link>http://localhost:1313/keep-moving/</link>
+      <pubDate>Sun, 10 Sep 2023 13:41:24 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/keep-moving/</guid>
+      <description>&lt;p&gt;In February I decided to get more active and build better habits. I started small by purchasing a bike and committing to ride it at least three times per week.&lt;/p&gt;
+&lt;p&gt;Keeping this commitment to myself has naturally progressed into improving other aspects of my physical health&amp;mdash;my nutrition and mindset have made leaps and bounds from where I was a year ago. As of today I&amp;rsquo;ve lost 57 lbs and counting, which really is just a byproduct of a lot of small life changes I&amp;rsquo;ve made over time.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve still got a way to go before I hit my current goal weight but I know if I just keep doing what I&amp;rsquo;m doing indefinitely I&amp;rsquo;ll get there &lt;em&gt;and&lt;/em&gt; be able to sustain it, which is crucial to long-term success.&lt;/p&gt;
+&lt;p&gt;Everything I&amp;rsquo;ve done can be attributed to a single principle&amp;mdash;energy balance. Eat less, move more. Make sure your energy output (i.e. movement, calories burned) is greater than your input (i.e. calories consumed). If you follow this rule, you &lt;em&gt;cannot&lt;/em&gt; fail. It&amp;rsquo;s basic science.&lt;/p&gt;
+&lt;p&gt;When I started cycling I was maxed out after 10 miles. As my endurance has improved over time, I&amp;rsquo;ve worked up to an average of 75mi/week with a single-trip max of 40 miles.&lt;/p&gt;
+&lt;p&gt;Unfortunately, I had a setback on my afternoon ride last Tuesday.&lt;/p&gt;
+&lt;p&gt;I came around a curve on my route and before I could react I rolled over some debris in the road and caught a nail in my rear tire. Could be worse, but that means I&amp;rsquo;ll be off the road until I can patch the tire and replace the inner tube.&lt;/p&gt;
+&lt;p&gt;Am I going to let that stop me? Nah. My backup strategy for things like this is to transition to a walking/running plan I&amp;rsquo;ve created for myself in the meantime. No excuses for equipment malfunction when I can just use my legs.&lt;/p&gt;
+&lt;p&gt;Gotta keep moving.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P.S. I&amp;rsquo;m posting this because I&amp;rsquo;ve had a handful of folks ask me about what I&amp;rsquo;ve been doing to get the results that I have. I plan to compile some of my best tips &amp;amp; lessons learned in a separate post (coming soon) and will periodically publish updates along the way.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Wealth</title>
+      <link>http://localhost:1313/on-wealth/</link>
+      <pubDate>Fri, 08 Sep 2023 15:05:55 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/on-wealth/</guid>
+      <description>&lt;p&gt;What does it mean to be wealthy? What does wealth look like? Is it just being rich? How do we know when we&amp;rsquo;ve achieved wealth?&lt;/p&gt;
+&lt;p&gt;As I move toward purchasing my first home, this is something I&amp;rsquo;ve been reflecting on in recent weeks.&lt;/p&gt;
+&lt;p&gt;Cultures around the world are abundant with stories of characters on the pursuit of wealth who don&amp;rsquo;t quite get what they bargained for&amp;mdash;King Midas, for example. Over the years I myself have gone through bouts of chasing &amp;ldquo;wealth&amp;rdquo;, pouring everything I had into startup businesses, scraping by in hopes of eventually making it big.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve all been taught that you can become wealthy if you work hard and earn enough money to buy your financial freedom, thereby amassing an amount of money sufficient to afford the freedom to use your time to do the things you want to do in life. But if this is the goal, then the money is only a means to get us what we &lt;em&gt;really&lt;/em&gt; want: freedom and self-sufficiency.&lt;/p&gt;
+&lt;p&gt;The pursuit of wealth from a purely financial perspective is a fool&amp;rsquo;s errand if driven by ambition alone, and with no defined end goal. Ambition, as the &lt;a href=&#34;https://www.britannica.com/topic/Stoicism&#34;&gt;Stoics&lt;/a&gt; wisely recognized, is itself a form of slavery. If we&amp;rsquo;re always unsatisfied and seeking more, what we already have will never be enough. One can easily lose sight of what&amp;rsquo;s really important (our families, passions, etc.) by becoming blinded by unmitigated ambition.&lt;/p&gt;
+&lt;p&gt;True wealth is an internal outlook as much as an external holding. It&amp;rsquo;s all about perspective.&lt;/p&gt;
+&lt;p&gt;Wealth, then, is more than a simple dollar figure. It&amp;rsquo;s about recognizing your needs and values, and working toward those; or perhaps, recognizing when you may already have them.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Wealth consists not in having great possessions, but in having few wants.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
+&amp;mdash;Epictetus&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I&amp;rsquo;ll leave you with a short story I read several years ago that&amp;rsquo;s informed my philosophy on this topic.&lt;/p&gt;
+&lt;h2 id=&#34;the-parable-of-the-fisherman&#34;&gt;The Parable of the Fisherman&lt;/h2&gt;
+&lt;p&gt;A smartly-dressed enterprising tourist is taking photographs when he notices a shabbily dressed local fisherman taking a nap in his fishing boat. The tourist is disappointed with the fisherman&amp;rsquo;s apparently lazy attitude towards his work, so he approaches the fisherman and asks him why he is lying around instead of catching fish. The fisherman explains that he went fishing in the morning, and the small catch would be sufficient for the next two days.&lt;/p&gt;
+&lt;p&gt;The tourist tells him that if he goes out to catch fish multiple times a day, he would be able to buy a motor in less than a year, a second boat in less than two years, and so on. The tourist further explains that one day, the fisherman could even build a small cold storage plant, later a pickling factory, fly around in a helicopter, build a fish restaurant, and export lobster directly to Paris without a middleman.&lt;/p&gt;
+&lt;p&gt;The nonchalant fisherman asks, &amp;ldquo;Then what?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The tourist enthusiastically continues, &amp;ldquo;Then, without a care in the world, you could sit here in the harbor, doze in the sun, and look at the glorious sea.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;But I&amp;rsquo;m already doing that&amp;rdquo;, says the fisherman.&lt;/p&gt;
+&lt;p&gt;The enlightened tourist walks away pensively, with no trace of pity for the fisherman, only a little envy. &lt;em&gt;(&lt;a href=&#34;https://en.wikipedia.org/wiki/Anekdote_zur_Senkung_der_Arbeitsmoral&#34;&gt;Source&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subscribe via Email</title>
+      <link>http://localhost:1313/email-subscriptions/</link>
+      <pubDate>Thu, 07 Sep 2023 14:57:55 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/email-subscriptions/</guid>
+      <description>&lt;p&gt;An element of any good website/personal blog is that it allows readers to consume content in a variety of formats. That being said, I&amp;rsquo;ve spent some time debating on whether to add a way to subscribe via email, because I want to do it in a way that won&amp;rsquo;t become a pain to maintain. I also don&amp;rsquo;t want to maintain a separate newsletter that would require a manual copy/paste process.&lt;/p&gt;
+&lt;p&gt;I looked around at some other folks&amp;rsquo; blogs to see how they handled their email distros, and I think I&amp;rsquo;ve found a solution I like.&lt;/p&gt;
+&lt;p&gt;Using &lt;a href=&#34;https://buttondown.email/refer/scottk&#34;&gt;Buttondown&lt;/a&gt;, I&amp;rsquo;m able to have their system consume my existing &lt;a href=&#34;http://localhost:1313/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt; to populate an email template that will go out to the mailing list. This is great because it&amp;rsquo;s all completely automated. So if you decide to subscribe, the only emails you&amp;rsquo;ll receive from me are copies of my future posts.&lt;/p&gt;
+&lt;p&gt;A few notes on this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I combed through Buttondown&amp;rsquo;s settings to ensure that there will be &lt;em&gt;no tracking&lt;/em&gt;. I don&amp;rsquo;t need it and you probably don&amp;rsquo;t want it anyway.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This is simply another way for you to receive my posts. The emails will only contain a copy of the post text and a link to the original web version when I publish a new blog post on this site.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I will not send any other emails. No marketing rubbish, no product launches; just blog posts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;As with the &amp;ldquo;Reply via email&amp;rdquo; button below all of my posts, you&amp;rsquo;ll be able to reply to the Buttondown emails and I&amp;rsquo;ll receive them so we can continue the conversation. Feel free to reach out any time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If this all sounds good and you want my future posts sent right your inbox, you can sign up using the form below any blog post.&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Right to Repair: Fighting Planned Obsolescence</title>
+      <link>http://localhost:1313/right-to-repair/</link>
+      <pubDate>Wed, 06 Sep 2023 15:41:08 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/right-to-repair/</guid>
+      <description>&lt;p&gt;&amp;ldquo;They don&amp;rsquo;t make stuff like they used to.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve all heard some form of this claim at some point and, unfortunately, it&amp;rsquo;s true. What&amp;rsquo;s concerning is that the decline of product quality and longevity we&amp;rsquo;ve seen in recent decades is fully intentional.&lt;/p&gt;
+&lt;p&gt;My family and I like to collect antiques and vintage goods we find at estate sales and shops on the weekends. Recently, this had me thinking: the items we find are noticeably sturdier and of a higher quality than anything you&amp;rsquo;d find on shelves today. From time to time we&amp;rsquo;ll even find vintage electronics or machines that still work like they did when they were new (or close to it)!&lt;/p&gt;
+&lt;p&gt;Many devices today are only good for a few years before they start slowing down dramatically, exhibiting battery life issues, physically breaking due to poor craftsmanship, and so on. To make things worse, the average consumer can&amp;rsquo;t even get into many of today&amp;rsquo;s devices to replace a battery or other parts. Myriad examples of these types of situations exist today.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s talk about it.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-planned-obsolescence&#34;&gt;What is planned obsolescence?&lt;/h2&gt;
+&lt;p&gt;Planned obsolescence is the practice of designing products with a limited lifespan, so that they become obsolete and need to be replaced sooner rather than later. This is done in a variety of ways, such as cheapening materials, making products difficult to repair, intentionally reducing updates that slow down or disable older devices, or removing support for older devices altogether.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-right-to-repair&#34;&gt;What is Right to Repair?&lt;/h2&gt;
+&lt;p&gt;The Right to Repair is simply the principle that consumers should have the right to repair their own devices. This would include the right to repair information, spare parts, and tools necessary to accomplish successful repairs without needing to go back and pay for manufacturer&amp;rsquo;s service or replacing the product outright.&lt;/p&gt;
+&lt;p&gt;Obviously, this is not appropriate in &lt;em&gt;all&lt;/em&gt; products for practal reasons. The Planned Obsolescence/Right to Repair conversation is primarily centered around the tech industry and its output.&lt;/p&gt;
+&lt;p&gt;Still, I would argue that we as consumers should have the option to repair most anything we own, if we so wish.&lt;/p&gt;
+&lt;h2 id=&#34;why-does-it-matter&#34;&gt;Why does it matter?&lt;/h2&gt;
+&lt;p&gt;This principle is important for several reasons.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Having the Right to Repair helps to extend the lifespan of products, which can save consumers like you and me more money.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Repairing instead of replacing reduces waste and stimulates &lt;a href=&#34;https://en.wikipedia.org/wiki/Circular_economy&#34;&gt;circular economic activity&lt;/a&gt;, which is great for the environment. When products are repaired, they are less likely to end up in landfills (currently a major source of pollution).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consumers get more control over their devices and are less reliant upon manufacturers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;More jobs would be created in the repair industry.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;how-can-companies-transition&#34;&gt;How can companies transition?&lt;/h2&gt;
+&lt;p&gt;While it will likely take legislative action to cause any significant change to these practices, here is a potential path for companies wanting to create more repairable products:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Use higher-quality materials that are less likely to break.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make products easier to disassemble.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Provide clear repair instructions, diagrams, and documentation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Offer spare parts and tools to consumers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Allow independent repair shops to access diagnostic tools and software.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-can-we-do-about-it&#34;&gt;What can we do about it?&lt;/h2&gt;
+&lt;p&gt;The right to repair is a growing movement. Canada, members of the E.U., and a number of states in the U.S. have passed Right to Repair laws, and other countries are considering similar laws as an instrument of consumer and environmental protection. As the Right to Repair movement continues to gain momentum, the hope is that more tech companies will start designing products that are more repairable.&lt;/p&gt;
+&lt;p&gt;If you are interested in learning more about the Right to Repair, there are a number of resources &lt;a href=&#34;https://googlethatforyou.com/?q=right%20to%20repair&#34;&gt;available online&lt;/a&gt;. You can also contact your local elected officials and ask them to support Right to Repair legislation.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like to discuss more about this issue, use the button below to email me. I&amp;rsquo;d love to hear your thoughts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Fresh Face for Fall</title>
+      <link>http://localhost:1313/fall-theme/</link>
+      <pubDate>Tue, 29 Aug 2023 13:43:42 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/fall-theme/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s almost fall, y&amp;rsquo;all. In the next few weeks we head into fall with the &lt;a href=&#34;https://www.almanac.com/content/first-day-fall-autumnal-equinox&#34;&gt;Autumnal Equinox&lt;/a&gt;, which falls (no pun intended) on September 23, 2023.&lt;/p&gt;
+&lt;p&gt;Inspired by the impending fall season and the antiquarian philosophy books I&amp;rsquo;ve been reading lately, I felt like playing around with the site theme a bit. So, on this corner of the internet we&amp;rsquo;re heading into fall a bit early with this new theme I&amp;rsquo;m calling &amp;ldquo;Library&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The rich leather and paper hues as well as the serif font are a nod to the warm, cozy ambiance of your favorite library reading nook.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;ll notice that I retained the dark-only theme. That&amp;rsquo;s something I &lt;a href=&#34;https://darktheme.club/&#34;&gt;don&amp;rsquo;t plan to change&lt;/a&gt;, but I will continue to play around with the color palette and font elements from time to time. This theme in particular gives the site a fresh, distinguished academic look befitting the more philosophical content I&amp;rsquo;ve been reading and writing lately.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It is the summer’s great last heat,&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;It is the fall’s first chill: They meet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;–&amp;ndash; Sarah Morgan, Bryan Piatt&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Piece of AI History</title>
+      <link>http://localhost:1313/ai-history/</link>
+      <pubDate>Sun, 20 Aug 2023 08:04:39 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/ai-history/</guid>
+      <description>&lt;p&gt;Yesterday I went to check out our local library&amp;rsquo;s annual used book sale, and one of the books I picked up is titled &lt;em&gt;Essentials of Artificial Intelligence&lt;/em&gt; by Matt Ginsberg. I thought it was a neat find because the book was written in 1992, and this particular edition was published in 1993 so it provides some interesting insight into what was going on in the early days of AI research.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve written a few posts recently that skew toward some of the more negative aspects of AI, but I don&amp;rsquo;t want to give the impression that I&amp;rsquo;m against it; on the contrary, I&amp;rsquo;m all for using AI and tech in general to better our human condition. It&amp;rsquo;s why I got into the field myself. I just think we should do it in a measured fashion and stay mindful of the side effects of its implementation, rather than letting those things be an afterthought.&lt;/p&gt;
+&lt;p&gt;Anyway, I&amp;rsquo;ll balance the scales here with a piece of AI history by sharing an excerpt from the book&amp;rsquo;s concluding remarks on the applications of AI. Comparatively, it does renew my appreciation of how far we&amp;rsquo;ve come technologically over the last thirty years.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI&amp;rsquo;s most immediate applications &lt;em&gt;are&lt;/em&gt; peaceful: Intelligent interfaces that make computers easier to use for everyone, such as telephones where you can talk in German but listen on the other end in English. Household robots will vacuum our houses some day (not soon, but some day); AI generally holds the promise of freeing us from the drudgery that we can hope to delegate to our machines.&lt;/p&gt;
+&lt;p&gt;AI is a field with tremendous potential and with tremendous risks&amp;mdash;as is any other scientific discipline. The problem&amp;mdash;indeed, the very &lt;em&gt;idea&lt;/em&gt;&amp;mdash;of constructing an intelligent artifact is sure to capture the public inteest. We must be sure that our zeal and enthusiasm is confined to our research, and does not damage our abilities to honor the responsibility that we all have to keep the public well informed of the nature of scientific activities.&lt;/p&gt;
+&lt;p&gt;&amp;mdash; Matt Ginsberg, &lt;em&gt;Essentials of Artificial Intelligence&lt;/em&gt;, 1993&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Ethics of Artificial Intelligence</title>
+      <link>http://localhost:1313/ai-ethics/</link>
+      <pubDate>Wed, 16 Aug 2023 11:32:47 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/ai-ethics/</guid>
+      <description>&lt;p&gt;A couple of weeks ago a family member struck up a conversation that&amp;rsquo;s become somewhat commonplace in my social dealings. The person (for their privacy I won&amp;rsquo;t name them here), asked what my thoughts were on &amp;ldquo;all this AI&amp;rdquo; that&amp;rsquo;s being developed lately.&lt;/p&gt;
+&lt;p&gt;Because I work in the tech industry, AI is something I&amp;rsquo;m regularly asked about by those close to me as it&amp;rsquo;s become more of a hot topic in the last couple of years. And my opinion on AI hasn&amp;rsquo;t changed much since a decade ago when the field&amp;rsquo;s momentum really began to pick up.&lt;/p&gt;
+&lt;p&gt;Nonetheless, many of the concerns brought up in these conversations are valid and relate to ethical concerns about our future with this powerful technology. What follows is a selection of the most emergent ethical hurdles I think AI and the tech industry will need to implement solutions for, regulatory or otherwise.&lt;/p&gt;
+&lt;h2 id=&#34;bias-and-discrimination&#34;&gt;Bias and Discrimination&lt;/h2&gt;
+&lt;p&gt;AI systems are trained on data, and if the data is biased (many studies show that most datasets are), the AI system will be biased as well. This leads to AI systems making discriminatory decisions such as &lt;a href=&#34;https://apnews.com/article/lifestyle-technology-business-race-and-ethnicity-mortgages-2d3d40d5751f933a88c1e17063657586&#34;&gt;denying loans to members of marginalized communities&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/article/10.1007/s43681-022-00137-9&#34;&gt;reinforcing bias in the judicial process&lt;/a&gt;, or &lt;a href=&#34;https://www.statnews.com/2023/03/13/medicare-advantage-plans-denial-artificial-intelligence/&#34;&gt;denying appropriate healthcare measures&lt;/a&gt; to save insurance companies a few dollars at the expense of someone&amp;rsquo;s life.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;To what degree should we be responsible for altering source data to try and swing the pendulum back in balance?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;At what point does the act of correction itself constitute or introduce its own brand of bias?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How can we derive benchmarks for something as subjective as &amp;ldquo;fairness&amp;rdquo;?&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;privacy-and-surveillance&#34;&gt;Privacy and Surveillance&lt;/h2&gt;
+&lt;p&gt;AI systems can readily be used to collect and analyze large amounts of data about people at a volume we&amp;rsquo;ve never seen before. Data can be, and already is, used to track people&amp;rsquo;s movements, monitor their online activity, and predict their future behavior. We know that much of this is already happening by social media platforms, their advertisers, and many other entities such as &lt;a href=&#34;https://www.npr.org/2023/06/13/1181868277/how-ai-is-revolutionizing-how-governments-conduct-surveillance&#34;&gt;governments&lt;/a&gt; around the world.&lt;/p&gt;
+&lt;p&gt;This raises obvious concerns about the future of individual privacy and surveillance, as well as the potential for abuse of this data. For example:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How can we ensure fairness, transparency, and accountability, and that entities using AI-enabled surveillance measures do not violate human rights, such as the right to privacy and the freedom of expression?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What are the implications of using AI-driven surveillance to monitor political protests or other forms of dissent?&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;job-displacement&#34;&gt;Job Displacement&lt;/h2&gt;
+&lt;p&gt;AI systems are becoming increasingly capable of performing tasks that were once done by humans. This could lead to widespread job displacement as machines take over more and more jobs to save employers money.&lt;/p&gt;
+&lt;p&gt;While this is a natural and valid concern about something that would lead to significant changes in our economy and society, I&amp;rsquo;m not yet convinced that labor replacement by AI will be as widespread as many folks predict. AI systems are still in their infancy, and while their capabilities are impressive to the average human the technology is still quite prone to error; not only this, but those familiar with how AI works behind the scenes can vouch for the fact that there are still many &lt;a href=&#34;https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/&#34;&gt;tricks being employed&lt;/a&gt; to make generative output seem more impressive than it is, particularly from that of language models like ChatGPT.&lt;/p&gt;
+&lt;p&gt;That is to say, AI still has a long way to go to become reliable enough to automate the labor of humans across industries; nonetheless, we should expect this possibility and evaluate our level of risk on an individual level.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Can we use AI to foster the creation of new jobs, rather than just replacing existing ones?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How can we ensure that any transition to AI-powered jobs is fair and equitable?&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;loss-of-control&#34;&gt;Loss of Control&lt;/h2&gt;
+&lt;p&gt;AI systems are becoming &lt;a href=&#34;https://www.forbes.com/sites/cognitiveworld/2020/05/30/the-autonomous-systems-pattern-of-ai&#34;&gt;increasingly autonomous&lt;/a&gt;, meaning that they are able to make decisions on their own without human intervention. This raises concerns about the loss of control over AI systems, as well as the potential for these systems to make mistakes or even harm people. While this relates to previous concerns, I believe the ethical implications deserve their own consideration.&lt;/p&gt;
+&lt;p&gt;In general, perhaps AI developers should implement some form of guard-rail systems into their systems to provide a degree of oversight and course correction when necessary, rather than allowing models to run freely.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Shouldn&amp;rsquo;t we design AI systems to remain transparent and accountable to humans?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Who should be responsible for managing the oversight of AI systems?&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;existential-crisis&#34;&gt;Existential Crisis&lt;/h2&gt;
+&lt;p&gt;As AI systems become more sophisticated, they may begin to question their own existence and purpose. It sounds funny, but as we&amp;rsquo;ve seen this is a phenomenon that&amp;rsquo;s already &lt;a href=&#34;https://www.npr.org/2022/06/16/1105552435/google-ai-sentient&#34;&gt;begun to appear on the fringes of AI news&lt;/a&gt;. Perhaps it could lead to a crisis of meaning for AI systems, as well as for humans who interact with them.&lt;/p&gt;
+&lt;p&gt;After all&amp;mdash;&lt;em&gt;if AI takes over all of our jobs in the future, what would we do with all of our free time?&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crabs in a Bucket</title>
+      <link>http://localhost:1313/crabs/</link>
+      <pubDate>Sun, 30 Jul 2023 13:48:11 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/crabs/</guid>
+      <description>&lt;p&gt;Despite the recent hellish heatwave(s) distressing the southern U.S. lately, we&amp;rsquo;ve been enjoying crabbing as a weekend family pastime down here in south Louisiana. Heading out into the marsh out of Pointe-Aux-Chenes (that&amp;rsquo;s French for &amp;ldquo;Oak Point&amp;rdquo;) down near the Gulf, we&amp;rsquo;ll typically return with several dozen crabs to boil for family and friends.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s one unique trait I&amp;rsquo;ve noticed about crabs &amp;mdash; if you have just one crab in a bucket, it&amp;rsquo;s usually going to figure out how to climb out; if you have more than one crab in a bucket and one tries to escape, the others are always going to pull it back down.&lt;/p&gt;
+&lt;p&gt;Similarly, as we work at making positive improvements in our lives many of us have toxic people around us that are always going to find a way to bring us down. Some do it intentionally because they may feel you&amp;rsquo;re &amp;ldquo;leaving them behind&amp;rdquo; as you make positive changes, taking away their social permission to maintain their own bad habits; others don&amp;rsquo;t even realize their behavior having a negative effect on you.&lt;/p&gt;
+&lt;p&gt;Be sure to check in every once in a while to make sure you don&amp;rsquo;t let the crabs in your life keep you from reaching your goals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Week with Linux Mint</title>
+      <link>http://localhost:1313/linux-mint-first-impressions/</link>
+      <pubDate>Fri, 14 Jul 2023 15:31:48 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/linux-mint-first-impressions/</guid>
+      <description>&lt;p&gt;Last week I posted here about open-sourcing my decision on which Linux distribution to use on my new lab machine. The overwhelming majority voted for Linux Mint, so that&amp;rsquo;s what I went with.&lt;/p&gt;
+&lt;p&gt;Not having used Linux in many years, I couldn&amp;rsquo;t recall anything particularly good or bad about my experience with the OS. That is to say, I&amp;rsquo;m going into this with an open mind.&lt;/p&gt;
+&lt;p&gt;The hardware I&amp;rsquo;m using isn&amp;rsquo;t anything special, which personally I prefer in the sense that it will allow me to additionally evaluate my chosen OS on an average system.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested, here are the basic specs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Model: Lenovo ThinkCentre M900 (2017, Refurbished)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Processor: Core i5-6500T&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Processor speed: 2.5GHz&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Intel HD Graphics 4000&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RAM: 16GB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Storage: 256GB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;vPro&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Support for USB 3.0&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The intention here is that it will serve as part of my home lab on which I can run experiments and projects without affecting my primary machines. So, with that in mind, it should be sufficient for its purpose.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;I didn&amp;rsquo;t have any major issues installing Linux Mint on the machine. LM provides detailed &lt;a href=&#34;https://linuxmint-installation-guide.readthedocs.io/en/latest/&#34;&gt;installation docs&lt;/a&gt; that were easy to follow, and the process was a standard one: create a bootable USB, boot it up using the BIOS, then install.&lt;/p&gt;
+&lt;p&gt;One thing I appreciated was that, when booting with the install media before the main installation, you&amp;rsquo;re actually loading a live boot of Linux Mint, which allows you to preview and check for compatibility issues before you fully commit.&lt;/p&gt;
+&lt;p&gt;Once I ran the full installation, it probably took less than ten minutes to get fully set up. Another plus in my book.&lt;/p&gt;
+&lt;p&gt;By the way, I&amp;rsquo;m running &lt;strong&gt;Linux Mint 21.1 &amp;ldquo;Vera&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;user-experience&#34;&gt;User Experience&lt;/h2&gt;
+&lt;p&gt;The one challenge I had in getting things fully operational was setting up the wi-fi adapter drivers on the system. Unfortunately, the &lt;a href=&#34;https://www.realtek.com/en/products/communications-network-ics/item/rtl8188ftv&#34;&gt;Realtek RTL8188FTV&lt;/a&gt; that came with the ThinkCentre (the hardware does not have internal wi-fi support) was not recognized by the OS.&lt;/p&gt;
+&lt;p&gt;So, after some diligent research I was able to identify a solution that got it working. For those interested, I may write up a separate post on how specifically I accomplished this, but suffice it to say that it took some advanced tinkering to get things running. This is something that could be a major turn-off to&lt;/p&gt;
+&lt;p&gt;This Github repo was critical in getting the drivers installed and adding the appropriate kernel modules: &lt;a href=&#34;https://github.com/kelebek333/rtl8188fu&#34;&gt;https://github.com/kelebek333/rtl8188fu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;After that minor inconvenience, everything in general has been pretty smooth. The OS itself is snappy and efficient. The themes and color options are a nice touch for those who like customization.&lt;/p&gt;
+&lt;p&gt;The overall feel is similar to Windows, so it is not alien to someone who might be wanting to migrate to Linux from that domain. Many of the folder actions, start menus, and general functionality are akin to what you&amp;rsquo;d find in Windows. I&amp;rsquo;ve heard that Linux Mint is a good starter Linux experience for those coming from a strictly Windows background, and so far I say that notion holds up.&lt;/p&gt;
+&lt;p&gt;My only small gripe is that some of the software packages seem to be intentionally held back by the distro maintainers from the publisher&amp;rsquo;s latest releases. For example, I wanted to set up the new &lt;em&gt;Supernova&lt;/em&gt; release of &lt;a href=&#34;https://www.thunderbird.net/en-US/&#34;&gt;Thunderbird&lt;/a&gt;, but at this time that does not appear to be possible. However, after some research I realized that this seems to be common practice in the Linux community and should not be unexpected. Some may see this as a negative, but I realize that this may also be a mechanism to protect against zero-day vulnerabilities as well as other issues by waiting a bit before integrating brand new releases. So for now, I&amp;rsquo;m okay waiting for a bit longer.&lt;/p&gt;
+&lt;p&gt;All things considered, the experience has been positive after one week. We&amp;rsquo;ll see how things progress as I continue to build out the machine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Data to Choose a Linux Distro</title>
+      <link>http://localhost:1313/linux-poll/</link>
+      <pubDate>Fri, 07 Jul 2023 16:51:29 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/linux-poll/</guid>
+      <description>&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;I recently decided that I wanted to beef up my home lab a bit by adding a small, inexpensive machine that I can use as a sandbox for server projects and testing operating systems. When I realized that StackSocial had a &lt;a href=&#34;https://stacksocial.com/sales/lenovo-thinkcentre-m900-tiny-core-i5-6500t-16gb-256gb-ssd-wi-fi-windows-10-pro-refurbished&#34;&gt;Lenovo ThinkCentre M900&lt;/a&gt; on sale for less than $200, I ordered one.&lt;/p&gt;
+&lt;p&gt;I also knew I wanted to try something besides Windows and MacOS on this new machine, so I decided to evaluate Linux distros. As it turns out, choosing a Linux distro is a really tall order for someone who&amp;rsquo;s only superifically familiar with the domain; there are hundreds, if not thousands, of distributions.&lt;/p&gt;
+&lt;p&gt;So, knowing the membership to be Linux and FOSS fans, I turned to the Mastodon community to help me decide what to try out first.&lt;/p&gt;
+&lt;h2 id=&#34;data-collection&#34;&gt;Data Collection&lt;/h2&gt;
+&lt;p&gt;I &lt;a href=&#34;https://fosstodon.org/@scoknig/110634616581420265&#34;&gt;posted a poll&lt;/a&gt; on Mastodon asking everyone to vote for their favorite Linux Distro.&lt;/p&gt;
+&lt;p&gt;I didn&amp;rsquo;t expect to get much engagement as a new member with few followers, but it seems as though this topic is something everyone has an opinion on.&lt;/p&gt;
+&lt;p&gt;Having set the poll to stay open for a week, I received 58 votes, not accounting for recommendations from replies on the post (I asked everyone with an &amp;ldquo;Other&amp;rdquo; vote to specify their preference in a reply).&lt;/p&gt;
+&lt;p&gt;After a week, I combed through the comments to create the full dataset analyze the results.&lt;/p&gt;
+&lt;h2 id=&#34;analysis&#34;&gt;Analysis&lt;/h2&gt;
+&lt;p&gt;I used a Jupyter Notebook for the basic analysis. Pandas helped me to import and transform the data, and I used Matplotlib for the visualizations. As there were two types of recommendations, I classified the recommendations as either &lt;strong&gt;distros&lt;/strong&gt; or &lt;strong&gt;desktops&lt;/strong&gt; (&lt;a href=&#34;https://embeddedinventor.com/linux-distros-vs-desktop-environments-differences-explained/&#34;&gt;what&amp;rsquo;s the difference?&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;From there, I added a few blocks of code to clean things up, sort the data, and create the bar charts.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Now that I had a couple of visuals to evaluate, the results were quite interesting and unexpected. &lt;a href=&#34;https://zorin.com/os/&#34;&gt;Zorin OS&lt;/a&gt; was one of my personal preferences going into the poll, but it hadn&amp;rsquo;t received a single vote (since the poll closed, I&amp;rsquo;ve had some comments recommending it).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://linuxmint.com/&#34;&gt;Linux Mint&lt;/a&gt; was by far the winner in the distro category, followed by &lt;a href=&#34;https://www.fedoraproject.org/&#34;&gt;Fedora&lt;/a&gt; and &lt;a href=&#34;https://nixos.org/&#34;&gt;NixOS&lt;/a&gt;. So, it looks like I&amp;rsquo;ll be starting off with Linux Mint.&lt;/p&gt;
+&lt;p&gt;For desktop environments, &lt;a href=&#34;https://kde.org/plasma-desktop/&#34;&gt;KDE Plasma&lt;/a&gt; was the most recommended.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve since &lt;a href=&#34;https://fosstodon.org/@scoknig/110674998281361161&#34;&gt;posted the results on Mastodon&lt;/a&gt;, in case anyone who participated was interested in the overall outcome.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve pushed the project files to my &lt;a href=&#34;https://github.com/scoknig/mastodon-linux-recs/blob/main/Linux%20Poll%20Analysis.ipynb&#34;&gt;Github&lt;/a&gt;, but I recommend &lt;a href=&#34;https://nbviewer.org/github/scoknig/mastodon-linux-recs/blob/main/Linux%20Poll%20Analysis.ipynb&#34;&gt;checking it out here&lt;/a&gt; using the Jupyter Notebook Viewer if you just want to see the results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why I Wont Be Joining Threads</title>
+      <link>http://localhost:1313/why-i-wont-be-joining-threads/</link>
+      <pubDate>Thu, 06 Jul 2023 17:36:44 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/why-i-wont-be-joining-threads/</guid>
+      <description>&lt;p&gt;Threads, the new app from Instagram (Meta), is designed to be a more &amp;ldquo;intimate and private&amp;rdquo; way to connect with your friends. It&amp;rsquo;s free to use and there are no ads, which seem to be two of the main selling points. So far, though, I&amp;rsquo;m not convinced that it&amp;rsquo;s enough to make me want to join.&lt;/p&gt;
+&lt;p&gt;First of all, let&amp;rsquo;s talk about the privacy aspect. Instagram has a pretty &lt;a href=&#34;https://www.inc.com/jason-aten/instagram-just-acknowledged-it-has-a-much-bigger-privacy-problem-than-we-thought.html&#34;&gt;poor history&lt;/a&gt; when it comes to privacy. They&amp;rsquo;ve been caught allowing their ad partners to collect and share loads of data from millions of user accounts without their consent, and have been criticized for their &lt;a href=&#34;https://www.forbes.com/sites/zakdoffman/2019/09/12/new-instagram-hack-exclusive-facebook-confirms-user-accounts-and-phone-numbers-at-risk/?sh=1d369c4f2200&#34;&gt;lax security measures&lt;/a&gt;. So I&amp;rsquo;m not sure why I should trust them with the intimate and private messages between me and my friends.&lt;/p&gt;
+&lt;p&gt;Secondly, even if Threads were completely private I&amp;rsquo;m not sure I see the point. Between the &amp;ldquo;[insert career here] has been killed by AI&amp;rdquo; and &amp;ldquo;I discovered X about [insert buzzword]. Here&amp;rsquo;s what you should know&amp;hellip;&amp;rdquo; posts, I&amp;rsquo;m already bored with the Twitter echo chamber. It&amp;rsquo;s become a cesspool of people scrambling over each other to grab whatever clout they can get their grubby little fingers on. If Threads is supposed to be the &amp;ldquo;new Twitter&amp;rdquo;, what would I gain by joining?&lt;/p&gt;
+&lt;p&gt;Finally, I suppose Threads is just another way for Meta to collect data on me and my digital interactions, which I&amp;rsquo;m not keen to support. As we know, if you&amp;rsquo;re not paying for a product then you likely &lt;em&gt;are&lt;/em&gt; the product (or maybe it&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Free_and_open-source_software&#34;&gt;FOSS&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;As the Sharks say: for those reasons, I&amp;rsquo;m out. I&amp;rsquo;m not necessarily saying it&amp;rsquo;s a bad app. I just don&amp;rsquo;t think it&amp;rsquo;s for me.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re looking for a more private way to connect with your friends, there are plenty of better options out there. &lt;a href=&#34;https://www.signal.org/&#34;&gt;Signal&lt;/a&gt; is a great secure messaging option. I&amp;rsquo;d also recommend &lt;a href=&#34;https://mastodon.social/&#34;&gt;Mastodon&lt;/a&gt; as a federated alternative to Twitter.&lt;/p&gt;
+&lt;p&gt;For now, you can &lt;a href=&#34;https://fosstodon.org/@scoknig&#34;&gt;find me there&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What do you think? Are you planning on joining Threads?&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>18 Month reMarkable 2 Review</title>
+      <link>http://localhost:1313/remarkable-2/</link>
+      <pubDate>Sun, 02 Jul 2023 13:59:37 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/remarkable-2/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://remarkable.com/store/remarkable-2&#34;&gt;reMarkable 2&lt;/a&gt; found its way to my Instagram feed in early 2022, a time when I was in the trenches of trying to get two companies off the ground while also just starting grad school working toward my MBA.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve always preferred handwritten notes to typed, but a pain point for me has been keeping my notes organized in a way that&amp;rsquo;s easily accessible later. Having been through several iterations of owning an iPad and Apple Pencil for keeping notes, I didn&amp;rsquo;t like the amount of distraction iPads can cause with the notifications and other apps.&lt;/p&gt;
+&lt;p&gt;The reMarkable 2 seemed to answer this struggle, so I ordered one.&lt;/p&gt;
+&lt;h2 id=&#34;pros&#34;&gt;Pros&lt;/h2&gt;
+&lt;p&gt;What stood out to me about the reMarkable 2 is that it&amp;rsquo;s a device designed for focus. There aren&amp;rsquo;t any additional apps or notifications to distract you from your note taking or writing, you can use it to convert handwritten notes to text, email them around, and sync your notes to your other devices. The user interface is minimal and easy to navigate, and I like the integration with various cloud storage providers.&lt;/p&gt;
+&lt;p&gt;In addition to these software features, the tactile experience of the reMarkable 2 is hard to beat. Even compared to other devices I&amp;rsquo;ve used, it&amp;rsquo;s probably the closest thing you&amp;rsquo;ll get to pen and paper without actually writing with pen and paper. In my opinion, reMarkable nailed that experience.&lt;/p&gt;
+&lt;p&gt;Physically, the device is also quite thin and sleek, so it&amp;rsquo;s easy to tote around to meetings or other places where you might want to bring some documents or take notes.&lt;/p&gt;
+&lt;h2 id=&#34;cons&#34;&gt;Cons&lt;/h2&gt;
+&lt;p&gt;In my experience with the reMarkable 2, my only remarkable (pun intended) negatives are primarily the costs. While I think the device itself is reasonable, currently selling for $299 with a $279 refurbished option, the peripherals are going to rack up your order total.&lt;/p&gt;
+&lt;p&gt;The basic marker, which you need to use the tablet, is $79. However, this doesn&amp;rsquo;t include an eraser (trust me, you&amp;rsquo;ll want the eraser), so now you have to get the &amp;ldquo;Marker Plus&amp;rdquo; for $129.&lt;/p&gt;
+&lt;p&gt;I believe that as a critical piece of the system, the basic marker should be baked into the cost of, and included with, the tablet. Then, perhaps an upgraded marker model can be an upcharge if desired.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;re also going to want to protect your device, and the cover folio is also sold separately starting at another $79.&lt;/p&gt;
+&lt;p&gt;The good news here is that you can find cheaper stylus and cover folio alternatives on Amazon for much cheaper, which is what I&amp;rsquo;ve done since the initial purchase.&lt;/p&gt;
+&lt;h2 id=&#34;overall-opinion&#34;&gt;Overall Opinion&lt;/h2&gt;
+&lt;p&gt;All things considered, 18 months later I still use my reMarkable 2 every week. The stylus nibs last a good while, so after the initial investment there really isn&amp;rsquo;t much you need to keep the device running other than the optional $2.99 Connect subscription. Connect is reMarkable&amp;rsquo;s online service that keeps your notes synced to your other devices and backed up in their cloud.&lt;/p&gt;
+&lt;p&gt;With a battery lasting for weeks on a single charge, I&amp;rsquo;ve been quite happy with the low-maintenance experience of the paper tablet.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re a heavy note taker and you&amp;rsquo;re on the fence, I&amp;rsquo;d recommend giving the reMarkable 2 a shot.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Have you used the reMarkable 2 or a similar device? Drop me an email using the button below, I&amp;rsquo;d love to hear about your experience with it.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frogs on a Log</title>
+      <link>http://localhost:1313/frogs-on-a-log/</link>
+      <pubDate>Fri, 30 Jun 2023 12:23:56 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/frogs-on-a-log/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s an old story that goes something like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are five frogs sitting on a log. One decides to jump off. How many frogs are left on the log?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Most folks would answer, &amp;ldquo;four&amp;rdquo;. But that&amp;rsquo;s wrong.&lt;/p&gt;
+&lt;p&gt;The real answer is that &lt;em&gt;five frogs are still sitting on the log.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You see, despite the &lt;em&gt;decision&lt;/em&gt; to jump off, the story doesn&amp;rsquo;t specify that the frog actually jumped. There is a vital distinction between making a decision and acting upon that decision. So, while that frog decided to jump, it didn&amp;rsquo;t actually take the leap.&lt;/p&gt;
+&lt;p&gt;The metaphor of the five frogs on a log reminds us that our ideas, decisions, and aspirations are meaningless if we fail to back them up with action.&lt;/p&gt;
+&lt;p&gt;In our lives, we often encounter situations where decisions simply aren&amp;rsquo;t enough; we have to then bridge the gap between intention and execution.&lt;/p&gt;
+&lt;p&gt;So the next time you decide to do something worthwhile, don&amp;rsquo;t be a frog on a log—take the leap.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self Hosted Software List</title>
+      <link>http://localhost:1313/self-hosted/</link>
+      <pubDate>Wed, 28 Jun 2023 17:03:29 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/self-hosted/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been browsing around for project ideas for an old &lt;a href=&#34;https://www.pcmag.com/reviews/dell-inspiron-15-7000-series-7559&#34;&gt;Dell Inspiron 15&lt;/a&gt; I have laying around. The bones are great, but some of the keys don&amp;rsquo;t work and the screen has some damage after being dropped on the ground at some point.&lt;/p&gt;
+&lt;p&gt;I want to keep it in use somehow, and my initial idea was to use it as a homebrew &lt;a href=&#34;https://en.wikipedia.org/wiki/Network-attached_storage&#34;&gt;NAS server&lt;/a&gt; using &lt;a href=&#34;https://www.truenas.com/truenas-core/&#34;&gt;TrueNas&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before committing to that, though, I decided to check out other self-hosted software out there in case there was something else I&amp;rsquo;d rather add to my home lab.&lt;/p&gt;
+&lt;p&gt;I came across the list below on Github and wanted to store it here for future reference. There&amp;rsquo;s a ton of good stuff in there.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Repo Link: &lt;a href=&#34;https://github.com/awesome-selfhosted/awesome-selfhosted&#34;&gt;awesome-selfhosted&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Up With Reddit?</title>
+      <link>http://localhost:1313/reddit-strike/</link>
+      <pubDate>Mon, 26 Jun 2023 15:00:54 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/reddit-strike/</guid>
+      <description>&lt;p&gt;How long can a site continue to alienate its user base and volunteer moderators before its &lt;a href=&#34;https://fortune.com/2023/06/17/why-is-reddit-dark-subreddit-moderators-ceo-huffman-not-negotiating/&#34;&gt;bull-headed CEO&lt;/a&gt; corrects course? Reddit may be on track to answer that question for us.&lt;/p&gt;
+&lt;h2 id=&#34;the-situation&#34;&gt;The Situation&lt;/h2&gt;
+&lt;p&gt;In case you haven&amp;rsquo;t heard, Reddit mods and users have been on a major strike over the last week. Thousands of subreddits (some holding tens of millions of subscribers) have either gone private or otherwise restricted access to protest the company&amp;rsquo;s recent announcement of its intention to implement some major API pricing changes.&lt;/p&gt;
+&lt;p&gt;While these changes may have internally seemed like a good idea for stakeholders, this would also force some of the largest third-party apps and services to close up shop.&lt;/p&gt;
+&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;The problem isn&amp;rsquo;t that Reddit made a business decision. From an executive and stakeholder&amp;rsquo;s perspective it makes all the sense in the world to steer toward increasing revenue; they realized that many generative AI services like ChatGPT are using their corpus of data and they want to be compensated. Fair enough.&lt;/p&gt;
+&lt;p&gt;What I see as the crux of the matter is that Reddit has obliterated any trust that its users, mods, and third-party devs had for them as an organization. The new pricing will have a greater negative effect on services who aren&amp;rsquo;t even using it for generative AI.&lt;/p&gt;
+&lt;p&gt;Further complicating things, Steve Huffman&amp;rsquo;s &lt;del&gt;idiotic&lt;/del&gt; stubborn response to the Reddit community&amp;rsquo;s protests has done nothing but dig a deeper hole for the company.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m not sure the company&amp;rsquo;s reputation will fully recover from this fiasco.&lt;/p&gt;
+&lt;h2 id=&#34;what-happens-now&#34;&gt;What Happens Now?&lt;/h2&gt;
+&lt;p&gt;Ultimately, it&amp;rsquo;s anyone&amp;rsquo;s guess.&lt;/p&gt;
+&lt;p&gt;As of now, Huffman &lt;a href=&#34;https://9to5mac.com/2023/06/15/reddit-blackout-third-party-apps/&#34;&gt;really doesn&amp;rsquo;t care&lt;/a&gt; what the community thinks and shows no intention of backing away from the decision. He thinks that this protest &lt;a href=&#34;https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman&#34;&gt;will pass&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And while it may, this whole ordeal is certainly leaving a bad taste in the mouths of many of its users (myself included).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>100 Days to Offload</title>
+      <link>http://localhost:1313/100-days-to-offload/</link>
+      <pubDate>Sun, 25 Jun 2023 09:30:12 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/100-days-to-offload/</guid>
+      <description>&lt;p&gt;Publish 100 posts on your personal blog in a year. That&amp;rsquo;s it, that&amp;rsquo;s the challenge.&lt;/p&gt;
+&lt;p&gt;Seems simple enough, so why not?&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve mentioned before that I&amp;rsquo;ve gone through several (at a minimum) iterations of starting a new site/personal blog as an online hub. The problem I&amp;rsquo;ve always run into is that I always felt the need to write for some particular audience, rather than for myself.&lt;/p&gt;
+&lt;p&gt;This time I realized that no one&amp;rsquo;s asking me to do that. This site is &lt;em&gt;my site&lt;/em&gt;, and I can post whatever I want here. Hopefully those who read this will find something useful or interesting, but the point here isn&amp;rsquo;t to amass imaginary points in my &lt;a href=&#34;https://scottk.goatcounter.com/&#34;&gt;analytics dashboard&lt;/a&gt; or to feel good about how many people sign up for my newsletter. At this point, I don&amp;rsquo;t even have a newsletter, and that&amp;rsquo;s intentional.&lt;/p&gt;
+&lt;p&gt;The thing is, people are more complex and multi-faceted than what you normally see in someone&amp;rsquo;s online presence. I don&amp;rsquo;t want to be relegated to writing about just one topic like tech or business here. I&amp;rsquo;m going to use this as a tool to think through concepts, save good ideas, and hopefully help someone else in the process. That&amp;rsquo;s the goal.&lt;/p&gt;
+&lt;p&gt;The practice of regular writing is also good for the mind, and this has so far been a great exercise in getting some of my thoughts out into the world.&lt;/p&gt;
+&lt;p&gt;I want to keep my &lt;a href=&#34;http://localhost:1313/flywheel/&#34;&gt;flywheel spinning&lt;/a&gt; here with regard to blogging momentum, so I&amp;rsquo;m taking on the &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to Offload&lt;/a&gt; challenge in order to keep the momentum going.&lt;/p&gt;
+&lt;p&gt;P.S. Yes, I&amp;rsquo;m still counting my first posts so I&amp;rsquo;ve given myself a bit of a head start. Sue me (please don&amp;rsquo;t).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Improvise Public Speaking</title>
+      <link>http://localhost:1313/public-speaking-formula/</link>
+      <pubDate>Fri, 23 Jun 2023 14:49:17 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/public-speaking-formula/</guid>
+      <description>&lt;p&gt;Like most people, I&amp;rsquo;m not the biggest fan of public speaking.&lt;/p&gt;
+&lt;p&gt;But, I am a member of several social groups and organizations, so from time to time I get called upon to &amp;ldquo;say a few words&amp;rdquo; for a given occasion.&lt;/p&gt;
+&lt;p&gt;Knowing that this can potentially happen at any time, I always like to be prepared to rise to the occasion (and to avoid looking like a bumbling idiot in front of a crowd). Some time ago I began researching different methods, techniques, and formulas to make this easier. I figured, if I can keep a simple structure and maybe a few stories in my back pocket, then I&amp;rsquo;ll always be prepared with &lt;em&gt;something&lt;/em&gt; to say.&lt;/p&gt;
+&lt;p&gt;One formula I&amp;rsquo;ve stuck with for a while is one I came across from Peter Khoury in an article titled &lt;a href=&#34;https://magneticspeaking.com/how-to-give-an-impressive-impromptu-speech/&#34;&gt;&amp;ldquo;How to Give an Impressive Impromptu Speech&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Peter lays out a simple, three-step formula for improvising a speech for just about any occasion.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s called the &lt;strong&gt;FAT&lt;/strong&gt; method. Here&amp;rsquo;s how it works:&lt;/p&gt;
+&lt;h2 id=&#34;f-feeling&#34;&gt;F: Feeling&lt;/h2&gt;
+&lt;p&gt;The first step is to &lt;strong&gt;express your feeling&lt;/strong&gt; about the topic.&lt;/p&gt;
+&lt;p&gt;For a quick example, let&amp;rsquo;s pretend you unexpectedly win a company award at work and your colleagues expect you to give a short speech. Knowing the FAT method, you&amp;rsquo;re ready for this and you can begin with something like:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;m grateful and honored to receive this Employee of the Universe Award. I couldn&amp;rsquo;t have done it without the support of my team and leadership &lt;em&gt;(only if this is true)&lt;/em&gt;&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;a-anecdote&#34;&gt;A: Anecdote&lt;/h2&gt;
+&lt;p&gt;Now, &lt;strong&gt;throw in a short anecdote&lt;/strong&gt; to give the audience something to relate to. In our example, you might say:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I remember my early days working for Acme as a Trap Engineer. The roadrunners were still running around in droves and I never imagined I&amp;rsquo;d have such an impact through my work here. Now, we are closer than ever to eliminating the lot of them&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;t-tie-back&#34;&gt;T: Tie Back&lt;/h2&gt;
+&lt;p&gt;Finally, &lt;strong&gt;tie everything back&lt;/strong&gt; to the topic at hand and close it out.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I want to thank our company leadership and my colleagues for being a great team. I appreciate the award and will always strive to ensure our continued success.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;bonus-speaking-tips&#34;&gt;Bonus Speaking Tips&lt;/h2&gt;
+&lt;p&gt;That&amp;rsquo;s it! Super easy, and that&amp;rsquo;s the point. The great thing is that you can extend any or all of these components to make as long or as short of a speech as you want.&lt;/p&gt;
+&lt;p&gt;As a bonus, here are some additional tips for generally good speaking:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Be truthful.&lt;/strong&gt; Don&amp;rsquo;t say &amp;ldquo;I&amp;rsquo;m really excited to be here&amp;hellip;&amp;rdquo; if you&amp;rsquo;re not. Just say &amp;ldquo;I&amp;rsquo;m happy to talk to you today about&amp;hellip;&amp;rdquo; if that&amp;rsquo;s how you feel.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Share what you know.&lt;/strong&gt; You don&amp;rsquo;t have to make up a story just to have something to share. Your anecdote could be something even tangentially related to the topic, which is fine as long as you can tie it back in somehow at the end. An audience will love just about any story. It&amp;rsquo;s just human nature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Practice is important.&lt;/strong&gt; Don&amp;rsquo;t expect to be perfect with this the first time you try it. The more you volunteer to speak in front of people, the easier it becomes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Have fun.&lt;/strong&gt; You&amp;rsquo;re probably nervous because you think people are judging you. This is generally not true. Most folks won&amp;rsquo;t even remember specifically what you said (unless you pull out some real gems) by the next day. No need to stress.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spinning the Flywheel</title>
+      <link>http://localhost:1313/flywheel/</link>
+      <pubDate>Tue, 20 Jun 2023 15:04:15 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/flywheel/</guid>
+      <description>&lt;p&gt;Below is a recycled post from one of my older blogs. I wrote this when I was in the midst of trying to get my first startup off the ground, so I approached the topic from that mental frame. Still, it remains useful and I often refer back to the idea when starting a new project or need some motivation. After the post I&amp;rsquo;ll share my current take on this concept.&lt;/p&gt;
+&lt;h2 id=&#34;original-post&#34;&gt;Original Post&lt;/h2&gt;
+&lt;p&gt;A while back I came across the concept of a flywheel. If you&amp;rsquo;re not familiar, a flywheel is technically defined as a wheel with a heavy rim placed on the revolving shaft of any machinery put in motion by an irregular or intermitting force or meeting with an irregular or intermittent resistance, for the purpose of rendering the motion equable and regular by means of its momentum.&lt;/p&gt;
+&lt;p&gt;Rob Berger defines the concept more simply in his article, &lt;a href=&#34;https://www.getrichslowly.org/flywheel-of-wealth/&#34;&gt;&amp;ldquo;The Flywheel of Wealth (and the importance of patience)&amp;rdquo;&lt;/a&gt; as follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;A flywheel is a mechanical device designed to efficiently store rotational energy. Well, that’s how an engineer would describe a flywheel. I majored in English. To me, a flywheel is a wheel that’s really hard to get started. Once it gets going, however, it’s really hard to stop.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Of course, Rob Berger was referencing the concept in his article with regard to building personal wealth, but there is also a strong parallel with the process of building a business (or any project, really).&lt;/p&gt;
+&lt;p&gt;Think about it. As founders we spend hours upon hours tweaking marketing funnels, building better features for our products, creating pitch decks; all to get those first few customers. And at the beginning, even a few customer conversions can seem like a lot. Some days you don&amp;rsquo;t see any progress, but you keep going anyway.&lt;/p&gt;
+&lt;p&gt;Why? Because the startup process is a flywheel. If you are patient and consistent about your efforts, the momentum will build and the work will pay off. So keep building, keep iterating, and don&amp;rsquo;t give up when it seems like things are moving slowly.&lt;/p&gt;
+&lt;p&gt;Get that flywheel spinning, and eventually it will become a difficult force to stop.&lt;/p&gt;
+&lt;h2 id=&#34;current-perspective&#34;&gt;Current Perspective&lt;/h2&gt;
+&lt;p&gt;While it&amp;rsquo;s obvious that I was deep in a startup founder headspace when I initially wrote that, I believe the concept can be applied to many aspects of life.&lt;/p&gt;
+&lt;p&gt;Think about the last time you started something new. Whether it was a project at work, striving for new fitness goals, or some other thing you&amp;rsquo;ve resolved yourself to take on, I&amp;rsquo;d bet it seemed daunting at first. Many new things are.&lt;/p&gt;
+&lt;p&gt;But, if you can use your initial motivation to get the flywheel spinning and get past those initial challenges, you&amp;rsquo;ll almost always find that things get much easier after a while. Persistence and consistency breed momentum, which is what the flywheel is all about.&lt;/p&gt;
+&lt;p&gt;Eventually, the momentum you&amp;rsquo;re creating will propel you toward whatever goal you&amp;rsquo;ve set for yourself and things will be much less likely to come to a grinding halt.&lt;/p&gt;
+&lt;p&gt;Keep that flywheel spinning!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Mindful Journey Through the Woods</title>
+      <link>http://localhost:1313/through-the-woods/</link>
+      <pubDate>Fri, 16 Jun 2023 11:03:59 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/through-the-woods/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always enjoyed nature. But, I work from home as a data engineer, so to counterbalance that I make sure to spend as much time as I can exploring the outdoors, far away from digital distractions. Most days, this can be as simple as taking a walk around the local park or going for a bike ride.&lt;/p&gt;
+&lt;p&gt;Last month, I took a solo camping trip to &lt;a href=&#34;https://allyouneedinstitute.com/&#34;&gt;All You Need Institute&lt;/a&gt; with the goal of exploring the concept of &amp;ldquo;forest bathing&amp;rdquo; and getting some peace and quiet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/travel/article/forest-bathing-nature-walk-health&#34;&gt;Forest bathing&lt;/a&gt;, a Japanese concept I recently came across (though it&amp;rsquo;s been around since the eighties), is the practice of immersing oneself in nature in order to promote physical and mental well-being. They call it &lt;em&gt;shinrin-yoku&lt;/em&gt;. It&amp;rsquo;s meant to be a mindful activity where you purposely slow down and pay attention to the sights, sounds, smells, and feelings of the natural world. The health benefits of this practice are myriad.&lt;/p&gt;
+&lt;p&gt;I arrived at AYNI for my five-day excursion without too much of a plan for the weekend. The sprawling homestead, run by two New Orleans natives, is located on a beautiful plot of 111 acres in the Sandhills of Mississippi, in the Piney Woods region. The grounds are lush with new growth, with towering pine trees, rolling hills, a swimming pond, and unique flora and fauna such as deer moss and gopher tortoises.&lt;/p&gt;
+&lt;p&gt;I stayed in the &amp;ldquo;Cozy Pineland Micro-Cabin&amp;rdquo;, one of the non-primitive sites on the grounds. It&amp;rsquo;s a &lt;em&gt;tiny&lt;/em&gt; camper with just enough room for a bed and an air conditioning unit, which was a nice amenity in the upper-eighty-degree heat. The only things I took with me were my phone (for family check-ins), my Kindle Paperwhite, my black lab Gracie, and camping essentials like food, water, and a hammock.&lt;/p&gt;
+&lt;p&gt;Once the camp was set up, I spent the next five days exploring the grounds and soaking in the natural surroundings. Gracie and I hiked through the winding network of trails, enjoyed the one-acre pond, and throughout the weekend I read Nick Offerman&amp;rsquo;s book, &lt;em&gt;Where the Deer and the Antelope Play&lt;/em&gt; in the piney shade. While I&amp;rsquo;m not sure I agree with every aspect of Offerman&amp;rsquo;s book, his writing reminded me to appreciate the simple things in life, and of the importance of intentionally connecting with nature (by now, you can probably sense the theme here).&lt;/p&gt;
+&lt;p&gt;Here are a few book quotes from that weekend I saved to my Kindle clippings:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And so I go into the woods. As I go in under the trees, dependably, almost at once, and by nothing I do, things fall into place. I enter an order that does not exist outside, in the human spaces. I feel my life take its place among the lives—the trees, the birds, the living of all these and the dead—that go and have gone to make the life of the earth. I am less important than I thought, the human race is less important than I thought. I rejoice in that. My mind loses its urgings, senses its nature, and is free. —&lt;strong&gt;Wendell Berry, A Native Hill&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A man on foot, on horseback or on a bicycle will see more, feel more, enjoy more in one mile than the motorized tourists can in a hundred miles. —&lt;strong&gt;Edward Abbey, Desert Solitaire&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip;our species is merely one small part of the &amp;ldquo;great economy&amp;rdquo; that is all of nature, and the ecological humility that our place in nature subsequently requires. —&lt;strong&gt;Nick Offerman, Where the Deer and the Antelope Play&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wherever a man separates from the multitude and goes his own way, there is a fork in the road, though the travelers along the highway see only a gap in the paling. —&lt;strong&gt;Henry David Thoreau&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;All in all, it was a great trip.&lt;/p&gt;
+&lt;h2 id=&#34;reflections&#34;&gt;Reflections&lt;/h2&gt;
+&lt;p&gt;My time camping in the Piney Woods was a refreshing experience. I enjoyed the rest and reflection and emerged feeling reinvigorated.&lt;/p&gt;
+&lt;p&gt;I think the Japanese are onto something here. Forest bathing is a simple but powerful practice that can have a profound impact on many aspects of general wellbeing.&lt;/p&gt;
+&lt;p&gt;If this sounds like something you might enjoy, I highly recommend doing a bit of forest bathing yourself. It&amp;rsquo;s a great way to relax, de-stress, and reconnect with nature. If you&amp;rsquo;re looking to improve your physical and mental health, give it a try.&lt;/p&gt;
+&lt;h2 id=&#34;additional-thoughts&#34;&gt;Additional Thoughts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I am more patient and peaceful when I am out in nature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I realized I should make more time to relax and recharge.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After the trip I appreciate the simple things in life more, like running water, birds chirping, and the cadence of the pine trees in a gentle wind.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have our own special ecosystem back home in Sportsman&amp;rsquo;s Paradise. As a hunter and fisherman myself, I&amp;rsquo;d like to further my own education so I can be a better steward of our natural resources. I&amp;rsquo;m looking into becoming certified as a &lt;a href=&#34;https://www.louisianamasternaturalist.org/&#34;&gt;Louisiana Master Naturalist&lt;/a&gt; and getting involved in some conservation volunteer work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is There a Downside to AI?</title>
+      <link>http://localhost:1313/is-there-a-downside-to-ai/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/is-there-a-downside-to-ai/</guid>
+      <description>&lt;p&gt;I had a conversation the other day with my good friend, &lt;a href=&#34;https://twitter.com/kasrakhalili&#34;&gt;Kasra Khalili&lt;/a&gt;, that stuck with me.&lt;/p&gt;
+&lt;p&gt;We were discussing the viral rise of AI since the release of ChatGPT and its future potential. AI (Artificial Intelligence, if you&amp;rsquo;re reading this from the rock you&amp;rsquo;ve been living under) is the flavor of the month in the tech world, and it is rapidly entangling our everyday lives. From smartphones to self-driving cars, AI is changing the way we live and work.&lt;/p&gt;
+&lt;p&gt;One thing I&amp;rsquo;ve noticed lately is that, while many folks (especially Twitter tech bros) are hailing the latest exploits or scrapping to stake their claim as the latest and greatest &amp;ldquo;ChatGPT Prompt Engineer&amp;rdquo;, not many are talking about the potentially negative side effects lurking under the surface.&lt;/p&gt;
+&lt;p&gt;One of my biggest concerns about AI tools like ChatGPT is that it could lead to people becoming overly dependent on it. We&amp;rsquo;re already seeing this happen with students who use ChatGPT to write their essays in school, and workers who use it to automate the bulk of their daily tasks. This is a dangerous trend, and I worry that it could lead to us losing our critical thinking skills. If we become too reliant on AI to do our thinking for us, we&amp;rsquo;ll become lazy and our mental faculties will atrophy. AI should be a &lt;em&gt;tool&lt;/em&gt;, not a second brain.&lt;/p&gt;
+&lt;p&gt;Another trend I&amp;rsquo;m predicting is a sharp increase in what is already a minefield of misinformation out there. Just last year, a group of researchers used ChatGPT to generate a fake news article that claimed the death of a major politician. The article was shared widely on social media, and many believed it to be true, causing a great deal of confusion and panic. This, unfortunately, is &lt;a href=&#34;https://mwi.usma.edu/disinformation-in-the-age-of-chatgpt/&#34;&gt;not an uncommon story&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Considering this type of content generation in tandem with &lt;a href=&#34;https://en.wikipedia.org/wiki/Deepfake&#34;&gt;deepfakes&lt;/a&gt;, I wonder how many AI tools will spawn just to combat the rubbish being generated by the other platforms.&lt;/p&gt;
+&lt;p&gt;Of course, these are just a couple of the potential pitfalls. There are, as we&amp;rsquo;ve already seen, many benefits to AI-based technology. I&amp;rsquo;m just saying it&amp;rsquo;s important to weigh the risks and benefits carefully. I believe we should monitor the negative side effects so that we can take steps to mitigate them, rather than stand by indifferently, waiting for it to take over our role in the world.&lt;/p&gt;
+&lt;p&gt;Rather than rush the process, it would be wise to take a measured approach to AI development and make sure that it continues to be used for good. Let&amp;rsquo;s also make sure it doesn&amp;rsquo;t become so powerful that it poses a threat to humanity (we are sure that&amp;rsquo;s off the table, right?).&lt;/p&gt;
+&lt;p&gt;All things considered, I believe the future of AI is bright. &lt;em&gt;If we&amp;rsquo;re mindful&lt;/em&gt; about how we proceed with it, AI can continue to be a force for good in the world.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Ready Player One</title>
-      <link>http://example.org/ready-player-one/</link>
+      <link>http://localhost:1313/ready-player-one/</link>
       <pubDate>Sun, 11 Jun 2023 17:36:42 -0500</pubDate>
-      
-      <guid>http://example.org/ready-player-one/</guid>
-      <description>Let&amp;rsquo;s get this party started.</description>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/ready-player-one/</guid>
+      <description>&lt;p&gt;As I&amp;rsquo;m putting the finishing touches on this site, I&amp;rsquo;m also thinking back on the graveyard of &amp;ldquo;personal sites past&amp;rdquo; I&amp;rsquo;ve left behind over the years.&lt;/p&gt;
+&lt;p&gt;Since the dawn of the internet, there&amp;rsquo;s been an unspoken peer pressure to create a &amp;ldquo;digital presence&amp;rdquo; where people can find you online (doubly so for developers). For most people these days, social media fills this void. I&amp;rsquo;ve never really been thrilled with social media and, while I have accounts on a few platforms, I post &lt;em&gt;maybe&lt;/em&gt; a couple times per year at most.&lt;/p&gt;
+&lt;p&gt;A more useful thing to have is a place to keep ideas, resources, and other sundry tidbits that I may want to look back on later. In recent years I&amp;rsquo;ve come across Tiago Forte&amp;rsquo;s idea of building a &lt;a href=&#34;https://fortelabs.com/blog/basboverview/&#34;&gt;second brain&lt;/a&gt;. The only issue is that I can&amp;rsquo;t figure out what type of person has the time or attention to maintaining such a detailed thing.&lt;/p&gt;
+&lt;p&gt;Certainly not me.&lt;/p&gt;
+&lt;p&gt;Not only that, but the principles of &lt;a href=&#34;https://indieweb.org/POSSE&#34;&gt;POSSE&lt;/a&gt; are hard to argue against. Why create content on someone else&amp;rsquo;s platform when I can just put everything I want here as a single source of truth for all my online content?&lt;/p&gt;
+&lt;p&gt;You may have also noticed that the design here is brutally minimal. That&amp;rsquo;s also &lt;a href=&#34;https://thewebisfucked.com/&#34;&gt;intentional&lt;/a&gt;. In past projects, there&amp;rsquo;s always been another platform to upgrade, a code library to update, yada yada yada. With the goal of avoiding that rigmarole here, this site will remain content-focused. It&amp;rsquo;s beauty is in its simplicity. Like the creator of &lt;a href=&#34;https://512kb.club&#34;&gt;the 512K Club&lt;/a&gt; states, the internet has become a &lt;strong&gt;bloated mess&lt;/strong&gt;, and I don&amp;rsquo;t intend to contribute to that trend.&lt;/p&gt;
+&lt;p&gt;The more you get carried away with shiny libraries and tools, the more technical debt you create for yourself. Keep it simple. I&amp;rsquo;m aiming to do just that, while paying homage to the barebones-yet-nostalgic sites of Web 1.0.&lt;/p&gt;
+&lt;p&gt;Thanks to my former colleague &lt;code&gt;zwbetz&lt;/code&gt; and his detailed &lt;a href=&#34;https://zwbetz.com/make-a-hugo-blog-from-scratch/&#34;&gt;intro to Hugo&lt;/a&gt;, I was able to set this up quickly and intend to keep it running as one of the most lightweight sites around.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

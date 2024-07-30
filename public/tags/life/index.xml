@@ -1,19 +1,826 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>life on Scott Knight</title>
-    <link>http://example.org/tags/life/</link>
-    <description>Recent content in life on Scott Knight</description>
+    <title>Scott Knight's Blog</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content from Scott Knight</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jun 2023 17:36:42 -0500</lastBuildDate><atom:link href="http://example.org/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <language>"en-us"</language>
+    <managingEditor>Scott Knight</managingEditor>
+    <webMaster>Scott Knight</webMaster>
+    <copyright>2023 Scott Knight All rights reserved</copyright>
+    <lastBuildDate>Fri, 19 Apr 2024 12:43:55 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ready Player One</title>
-      <link>http://example.org/ready-player-one/</link>
-      <pubDate>Sun, 11 Jun 2023 17:36:42 -0500</pubDate>
-      
-      <guid>http://example.org/ready-player-one/</guid>
-      <description>Let&amp;rsquo;s get this party started.</description>
+      <title>6-to-1 Grocery Method</title>
+      <link>http://localhost:1313/6-to-1-grocery-method/</link>
+      <pubDate>Fri, 19 Apr 2024 12:43:55 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/6-to-1-grocery-method/</guid>
+      <description>&lt;p&gt;While settling into my new home I&amp;rsquo;ve had to get back in the swing of grocery shopping and proper meal planning. And if there&amp;rsquo;s one thing I&amp;rsquo;ve noticed, it&amp;rsquo;s that it can be incredibly easy to get carried away at the grocery store and let the bill get out of hand.&lt;/p&gt;
+&lt;p&gt;I recently came across a social media post (sorry, I don&amp;rsquo;t remember the exact source to credit) outlining a method for grocery shopping I really like that helps prevent overspending while prioritize healthier ingredients, which is a win-win in my book. It&amp;rsquo;s called the &amp;ldquo;6-to-1&amp;rdquo; method, which essentially goes as follows.&lt;/p&gt;
+&lt;p&gt;When you&amp;rsquo;re grocery shopping, challenge yourself to stick to buying:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;6 vegetables&lt;/li&gt;
+&lt;li&gt;5 fruits&lt;/li&gt;
+&lt;li&gt;4 proteins&lt;/li&gt;
+&lt;li&gt;3 starches&lt;/li&gt;
+&lt;li&gt;2 sauces&lt;/li&gt;
+&lt;li&gt;1 treat/snack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I like this because it&amp;rsquo;s simple, easy to remember, and should leave you stocked up for the week with a healthy selection of meal options. Plus, it offers flexibility since there aren&amp;rsquo;t specific quantities or items given for the categories.&lt;/p&gt;
+&lt;p&gt;Try it out and save yourself some dough :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keeping Analog Alive</title>
+      <link>http://localhost:1313/keeping-analog-alive/</link>
+      <pubDate>Wed, 17 Apr 2024 15:28:21 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/keeping-analog-alive/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve written here about my career in the software industry, but I&amp;rsquo;m also a big fan of analog technology. Digital stuff can be fun, but once you&amp;rsquo;re ingrained in the tech world for so long and understand how it all (or, at least, most of it) works, it can lose a bit of its magic. For that reason I&amp;rsquo;ve always been drawn to the machines and devices of yesteryear.&lt;/p&gt;
+&lt;p&gt;One way I express that interest is through my collection of vintage and antique typewriters. I have a handful of them which I&amp;rsquo;ve picked up and restored to working condition over the years. I use them for all sorts of things like recording recipes, notes, letters, greeting cards; the uses are endless. The tactile action and sound of the clacking keys as you type makes using them fun, while simultaneously allowing you to slow down, think, and appreciate the process of writing.&lt;/p&gt;
+&lt;p&gt;A greatly helpful resource I&amp;rsquo;ve used to clean, restore, and maintain my typewriters is &lt;a href=&#34;https://www.youtube.com/@Joe_VanCleave&#34;&gt;Joe Van Cleave&amp;rsquo;s YouTube channel&lt;/a&gt;. Joe&amp;rsquo;s been making videos on vintage and analog tech since the 1980&amp;rsquo;s and has &lt;em&gt;hundreds&lt;/em&gt; of videos on just about anything to do with writing, typewriters (their usage, maintenance, collecting), and camera systems. Unfortunately, the number of people knowledgable about these machines is dwindling and it is increasingly hard to find good resources on restoring them. Thankfully, however, there are still folks like Joe who are doing their best to pass their knowledge along.&lt;/p&gt;
+&lt;p&gt;I admire Joe&amp;rsquo;s consistency in creating useful content around something he&amp;rsquo;s passionate about, and his bona fide wealth of knowledge shines throughout each video he posts. If you&amp;rsquo;re into vintage/antique writing technology or just want to learn something interesting, check out Joe&amp;rsquo;s videos.&lt;/p&gt;
+&lt;p&gt;Joe&amp;rsquo;s Channel: &lt;a href=&#34;https://www.youtube.com/@Joe_VanCleave&#34;&gt;https://www.youtube.com/@Joe_VanCleave&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;P.S. It&amp;rsquo;s been a busy couple of months so I haven&amp;rsquo;t been posting as regularly. I&amp;rsquo;m hoping to get back to posting more frequently soon. &lt;em&gt;C&amp;rsquo;est la vie.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsubscribing from New Homeowner Scams</title>
+      <link>http://localhost:1313/new-homeowner-scams/</link>
+      <pubDate>Sun, 25 Feb 2024 10:13:24 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/new-homeowner-scams/</guid>
+      <description>&lt;p&gt;I recently wrote here about buying my new home. Since then, the experience has been slightly soured from a never-ending onslaught of predatory junk mail and door-knocking salespeople trying to swindle me into signing up for products or services I neither need nor want, targeting me as a new homeowner.&lt;/p&gt;
+&lt;p&gt;Many of them use fear-mongering tactics disguised as helpful advice, from mortgage warranty companies warning of natural disasters or my own death to security system salespeople making up stories about a &amp;ldquo;recent string of burglaries in my neighborhood&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s worse, these exploitative and predatory practices are &lt;em&gt;completely legal&lt;/em&gt;. My information was sold, traded, and exploited to bring these scammers right to my doorstep, which is at once unsettling and infuriating.&lt;/p&gt;
+&lt;p&gt;Already settling into a new mortgage, renovations/repairs, and unforeseen expenses, the last thing new homeowners need is predatory companies adding to the pressure.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re experiencing something similar, stay informed and don&amp;rsquo;t fall for it.&lt;/p&gt;
+&lt;p&gt;Here are some resources to protect yourself:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://consumer.ftc.gov/&#34;&gt;Federal Trade Commission (FTC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.consumerfinance.gov/&#34;&gt;Consumer Financial Protection Bureau (CFPB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://optoutprescreen.com/&#34;&gt;OptOutPrescreen.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First One Down</title>
+      <link>http://localhost:1313/first-one-down/</link>
+      <pubDate>Sat, 17 Feb 2024 12:08:11 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/first-one-down/</guid>
+      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m particularly proud of this accomplishment. I&amp;rsquo;ve worked tirelessly toward this and have cultivated a wealth of financial discipline to make this happen. It has definitely been a learning process, but I enjoyed the challenge and look forward to taking the next step in my investing career soon.&lt;/p&gt;
+&lt;p&gt;Now to press on with the rest of the list!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ozymandias</title>
+      <link>http://localhost:1313/ozymandias/</link>
+      <pubDate>Fri, 05 Jan 2024 13:29:46 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/ozymandias/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I met a traveller from an antique land,&lt;br&gt;
+Who said—“Two vast and trunkless legs of stone&lt;br&gt;
+Stand in the desert&amp;hellip; Near them, on the sand,&lt;br&gt;
+Half sunk a shattered visage lies, whose frown,&lt;br&gt;
+And wrinkled lip, and sneer of cold command,&lt;br&gt;
+Tell that its sculptor well those passions read&lt;br&gt;
+Which yet survive, stamped on these lifeless things,&lt;br&gt;
+The hand that mocked them, and the heart that fed;&lt;br&gt;
+And on the pedestal, these words appear:&lt;br&gt;
+My name is Ozymandias, King of Kings;&lt;br&gt;
+Look on my Works, ye Mighty, and despair!&lt;br&gt;
+Nothing beside remains. Round the decay&lt;br&gt;
+Of that colossal Wreck, boundless and bare&lt;br&gt;
+The lone and level sands stretch far away.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; &lt;em&gt;Ozymandias&lt;/em&gt;, Percey Shelley&lt;/p&gt;
+&lt;p&gt;Ozymandias is one of my favorite classic poems.&lt;/p&gt;
+&lt;p&gt;Most analyses of this piece focus on the temporary nature of power, but for me the tale has always served as a poignant reminder of human mortality and how we should address it.&lt;/p&gt;
+&lt;p&gt;The sonnet shines a spotlight on the transient nature of our existence, urging us to prioritize meaningful actions over the pursuit of ephemeral power or stature. As the old epigram goes:
+&amp;ldquo;The world was not big enough for Alexander the Great, but a coffin was.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Memento mori&lt;/em&gt; indeed.&lt;/p&gt;
+&lt;p&gt;The fate of Ozymandias calls us to embrace the brevity of life by cultivating our relationships and leaving a positive impact on the lives of those around us. Rather than erecting monuments of stone, we should instead strive to build legacies of compassion, love, and benevolence.&lt;/p&gt;
+&lt;p&gt;In the face of life&amp;rsquo;s transience, let Ozymandias remind us of the enduring value of human connection and the importance of our contributions to the collective human experience. Make every moment count, recognizing that even the grandest legacies will ultimately fade into the sands of time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>24 in &#39;24</title>
+      <link>http://localhost:1313/24-in-24/</link>
+      <pubDate>Wed, 03 Jan 2024 09:17:41 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/24-in-24/</guid>
+      <description>&lt;p&gt;Welcome back, fellow adventurers. As we dive headfirst into a new year, I can&amp;rsquo;t help but feel a surge of excitement and anticipation for the possibilities that await.&lt;/p&gt;
+&lt;p&gt;2024 is poised to be a year of growth, new experiences, and thrilling challenges. To kick things off, I thought it&amp;rsquo;d be fun to publish a list of 24 goals and projects I&amp;rsquo;m aiming to tackle in 2024. I&amp;rsquo;ll come back occasionally and cross them off the list as they&amp;rsquo;re completed.&lt;/p&gt;
+&lt;p&gt;In no particular order:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Average Reading 25 Pages Per Day&lt;/strong&gt;: Rather than set a book goal, I think it&amp;rsquo;s more reasonable to set a page target. The point is, I want to set a pace and consistently keep up with my reading list.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Maintain My Personal Financial System&lt;/strong&gt;: Continue consistently tracking and improve the financial tracking system I developed in 2023.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;del&gt;&lt;strong&gt;Buy a House&lt;/strong&gt;&lt;/del&gt;: Since I&amp;rsquo;ve improved my financial position, I&amp;rsquo;m now looking to buy my first home. I want to close and move in by the end of spring.&lt;br&gt;
+&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;http://localhost:1313/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Visit Three New Places&lt;/strong&gt;: Satiate my travel bug by exploring three new destinations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conquer a Challenging Hiking Trail&lt;/strong&gt;: Take on a demanding hiking trail to test my physical and mental endurance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Learn Fly Fishing&lt;/strong&gt;: Embark on a new outdoor adventure by learning the art of fly fishing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complete a New Hardware Project&lt;/strong&gt;: Hone my tech skills and learn a new technology. I&amp;rsquo;m particularly interested in the Raspberry Pi Pico W and Circuit Python.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complete a DIY Home Improvement Project&lt;/strong&gt;: Channel my inner handyman and take on a DIY home improvement project in my soon-to-be first house.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Complete a Leatherworking Project&lt;/strong&gt;: I came into some leatherworking tools recently. I want to learn the basics of leathercraft and complete a basic project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explore a National Park&lt;/strong&gt;: Discover the natural wonders of a new national park and revel in the beauty of the great outdoors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Publish 52 Blog Posts&lt;/strong&gt;: Be consistent about publishing thoughts and interesting stuff here on the site.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Learn a New Language&lt;/strong&gt;: Challenge myself by picking up the basics of a new language. Being in South Louisiana I grew up learning French, so now I&amp;rsquo;m targeting Spanish.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Take a Cooking Class&lt;/strong&gt;: Expand my culinary skills by enrolling in a cooking class and mastering a new cuisine.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cycle Over 1500 Miles&lt;/strong&gt;: In 2023 I developed a cycling practice as my primary exercise (I broke 1000 miles!). This year, I want to develop that habit and increase my stamina and distance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Attain My Goal Weight&lt;/strong&gt;: Continue getting back into shape and reach my goal weight this year. (I&amp;rsquo;m already over halfway there)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Track and Improve Nutrition&lt;/strong&gt;: Related to the previous goal, I want to prep and cook using more whole foods and avoid processed and fast foods.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Plan a Solo Backpacking Trip&lt;/strong&gt;: Embark on a solo backpacking adventure to embrace self-discovery and solitude in nature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Become a Master Naturalist&lt;/strong&gt;: Bolster my knowledge of the natural world and local ecosystem by becoming a certified Master Naturalist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Take a Philosophy Course&lt;/strong&gt;: Most of my personal reading these days leans toward philosophy, so I want to take a more formal course to build a proper foundation in the discipline.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Start a Research Project&lt;/strong&gt;: Channel my interest in learning and research into a personal project that fuels curiosity and knowledge.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Practice Mindfulness Daily&lt;/strong&gt;: Incorporate daily mindfulness practices to enhance well-being and reduce stress. Even for a few minutes per day.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Perform a Digital Detox&lt;/strong&gt;: Take a fortnight completely unplugged and detached from the digital world.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Spend a Day Volunteering&lt;/strong&gt;: Always a good way to give back to the community.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Celebrate Achievements with a Memorable Trip&lt;/strong&gt;: Cap off the year by celebrating my accomplishments with a memorable and well-deserved trip.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here&amp;rsquo;s to a year filled with exciting new experiences and the joy of crossing off each goal from the list.&lt;/p&gt;
+&lt;p&gt;How do you plan to challenge yourself for this year?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Happy Holidays</title>
+      <link>http://localhost:1313/happy-holidays/</link>
+      <pubDate>Wed, 27 Dec 2023 12:51:46 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/happy-holidays/</guid>
+      <description>&lt;p&gt;You may have noticed it&amp;rsquo;s been quiet around here lately. No, the site&amp;rsquo;s not abandoned and I haven&amp;rsquo;t neglected to keep writing here; I&amp;rsquo;m just taking a break to enjoy the holiday season with family and friends.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll be back to posting in 2024 with some new writings and whatever else I find worth discussing here.&lt;/p&gt;
+&lt;p&gt;So whatever your faith, practice, tradition, culture, or custom, I hope you make time to enjoy some earned rest and have a happy holiday season.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Automate Anything</title>
+      <link>http://localhost:1313/how-to-automate-anything/</link>
+      <pubDate>Mon, 30 Oct 2023 17:57:51 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/how-to-automate-anything/</guid>
+      <description>&lt;p&gt;After some interest from my last post where I discussed some of my personal automations, I&amp;rsquo;d like to expand on the topic of personal automation a bit and discuss how you can automate (mostly) the boring or tedious stuff in &lt;em&gt;your&lt;/em&gt; life!&lt;/p&gt;
+&lt;p&gt;I say &amp;ldquo;mostly&amp;rdquo; because while with enough time and resources, you &lt;em&gt;could&lt;/em&gt; automate anything with a repeatable process. However, considering our main goal here is to save time, you&amp;rsquo;ll have to evaluate which things are pragmatically worth expending your time and effort to automate.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s my general process:&lt;/p&gt;
+&lt;h2 id=&#34;1-choose-what-you-want-to-automate&#34;&gt;1. Choose what you want to automate&lt;/h2&gt;
+&lt;p&gt;An obvious first step, I know. But as I just mentioned, here&amp;rsquo;s where you sift through your daily life to see where your pain points are. Make a short list of the most tedious things you&amp;rsquo;d rather not have to do, and then pick out the things that don&amp;rsquo;t require human skill as part of the process. That is to say, the best candidates for automation are those with a repeatable process.&lt;/p&gt;
+&lt;h2 id=&#34;2-record-the-steps&#34;&gt;2. Record the steps&lt;/h2&gt;
+&lt;p&gt;Now that you&amp;rsquo;ve chosen a task that can be reasonably automated, write out the steps to give yourself an idea of what the automation needs to accomplish. If the task is complex, that&amp;rsquo;s okay for now. Just write down the general steps as a working outline.&lt;/p&gt;
+&lt;h2 id=&#34;3-identify-the-most-painful-step&#34;&gt;3. Identify the most painful step&lt;/h2&gt;
+&lt;p&gt;From the list you just created, look through the process to find the most pressing bottleneck or pain point. This is likely the best place to start automating. You may have thought we were going to automate the entire process all at once, but in my opinion it&amp;rsquo;s best to start small and iterate your automation until it captures the overall process over time.&lt;/p&gt;
+&lt;p&gt;This approach has several advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The effort of automating is minimized, since you are only tackling one &lt;em&gt;step&lt;/em&gt; at a time.&lt;/li&gt;
+&lt;li&gt;You get to test each step to make sure it works fully and accurately before moving onto the next.&lt;/li&gt;
+&lt;li&gt;The work is spread out over time, so you don&amp;rsquo;t spend one large chunk of time automating an entire complex process (unless you really, really want to).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-choose-your-platform&#34;&gt;4. Choose your platform&lt;/h2&gt;
+&lt;p&gt;Now, for the task(s) you&amp;rsquo;ve just targeted for automation, you&amp;rsquo;ll want to consider which platform best suits the triggers/actions involved. For example, my simple &amp;ldquo;Blog to Social Media&amp;rdquo; automation is done using &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt; since there is no complex logic involved. That automation is simply a trigger (a new post is published to my &lt;a href=&#34;https://scottk.mba/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt;) and subsequent actions (a new post is published to Mastodon and X/Twitter) are executed.&lt;/p&gt;
+&lt;p&gt;A more complex example might be my financial automation. I&amp;rsquo;m taking a CSV of my checking account transactions, parsing through that and performing some matching to categorize each transaction, and then saving the result to an Excel file for my records. For this, I opted to write a custom Python script which handles the more sophisticated logic.&lt;/p&gt;
+&lt;p&gt;The point is, I choose a platform that&amp;rsquo;s appropriate for the complexity level of the task at hand. It&amp;rsquo;s not a one-size-fits-all sort of thing.&lt;/p&gt;
+&lt;h2 id=&#34;5-automate-it&#34;&gt;5. Automate it&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ve chosen your most painful step to automate, as well as your platform. From here, create the script as required to solve the problem at hand. You may need to consider how often to run the automation or what triggers need to be configured so that the automation is run as needed.&lt;/p&gt;
+&lt;p&gt;Depending on the scenario, you might only need to run your automation manually (on a case-by-case basis, as my finance automation) or via some other action like my RSS-to-Social script.&lt;/p&gt;
+&lt;p&gt;As a tip: if you&amp;rsquo;re opting for a no-code platform like IFTTT or Make to set things up, it still helps to have some surface-level familiarity with APIs and how to use them. This will come in handy for cases in which you need to interact with some service that doesn&amp;rsquo;t have a built-in set of building blocks.&lt;/p&gt;
+&lt;h2 id=&#34;6-repeat-steps-3-5-until-the-whole-process-is-automated&#34;&gt;6. Repeat steps 3-5 until the whole process is automated&lt;/h2&gt;
+&lt;p&gt;Keep working through your Step 3 list until the whole process is done. This will help you automate the most difficult parts of a process, significantly cutting down on your pain points even from the first iteration.&lt;/p&gt;
+&lt;h2 id=&#34;7-deploy&#34;&gt;7. Deploy&lt;/h2&gt;
+&lt;p&gt;Set up your automation using the appropriate triggers, as mentioned previously. If you&amp;rsquo;re using an online service like IFTTT, this is probably already taken care of. If you&amp;rsquo;ve opted for something more custom like a Python script, you&amp;rsquo;ll need to consider how to deploy that so it&amp;rsquo;ll run when you need it.&lt;/p&gt;
+&lt;p&gt;Good solutions for this could be &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt;, &lt;a href=&#34;https://aws.amazon.com/console/&#34;&gt;Amazon Web Services&lt;/a&gt;, or one of any number of similar cloud hosting services. Find one that fits your expertise and budget.&lt;/p&gt;
+&lt;h2 id=&#34;8-monitor-iterate-and-improve&#34;&gt;8. Monitor, iterate, and improve&lt;/h2&gt;
+&lt;p&gt;While this is all called &amp;ldquo;automation&amp;rdquo;, you&amp;rsquo;d be sorely missing a step by just setting everything and forgetting about it. You&amp;rsquo;ll want to monitor things over time to make sure that, once you&amp;rsquo;re &amp;ldquo;done&amp;rdquo;, everything &lt;em&gt;keeps&lt;/em&gt; running as intended.&lt;/p&gt;
+&lt;p&gt;APIs and services change their available functions, the timing of tasks is prone to change at various points, and many other things may change over time from your initial configuration.&lt;/p&gt;
+&lt;p&gt;In addition, you may think of ways to improve your automation or use the extra time you&amp;rsquo;ve saved to add more steps that wouldn&amp;rsquo;t have been possible when you were handling things manually.&lt;/p&gt;
+&lt;p&gt;Feel free to experiment, and have fun with it!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Automations</title>
+      <link>http://localhost:1313/personal-automations/</link>
+      <pubDate>Wed, 25 Oct 2023 07:36:43 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/personal-automations/</guid>
+      <description>&lt;p&gt;Since I learned to code, I&amp;rsquo;ve always been a fan of eliminating boring and/or tedious stuff with automation. This can involve anything from custom scripting (usually with Python, in my case) to using a service like &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt;, &lt;a href=&#34;https://zapier.com/&#34;&gt;Zapier&lt;/a&gt;, or &lt;a href=&#34;https://www.make.com/en/integromat-evolves-to-make/&#34;&gt;Make&lt;/a&gt; (formerly Integromat). With these tools you can connect most common services that expose an &lt;a href=&#34;https://www.ibm.com/topics/api/&#34;&gt;API&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;While automation use cases are usually born out of some personal pain point or specific challenge, I&amp;rsquo;m always interested in seeing what other people automate and how they choose do it. I&amp;rsquo;ve also taken great inspiration from pieces like Al Sweigart&amp;rsquo;s &lt;a href=&#34;https://automatetheboringstuff.com/&#34;&gt;&lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/NARKOZ/hacker-scripts&#34;&gt;this classic Github repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I recently bought an IFTTT subscription and audited my personal life for a list of things that take up too much time or involve a tedious process.&lt;/p&gt;
+&lt;p&gt;Here are some of my favorites:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Email/SMS to Brag File (IFTTT)&lt;/strong&gt;: Sending an email or text to IFTTT creates a new row in my career &lt;a href=&#34;https://www.thefountaininstitute.com/blog/brag-documents&#34;&gt;brag file&lt;/a&gt; with text I include. (My &amp;ldquo;brag file&amp;rdquo; is what I humbly call the personal doc where I track my professional accomplishments so I don&amp;rsquo;t forget about past wins.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Blog RSS to Socials (IFTTT)&lt;/strong&gt;: Each time I publish a new post on this site, it gets automatically posted to my Twitter and Mastodon accounts. (Bonus&amp;mdash;&lt;a href=&#34;https://buttondown.email/&#34;&gt;Buttondown&lt;/a&gt; also sends an RSS-driven email to readers subscribed to my posts)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Instapaper to Trello (IFTTT)&lt;/strong&gt;: New articles saved to Instapaper automatically get added to a &amp;ldquo;future blog posts&amp;rdquo; list on my personal Trello board.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Trello Board Automations (Trello)&lt;/strong&gt;: Using Trello&amp;rsquo;s built-in automation capability, I&amp;rsquo;ve set up rules and buttons that keep my task board organized so I never lose track of any reminders, tasks, or projects. These are driven by due-dates, sources (cards added via email, etc.), and task age (highlighting overdue items and so on).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Smart Home/IoT Automations (IFTTT)&lt;/strong&gt;: Various applets turn on/off lights and appliances using smart plugs driven by my location, times, alarms, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Custom Transaction Categorization (Python)&lt;/strong&gt;: A custom script I wrote using Python which can take a CSV export of my bank transactions and categorize them for my accounting. It can categorize a year&amp;rsquo;s worth of transactions in less than a second, which is pretty neat. It&amp;rsquo;s also more secure and private than granting access or uploading my bank info to some third-party company&amp;rsquo;s database.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Is there anything useful or cool that you&amp;rsquo;ve automated? Send me an email, I&amp;rsquo;m interested to learn more about it!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Burning CDs in 2023</title>
+      <link>http://localhost:1313/burning-cds-in-2023/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/burning-cds-in-2023/</guid>
+      <description>&lt;p&gt;After my grandparents&amp;rsquo; house fire last year, we came across a bunch of old photo slides and 8mm film reels. Before we scrapped them I decided to buy some digitizing equipment and archive the content for us to preserve some of our family history. As I mentioned the project to other friends and family, I quickly realized this is a service that many folks are seeking.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve since turned it into &lt;a href=&#34;https://knightlab.film/&#34;&gt;a local business providing media digitization services&lt;/a&gt; for customers in our local area. There are companies online who do this sort of thing, but in my experience the majority of people would rather not risk shipping off their original media. As fragile as it normally is, it would be catastrophic if something happened in shipping, so they&amp;rsquo;d prefer hiring someone local like me who&amp;rsquo;ll take extra hands-on care with their items.&lt;/p&gt;
+&lt;p&gt;So I&amp;rsquo;m currently digitizing some audio cassette tapes and film transparencies for a returning client who requested that the audio be burned onto CDs, so they can listen to the tracks on their home system.&lt;/p&gt;
+&lt;p&gt;Seems simple enough, but you may be surprised (ok, maybe not) at how tricky this task is in 2023.&lt;/p&gt;
+&lt;p&gt;As a kid in the early 2000s I can remember burning my music onto CDs with no issues. Since the world has moved away from the CD as a primary media format, less and less tech is even capable of facilitating its creation.&lt;/p&gt;
+&lt;p&gt;Luckily, I have an older Mac from 2011 around that has a built-in CD reader/burner. The only issue is formatting the audio properly so that CD players can actually play the media. Again, you&amp;rsquo;d think this was simple but I must&amp;rsquo;ve gone through an entire stack of CDs at this point trying to nail down the right configuration.&lt;/p&gt;
+&lt;p&gt;My research tells me most CD players should recognize .WAV or .MP3 format (some don&amp;rsquo;t support compressed formats like MP3, though) with a sample rate of 44100 Hz. I&amp;rsquo;m exporting the audio from Audacity and have tried every combination of these and more, yet not a single disc has played correctly on any of multiple CD players.&lt;/p&gt;
+&lt;p&gt;Maybe it&amp;rsquo;s just me, but burning audio CDs sure ain&amp;rsquo;t as simple as it used to be.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>You Should Have a Website</title>
+      <link>http://localhost:1313/you-should-have-a-website/</link>
+      <pubDate>Mon, 16 Oct 2023 14:41:57 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/you-should-have-a-website/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s often the case that I&amp;rsquo;m referred potential &lt;a href=&#34;https://knightlab.co&#34;&gt;website clients&lt;/a&gt; who have never had their own site before. In many of these cases, the person is reaching out because someone they know told them they need one, but they still aren&amp;rsquo;t fully on board with the idea.&lt;/p&gt;
+&lt;p&gt;After all, they&amp;rsquo;ve gone this long without a website; why get one now?&lt;/p&gt;
+&lt;p&gt;Whether you&amp;rsquo;re a business owner or an individual with a personal brand, a fundamental way to establish your presence online is by having a well-designed, user-friendly website.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re old-school and/or have had second thoughts on this, let me assure you&amp;mdash;the benefits far outweigh any initial hesitations you might have.&lt;/p&gt;
+&lt;p&gt;Here are some reasons I believe it&amp;rsquo;s important to have your own website.&lt;/p&gt;
+&lt;h2 id=&#34;1-professional-credibility&#34;&gt;1. Professional Credibility&lt;/h2&gt;
+&lt;p&gt;Imagine you&amp;rsquo;re in need of a particular service or product. What&amp;rsquo;s the first thing you do? You pull out your smartphone or sit down at your computer and search for it online. In today&amp;rsquo;s digital landscape, your website is often the first point of contact that potential customers have with your brand. A well-designed website signals professionalism and establishes trust. It conveys that you&amp;rsquo;re serious about what you do and are accessible to your audience.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t have your own website, then you&amp;rsquo;re not controlling your public image.&lt;/p&gt;
+&lt;p&gt;Speaking of which&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;2-control-your-brand-image&#34;&gt;2. Control Your Brand Image&lt;/h2&gt;
+&lt;p&gt;Your website is like your digital storefront. It&amp;rsquo;s where you have complete control over how your brand is presented. You can choose the colors, design, content, and overall vibe to ensure consistency with your brand identity. This control allows you to tailor the user experience, and in turn more effectively communicate your message and values to your audience.&lt;/p&gt;
+&lt;h2 id=&#34;3-global-reach&#34;&gt;3. Global Reach&lt;/h2&gt;
+&lt;p&gt;The internet is a vast space, and having a website means you have the potential to reach a global audience. Your website is accessible 24/7, allowing people from different time zones to learn about you and your offerings, even when you&amp;rsquo;re asleep.&lt;/p&gt;
+&lt;p&gt;This global reach can significantly expand your customer base and generate new business opportunities.&lt;/p&gt;
+&lt;h2 id=&#34;4-effective-marketing-tool&#34;&gt;4. Effective Marketing Tool&lt;/h2&gt;
+&lt;p&gt;You can optimize your website for search engines (SEO) to improve its visibility in search results, attracting organic traffic. Additionally, you can integrate various marketing strategies such as email campaigns, social media integration, and blogging to engage and retain your audience, ultimately driving more conversions and business growth. With all of these working in your favor, your website can be a powerfully effective marketing tool to reach your audience.&lt;/p&gt;
+&lt;h2 id=&#34;5-showcase-your-offerings&#34;&gt;5. Showcase Your Offerings&lt;/h2&gt;
+&lt;p&gt;For artists, photographers, entrepreneurs, or anyone with a creative or business venture, a website is an ideal platform to showcase your work or products. High-quality images, videos, testimonials, and detailed descriptions can be displayed to captivate visitors and give them a clear understanding of what you&amp;rsquo;re offering.&lt;/p&gt;
+&lt;h2 id=&#34;6-enhanced-communication-and-engagement&#34;&gt;6. Enhanced Communication and Engagement&lt;/h2&gt;
+&lt;p&gt;Having a website allows for direct interaction with your audience through contact forms, email subscriptions, and comment sections. This two-way communication helps in understanding your audience&amp;rsquo;s needs, preferences, and feedback. You can address their inquiries promptly and build a community around your brand.&lt;/p&gt;
+&lt;p&gt;This can seem overwhelming or unattractive at first, I know. I&amp;rsquo;m simply illustrating the potential here, but you can start with the benefit of just having your existing points of contact in one place (even if it&amp;rsquo;s just phone or email).&lt;/p&gt;
+&lt;h2 id=&#34;7-cost-effective-and-scalable&#34;&gt;7. Cost-Effective and Scalable&lt;/h2&gt;
+&lt;p&gt;Contrary to what some may think, creating a website today is more accessible and cost-effective than ever. With various user-friendly platforms and tools available, you don&amp;rsquo;t need to be a tech whiz to set up a professional website. Moreover, as your business or personal brand grows, your website can scale with you, accommodating increased traffic and expanding offerings.&lt;/p&gt;
+&lt;h2 id=&#34;closing-thoughts&#34;&gt;Closing Thoughts&lt;/h2&gt;
+&lt;p&gt;Having a website used to be a novelty or a luxury. These days, it&amp;rsquo;s a necessity.&lt;/p&gt;
+&lt;p&gt;Whether you&amp;rsquo;re a small business owner, a freelancer, an artist, or just someone with a passion to share, a website offers a platform to showcase your expertise, connect with your audience, and enhance your credibility in the online world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FIRE Flow Chart</title>
+      <link>http://localhost:1313/fire-flow-chart/</link>
+      <pubDate>Mon, 02 Oct 2023 18:17:05 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/fire-flow-chart/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s a ton of advice out there on personal finance, but I&amp;rsquo;ve only ever found one resource that provided an actionable path to gaining Financial Independence and Retiring Early (F.I.R.E.). Read more about that concept &lt;a href=&#34;https://www.reddit.com/r/Fire&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a handy flow chart created by a member of the &lt;a href=&#34;https://www.reddit.com/r/financialindependence&#34;&gt;r/financialindependence&lt;/a&gt; subreddit. Just within the last year this flow chart has helped me pay off nearly all debt, grow my net worth, and drastically increase my savings rate.&lt;/p&gt;
+&lt;p&gt;I wanted to save it here for quick reference, but if you live in the U.S. and want to retire early and/or become financially independent I recommend starting here.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://u.cubeupload.com/demonlesondledon/FinFlowChartv43.png&#34;&gt;FIRE Flow Chart v4.3 - Light Mode&lt;/a&gt; (PNG)&lt;br&gt;
+&lt;a href=&#34;https://u.cubeupload.com/demonlesondledon/FinFlowChartv43Dark.png&#34;&gt;FIRE Flow Chart v4.3 - Dark Mode&lt;/a&gt; (PNG)&lt;/p&gt;
+&lt;p&gt;(via &lt;a href=&#34;https://www.reddit.com/r/financialindependence/comments/16xymii/fire_flow_chart_version_43/&#34;&gt;Reddit&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tennessee 2023</title>
+      <link>http://localhost:1313/tennessee-2023/</link>
+      <pubDate>Mon, 25 Sep 2023 11:05:00 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/tennessee-2023/</guid>
+      <description>&lt;p&gt;For years, a favorite vacation spot of our family has been Tennessee. Yesterday I returned from a nice trip with some of my family to the Volunteer State, and thought I&amp;rsquo;d share a bit about it here.&lt;/p&gt;
+&lt;h2 id=&#34;home-base-tracy-city&#34;&gt;Home Base: Tracy City&lt;/h2&gt;
+&lt;p&gt;I discovered Tracy City back in 2020 through a cabin I rented through AirBnb for another weekend getaway. I enjoyed it so much the first time that we decided to reserve another cabin on the property for this trip.&lt;/p&gt;
+&lt;p&gt;Tracy City is a quiet little mountain town that was founded after a few local boys discovered coal while digging around after a groundhog. It has an interesting history and once even &lt;a href=&#34;https://en.wikipedia.org/wiki/Tracy_City,_Tennessee#Government&#34;&gt;elected a dead man as its mayor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Of the seven venues offered at &lt;a href=&#34;https://tnwaterfallgetaway.com/&#34;&gt;The Falls at Sewanee Creek&lt;/a&gt;, we stayed in the &lt;a href=&#34;https://tnwaterfallgetaway.com/log-cabin&#34;&gt;Log Cabin&lt;/a&gt;. The rental cabin sits on a sprawling and abundant landscape of about forty five acres, complete with its own nature trails, overlook, creek, and its focal point&amp;mdash;a &lt;em&gt;private waterfall&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;If you want a scenic and unique stay in south-central Tennessee, look no further. The hosts, Grant and Becky, will make sure you have everything you need (including a private tour of the grounds and welding lessons).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/porch.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/porch_hub129dbfc46e9c4e83fc9d6f09b26001f_226809_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      A view from the back porch of our cabin.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/autos.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/autos_hu875a1ed34f233f33fd6c52ef7055a975_247294_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      Some cool vehicles on the property with serious Jurassic Park vibes.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h2 id=&#34;day-1-chattanooga&#34;&gt;Day 1: Chattanooga&lt;/h2&gt;
+&lt;p&gt;Thursday we ventured out to Chattanooga to explore &lt;a href=&#34;https://www.seerockcity.com/&#34;&gt;Rock City&lt;/a&gt;, a Tennessee tourist classic.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_waterfall.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_waterfall_huad1f7e1970d2ac0b99af6304c242e213_158800_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      One of Rock City&amp;rsquo;s many water features.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_overlook.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_overlook_hu3e5c15e10ea86f4d40342a3ddb9ea1de_96435_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      See 7 states at once from Lookout Mountain.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_lizard.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_lizard_huc22e8f804d85e54679769cf9d61572df_380313_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      A blue-tailed skink I found sunbathing on the trail.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h2 id=&#34;day-2-lynchburg&#34;&gt;Day 2: Lynchburg&lt;/h2&gt;
+&lt;p&gt;Friday we drove over to Lynchburg with reservations for a tour and tasting at the &lt;a href=&#34;https://www.jackdaniels.com/&#34;&gt;Jack Daniel&amp;rsquo;s Whiskey Distillery&lt;/a&gt;. We also popped into the local &lt;a href=&#34;https://www.lynchburgwinery.com/&#34;&gt;Lynchburg Winery&lt;/a&gt; for a tasting.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_truck.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_truck_hu4b1367d38d4f607a3eccea57379ddabb_146736_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      An old truck that used to deliver Jack Daniel&amp;rsquo;s Whiskey.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks_hubf3dfc4ad040798d10032a1338cbfa70_226875_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      The J.D. distillery has its own fire brigade.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h2 id=&#34;day-3-nashville&#34;&gt;Day 3: Nashville&lt;/h2&gt;
+&lt;p&gt;Saturday featured a trip up to Nashville, where we checked out &lt;a href=&#34;https://www.antiquearchaeology.com/&#34;&gt;Antique Archaeology&lt;/a&gt;, home of the American Pickers from the History Channel show. Their shop is located in the old &lt;a href=&#34;https://www.marathonvillage.net/about/&#34;&gt;Marathon Motor Works&lt;/a&gt; car factory, which has a pretty neat museum inside as well.&lt;/p&gt;
+&lt;p&gt;After that, we headed to &lt;a href=&#34;https://www.grimeys.com/&#34;&gt;Grimey&amp;rsquo;s Record Shop&lt;/a&gt; before finding a bite to eat.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/aa_shop.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/aa_shop_hu9ed620c3c6d772d24ffca4a88d697ba0_334343_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      Antique Archaeology, home of the American Pickers.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/motor_works.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/motor_works_hu65aed353c15e1474bde34de517640463_151723_600x0_resize_q75_box.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h2 id=&#34;local-eats&#34;&gt;Local Eats&lt;/h2&gt;
+&lt;p&gt;My favorites from the trip, alphabetically:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://blacktap.com/&#34;&gt;Black Tap&lt;/a&gt; (Nashville)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/people/The-DEPOT-CAFE/100057597125654/&#34;&gt;Depot Cafe&lt;/a&gt; (Monteagle)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dutchmaid.net/&#34;&gt;Dutch Maid Bakery&lt;/a&gt; (Tracy City)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mtngoatmarket.com/&#34;&gt;Mountain Goat Market&lt;/a&gt; (Monteagle)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;a-tip-for-fellow-travelers&#34;&gt;A Tip for Fellow Travelers&lt;/h2&gt;
+&lt;p&gt;The next time you travel, consider exploring the smaller towns and spaces in between the usual tourist areas and beaten paths. These are where I always find the most fun, meaningful, and memorable stuff in my travels.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keep Moving</title>
+      <link>http://localhost:1313/keep-moving/</link>
+      <pubDate>Sun, 10 Sep 2023 13:41:24 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/keep-moving/</guid>
+      <description>&lt;p&gt;In February I decided to get more active and build better habits. I started small by purchasing a bike and committing to ride it at least three times per week.&lt;/p&gt;
+&lt;p&gt;Keeping this commitment to myself has naturally progressed into improving other aspects of my physical health&amp;mdash;my nutrition and mindset have made leaps and bounds from where I was a year ago. As of today I&amp;rsquo;ve lost 57 lbs and counting, which really is just a byproduct of a lot of small life changes I&amp;rsquo;ve made over time.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve still got a way to go before I hit my current goal weight but I know if I just keep doing what I&amp;rsquo;m doing indefinitely I&amp;rsquo;ll get there &lt;em&gt;and&lt;/em&gt; be able to sustain it, which is crucial to long-term success.&lt;/p&gt;
+&lt;p&gt;Everything I&amp;rsquo;ve done can be attributed to a single principle&amp;mdash;energy balance. Eat less, move more. Make sure your energy output (i.e. movement, calories burned) is greater than your input (i.e. calories consumed). If you follow this rule, you &lt;em&gt;cannot&lt;/em&gt; fail. It&amp;rsquo;s basic science.&lt;/p&gt;
+&lt;p&gt;When I started cycling I was maxed out after 10 miles. As my endurance has improved over time, I&amp;rsquo;ve worked up to an average of 75mi/week with a single-trip max of 40 miles.&lt;/p&gt;
+&lt;p&gt;Unfortunately, I had a setback on my afternoon ride last Tuesday.&lt;/p&gt;
+&lt;p&gt;I came around a curve on my route and before I could react I rolled over some debris in the road and caught a nail in my rear tire. Could be worse, but that means I&amp;rsquo;ll be off the road until I can patch the tire and replace the inner tube.&lt;/p&gt;
+&lt;p&gt;Am I going to let that stop me? Nah. My backup strategy for things like this is to transition to a walking/running plan I&amp;rsquo;ve created for myself in the meantime. No excuses for equipment malfunction when I can just use my legs.&lt;/p&gt;
+&lt;p&gt;Gotta keep moving.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P.S. I&amp;rsquo;m posting this because I&amp;rsquo;ve had a handful of folks ask me about what I&amp;rsquo;ve been doing to get the results that I have. I plan to compile some of my best tips &amp;amp; lessons learned in a separate post (coming soon) and will periodically publish updates along the way.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Wealth</title>
+      <link>http://localhost:1313/on-wealth/</link>
+      <pubDate>Fri, 08 Sep 2023 15:05:55 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/on-wealth/</guid>
+      <description>&lt;p&gt;What does it mean to be wealthy? What does wealth look like? Is it just being rich? How do we know when we&amp;rsquo;ve achieved wealth?&lt;/p&gt;
+&lt;p&gt;As I move toward purchasing my first home, this is something I&amp;rsquo;ve been reflecting on in recent weeks.&lt;/p&gt;
+&lt;p&gt;Cultures around the world are abundant with stories of characters on the pursuit of wealth who don&amp;rsquo;t quite get what they bargained for&amp;mdash;King Midas, for example. Over the years I myself have gone through bouts of chasing &amp;ldquo;wealth&amp;rdquo;, pouring everything I had into startup businesses, scraping by in hopes of eventually making it big.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve all been taught that you can become wealthy if you work hard and earn enough money to buy your financial freedom, thereby amassing an amount of money sufficient to afford the freedom to use your time to do the things you want to do in life. But if this is the goal, then the money is only a means to get us what we &lt;em&gt;really&lt;/em&gt; want: freedom and self-sufficiency.&lt;/p&gt;
+&lt;p&gt;The pursuit of wealth from a purely financial perspective is a fool&amp;rsquo;s errand if driven by ambition alone, and with no defined end goal. Ambition, as the &lt;a href=&#34;https://www.britannica.com/topic/Stoicism&#34;&gt;Stoics&lt;/a&gt; wisely recognized, is itself a form of slavery. If we&amp;rsquo;re always unsatisfied and seeking more, what we already have will never be enough. One can easily lose sight of what&amp;rsquo;s really important (our families, passions, etc.) by becoming blinded by unmitigated ambition.&lt;/p&gt;
+&lt;p&gt;True wealth is an internal outlook as much as an external holding. It&amp;rsquo;s all about perspective.&lt;/p&gt;
+&lt;p&gt;Wealth, then, is more than a simple dollar figure. It&amp;rsquo;s about recognizing your needs and values, and working toward those; or perhaps, recognizing when you may already have them.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Wealth consists not in having great possessions, but in having few wants.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
+&amp;mdash;Epictetus&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I&amp;rsquo;ll leave you with a short story I read several years ago that&amp;rsquo;s informed my philosophy on this topic.&lt;/p&gt;
+&lt;h2 id=&#34;the-parable-of-the-fisherman&#34;&gt;The Parable of the Fisherman&lt;/h2&gt;
+&lt;p&gt;A smartly-dressed enterprising tourist is taking photographs when he notices a shabbily dressed local fisherman taking a nap in his fishing boat. The tourist is disappointed with the fisherman&amp;rsquo;s apparently lazy attitude towards his work, so he approaches the fisherman and asks him why he is lying around instead of catching fish. The fisherman explains that he went fishing in the morning, and the small catch would be sufficient for the next two days.&lt;/p&gt;
+&lt;p&gt;The tourist tells him that if he goes out to catch fish multiple times a day, he would be able to buy a motor in less than a year, a second boat in less than two years, and so on. The tourist further explains that one day, the fisherman could even build a small cold storage plant, later a pickling factory, fly around in a helicopter, build a fish restaurant, and export lobster directly to Paris without a middleman.&lt;/p&gt;
+&lt;p&gt;The nonchalant fisherman asks, &amp;ldquo;Then what?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The tourist enthusiastically continues, &amp;ldquo;Then, without a care in the world, you could sit here in the harbor, doze in the sun, and look at the glorious sea.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;But I&amp;rsquo;m already doing that&amp;rdquo;, says the fisherman.&lt;/p&gt;
+&lt;p&gt;The enlightened tourist walks away pensively, with no trace of pity for the fisherman, only a little envy. &lt;em&gt;(&lt;a href=&#34;https://en.wikipedia.org/wiki/Anekdote_zur_Senkung_der_Arbeitsmoral&#34;&gt;Source&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crabs in a Bucket</title>
+      <link>http://localhost:1313/crabs/</link>
+      <pubDate>Sun, 30 Jul 2023 13:48:11 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/crabs/</guid>
+      <description>&lt;p&gt;Despite the recent hellish heatwave(s) distressing the southern U.S. lately, we&amp;rsquo;ve been enjoying crabbing as a weekend family pastime down here in south Louisiana. Heading out into the marsh out of Pointe-Aux-Chenes (that&amp;rsquo;s French for &amp;ldquo;Oak Point&amp;rdquo;) down near the Gulf, we&amp;rsquo;ll typically return with several dozen crabs to boil for family and friends.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s one unique trait I&amp;rsquo;ve noticed about crabs &amp;mdash; if you have just one crab in a bucket, it&amp;rsquo;s usually going to figure out how to climb out; if you have more than one crab in a bucket and one tries to escape, the others are always going to pull it back down.&lt;/p&gt;
+&lt;p&gt;Similarly, as we work at making positive improvements in our lives many of us have toxic people around us that are always going to find a way to bring us down. Some do it intentionally because they may feel you&amp;rsquo;re &amp;ldquo;leaving them behind&amp;rdquo; as you make positive changes, taking away their social permission to maintain their own bad habits; others don&amp;rsquo;t even realize their behavior having a negative effect on you.&lt;/p&gt;
+&lt;p&gt;Be sure to check in every once in a while to make sure you don&amp;rsquo;t let the crabs in your life keep you from reaching your goals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frogs on a Log</title>
+      <link>http://localhost:1313/frogs-on-a-log/</link>
+      <pubDate>Fri, 30 Jun 2023 12:23:56 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/frogs-on-a-log/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s an old story that goes something like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are five frogs sitting on a log. One decides to jump off. How many frogs are left on the log?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Most folks would answer, &amp;ldquo;four&amp;rdquo;. But that&amp;rsquo;s wrong.&lt;/p&gt;
+&lt;p&gt;The real answer is that &lt;em&gt;five frogs are still sitting on the log.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You see, despite the &lt;em&gt;decision&lt;/em&gt; to jump off, the story doesn&amp;rsquo;t specify that the frog actually jumped. There is a vital distinction between making a decision and acting upon that decision. So, while that frog decided to jump, it didn&amp;rsquo;t actually take the leap.&lt;/p&gt;
+&lt;p&gt;The metaphor of the five frogs on a log reminds us that our ideas, decisions, and aspirations are meaningless if we fail to back them up with action.&lt;/p&gt;
+&lt;p&gt;In our lives, we often encounter situations where decisions simply aren&amp;rsquo;t enough; we have to then bridge the gap between intention and execution.&lt;/p&gt;
+&lt;p&gt;So the next time you decide to do something worthwhile, don&amp;rsquo;t be a frog on a log—take the leap.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Improvise Public Speaking</title>
+      <link>http://localhost:1313/public-speaking-formula/</link>
+      <pubDate>Fri, 23 Jun 2023 14:49:17 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/public-speaking-formula/</guid>
+      <description>&lt;p&gt;Like most people, I&amp;rsquo;m not the biggest fan of public speaking.&lt;/p&gt;
+&lt;p&gt;But, I am a member of several social groups and organizations, so from time to time I get called upon to &amp;ldquo;say a few words&amp;rdquo; for a given occasion.&lt;/p&gt;
+&lt;p&gt;Knowing that this can potentially happen at any time, I always like to be prepared to rise to the occasion (and to avoid looking like a bumbling idiot in front of a crowd). Some time ago I began researching different methods, techniques, and formulas to make this easier. I figured, if I can keep a simple structure and maybe a few stories in my back pocket, then I&amp;rsquo;ll always be prepared with &lt;em&gt;something&lt;/em&gt; to say.&lt;/p&gt;
+&lt;p&gt;One formula I&amp;rsquo;ve stuck with for a while is one I came across from Peter Khoury in an article titled &lt;a href=&#34;https://magneticspeaking.com/how-to-give-an-impressive-impromptu-speech/&#34;&gt;&amp;ldquo;How to Give an Impressive Impromptu Speech&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Peter lays out a simple, three-step formula for improvising a speech for just about any occasion.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s called the &lt;strong&gt;FAT&lt;/strong&gt; method. Here&amp;rsquo;s how it works:&lt;/p&gt;
+&lt;h2 id=&#34;f-feeling&#34;&gt;F: Feeling&lt;/h2&gt;
+&lt;p&gt;The first step is to &lt;strong&gt;express your feeling&lt;/strong&gt; about the topic.&lt;/p&gt;
+&lt;p&gt;For a quick example, let&amp;rsquo;s pretend you unexpectedly win a company award at work and your colleagues expect you to give a short speech. Knowing the FAT method, you&amp;rsquo;re ready for this and you can begin with something like:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;m grateful and honored to receive this Employee of the Universe Award. I couldn&amp;rsquo;t have done it without the support of my team and leadership &lt;em&gt;(only if this is true)&lt;/em&gt;&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;a-anecdote&#34;&gt;A: Anecdote&lt;/h2&gt;
+&lt;p&gt;Now, &lt;strong&gt;throw in a short anecdote&lt;/strong&gt; to give the audience something to relate to. In our example, you might say:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I remember my early days working for Acme as a Trap Engineer. The roadrunners were still running around in droves and I never imagined I&amp;rsquo;d have such an impact through my work here. Now, we are closer than ever to eliminating the lot of them&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;t-tie-back&#34;&gt;T: Tie Back&lt;/h2&gt;
+&lt;p&gt;Finally, &lt;strong&gt;tie everything back&lt;/strong&gt; to the topic at hand and close it out.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I want to thank our company leadership and my colleagues for being a great team. I appreciate the award and will always strive to ensure our continued success.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;bonus-speaking-tips&#34;&gt;Bonus Speaking Tips&lt;/h2&gt;
+&lt;p&gt;That&amp;rsquo;s it! Super easy, and that&amp;rsquo;s the point. The great thing is that you can extend any or all of these components to make as long or as short of a speech as you want.&lt;/p&gt;
+&lt;p&gt;As a bonus, here are some additional tips for generally good speaking:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Be truthful.&lt;/strong&gt; Don&amp;rsquo;t say &amp;ldquo;I&amp;rsquo;m really excited to be here&amp;hellip;&amp;rdquo; if you&amp;rsquo;re not. Just say &amp;ldquo;I&amp;rsquo;m happy to talk to you today about&amp;hellip;&amp;rdquo; if that&amp;rsquo;s how you feel.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Share what you know.&lt;/strong&gt; You don&amp;rsquo;t have to make up a story just to have something to share. Your anecdote could be something even tangentially related to the topic, which is fine as long as you can tie it back in somehow at the end. An audience will love just about any story. It&amp;rsquo;s just human nature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Practice is important.&lt;/strong&gt; Don&amp;rsquo;t expect to be perfect with this the first time you try it. The more you volunteer to speak in front of people, the easier it becomes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Have fun.&lt;/strong&gt; You&amp;rsquo;re probably nervous because you think people are judging you. This is generally not true. Most folks won&amp;rsquo;t even remember specifically what you said (unless you pull out some real gems) by the next day. No need to stress.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spinning the Flywheel</title>
+      <link>http://localhost:1313/flywheel/</link>
+      <pubDate>Tue, 20 Jun 2023 15:04:15 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/flywheel/</guid>
+      <description>&lt;p&gt;Below is a recycled post from one of my older blogs. I wrote this when I was in the midst of trying to get my first startup off the ground, so I approached the topic from that mental frame. Still, it remains useful and I often refer back to the idea when starting a new project or need some motivation. After the post I&amp;rsquo;ll share my current take on this concept.&lt;/p&gt;
+&lt;h2 id=&#34;original-post&#34;&gt;Original Post&lt;/h2&gt;
+&lt;p&gt;A while back I came across the concept of a flywheel. If you&amp;rsquo;re not familiar, a flywheel is technically defined as a wheel with a heavy rim placed on the revolving shaft of any machinery put in motion by an irregular or intermitting force or meeting with an irregular or intermittent resistance, for the purpose of rendering the motion equable and regular by means of its momentum.&lt;/p&gt;
+&lt;p&gt;Rob Berger defines the concept more simply in his article, &lt;a href=&#34;https://www.getrichslowly.org/flywheel-of-wealth/&#34;&gt;&amp;ldquo;The Flywheel of Wealth (and the importance of patience)&amp;rdquo;&lt;/a&gt; as follows:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;A flywheel is a mechanical device designed to efficiently store rotational energy. Well, that’s how an engineer would describe a flywheel. I majored in English. To me, a flywheel is a wheel that’s really hard to get started. Once it gets going, however, it’s really hard to stop.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Of course, Rob Berger was referencing the concept in his article with regard to building personal wealth, but there is also a strong parallel with the process of building a business (or any project, really).&lt;/p&gt;
+&lt;p&gt;Think about it. As founders we spend hours upon hours tweaking marketing funnels, building better features for our products, creating pitch decks; all to get those first few customers. And at the beginning, even a few customer conversions can seem like a lot. Some days you don&amp;rsquo;t see any progress, but you keep going anyway.&lt;/p&gt;
+&lt;p&gt;Why? Because the startup process is a flywheel. If you are patient and consistent about your efforts, the momentum will build and the work will pay off. So keep building, keep iterating, and don&amp;rsquo;t give up when it seems like things are moving slowly.&lt;/p&gt;
+&lt;p&gt;Get that flywheel spinning, and eventually it will become a difficult force to stop.&lt;/p&gt;
+&lt;h2 id=&#34;current-perspective&#34;&gt;Current Perspective&lt;/h2&gt;
+&lt;p&gt;While it&amp;rsquo;s obvious that I was deep in a startup founder headspace when I initially wrote that, I believe the concept can be applied to many aspects of life.&lt;/p&gt;
+&lt;p&gt;Think about the last time you started something new. Whether it was a project at work, striving for new fitness goals, or some other thing you&amp;rsquo;ve resolved yourself to take on, I&amp;rsquo;d bet it seemed daunting at first. Many new things are.&lt;/p&gt;
+&lt;p&gt;But, if you can use your initial motivation to get the flywheel spinning and get past those initial challenges, you&amp;rsquo;ll almost always find that things get much easier after a while. Persistence and consistency breed momentum, which is what the flywheel is all about.&lt;/p&gt;
+&lt;p&gt;Eventually, the momentum you&amp;rsquo;re creating will propel you toward whatever goal you&amp;rsquo;ve set for yourself and things will be much less likely to come to a grinding halt.&lt;/p&gt;
+&lt;p&gt;Keep that flywheel spinning!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Mindful Journey Through the Woods</title>
+      <link>http://localhost:1313/through-the-woods/</link>
+      <pubDate>Fri, 16 Jun 2023 11:03:59 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/through-the-woods/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always enjoyed nature. But, I work from home as a data engineer, so to counterbalance that I make sure to spend as much time as I can exploring the outdoors, far away from digital distractions. Most days, this can be as simple as taking a walk around the local park or going for a bike ride.&lt;/p&gt;
+&lt;p&gt;Last month, I took a solo camping trip to &lt;a href=&#34;https://allyouneedinstitute.com/&#34;&gt;All You Need Institute&lt;/a&gt; with the goal of exploring the concept of &amp;ldquo;forest bathing&amp;rdquo; and getting some peace and quiet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/travel/article/forest-bathing-nature-walk-health&#34;&gt;Forest bathing&lt;/a&gt;, a Japanese concept I recently came across (though it&amp;rsquo;s been around since the eighties), is the practice of immersing oneself in nature in order to promote physical and mental well-being. They call it &lt;em&gt;shinrin-yoku&lt;/em&gt;. It&amp;rsquo;s meant to be a mindful activity where you purposely slow down and pay attention to the sights, sounds, smells, and feelings of the natural world. The health benefits of this practice are myriad.&lt;/p&gt;
+&lt;p&gt;I arrived at AYNI for my five-day excursion without too much of a plan for the weekend. The sprawling homestead, run by two New Orleans natives, is located on a beautiful plot of 111 acres in the Sandhills of Mississippi, in the Piney Woods region. The grounds are lush with new growth, with towering pine trees, rolling hills, a swimming pond, and unique flora and fauna such as deer moss and gopher tortoises.&lt;/p&gt;
+&lt;p&gt;I stayed in the &amp;ldquo;Cozy Pineland Micro-Cabin&amp;rdquo;, one of the non-primitive sites on the grounds. It&amp;rsquo;s a &lt;em&gt;tiny&lt;/em&gt; camper with just enough room for a bed and an air conditioning unit, which was a nice amenity in the upper-eighty-degree heat. The only things I took with me were my phone (for family check-ins), my Kindle Paperwhite, my black lab Gracie, and camping essentials like food, water, and a hammock.&lt;/p&gt;
+&lt;p&gt;Once the camp was set up, I spent the next five days exploring the grounds and soaking in the natural surroundings. Gracie and I hiked through the winding network of trails, enjoyed the one-acre pond, and throughout the weekend I read Nick Offerman&amp;rsquo;s book, &lt;em&gt;Where the Deer and the Antelope Play&lt;/em&gt; in the piney shade. While I&amp;rsquo;m not sure I agree with every aspect of Offerman&amp;rsquo;s book, his writing reminded me to appreciate the simple things in life, and of the importance of intentionally connecting with nature (by now, you can probably sense the theme here).&lt;/p&gt;
+&lt;p&gt;Here are a few book quotes from that weekend I saved to my Kindle clippings:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And so I go into the woods. As I go in under the trees, dependably, almost at once, and by nothing I do, things fall into place. I enter an order that does not exist outside, in the human spaces. I feel my life take its place among the lives—the trees, the birds, the living of all these and the dead—that go and have gone to make the life of the earth. I am less important than I thought, the human race is less important than I thought. I rejoice in that. My mind loses its urgings, senses its nature, and is free. —&lt;strong&gt;Wendell Berry, A Native Hill&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A man on foot, on horseback or on a bicycle will see more, feel more, enjoy more in one mile than the motorized tourists can in a hundred miles. —&lt;strong&gt;Edward Abbey, Desert Solitaire&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;hellip;our species is merely one small part of the &amp;ldquo;great economy&amp;rdquo; that is all of nature, and the ecological humility that our place in nature subsequently requires. —&lt;strong&gt;Nick Offerman, Where the Deer and the Antelope Play&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wherever a man separates from the multitude and goes his own way, there is a fork in the road, though the travelers along the highway see only a gap in the paling. —&lt;strong&gt;Henry David Thoreau&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;All in all, it was a great trip.&lt;/p&gt;
+&lt;h2 id=&#34;reflections&#34;&gt;Reflections&lt;/h2&gt;
+&lt;p&gt;My time camping in the Piney Woods was a refreshing experience. I enjoyed the rest and reflection and emerged feeling reinvigorated.&lt;/p&gt;
+&lt;p&gt;I think the Japanese are onto something here. Forest bathing is a simple but powerful practice that can have a profound impact on many aspects of general wellbeing.&lt;/p&gt;
+&lt;p&gt;If this sounds like something you might enjoy, I highly recommend doing a bit of forest bathing yourself. It&amp;rsquo;s a great way to relax, de-stress, and reconnect with nature. If you&amp;rsquo;re looking to improve your physical and mental health, give it a try.&lt;/p&gt;
+&lt;h2 id=&#34;additional-thoughts&#34;&gt;Additional Thoughts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I am more patient and peaceful when I am out in nature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I realized I should make more time to relax and recharge.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After the trip I appreciate the simple things in life more, like running water, birds chirping, and the cadence of the pine trees in a gentle wind.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have our own special ecosystem back home in Sportsman&amp;rsquo;s Paradise. As a hunter and fisherman myself, I&amp;rsquo;d like to further my own education so I can be a better steward of our natural resources. I&amp;rsquo;m looking into becoming certified as a &lt;a href=&#34;https://www.louisianamasternaturalist.org/&#34;&gt;Louisiana Master Naturalist&lt;/a&gt; and getting involved in some conservation volunteer work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
