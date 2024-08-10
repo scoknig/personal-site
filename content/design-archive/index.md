@@ -13,6 +13,8 @@ One of the fun parts of having your own website is that you can make it look how
 
 [ Snapshot Date --- Notes ]
 
+[August 10, 2024](https://web.archive.org/web/20240810143518/https://scottk.mba/) --- Not a major theme change by any means. Updated the accent color from Nike Volt green to a yellow that looks more in alignment with the soft yellow used for all text on the site.
+
 [January 03, 2024](https://web.archive.org/web/20240103164706/https://scottk.mba/) --- Active theme. Bringing the action and momentum and action of the new year with this design utilizing system-ui typeface and palette with dark cyan, soft yellow, and Nike Volt green for the accent.
 
 [September 11, 2023](https://web.archive.org/web/20230911012951/https://scottk.mba/) --- Fall theme, "[Library](/fall-theme/)". Seasonal change with an academic feel; Palatino typeface, vintage leather & paper hues. Warm and cozy.
