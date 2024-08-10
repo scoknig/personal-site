@@ -4,7 +4,7 @@
   /* Darker Palette: Black #111013 | Soft Yellow #F5EFDF | Accent Yellow #FACE34 | Alt: Softer Yellow #FBE094 */
   /* Current: Cyan Blue #162936 | Soft Yellow #F5EFDF | Nike Volt Green #CEFF00 | Alt: Bright Green #8CC92D */
 :root {
-    --primary-accent-color: #CEFF00;
+    --primary-accent-color: #FACE34;
     --dark-bg: #162936;
     --title-bg: #162936;
     --title-text: #F5EFDF;
