@@ -7,11 +7,13 @@ toc: false
 draft: false
 ---
 
-One of the fun parts of having your own website is that you can make it look however you want. I'm always tinkering with the designs, themes, and palettes of this site and I thought it'd be a fun ongoing project to keep an archive here using the [Wayback Machine](https://archive.org/web/web.php) from Internet Archive.
+One of the fun parts of having your own website is that you can make it look however you want. I'm always tinkering with the designs, themes, and palettes of this site and I thought it'd be a fun ongoing project to keep an archive here using the [Wayback Machine](https://web.archive.org/save) from Internet Archive.
 
 ## Theme Snapshots
 
 [ Snapshot Date --- Notes ]
+
+[August 24, 2024](https://web.archive.org/web/20240824223430/https://scottk.mba/) --- No major changes. Updated the dark background color to a darker navy to improve contrast and readability.
 
 [August 10, 2024](https://web.archive.org/web/20240810143518/https://scottk.mba/) --- Not a major theme change by any means. Updated the accent color from Nike Volt green to a yellow that looks more in alignment with the soft yellow used for all text on the site.
 
