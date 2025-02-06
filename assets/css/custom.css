@@ -131,8 +131,8 @@ body {
 .custom-card {
     margin-bottom: 3rem;
     padding: 1rem;
-    padding-left: 1.4em;
-    padding-right: 1.4em;
+    padding-left: 1.3em;
+    padding-right: 1.3em;
     border-width: 2px;
     border-style: solid;
     border-radius: var(--custom-border-radius);
