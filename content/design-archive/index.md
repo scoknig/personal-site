@@ -13,6 +13,8 @@ One of the fun parts of having your own website is that you can make it look how
 
 [ Snapshot Date --- Notes ]
 
+[February 5, 2025](https://web.archive.org/web/20250206031730/https://scottk.mba/) --- New theme: Southern Academic. Improved typography with the Charter font family, along with a palette that pays homage to the American South: Pine Green, Light Peach, and Ripe Orange. Also includes some minor corrections for spacing, typographical proportions, and legibility.
+
 [August 24, 2024](https://web.archive.org/web/20240824223430/https://scottk.mba/) --- No major changes. Updated the dark background color to a darker navy to improve contrast and readability.
 
 [August 10, 2024](https://web.archive.org/web/20240810143518/https://scottk.mba/) --- Not a major theme change by any means. Updated the accent color from Nike Volt green to a yellow that looks more in alignment with the soft yellow used for all text on the site.
