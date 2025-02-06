@@ -1,21 +1,21 @@
 /* Fall Color Pallette: https://coolors.co/312229-54101d-47596f-b18653-d5c5ae */
-
-/* Normal Theme: */
-  /* Darker Palette: Black #111013 | Soft Yellow #F5EFDF | Accent Yellow #FACE34 | Alt: Softer Yellow #FBE094 */
-  /* Current: Cyan Blue #162936 | Soft Yellow #F5EFDF | Nike Volt Green #CEFF00 | Alt: Bright Green #8CC92D */
+/* Current theme: Pine Green #1d3c45 | Light Peach #fff1e1 | Accent Orange #d2601a */
 :root {
-    --primary-accent-color: #FACE34;
-    --dark-bg: #101720;
-    --title-bg: #101720;
-    --title-text: #F5EFDF;
-    --light-contrast: #F5EFDF;
+    --primary-accent-color: #d2601a;
+    --dark-bg: #1d3c45;
+    --title-bg: #1d3c45;
+    --title-text: #fff1e1;
+    --light-contrast: #fff1e1;
     --custom-border-width-thick: 0.25rem;
     --custom-border-style: solid;
     --custom-border-radius: 4px;
     --custom-border-width: 2px;
     --custom-link-style: solid;
-    --font-primary: system-ui, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --font-primary: Charter, Iowan Old Style, Palatino, Century Schoolbook, Book Antiqua, ui-serif, serif;
 }
+
+/* Sport Theme: Cyan Blue #162936 | Soft Yellow #F5EFDF | Nike Volt Green #CEFF00 | Alt: Bright Green #8CC92D
+   --font-primary: system-ui, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
 
 /* Library Theme */
 /* :root {
@@ -34,7 +34,7 @@
 } */
 
 body {
-    font-size: 1.2rem;
+    font-size: 1.3em;
     /* font-size: 18px; */
     font-family: var(--font-primary);
     font-weight: 400;
@@ -51,8 +51,21 @@ body {
     color: var(--primary-accent-color);
     border-bottom: 0.125em solid var(--primary-accent-color);
 }
+/* .container a, a:visited:not(.btn):not(.page-link):not(.next-post):not(.previous-post) {
+    color: var(--light-contrast);
+    text-decoration: none;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    font-size: 1.2em;
+    letter-spacing: .10ch;
+    font-weight: 500;
+    border-bottom: 0.12em var(--custom-link-style) var(--light-contrast);
+}
+.container a:hover:not(.btn):not(.page-link):not(.tag-btn) {
+    color: var(--primary-accent-color);
+} */
 .container {
-  max-width: 600px;
+  max-width: 650px;
 }
 #nav a {
   font-weight: 600;
@@ -118,6 +131,8 @@ body {
 .custom-card {
     margin-bottom: 3rem;
     padding: 1rem;
+    padding-left: 1.4em;
+    padding-right: 1.4em;
     border-width: 2px;
     border-style: solid;
     border-radius: var(--custom-border-radius);
