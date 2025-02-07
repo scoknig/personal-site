@@ -9016,6 +9016,9 @@ body {
     color: var(--light-contrast);
     background-color: var(--dark-bg);
 }
+hr {
+    border-top: 1px solid var(--light-contrast);
+}
 .container a, a:visited:not(.btn):not(.page-link) {
     color: var(--light-contrast);
     border-bottom: 0.125em var(--custom-link-style) var(--light-contrast);
@@ -9065,6 +9068,11 @@ body {
 }
 .tag-btn {
   margin-bottom: 0.3em;
+  font-size: 1.1rem;
+}
+.badge-light {
+    color: var(--dark-bg);
+    background-color: var(--light-contrast);
 }
 .btn:hover {
     color: var(--dark-bg) !important;

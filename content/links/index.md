@@ -23,4 +23,6 @@ draft: false
 
 - [Inspiration for This Site](/inspiration/)
 
+- [Tags](/tags/)
+
 - [Uses](/tools/)
