@@ -5,9 +5,11 @@ toc: false
 draft: false
 ---
 
-Hi there. I'm a Data Automation Engineer in South Louisiana who enjoys open data, cycling, and exploring outdoors.
+Hi there. I'm a Data Automation Engineer in South Louisiana with a curiosity for all things analog.
 
-Having written loads of complex software for clients through the years, I've come to enjoy keeping things simple and easy when it comes to my own projects. This site is a testament to that practice.
+After years of building complex software for clients professionally, I've grown to appreciate simplicity and "touching grass" when I'm not working. Balance is important.
+
+In my spare time I'm usually [reading](https://goodreads.com/scottknight), [streamlining workflows](/personal-automations/), spending time [outdoors](/through-the-woods/), collecting and restoring vintage typewriters and tobacco pipes, or periodically writing [here](/blog/) about my latest interests.
 
 ## Work
 
@@ -37,4 +39,4 @@ I'm also on {{< mastodon >}}.
 
 ## Links
 
-A sitemap of this site's pages can be found [here](/links/).
+A listing of this site's pages and some other odds and ends can be found [here](/links/).

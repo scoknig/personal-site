@@ -21,7 +21,11 @@ draft: false
 
 - [Disclaimer](/disclaimer/)
 
+- [Goodreads](https://goodreads.com/scottknight/)
+
 - [Inspiration for This Site](/inspiration/)
+
+- [RSS](https://scottk.mba/blog/index.xml)
 
 - [Tags](/tags/)
 
