@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-04-27T09:00:28-05:00</lastmod>
+    <lastmod>2025-02-07T14:54:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2025-02-07T14:54:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-to-improve-your-sites-typography/</loc>
+    <lastmod>2025-02-07T14:54:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-07T14:54:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2024-12-28T08:10:39-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/wrapping-up-2024/</loc>
+    <lastmod>2024-12-28T08:10:39-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/markhams-brotherhood/</loc>
+    <lastmod>2024-12-15T18:20:29-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reading/</loc>
+    <lastmod>2024-12-15T18:20:29-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/business/</loc>
+    <lastmod>2024-08-10T08:46:59-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/goals-vs-objectives/</loc>
+    <lastmod>2024-08-10T08:46:59-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/a-postcard-from-the-capitol/</loc>
+    <lastmod>2024-07-31T15:52:21-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/homelab/</loc>
     <lastmod>2024-04-27T09:00:28-05:00</lastmod>
@@ -11,16 +41,10 @@
     <loc>http://localhost:1313/homelab-update/</loc>
     <lastmod>2024-04-27T09:00:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-04-27T09:00:28-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/tech/</loc>
     <lastmod>2024-04-27T09:00:28-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/6-to-1-grocery-method/</loc>
-    <lastmod>2024-04-19T12:43:55-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/life/</loc>
     <lastmod>2024-04-19T12:43:55-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/keeping-analog-alive/</loc>
@@ -57,9 +81,6 @@
     <lastmod>2023-10-25T07:36:43-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/burning-cds-in-2023/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/business/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/you-should-have-a-website/</loc>

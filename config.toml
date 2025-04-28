@@ -1,12 +1,8 @@
 baseURL = "http://scottk.mba/"
 languageCode = "en-us"
 title = "Scott Knight"
-copyright = "2023 Scott Knight All rights reserved"
-paginate = 5
-
-[author]
-  name = "Scott Knight"
-  email = "www@knight.mba"
+copyright = "Scott Knight. All rights reserved."
+pagination.pagerSize = 5
 
 [permalinks]
     blog = "/:filename"
@@ -31,6 +27,10 @@ paginate = 5
 [params]
     dateFormat = "Jan 2, 2006"
     description = "Scott Knight's place on the web where he writes about tech, business, life, and anything else he finds interesting or useful."
+
+[params.author]
+  name = "Scott Knight"
+  email = "www@knight.mba"
 
 [taxonomies]
   tag = "tags"

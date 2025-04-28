@@ -8,8 +8,44 @@
     <language>"en-us"</language>
     <managingEditor>Scott Knight</managingEditor>
     <webMaster>Scott Knight</webMaster>
-    <copyright>2023 Scott Knight All rights reserved</copyright>
-    <lastBuildDate>Sat, 27 Apr 2024 09:00:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Scott Knight. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 07 Feb 2025 14:54:31 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/tags/design/</link>
+      <pubDate>Fri, 07 Feb 2025 14:54:31 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Sat, 28 Dec 2024 08:10:39 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/tags/reading/</link>
+      <pubDate>Sun, 15 Dec 2024 18:20:29 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/tags/business/</link>
+      <pubDate>Sat, 10 Aug 2024 08:46:59 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/tags/business/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Homelab</title>
       <link>http://localhost:1313/tags/homelab/</link>
@@ -29,29 +65,11 @@
     </item>
     
     <item>
-      <title>Life</title>
-      <link>http://localhost:1313/tags/life/</link>
-      <pubDate>Fri, 19 Apr 2024 12:43:55 -0500</pubDate>
-      <author>Scott Knight</author>
-      <guid>http://localhost:1313/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Meta</title>
       <link>http://localhost:1313/tags/meta/</link>
       <pubDate>Wed, 27 Dec 2023 12:51:46 -0600</pubDate>
       <author>Scott Knight</author>
       <guid>http://localhost:1313/tags/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Business</title>
-      <link>http://localhost:1313/tags/business/</link>
-      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <author>Scott Knight</author>
-      <guid>http://localhost:1313/tags/business/</guid>
       <description></description>
     </item>
     
