@@ -2,7 +2,7 @@
 title: "How to Keep Your Mac Awake Using Terminal"
 date: 2025-05-01T18:54:22-05:00
 tags: [tech]
-summary: Using the 'caffeinate' command on MacOS.
+summary: Using the `caffeinate` command on MacOS.
 toc: false
 draft: false
 ---
