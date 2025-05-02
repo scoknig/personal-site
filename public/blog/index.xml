@@ -9,7 +9,16 @@
     <managingEditor>Scott Knight</managingEditor>
     <webMaster>Scott Knight</webMaster>
     <copyright>Scott Knight. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Feb 2025 14:54:31 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 May 2025 18:54:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Keep Your Mac Awake Using the Terminal</title>
+      <link>http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/</link>
+      <pubDate>Thu, 01 May 2025 18:54:22 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>How to Improve Your Site&#39;s Typography</title>
       <link>http://localhost:1313/how-to-improve-your-sites-typography/</link>

@@ -11,6 +11,31 @@
     <copyright>Scott Knight. All rights reserved.</copyright>
     <lastBuildDate>Sun, 11 Jun 2023 10:30:59 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How to Keep Your Mac Awake Using the Terminal</title>
+      <link>http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/</link>
+      <pubDate>Thu, 01 May 2025 18:54:22 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/</guid>
+      <description>&lt;p&gt;Recently I was running some tasks on my Macbook Pro I wanted to prevent the machine from sleeping. A quick &lt;a href=&#34;https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/&#34;&gt;DuckDuckGo&lt;/a&gt; search tipped me off to the &lt;code&gt;caffeinate&lt;/code&gt; command that&amp;rsquo;s built into the Terminal in macOS. If this is a well-known thing in macOS, I&amp;rsquo;ve never come across it so I thought I&amp;rsquo;d share here in case anyone else would find it useful.&lt;/p&gt;
+&lt;p&gt;If you have some reason to prevent your machine running macOS from sleeping, &lt;code&gt;caffeinate&lt;/code&gt; gives you a few options. For basic usage, here&amp;rsquo;s how you use it:&lt;/p&gt;
+&lt;h2 id=&#34;step-1-open-terminal&#34;&gt;Step 1: Open Terminal&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;re not sure how to do this, &lt;a href=&#34;https://www.tomsguide.com/how-to/how-to-open-terminal-on-mac&#34;&gt;see here&lt;/a&gt; (it&amp;rsquo;s one of the Applications that comes with macOS).&lt;/p&gt;
+&lt;h2 id=&#34;step-2-type-caffeinate-and-hit-enter&#34;&gt;Step 2: Type &lt;code&gt;caffeinate&lt;/code&gt; and hit Enter&lt;/h2&gt;
+&lt;p&gt;This will prevent your Mac from sleeping as long as you don&amp;rsquo;t close the lid or exit Terminal. Once you close Terminal, hit Ctrl+C, or close the lid on your machine, the process will exit and normal sleep behavior will resume.&lt;/p&gt;
+&lt;p&gt;Now, here&amp;rsquo;s the really handy part—&lt;code&gt;caffeinate&lt;/code&gt; takes arguments, meaning that if you add an option after the command, you can change how long it will run or set it to wait for a specific process or command to complete before exiting.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;caffeinate -i&lt;/code&gt; prevents sleeping indefinitely (prevents idle sleeping)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;caffeinate -u -t 3600&lt;/code&gt; prevents sleeping for 1 hour (the &lt;code&gt;-u&lt;/code&gt; flag resets the last time the user was active, and &lt;code&gt;-t 3600&lt;/code&gt; defines the time limit in seconds, equivalent to an hour)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;caffeinate -s &amp;lt;command&amp;gt;&lt;/code&gt; prevents sleeping until a command finishes running. Just replace &lt;code&gt;&amp;lt;command&amp;gt;&lt;/code&gt; with your desired command&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;caffeinate -w &amp;lt;pid&amp;gt;&lt;/code&gt; prevents sleeping until a running process completes, provided you define the PID of the process&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+&lt;p&gt;For further reading, here&amp;rsquo;s &lt;a href=&#34;https://commandmasters.com/commands/caffeinate-osx/&#34;&gt;the original article&lt;/a&gt; I found as well as the actual &lt;a href=&#34;https://ss64.com/mac/caffeinate.html&#34;&gt;man page&lt;/a&gt; for the command.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How to Improve Your Site&#39;s Typography</title>
       <link>http://localhost:1313/how-to-improve-your-sites-typography/</link>
       <pubDate>Fri, 07 Feb 2025 14:54:31 -0600</pubDate>
@@ -1001,11 +1026,11 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;In the &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;blog&lt;/a&gt; you&amp;rsquo;ll find an ever-growing collection of my thoughts, things I&amp;rsquo;ve learned, and interesting nuggets I find.&lt;/p&gt;
 &lt;p&gt;Here are several of my most recent posts:&lt;/p&gt;
 
+  &lt;a href=&#34;http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/&#34;&gt;How to Keep Your Mac Awake Using the Terminal&lt;/a&gt;&lt;br&gt;
+
   &lt;a href=&#34;http://localhost:1313/how-to-improve-your-sites-typography/&#34;&gt;How to Improve Your Site&amp;#39;s Typography&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/wrapping-up-2024/&#34;&gt;Wrapping Up 2024&lt;/a&gt;&lt;br&gt;
-
-  &lt;a href=&#34;http://localhost:1313/markhams-brotherhood/&#34;&gt;Markham&amp;#39;s Brotherhood&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
 &lt;p&gt;If you &lt;a href=&#34;https://aboutfeeds.com/&#34;&gt;use an RSS reader&lt;/a&gt;, here&amp;rsquo;s the &lt;a href=&#34;http://localhost:1313/blog/index.xml&#34;&gt;blog&amp;rsquo;s RSS feed&lt;/a&gt;.&lt;/p&gt;
@@ -1768,7 +1793,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
       <author>Scott Knight</author>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Email is the easiest way to reach me. I usually respond fairly quickly.&lt;/p&gt;
-&lt;h2 id=&#34;email-hahahugoshortcode53s0hbhb&#34;&gt;Email: &lt;a href=&#34;mailto:www@knight.mba&#34;&gt;www@knight.mba&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;email-hahahugoshortcode54s0hbhb&#34;&gt;Email: &lt;a href=&#34;mailto:www@knight.mba&#34;&gt;www@knight.mba&lt;/a&gt;&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; The email above is subject to change from time to time; just another layer of protection from spam. I&amp;rsquo;ll reply from my actual email address so we can continue the conversation.&lt;/p&gt;
 </description>
@@ -1863,11 +1888,11 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
       <description>&lt;p&gt;You&amp;rsquo;re all set to receive future posts via email.&lt;/p&gt;
 &lt;p&gt;Since you&amp;rsquo;re here, feel free to check out some of my &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;previous posts&lt;/a&gt;. Here&amp;rsquo;s a few recent ones:&lt;/p&gt;
 
+  &lt;a href=&#34;http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/&#34;&gt;How to Keep Your Mac Awake Using the Terminal&lt;/a&gt;&lt;br&gt;
+
   &lt;a href=&#34;http://localhost:1313/how-to-improve-your-sites-typography/&#34;&gt;How to Improve Your Site&amp;#39;s Typography&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/wrapping-up-2024/&#34;&gt;Wrapping Up 2024&lt;/a&gt;&lt;br&gt;
-
-  &lt;a href=&#34;http://localhost:1313/markhams-brotherhood/&#34;&gt;Markham&amp;#39;s Brotherhood&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
 &lt;p&gt;Cheers,&lt;/p&gt;
