@@ -19,6 +19,6 @@ As the Sharks say: for those reasons, I'm out. I'm not necessarily saying it's a
 
 If you're looking for a more private way to connect with your friends, there are plenty of better options out there. [Signal](https://www.signal.org/) is a great secure messaging option. I'd also recommend [Mastodon](https://mastodon.social/) as a federated alternative to Twitter. 
 
-For now, you can [find me there](https://fosstodon.org/@scoknig).
+For now, you can [find me there](https://indieweb.social/@scoknig).
 
 __What do you think? Are you planning on joining Threads?__
