@@ -1,7 +1,7 @@
 ---
 title: "Ozymandias"
 date: 2024-01-05T13:29:46-06:00
-tags: [life]
+tags: [philosophy, life]
 summary: A brief reflection on the classic sonnet.
 toc: false
 draft: false

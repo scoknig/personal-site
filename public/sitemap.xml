@@ -5,16 +5,19 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-05-01T18:54:22-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/</loc>
+    <loc>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</loc>
+    <lastmod>2025-05-01T18:54:22-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-01T18:54:22-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tech/</loc>
     <lastmod>2025-05-01T18:54:22-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/design/</loc>
     <lastmod>2025-02-07T14:54:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/how-to-improve-your-sites-typography/</loc>
-    <lastmod>2025-02-07T14:54:31-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-07T14:54:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/life/</loc>
@@ -44,9 +47,6 @@
     <loc>http://localhost:1313/homelab-update/</loc>
     <lastmod>2024-04-27T09:00:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
-    <lastmod>2024-04-27T09:00:28-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/6-to-1-grocery-method/</loc>
     <lastmod>2024-04-19T12:43:55-05:00</lastmod>
   </url><url>
@@ -60,6 +60,9 @@
     <lastmod>2024-02-17T12:08:11-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ozymandias/</loc>
+    <lastmod>2024-01-05T13:29:46-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
     <lastmod>2024-01-05T13:29:46-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/24-in-24/</loc>

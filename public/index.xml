@@ -11,11 +11,11 @@
     <copyright>Scott Knight. All rights reserved.</copyright>
     <lastBuildDate>Sun, 11 Jun 2023 10:30:59 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Keep Your Mac Awake Using the Terminal</title>
-      <link>http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/</link>
+      <title>How to Keep Your Mac Awake Using Terminal</title>
+      <link>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</link>
       <pubDate>Thu, 01 May 2025 18:54:22 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/</guid>
+      <guid>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</guid>
       <description>&lt;p&gt;Recently I was running some tasks on my Macbook Pro I wanted to prevent the machine from sleeping. A quick &lt;a href=&#34;https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/&#34;&gt;DuckDuckGo&lt;/a&gt; search tipped me off to the &lt;code&gt;caffeinate&lt;/code&gt; command that&amp;rsquo;s built into the Terminal in macOS. If this is a well-known thing in macOS, I&amp;rsquo;ve never come across it so I thought I&amp;rsquo;d share here in case anyone else would find it useful.&lt;/p&gt;
 &lt;p&gt;If you have some reason to prevent your machine running macOS from sleeping, &lt;code&gt;caffeinate&lt;/code&gt; gives you a few options. For basic usage, here&amp;rsquo;s how you use it:&lt;/p&gt;
 &lt;h2 id=&#34;step-1-open-terminal&#34;&gt;Step 1: Open Terminal&lt;/h2&gt;
@@ -1026,7 +1026,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;In the &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;blog&lt;/a&gt; you&amp;rsquo;ll find an ever-growing collection of my thoughts, things I&amp;rsquo;ve learned, and interesting nuggets I find.&lt;/p&gt;
 &lt;p&gt;Here are several of my most recent posts:&lt;/p&gt;
 
-  &lt;a href=&#34;http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/&#34;&gt;How to Keep Your Mac Awake Using the Terminal&lt;/a&gt;&lt;br&gt;
+  &lt;a href=&#34;http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/&#34;&gt;How to Keep Your Mac Awake Using Terminal&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/how-to-improve-your-sites-typography/&#34;&gt;How to Improve Your Site&amp;#39;s Typography&lt;/a&gt;&lt;br&gt;
 
@@ -1037,7 +1037,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Feel free to have a look around. I hope you find something interesting.&lt;/p&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
 &lt;p&gt;If you&amp;rsquo;d like to get in touch, you can email me at &lt;a href=&#34;mailto:www@knight.mba&#34;&gt;www@knight.mba&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m also on &lt;a rel=&#34;me&#34; href=&#34;https://fosstodon.org/@scoknig&#34;&gt;Mastodon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m also on &lt;a rel=&#34;me&#34; href=&#34;https://indieweb.social/@scoknig&#34;&gt;Mastodon&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;p&gt;A listing of this site&amp;rsquo;s pages and some other odds and ends can be found &lt;a href=&#34;http://localhost:1313/links/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -1456,7 +1456,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Finally, I suppose Threads is just another way for Meta to collect data on me and my digital interactions, which I&amp;rsquo;m not keen to support. As we know, if you&amp;rsquo;re not paying for a product then you likely &lt;em&gt;are&lt;/em&gt; the product (or maybe it&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Free_and_open-source_software&#34;&gt;FOSS&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;As the Sharks say: for those reasons, I&amp;rsquo;m out. I&amp;rsquo;m not necessarily saying it&amp;rsquo;s a bad app. I just don&amp;rsquo;t think it&amp;rsquo;s for me.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re looking for a more private way to connect with your friends, there are plenty of better options out there. &lt;a href=&#34;https://www.signal.org/&#34;&gt;Signal&lt;/a&gt; is a great secure messaging option. I&amp;rsquo;d also recommend &lt;a href=&#34;https://mastodon.social/&#34;&gt;Mastodon&lt;/a&gt; as a federated alternative to Twitter.&lt;/p&gt;
-&lt;p&gt;For now, you can &lt;a href=&#34;https://fosstodon.org/@scoknig&#34;&gt;find me there&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For now, you can &lt;a href=&#34;https://indieweb.social/@scoknig&#34;&gt;find me there&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What do you think? Are you planning on joining Threads?&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
@@ -1888,7 +1888,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
       <description>&lt;p&gt;You&amp;rsquo;re all set to receive future posts via email.&lt;/p&gt;
 &lt;p&gt;Since you&amp;rsquo;re here, feel free to check out some of my &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;previous posts&lt;/a&gt;. Here&amp;rsquo;s a few recent ones:&lt;/p&gt;
 
-  &lt;a href=&#34;http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/&#34;&gt;How to Keep Your Mac Awake Using the Terminal&lt;/a&gt;&lt;br&gt;
+  &lt;a href=&#34;http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/&#34;&gt;How to Keep Your Mac Awake Using Terminal&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/how-to-improve-your-sites-typography/&#34;&gt;How to Improve Your Site&amp;#39;s Typography&lt;/a&gt;&lt;br&gt;
 

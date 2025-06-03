@@ -1,7 +1,7 @@
 ---
 title: "On Wealth"
 date: 2023-09-08T15:05:55-05:00
-tags: [life]
+tags: [philosophy, life]
 summary: What does it mean to be wealthy?
 toc: false
 draft: false

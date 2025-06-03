@@ -1,7 +1,7 @@
 ---
 title: "A Mindful Journey Through the Woods"
 date: 2023-06-16T11:03:59-05:00
-tags: [life]
+tags: [philosophy, life]
 summary: Reflecting on a recent solo camping trip.
 toc: false
 draft: false

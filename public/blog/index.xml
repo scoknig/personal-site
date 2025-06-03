@@ -11,12 +11,28 @@
     <copyright>Scott Knight. All rights reserved.</copyright>
     <lastBuildDate>Thu, 01 May 2025 18:54:22 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Keep Your Mac Awake Using the Terminal</title>
-      <link>http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/</link>
+      <title>How to Keep Your Mac Awake Using Terminal</title>
+      <link>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</link>
       <pubDate>Thu, 01 May 2025 18:54:22 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/how-to-keep-your-mac-awake-using-the-terminal/</guid>
-      <description></description>
+      <guid>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</guid>
+      <description>&lt;p&gt;Recently I was running some tasks on my Macbook Pro I wanted to prevent the machine from sleeping. A quick &lt;a href=&#34;https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/&#34;&gt;DuckDuckGo&lt;/a&gt; search tipped me off to the &lt;code&gt;caffeinate&lt;/code&gt; command that&amp;rsquo;s built into the Terminal in macOS. If this is a well-known thing in macOS, I&amp;rsquo;ve never come across it so I thought I&amp;rsquo;d share here in case anyone else would find it useful.&lt;/p&gt;
+&lt;p&gt;If you have some reason to prevent your machine running macOS from sleeping, &lt;code&gt;caffeinate&lt;/code&gt; gives you a few options. For basic usage, here&amp;rsquo;s how you use it:&lt;/p&gt;
+&lt;h2 id=&#34;step-1-open-terminal&#34;&gt;Step 1: Open Terminal&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;re not sure how to do this, &lt;a href=&#34;https://www.tomsguide.com/how-to/how-to-open-terminal-on-mac&#34;&gt;see here&lt;/a&gt; (it&amp;rsquo;s one of the Applications that comes with macOS).&lt;/p&gt;
+&lt;h2 id=&#34;step-2-type-caffeinate-and-hit-enter&#34;&gt;Step 2: Type &lt;code&gt;caffeinate&lt;/code&gt; and hit Enter&lt;/h2&gt;
+&lt;p&gt;This will prevent your Mac from sleeping as long as you don&amp;rsquo;t close the lid or exit Terminal. Once you close Terminal, hit Ctrl+C, or close the lid on your machine, the process will exit and normal sleep behavior will resume.&lt;/p&gt;
+&lt;p&gt;Now, here&amp;rsquo;s the really handy part—&lt;code&gt;caffeinate&lt;/code&gt; takes arguments, meaning that if you add an option after the command, you can change how long it will run or set it to wait for a specific process or command to complete before exiting.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;caffeinate -i&lt;/code&gt; prevents sleeping indefinitely (prevents idle sleeping)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;caffeinate -u -t 3600&lt;/code&gt; prevents sleeping for 1 hour (the &lt;code&gt;-u&lt;/code&gt; flag resets the last time the user was active, and &lt;code&gt;-t 3600&lt;/code&gt; defines the time limit in seconds, equivalent to an hour)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;caffeinate -s &amp;lt;command&amp;gt;&lt;/code&gt; prevents sleeping until a command finishes running. Just replace &lt;code&gt;&amp;lt;command&amp;gt;&lt;/code&gt; with your desired command&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;caffeinate -w &amp;lt;pid&amp;gt;&lt;/code&gt; prevents sleeping until a running process completes, provided you define the PID of the process&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+&lt;p&gt;For further reading, here&amp;rsquo;s &lt;a href=&#34;https://commandmasters.com/commands/caffeinate-osx/&#34;&gt;the original article&lt;/a&gt; I found as well as the actual &lt;a href=&#34;https://ss64.com/mac/caffeinate.html&#34;&gt;man page&lt;/a&gt; for the command.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1406,7 +1422,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Finally, I suppose Threads is just another way for Meta to collect data on me and my digital interactions, which I&amp;rsquo;m not keen to support. As we know, if you&amp;rsquo;re not paying for a product then you likely &lt;em&gt;are&lt;/em&gt; the product (or maybe it&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Free_and_open-source_software&#34;&gt;FOSS&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;As the Sharks say: for those reasons, I&amp;rsquo;m out. I&amp;rsquo;m not necessarily saying it&amp;rsquo;s a bad app. I just don&amp;rsquo;t think it&amp;rsquo;s for me.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re looking for a more private way to connect with your friends, there are plenty of better options out there. &lt;a href=&#34;https://www.signal.org/&#34;&gt;Signal&lt;/a&gt; is a great secure messaging option. I&amp;rsquo;d also recommend &lt;a href=&#34;https://mastodon.social/&#34;&gt;Mastodon&lt;/a&gt; as a federated alternative to Twitter.&lt;/p&gt;
-&lt;p&gt;For now, you can &lt;a href=&#34;https://fosstodon.org/@scoknig&#34;&gt;find me there&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For now, you can &lt;a href=&#34;https://indieweb.social/@scoknig&#34;&gt;find me there&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What do you think? Are you planning on joining Threads?&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
