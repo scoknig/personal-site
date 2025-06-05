@@ -3,12 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-05-01T18:54:22-05:00</lastmod>
+    <lastmod>2025-06-03T07:23:43-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</loc>
-    <lastmod>2025-05-01T18:54:22-05:00</lastmod>
+    <loc>http://localhost:1313/dont-wait-to-be-free/</loc>
+    <lastmod>2025-06-03T07:23:43-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <lastmod>2025-06-03T07:23:43-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-03T07:23:43-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</loc>
     <lastmod>2025-05-01T18:54:22-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tech/</loc>
@@ -60,9 +66,6 @@
     <lastmod>2024-02-17T12:08:11-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ozymandias/</loc>
-    <lastmod>2024-01-05T13:29:46-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
     <lastmod>2024-01-05T13:29:46-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/24-in-24/</loc>

@@ -15,7 +15,7 @@ In my spare time I'm usually [reading](https://goodreads.com/scottknight), [stre
 
 I work at [Sev1Tech](https://sev1tech.com).
 
-I also consult on technical projects and build fun things through [KnightLab](https://knightlab.co). Recently, KnightLab began branching out from the software world and is now offering [old media archival and digitization services](https://knightlab.film) as well.
+I also consult on technical projects and build intelligent, data-driven systems that solve complex business problems.
 
 I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. (hence the domain extension) in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.
 
