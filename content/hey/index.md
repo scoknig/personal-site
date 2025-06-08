@@ -14,7 +14,7 @@ My background spans data automation, software engineering, and business strategy
 So, let's stay connected:
 
 - You can reach me via email: [scottk@hey.com](mailto:scottk@hey.com)
-- Here's my LinkedIn profile if you'd like to connect there: [https://linkedin.com/in/imscottknight](https://linkedin.com/in/imscottknight)
+- Here's my [LinkedIn profile](https://linkedin.com/in/imscottknight) if you'd like to connect there.
 
 Looking forward to wherever the next conversation leads.
 
