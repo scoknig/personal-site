@@ -15,10 +15,6 @@ Here's a few things I'm currently working on:
 
 - [Building my home lab](/linux-poll/) to experiment with new tech
 
-- Learning [CircuitPython](https://circuitpython.org/) to program microcontrollers and build cool electronics projects
-
-- [Using data](http://www.markwk.com/data-analysis-for-apple-health.html) to improve my nutrition and activity habits
-
 - [Digitizing and preserving old media](https://knightlab.film/) like 8mm film, VHS tapes, film negatives/positives, etc.
 
 ## For Clients
@@ -33,4 +29,4 @@ A few of the website projects I've built for my [KnightLab](https://knightlab.co
 
 - [Taylor Nauta Music](https://taylornautamusic.com/)
 
-- [Valley of Baton Rouge, A.A.S.R.](https://valleyofbatonrouge.org/)
+- Valley of Baton Rouge, A.A.S.R. (no longer maintained)

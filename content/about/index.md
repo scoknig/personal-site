@@ -35,7 +35,7 @@ Feel free to have a look around. I hope you find something interesting.
 
 If you'd like to get in touch, you can email me at [{{< email >}}](mailto:{{< email >}})
 
-I'm also on {{< mastodon >}}.
+I'm also on {{< mastodon >}} (though admittedly not actively).
 
 ## Links
 
