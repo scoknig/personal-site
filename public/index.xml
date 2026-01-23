@@ -11,6 +11,30 @@
     <copyright>Scott Knight. All rights reserved.</copyright>
     <lastBuildDate>Sun, 11 Jun 2023 10:30:59 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Back to Basics</title>
+      <link>http://localhost:1313/back-to-basics/</link>
+      <pubDate>Fri, 23 Jan 2026 08:03:42 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/back-to-basics/</guid>
+      <description>&lt;h1 id=&#34;site-updates&#34;&gt;Site updates&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve decided to further consolidate and simplify some of the functionality as I continue to centralize my web presence. I don&amp;rsquo;t really post on social media, and as of late I am greatly cutting back my media consumption and replacing it with reading long-form texts. Here are some of the ways I&amp;rsquo;m doing this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;m removing the email subscription functionality from this site. My apologies if this is how you prefer to consume my posts. As an alternative, please consider bookmarking the site or using an &lt;a href=&#34;https://aboutfeeds.com/&#34;&gt;RSS reader&lt;/a&gt; (I recommend NetNewsWire). Better yet—if you find something interesting here, please feel free to use the &amp;lsquo;Reply via Email&amp;rsquo; button below to get in touch. My inbox is always open for interesting conversations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;m deactivating my Mastodon account. My original intention was to automate post distribution to it from this site, but there&amp;rsquo;s really no need for that when RSS is available. Anything I would post there, or any social media site for that matter, I would post here anyway.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;life-update&#34;&gt;Life update&lt;/h1&gt;
+&lt;p&gt;The observant reader will have realized that I haven&amp;rsquo;t published anything here since last June. And this is not for any particular reason other than a redirection of focus.&lt;/p&gt;
+&lt;p&gt;Replacing short-form online content—which is almost invariably negative—with reading actual books and thoughtful &lt;a href=&#34;https://substack.com/@scottknight/reads&#34;&gt;long-form online content&lt;/a&gt; is better for the mind and general wellbeing. So, my to-be-read list has grown significantly and I&amp;rsquo;m spending more time with classics in philosophy and theology, among other topics I find to be enlightening and enriching.&lt;/p&gt;
+&lt;p&gt;Aside from that, I&amp;rsquo;ve invested in a second home in Texas and am currently working to renovate the house there. As I&amp;rsquo;m sure you can imagine, this takes up most of the rest of my time lately. It will be a nice retreat once the current work is done, so I hope to share more on that later.&lt;/p&gt;
+&lt;p&gt;The takeaway is that you should never be afraid to experiment with life, take risks, and change things up every so often. As Ralph Waldo Emerson wrote: &lt;em&gt;&amp;ldquo;Life is a journey, not a destination.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Let&#39;s Stay Connected</title>
       <link>http://localhost:1313/hey/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
@@ -1064,18 +1088,17 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;In the &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;blog&lt;/a&gt; you&amp;rsquo;ll find an ever-growing collection of my thoughts, things I&amp;rsquo;ve learned, and interesting nuggets I find.&lt;/p&gt;
 &lt;p&gt;Here are several of my most recent posts:&lt;/p&gt;
 
+  &lt;a href=&#34;http://localhost:1313/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
+
   &lt;a href=&#34;http://localhost:1313/dont-wait-to-be-free/&#34;&gt;Don&amp;#39;t Wait to Be Free&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/&#34;&gt;How to Keep Your Mac Awake Using Terminal&lt;/a&gt;&lt;br&gt;
-
-  &lt;a href=&#34;http://localhost:1313/how-to-improve-your-sites-typography/&#34;&gt;How to Improve Your Site&amp;#39;s Typography&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
 &lt;p&gt;If you &lt;a href=&#34;https://aboutfeeds.com/&#34;&gt;use an RSS reader&lt;/a&gt;, here&amp;rsquo;s the &lt;a href=&#34;http://localhost:1313/blog/index.xml&#34;&gt;blog&amp;rsquo;s RSS feed&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Feel free to have a look around. I hope you find something interesting.&lt;/p&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
 &lt;p&gt;If you&amp;rsquo;d like to get in touch, you can email me at &lt;a href=&#34;mailto:www@knight.mba&#34;&gt;www@knight.mba&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m also on &lt;a rel=&#34;me&#34; href=&#34;https://indieweb.social/@scoknig&#34;&gt;Mastodon&lt;/a&gt; (though admittedly not actively).&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;p&gt;A listing of this site&amp;rsquo;s pages and some other odds and ends can be found &lt;a href=&#34;http://localhost:1313/links/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -1831,7 +1854,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
       <author>Scott Knight</author>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Email is the easiest way to reach me. I usually respond fairly quickly.&lt;/p&gt;
-&lt;h2 id=&#34;email-hahahugoshortcode55s0hbhb&#34;&gt;Email: &lt;a href=&#34;mailto:www@knight.mba&#34;&gt;www@knight.mba&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;email-hahahugoshortcode56s0hbhb&#34;&gt;Email: &lt;a href=&#34;mailto:www@knight.mba&#34;&gt;www@knight.mba&lt;/a&gt;&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; The email above is subject to change from time to time; just another layer of protection from spam. I&amp;rsquo;ll reply from my actual email address so we can continue the conversation.&lt;/p&gt;
 </description>
@@ -1920,11 +1943,11 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
       <description>&lt;p&gt;You&amp;rsquo;re all set to receive future posts via email.&lt;/p&gt;
 &lt;p&gt;Since you&amp;rsquo;re here, feel free to check out some of my &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;previous posts&lt;/a&gt;. Here&amp;rsquo;s a few recent ones:&lt;/p&gt;
 
+  &lt;a href=&#34;http://localhost:1313/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
+
   &lt;a href=&#34;http://localhost:1313/dont-wait-to-be-free/&#34;&gt;Don&amp;#39;t Wait to Be Free&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/&#34;&gt;How to Keep Your Mac Awake Using Terminal&lt;/a&gt;&lt;br&gt;
-
-  &lt;a href=&#34;http://localhost:1313/how-to-improve-your-sites-typography/&#34;&gt;How to Improve Your Site&amp;#39;s Typography&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
 &lt;p&gt;Cheers,&lt;/p&gt;

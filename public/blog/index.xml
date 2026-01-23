@@ -9,7 +9,31 @@
     <managingEditor>Scott Knight</managingEditor>
     <webMaster>Scott Knight</webMaster>
     <copyright>Scott Knight. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 03 Jun 2025 07:23:43 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jan 2026 08:03:42 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back to Basics</title>
+      <link>http://localhost:1313/back-to-basics/</link>
+      <pubDate>Fri, 23 Jan 2026 08:03:42 -0600</pubDate>
+      <author>Scott Knight</author>
+      <guid>http://localhost:1313/back-to-basics/</guid>
+      <description>&lt;h1 id=&#34;site-updates&#34;&gt;Site updates&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve decided to further consolidate and simplify some of the functionality as I continue to centralize my web presence. I don&amp;rsquo;t really post on social media, and as of late I am greatly cutting back my media consumption and replacing it with reading long-form texts. Here are some of the ways I&amp;rsquo;m doing this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;m removing the email subscription functionality from this site. My apologies if this is how you prefer to consume my posts. As an alternative, please consider bookmarking the site or using an &lt;a href=&#34;https://aboutfeeds.com/&#34;&gt;RSS reader&lt;/a&gt; (I recommend NetNewsWire). Better yet—if you find something interesting here, please feel free to use the &amp;lsquo;Reply via Email&amp;rsquo; button below to get in touch. My inbox is always open for interesting conversations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;m deactivating my Mastodon account. My original intention was to automate post distribution to it from this site, but there&amp;rsquo;s really no need for that when RSS is available. Anything I would post there, or any social media site for that matter, I would post here anyway.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;life-update&#34;&gt;Life update&lt;/h1&gt;
+&lt;p&gt;The observant reader will have realized that I haven&amp;rsquo;t published anything here since last June. And this is not for any particular reason other than a redirection of focus.&lt;/p&gt;
+&lt;p&gt;Replacing short-form online content—which is almost invariably negative—with reading actual books and thoughtful &lt;a href=&#34;https://substack.com/@scottknight/reads&#34;&gt;long-form online content&lt;/a&gt; is better for the mind and general wellbeing. So, my to-be-read list has grown significantly and I&amp;rsquo;m spending more time with classics in philosophy and theology, among other topics I find to be enlightening and enriching.&lt;/p&gt;
+&lt;p&gt;Aside from that, I&amp;rsquo;ve invested in a second home in Texas and am currently working to renovate the house there. As I&amp;rsquo;m sure you can imagine, this takes up most of the rest of my time lately. It will be a nice retreat once the current work is done, so I hope to share more on that later.&lt;/p&gt;
+&lt;p&gt;The takeaway is that you should never be afraid to experiment with life, take risks, and change things up every so often. As Ralph Waldo Emerson wrote: &lt;em&gt;&amp;ldquo;Life is a journey, not a destination.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Don&#39;t Wait to Be Free</title>
       <link>http://localhost:1313/dont-wait-to-be-free/</link>
