@@ -5,11 +5,11 @@ toc: false
 draft: false
 ---
 
-Hi there. I'm a Data Automation Engineer in South Louisiana with a curiosity for all things analog.
+I'm Scott Knight, an engineer and builder drawn to useful work, clear thinking, and the lifelong pursuit of wisdom.
 
-After years of building complex software for clients professionally, I've grown to appreciate simplicity and "touching grass" when I'm not working. Balance is important.
+I spend my days working in complex systems and my spare time trying to simplify them — which could mean refining workflows, spending time outdoors, or studying ideas that have endured longer than any software ever will.
 
-In my spare time I'm usually [reading](https://goodreads.com/scottknight), [streamlining workflows](/personal-automations/), spending time [outdoors](/through-the-woods/), collecting and restoring vintage typewriters and tobacco pipes, or periodically writing [here](/blog/) about my latest interests.
+This site is where I write about what I'm building, learning, and anything else that strikes me. If you're interested in thoughtful work, small ventures, enduring ideas, I hope you will find something useful here.
 
 ## Work
 
@@ -17,7 +17,7 @@ I work at [Sev1Tech](https://sev1tech.com).
 
 I also consult on technical projects and build intelligent, data-driven systems that solve complex business problems.
 
-I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. (hence the domain extension) in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.
+I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. (hence the domain) in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.
 
 ## Blog
 
