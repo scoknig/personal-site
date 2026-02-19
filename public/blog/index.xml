@@ -41,7 +41,8 @@
       <author>Scott Knight</author>
       <guid>http://localhost:1313/dont-wait-to-be-free/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;A man should never get lost in the details of his life and forget that, ultimately and in truth, life amounts to nothing rather than what is the deepest truth of this present moment. Tasks don&amp;rsquo;t get a man anywhere more conscious or free than he is capable of being in this present moment&amp;hellip; Know eternity. Do whatever it takes. And from this depth of being, live the details of your life&amp;hellip; But if you postpone the process of submerging yourself in the source for the sake of taking care of business first, your life will be spent in hours and days of business, and then it will be gone. Only if you are well grounded in that which is larger than life will you be able to play life with humor, knowing that each task is a mirage of necessity&amp;hellip; The test of your fullness in every moment is your capacity to die in free and loving surrender, knowing you&amp;rsquo;ve done everything you could do while alive to give your gift and know the truth of being.&amp;rdquo; —David Deida&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;ldquo;A man should never get lost in the details of his life and forget that, ultimately and in truth, life amounts to nothing rather than what is the deepest truth of this present moment. Tasks don&amp;rsquo;t get a man anywhere more conscious or free than he is capable of being in this present moment&amp;hellip; Know eternity. Do whatever it takes. And from this depth of being, live the details of your life&amp;hellip; But if you postpone the process of submerging yourself in the source for the sake of taking care of business first, your life will be spent in hours and days of business, and then it will be gone. Only if you are well grounded in that which is larger than life will you be able to play life with humor, knowing that each task is a mirage of necessity&amp;hellip; The test of your fullness in every moment is your capacity to die in free and loving surrender, knowing you&amp;rsquo;ve done everything you could do while alive to give your gift and know the truth of being.&amp;rdquo; —David Deida&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;There’s something sobering in Deida’s reminder, that no matter how packed our schedules, how urgent the emails, how noble the goals we&amp;rsquo;ve set, all of the “doing” we stack up for ourselves amounts to nothing if we forget to &lt;em&gt;be&lt;/em&gt; in this moment.&lt;/p&gt;
 &lt;p&gt;This idea cuts to the heart of philosophical living. The external world, with all its tasks and apparent urgencies, is a transient stage. What matters is not how much we accomplish, but the quality of presence we bring to whatever we are given.&lt;/p&gt;
 &lt;p&gt;We live in an age where productivity is too often mistaken for purpose. Too often we believe that clarity, peace, or insight will arrive after we’ve completed our obligations. But the to-do list is, by design, infinite. If we aren&amp;rsquo;t careful, we only believe we are actually living while we are only staying busy.&lt;/p&gt;
@@ -102,7 +103,7 @@
 &lt;hr&gt;
 &lt;p&gt;The above are general guidelines. When making any changes, the best judges of which settings are right are your eyes. Make tiny adjustments and see where the sweet spot is in terms of readability, which is the most important thing if you haven&amp;rsquo;t picked up on that already. There is certainly an art to it.&lt;/p&gt;
 &lt;h2 id=&#34;simple-css-example-for-better-typography&#34;&gt;Simple CSS Example for Better Typography&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#268bd2;font-weight:bold&#34;&gt;body&lt;/span&gt; {
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#268bd2;font-weight:bold&#34;&gt;body&lt;/span&gt; {
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#859900&#34;&gt;font-family&lt;/span&gt;: &lt;span style=&#34;color:#2aa198&#34;&gt;&amp;#34;Charter&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#859900;font-weight:bold&#34;&gt;serif&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#859900&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#2aa198;font-weight:bold&#34;&gt;18&lt;/span&gt;&lt;span style=&#34;color:#859900;font-weight:bold&#34;&gt;px&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#859900&#34;&gt;line-height&lt;/span&gt;: &lt;span style=&#34;color:#2aa198;font-weight:bold&#34;&gt;1.6&lt;/span&gt;;
@@ -213,7 +214,7 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view.jpeg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view_hu_d1124da1b765f8e2.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view_hu_55b803a637097c7c.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -252,7 +253,7 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/homelab-update/cosmos.png&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/homelab-update/cosmos_hu_e80e13a0ff922071.png&#34; width=&#34;600&#34; height=&#34;314&#34; alt=&#34;A tiny view of the Cosmos dashboard. The default color scheme reminds me of Mardi Gras.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/homelab-update/cosmos_hu_4169aa2420986588.png&#34; width=&#34;600&#34; height=&#34;314&#34; alt=&#34;A tiny view of the Cosmos dashboard. The default color scheme reminds me of Mardi Gras.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -353,7 +354,8 @@ My name is Ozymandias, King of Kings;&lt;br&gt;
 Look on my Works, ye Mighty, and despair!&lt;br&gt;
 Nothing beside remains. Round the decay&lt;br&gt;
 Of that colossal Wreck, boundless and bare&lt;br&gt;
-The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
+The lone and level sands stretch far away.”&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&amp;mdash; &lt;em&gt;Ozymandias&lt;/em&gt;, Percey Shelley&lt;/p&gt;
 &lt;p&gt;Ozymandias is one of my favorite classic poems.&lt;/p&gt;
 &lt;p&gt;Most analyses of this piece focus on the temporary nature of power, but for me the tale has always served as a poignant reminder of human mortality and how we should address it.&lt;/p&gt;
@@ -483,7 +485,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;For nearly two decades, the SaaS model benefitted landlords handsomely. With routine prayers — and payers — to the Church of Recurring Revenue, valuations shot to the moon on the backs of businesses subscribed at luxury prices for commodity services they had little control over.&lt;/p&gt;
 &lt;p&gt;Add up your SaaS subscriptions last year. You should own that shit by now.&lt;/p&gt;
 &lt;p&gt;SaaS still makes sense for many products, but its grip will slip. Installation and administration used to be hopelessly complicated, but self–hosting tech is simpler now and vastly improved. Plus, IT departments are hungry to run their own IT again, tired of being subservient to Big Tech’s reign clouds.&lt;/p&gt;
-&lt;p&gt;Once upon a time you owned what you paid for, you controlled what you depended on, and your privacy and security were your own business. We think it’s that time again.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Once upon a time you owned what you paid for, you controlled what you depended on, and your privacy and security were your own business. We think it’s that time again.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;And you know what? I think they have a valid point.&lt;/p&gt;
 &lt;p&gt;Subscription-based software has really gotten out of hand, and for some essential products I don&amp;rsquo;t necessarily think users should have to pay for access. Subscriptions have their place, and the benefit really depends on whether the team is regularly and reliably shipping new features to justify an ongoing perpetual cost to the user. Otherwise, to the 37signals team&amp;rsquo;s point, you&amp;rsquo;re really just &amp;ldquo;renting&amp;rdquo; the software. Sometimes, if a software product is embedded enough into your workflow, the subscription cost almost feels like a ransom to avoid losing your data or work.&lt;/p&gt;
 &lt;p&gt;Either way, I&amp;rsquo;m glad to see someone striving to rebalance things in terms of pricing models and a philosophy that&amp;rsquo;s user-centric. And I look forward to seeing what the Once product suite will have to offer in the near future.&lt;/p&gt;
@@ -501,36 +504,36 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Here&amp;rsquo;s how I was able to get it set it up in a few steps:&lt;/p&gt;
 &lt;h2 id=&#34;1-create-a-file-to-store-your-custom-commands&#34;&gt;1. Create a file to store your custom commands&lt;/h2&gt;
 &lt;p&gt;Open a terminal window and navigate to the Home directory using the command:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#cb4b16&#34;&gt;cd&lt;/span&gt; ~
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#cb4b16&#34;&gt;cd&lt;/span&gt; ~
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now, create the custom commands file using the command:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;touch .my_custom_commands.sh
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;touch .my_custom_commands.sh
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;2-add-custom-commands&#34;&gt;2. Add custom commands&lt;/h2&gt;
 &lt;p&gt;Open the file in Visual Studio Code or your preferred text editor. Note that the dot we added before the filename creates a hidden file, so be sure you&amp;rsquo;re able to locate and open it properly.&lt;/p&gt;
 &lt;p&gt;In the new file, add your custom commands using the following structure and save:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#93a1a1;font-style:italic&#34;&gt;#!/bin/bash
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#93a1a1;font-style:italic&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#93a1a1;font-style:italic&#34;&gt;#!/bin/bash
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#859900&#34;&gt;function&lt;/span&gt; my_function_name() {
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    python ~/path/to/my/script.py
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;3-set-up-file-permissions-if-needed&#34;&gt;3. Set up file permissions, if needed&lt;/h2&gt;
 &lt;p&gt;The new file may generate a &amp;ldquo;permission denied&amp;rdquo; message. If so, you should be able to fix this by running the following command:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chmod +x .my_custom_commands.sh
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chmod +x .my_custom_commands.sh
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;4-make-it-available-in-the-terminal&#34;&gt;4. Make it available in the terminal&lt;/h2&gt;
 &lt;p&gt;If you try to run the command (the name of the function) you just created, you won&amp;rsquo;t be able to quite yet. We&amp;rsquo;ll need to let the terminal know to load your commands to each new session.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Open the &lt;code&gt;rc&lt;/code&gt; file:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;open ~/.zshrc
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;open ~/.zshrc
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;After the last line, add:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#cb4b16&#34;&gt;source&lt;/span&gt; ~/.my_custom_commands.sh
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#cb4b16&#34;&gt;source&lt;/span&gt; ~/.my_custom_commands.sh
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;Save the file, then exit and start a new terminal.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Once you have all this set up, you can add a new custom command any time by simply adding a new function to your commands file. Just note that you&amp;rsquo;ll need to start in a new terminal session whenever you edit the file so your new command gets loaded up.&lt;/p&gt;
 &lt;p&gt;Aside from automations, this is also useful for repetitive strings of commands. Here&amp;rsquo;s one I created to set up virtual environments for new Python projects, so rather than memorizing the extra commands I can just enter &lt;code&gt;create_env&lt;/code&gt; and the rest is covered:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#859900&#34;&gt;function&lt;/span&gt; create_env() {
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#859900&#34;&gt;function&lt;/span&gt; create_env() {
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    python -m venv env
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#cb4b16&#34;&gt;source&lt;/span&gt; env/bin/activate
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
@@ -815,7 +818,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/tennessee-2023/porch.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/porch_hu_c5b9b75e740faa5e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/porch_hu_66832d53505481b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -840,7 +843,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/tennessee-2023/autos.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/autos_hu_c0b22cd4624b6d69.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/autos_hu_25b27acbeffd289c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -867,7 +870,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_waterfall.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_waterfall_hu_393f2d3dbcfecae2.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_waterfall_hu_498caeacd989aa4c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -892,7 +895,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_overlook.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_overlook_hu_cebeea152567704d.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_overlook_hu_539a1010ee5c0b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -917,7 +920,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_lizard.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_lizard_hu_95e7f57962b8dc28.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_lizard_hu_907928792e114ca4.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -944,7 +947,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_truck.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_truck_hu_3c76088898f714fd.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_truck_hu_84bd2b85e0714db7.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -969,7 +972,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks_hu_fcbd76a653105b1d.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks_hu_bca3f50cf1c8225e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -997,7 +1000,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/tennessee-2023/aa_shop.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/aa_shop_hu_3dac2af3501a29d9.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/aa_shop_hu_ced108f4e011655b.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -1022,7 +1025,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;figure&gt;
   &lt;a href=&#34;http://localhost:1313/tennessee-2023/motor_works.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/motor_works_hu_115c563ac79cdd93.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/motor_works_hu_2942361a08d68ccf.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -1157,25 +1160,6 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
     </item>
     
     <item>
-      <title>Keep Moving</title>
-      <link>http://localhost:1313/keep-moving/</link>
-      <pubDate>Sun, 10 Sep 2023 13:41:24 -0500</pubDate>
-      <author>Scott Knight</author>
-      <guid>http://localhost:1313/keep-moving/</guid>
-      <description>&lt;p&gt;In February I decided to get more active and build better habits. I started small by purchasing a bike and committing to ride it at least three times per week.&lt;/p&gt;
-&lt;p&gt;Keeping this commitment to myself has naturally progressed into improving other aspects of my physical health&amp;mdash;my nutrition and mindset have made leaps and bounds from where I was a year ago. As of today I&amp;rsquo;ve lost 57 lbs and counting, which really is just a byproduct of a lot of small life changes I&amp;rsquo;ve made over time.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve still got a way to go before I hit my current goal weight but I know if I just keep doing what I&amp;rsquo;m doing indefinitely I&amp;rsquo;ll get there &lt;em&gt;and&lt;/em&gt; be able to sustain it, which is crucial to long-term success.&lt;/p&gt;
-&lt;p&gt;Everything I&amp;rsquo;ve done can be attributed to a single principle&amp;mdash;energy balance. Eat less, move more. Make sure your energy output (i.e. movement, calories burned) is greater than your input (i.e. calories consumed). If you follow this rule, you &lt;em&gt;cannot&lt;/em&gt; fail. It&amp;rsquo;s basic science.&lt;/p&gt;
-&lt;p&gt;When I started cycling I was maxed out after 10 miles. As my endurance has improved over time, I&amp;rsquo;ve worked up to an average of 75mi/week with a single-trip max of 40 miles.&lt;/p&gt;
-&lt;p&gt;Unfortunately, I had a setback on my afternoon ride last Tuesday.&lt;/p&gt;
-&lt;p&gt;I came around a curve on my route and before I could react I rolled over some debris in the road and caught a nail in my rear tire. Could be worse, but that means I&amp;rsquo;ll be off the road until I can patch the tire and replace the inner tube.&lt;/p&gt;
-&lt;p&gt;Am I going to let that stop me? Nah. My backup strategy for things like this is to transition to a walking/running plan I&amp;rsquo;ve created for myself in the meantime. No excuses for equipment malfunction when I can just use my legs.&lt;/p&gt;
-&lt;p&gt;Gotta keep moving.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;P.S. I&amp;rsquo;m posting this because I&amp;rsquo;ve had a handful of folks ask me about what I&amp;rsquo;ve been doing to get the results that I have. I plan to compile some of my best tips &amp;amp; lessons learned in a separate post (coming soon) and will periodically publish updates along the way.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>On Wealth</title>
       <link>http://localhost:1313/on-wealth/</link>
       <pubDate>Fri, 08 Sep 2023 15:05:55 -0500</pubDate>
@@ -1190,7 +1174,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Wealth, then, is more than a simple dollar figure. It&amp;rsquo;s about recognizing your needs and values, and working toward those; or perhaps, recognizing when you may already have them.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;Wealth consists not in having great possessions, but in having few wants.&amp;rdquo;&lt;/em&gt;&lt;br&gt;
-&amp;mdash;Epictetus&lt;/p&gt;&lt;/blockquote&gt;
+&amp;mdash;Epictetus&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;I&amp;rsquo;ll leave you with a short story I read several years ago that&amp;rsquo;s informed my philosophy on this topic.&lt;/p&gt;
 &lt;h2 id=&#34;the-parable-of-the-fisherman&#34;&gt;The Parable of the Fisherman&lt;/h2&gt;
 &lt;p&gt;A smartly-dressed enterprising tourist is taking photographs when he notices a shabbily dressed local fisherman taking a nap in his fishing boat. The tourist is disappointed with the fisherman&amp;rsquo;s apparently lazy attitude towards his work, so he approaches the fisherman and asks him why he is lying around instead of catching fish. The fisherman explains that he went fishing in the morning, and the small catch would be sufficient for the next two days.&lt;/p&gt;
@@ -1303,7 +1288,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;It is the summer’s great last heat,&lt;/em&gt;&lt;br&gt;
 &lt;em&gt;It is the fall’s first chill: They meet.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;–&amp;ndash; Sarah Morgan, Bryan Piatt&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;–&amp;ndash; Sarah Morgan, Bryan Piatt&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -1319,7 +1305,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;AI&amp;rsquo;s most immediate applications &lt;em&gt;are&lt;/em&gt; peaceful: Intelligent interfaces that make computers easier to use for everyone, such as telephones where you can talk in German but listen on the other end in English. Household robots will vacuum our houses some day (not soon, but some day); AI generally holds the promise of freeing us from the drudgery that we can hope to delegate to our machines.&lt;/p&gt;
 &lt;p&gt;AI is a field with tremendous potential and with tremendous risks&amp;mdash;as is any other scientific discipline. The problem&amp;mdash;indeed, the very &lt;em&gt;idea&lt;/em&gt;&amp;mdash;of constructing an intelligent artifact is sure to capture the public inteest. We must be sure that our zeal and enthusiasm is confined to our research, and does not damage our abilities to honor the responsibility that we all have to keep the public well informed of the nature of scientific activities.&lt;/p&gt;
-&lt;p&gt;&amp;mdash; Matt Ginsberg, &lt;em&gt;Essentials of Artificial Intelligence&lt;/em&gt;, 1993&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;mdash; Matt Ginsberg, &lt;em&gt;Essentials of Artificial Intelligence&lt;/em&gt;, 1993&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -1504,7 +1491,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
       <guid>http://localhost:1313/frogs-on-a-log/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s an old story that goes something like this:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;There are five frogs sitting on a log. One decides to jump off. How many frogs are left on the log?&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;There are five frogs sitting on a log. One decides to jump off. How many frogs are left on the log?&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Most folks would answer, &amp;ldquo;four&amp;rdquo;. But that&amp;rsquo;s wrong.&lt;/p&gt;
 &lt;p&gt;The real answer is that &lt;em&gt;five frogs are still sitting on the log.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;You see, despite the &lt;em&gt;decision&lt;/em&gt; to jump off, the story doesn&amp;rsquo;t specify that the frog actually jumped. There is a vital distinction between making a decision and acting upon that decision. So, while that frog decided to jump, it didn&amp;rsquo;t actually take the leap.&lt;/p&gt;
@@ -1583,15 +1571,18 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;The first step is to &lt;strong&gt;express your feeling&lt;/strong&gt; about the topic.&lt;/p&gt;
 &lt;p&gt;For a quick example, let&amp;rsquo;s pretend you unexpectedly win a company award at work and your colleagues expect you to give a short speech. Knowing the FAT method, you&amp;rsquo;re ready for this and you can begin with something like:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;I&amp;rsquo;m grateful and honored to receive this Employee of the Universe Award. I couldn&amp;rsquo;t have done it without the support of my team and leadership &lt;em&gt;(only if this is true)&lt;/em&gt;&amp;hellip;&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;m grateful and honored to receive this Employee of the Universe Award. I couldn&amp;rsquo;t have done it without the support of my team and leadership &lt;em&gt;(only if this is true)&lt;/em&gt;&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;a-anecdote&#34;&gt;A: Anecdote&lt;/h2&gt;
 &lt;p&gt;Now, &lt;strong&gt;throw in a short anecdote&lt;/strong&gt; to give the audience something to relate to. In our example, you might say:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;I remember my early days working for Acme as a Trap Engineer. The roadrunners were still running around in droves and I never imagined I&amp;rsquo;d have such an impact through my work here. Now, we are closer than ever to eliminating the lot of them&amp;hellip;&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;ldquo;I remember my early days working for Acme as a Trap Engineer. The roadrunners were still running around in droves and I never imagined I&amp;rsquo;d have such an impact through my work here. Now, we are closer than ever to eliminating the lot of them&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;t-tie-back&#34;&gt;T: Tie Back&lt;/h2&gt;
 &lt;p&gt;Finally, &lt;strong&gt;tie everything back&lt;/strong&gt; to the topic at hand and close it out.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;I want to thank our company leadership and my colleagues for being a great team. I appreciate the award and will always strive to ensure our continued success.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;ldquo;I want to thank our company leadership and my colleagues for being a great team. I appreciate the award and will always strive to ensure our continued success.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;bonus-speaking-tips&#34;&gt;Bonus Speaking Tips&lt;/h2&gt;
 &lt;p&gt;That&amp;rsquo;s it! Super easy, and that&amp;rsquo;s the point. The great thing is that you can extend any or all of these components to make as long or as short of a speech as you want.&lt;/p&gt;
 &lt;p&gt;As a bonus, here are some additional tips for generally good speaking:&lt;/p&gt;
@@ -1623,7 +1614,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;A while back I came across the concept of a flywheel. If you&amp;rsquo;re not familiar, a flywheel is technically defined as a wheel with a heavy rim placed on the revolving shaft of any machinery put in motion by an irregular or intermitting force or meeting with an irregular or intermittent resistance, for the purpose of rendering the motion equable and regular by means of its momentum.&lt;/p&gt;
 &lt;p&gt;Rob Berger defines the concept more simply in his article, &lt;a href=&#34;https://www.getrichslowly.org/flywheel-of-wealth/&#34;&gt;&amp;ldquo;The Flywheel of Wealth (and the importance of patience)&amp;rdquo;&lt;/a&gt; as follows:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;A flywheel is a mechanical device designed to efficiently store rotational energy. Well, that’s how an engineer would describe a flywheel. I majored in English. To me, a flywheel is a wheel that’s really hard to get started. Once it gets going, however, it’s really hard to stop.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;ldquo;A flywheel is a mechanical device designed to efficiently store rotational energy. Well, that’s how an engineer would describe a flywheel. I majored in English. To me, a flywheel is a wheel that’s really hard to get started. Once it gets going, however, it’s really hard to stop.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Of course, Rob Berger was referencing the concept in his article with regard to building personal wealth, but there is also a strong parallel with the process of building a business (or any project, really).&lt;/p&gt;
 &lt;p&gt;Think about it. As founders we spend hours upon hours tweaking marketing funnels, building better features for our products, creating pitch decks; all to get those first few customers. And at the beginning, even a few customer conversions can seem like a lot. Some days you don&amp;rsquo;t see any progress, but you keep going anyway.&lt;/p&gt;
 &lt;p&gt;Why? Because the startup process is a flywheel. If you are patient and consistent about your efforts, the momentum will build and the work will pay off. So keep building, keep iterating, and don&amp;rsquo;t give up when it seems like things are moving slowly.&lt;/p&gt;
@@ -1651,13 +1643,17 @@ The lone and level sands stretch far away.”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Once the camp was set up, I spent the next five days exploring the grounds and soaking in the natural surroundings. Gracie and I hiked through the winding network of trails, enjoyed the one-acre pond, and throughout the weekend I read Nick Offerman&amp;rsquo;s book, &lt;em&gt;Where the Deer and the Antelope Play&lt;/em&gt; in the piney shade. While I&amp;rsquo;m not sure I agree with every aspect of Offerman&amp;rsquo;s book, his writing reminded me to appreciate the simple things in life, and of the importance of intentionally connecting with nature (by now, you can probably sense the theme here).&lt;/p&gt;
 &lt;p&gt;Here are a few book quotes from that weekend I saved to my Kindle clippings:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;And so I go into the woods. As I go in under the trees, dependably, almost at once, and by nothing I do, things fall into place. I enter an order that does not exist outside, in the human spaces. I feel my life take its place among the lives—the trees, the birds, the living of all these and the dead—that go and have gone to make the life of the earth. I am less important than I thought, the human race is less important than I thought. I rejoice in that. My mind loses its urgings, senses its nature, and is free. —&lt;strong&gt;Wendell Berry, A Native Hill&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;And so I go into the woods. As I go in under the trees, dependably, almost at once, and by nothing I do, things fall into place. I enter an order that does not exist outside, in the human spaces. I feel my life take its place among the lives—the trees, the birds, the living of all these and the dead—that go and have gone to make the life of the earth. I am less important than I thought, the human race is less important than I thought. I rejoice in that. My mind loses its urgings, senses its nature, and is free. —&lt;strong&gt;Wendell Berry, A Native Hill&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A man on foot, on horseback or on a bicycle will see more, feel more, enjoy more in one mile than the motorized tourists can in a hundred miles. —&lt;strong&gt;Edward Abbey, Desert Solitaire&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;A man on foot, on horseback or on a bicycle will see more, feel more, enjoy more in one mile than the motorized tourists can in a hundred miles. —&lt;strong&gt;Edward Abbey, Desert Solitaire&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&amp;hellip;our species is merely one small part of the &amp;ldquo;great economy&amp;rdquo; that is all of nature, and the ecological humility that our place in nature subsequently requires. —&lt;strong&gt;Nick Offerman, Where the Deer and the Antelope Play&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;hellip;our species is merely one small part of the &amp;ldquo;great economy&amp;rdquo; that is all of nature, and the ecological humility that our place in nature subsequently requires. —&lt;strong&gt;Nick Offerman, Where the Deer and the Antelope Play&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Wherever a man separates from the multitude and goes his own way, there is a fork in the road, though the travelers along the highway see only a gap in the paling. —&lt;strong&gt;Henry David Thoreau&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Wherever a man separates from the multitude and goes his own way, there is a fork in the road, though the travelers along the highway see only a gap in the paling. —&lt;strong&gt;Henry David Thoreau&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;All in all, it was a great trip.&lt;/p&gt;
 &lt;h2 id=&#34;reflections&#34;&gt;Reflections&lt;/h2&gt;
 &lt;p&gt;My time camping in the Piney Woods was a refreshing experience. I enjoyed the rest and reflection and emerged feeling reinvigorated.&lt;/p&gt;

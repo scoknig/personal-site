@@ -4,7 +4,7 @@ date: 2023-09-10T13:41:24-05:00
 tags: [life]
 summary: A quick fitness update.
 toc: false
-draft: false
+draft: true
 ---
 
 In February I decided to get more active and build better habits. I started small by purchasing a bike and committing to ride it at least three times per week.
