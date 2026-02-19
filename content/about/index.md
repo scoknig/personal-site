@@ -9,7 +9,7 @@ I'm Scott Knight, an engineer and builder drawn to useful work, clear thinking, 
 
 I spend my days working in complex systems and my spare time trying to simplify them — which could mean refining workflows, spending time outdoors, or studying ideas that have endured longer than any software ever will.
 
-This site is where I write about what I'm building, learning, and anything else that strikes me. If you're interested in thoughtful work, small ventures, enduring ideas, I hope you will find something useful here.
+This site is where I write about what I'm building, learning, and anything else that strikes me. If you're interested in thoughtful work, small ventures, or enduring ideas, I hope you will find something useful here.
 
 ## Work
 
