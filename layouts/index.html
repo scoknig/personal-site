@@ -8,13 +8,13 @@
           <a class="font-125 breathing-room" href="{{ .RelPermalink }}">{{ .Title }}</a>
           <br>
           <div class="breathing-room custom-summary">{{ .Summary }}</div>
-          <br>
           {{ partial "date-and-tags.html" . }}
         </div>
       {{ end }}
-
+    
+    <br />
     <div class="email-btn">
-      <a class='btn btn-lg btn-outline-light ankle-btn' href="/blog/">Read more</a> 
+      <a class="read-more" href="/blog/">Read More ➳</a>
     </div>
 
     {{ partial "footer.html" . }}

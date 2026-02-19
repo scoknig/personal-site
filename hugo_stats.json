@@ -42,14 +42,11 @@
     ],
     "classes": [
       "ankle-border",
-      "ankle-btn",
       "badge",
       "badge-light",
       "breathing-room",
       "btn",
-      "btn-lg",
       "btn-outline-light",
-      "btn-sm",
       "container",
       "custom-card",
       "custom-datestamp",
@@ -75,6 +72,7 @@
       "page-link",
       "pagination",
       "previous-post",
+      "read-more",
       "tag-btn"
     ],
     "ids": [

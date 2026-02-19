@@ -1,17 +1,21 @@
 <div class="ankle-border justify-content-center flex-wrapper">
     <div class="previous-post">
         {{ if .PrevInSection }}
-        <a class="link-reverse" href="{{ .Prev.Page.Permalink }}">« Last Post</a>
+            {{ with .PrevInSection }}
+                <a class="link-reverse" href="{{ .RelPermalink }}">« Last Post</a>
+            {{ end }}
         {{ else }}
         <a class="link-reverse" href="#" style="pointer-events: none; color: gray; text-decoration: none; border: none;">« Last Post</a>
         {{ end }}
     </div>
     <div class="email-btn">
-        <a class='btn btn-lg btn-outline-light ankle-btn' href="mailto:{{ .Site.Params.Author.email }}?subject=Re: {{ .Title }}">Reply via email</a> 
+        <a href="mailto:{{ .Site.Params.Author.email }}?subject=Re: {{ .Title }}">Reply via email</a> 
     </div>
     <div class="next-post">
         {{ if .NextInSection }}
-        <a class="link-reverse" href="{{ .Next.Page.Permalink }}">Next Post »</a>
+            {{ with .NextInSection }}
+                <a class="link-reverse" href="{{ .RelPermalink }}">Next Post »</a>
+            {{ end }}
         {{ else }}
         <a class="link-reverse" href="#" style="pointer-events: none; color: gray; text-decoration: none; border: none;">Next Post »</a>
         {{ end }}

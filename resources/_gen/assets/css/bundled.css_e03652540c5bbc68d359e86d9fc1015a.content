@@ -8975,6 +8975,21 @@ a.text-dark:hover, a.text-dark:focus {
 /*# sourceMappingURL=bootstrap.css.map *//* Fall Color Pallette: https://coolors.co/312229-54101d-47596f-b18653-d5c5ae */
 /* Current theme: Pine Green #1d3c45 | Light Peach #fff1e1 | Accent Orange #d2601a */
 :root {
+    --primary-accent-color: #911715;
+    --dark-bg: #faf9f5;
+    --title-bg: #faf9f5;
+    --title-text: #2c251d;
+    --light-contrast: #2c251d;
+    --custom-border-width-thick: 0.25rem;
+    --custom-border-style: solid;
+    --custom-border-radius: 4px;
+    --custom-border-width: 2px;
+    --custom-link-style: solid;
+    --font-primary: Iowan Old Style, Charter, Palatino, Century Schoolbook, Book Antiqua, ui-serif, serif;
+}
+
+/* Current theme: Pine Green #1d3c45 | Light Peach #fff1e1 | Accent Orange #d2601a*/
+/* :root {
     --primary-accent-color: #d2601a;
     --dark-bg: #1d3c45;
     --title-bg: #1d3c45;
@@ -8985,8 +9000,8 @@ a.text-dark:hover, a.text-dark:focus {
     --custom-border-radius: 4px;
     --custom-border-width: 2px;
     --custom-link-style: solid;
-    --font-primary: Charter, Iowan Old Style, Palatino, Century Schoolbook, Book Antiqua, ui-serif, serif;
-}
+    --font-primary: Iowan Old Style, Charter, Palatino, Century Schoolbook, Book Antiqua, ui-serif, serif;
+} */
 
 /* Sport Theme: Cyan Blue #162936 | Soft Yellow #F5EFDF | Nike Volt Green #CEFF00 | Alt: Bright Green #8CC92D
    --font-primary: system-ui, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
@@ -9028,6 +9043,9 @@ hr {
     color: var(--primary-accent-color);
     border-bottom: 0.125em solid var(--primary-accent-color);
 }
+.read-more {
+    font-size: 1.4rem;
+}
 /* .container a, a:visited:not(.btn):not(.page-link):not(.next-post):not(.previous-post) {
     color: var(--light-contrast);
     text-decoration: none;
@@ -9068,7 +9086,7 @@ hr {
 }
 .tag-btn {
   margin-bottom: 0.3em;
-  font-size: 1.1rem;
+  font-style: italic;
 }
 .badge-light {
     color: var(--dark-bg);
@@ -9102,27 +9120,27 @@ hr {
     margin: 0 1rem 0 1rem;
 }
 .nav-link {
-    text-decoration: none;
+    font-style: italic;
     vertical-align: middle;
 }
 #nav a:hover {
-    color: var(--dark-bg) !important;
+    color: var(--primary-accent-color) !important;
 }
 .custom-terms {
     max-width: 250px;
 }
 .custom-card {
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     padding: 1rem;
     padding-left: 1.3em;
     padding-right: 1.3em;
-    border-width: 2px;
+    /* border-width: 2px;
     border-style: solid;
     border-radius: var(--custom-border-radius);
-    box-shadow: 6px 10px var(--light-contrast);
+    box-shadow: 6px 10px var(--light-contrast); */
 }
 .custom-summary {
-    margin-top: 0.5rem;
+    margin-top: .8rem;
 }
 .flex-container {
     display: flex;
@@ -9131,7 +9149,7 @@ hr {
     list-style: none;
 }
 .breathing-room {
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.2rem;
 }
 /* code {
     border-radius: var(--custom-border-radius);
@@ -9187,6 +9205,7 @@ a>code {
 
 .ankle-border {
     border-top: 2px solid var(--light-contrast);
+    padding-top: 1em;
     justify-content: center;
     display: flex;
 }
@@ -9197,7 +9216,7 @@ a>code {
 }
 .ankle-btn {
     margin-top: 1.5rem;
-    box-shadow: 3px 4px var(--light-contrast);
+    box-shadow: 3px 4px var(--dark);
 }
 .ankle-btn:hover {
     box-shadow: none;
@@ -9210,7 +9229,7 @@ blockquote {
 footer {
     margin-top: 2rem;
     padding-top: 2rem;
-    border-top: 2px solid var(--light-contrast);
+    /* border-top: 2px solid var(--light-contrast); */
     text-align: center;
 }
 h2 {
@@ -9304,7 +9323,7 @@ input {
     flex-flow: row wrap;
     justify-content: space-evenly;
     align-items: center;
-    padding-top: .5rem;
+    padding-top: 2rem;
     margin-bottom: 1rem;
 }
 
