@@ -9314,6 +9314,10 @@ input {
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
+    body {
+        font-size: 1.1em;
+    }
+
     .email-sub {
         width: 100%;
     }
