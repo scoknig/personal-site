@@ -7,10 +7,13 @@ toc: false
 draft: false
 ---
 
-Email is the easiest way to reach me. I usually respond fairly quickly.
+{{< figure
+img="bird.png"
+command="Resize"
+options="350x" >}}
 
-## Email: [{{< email >}}](mailto:{{< email >}})
+While carrier pigeon may be the most interesting, email is the easiest way to reach me. I usually respond fairly quickly.
 
----
-
-__Please note:__ The email above is subject to change from time to time; just another layer of protection from spam. I'll reply from my actual email address so we can continue the conversation.
+### Email: [{{< email >}}](mailto:{{< email >}})
+{{< br >}}
+*__Please note:__ The email above is subject to change from time to time; just another layer of protection from spam. I'll reply from my actual email address so we can continue the conversation.*

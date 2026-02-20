@@ -289,6 +289,12 @@ h2 {
     background-color: var(--light-contrast);
 }
 
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .disabled {
     opacity: .8;
 }
@@ -380,25 +386,42 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+/* ul {
+    display: grid;
+    place-content: center;
+} */
   
 /* figure */
 
 figure {
     margin-top: 0;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 1rem;
-    border-width: var(--custom-border-width);
+    margin-bottom: 3rem;
+    display: grid;
+    place-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* border-width: var(--custom-border-width);
     border-style: var(--custom-border-style);
-    border-radius: var(--custom-border-radius);
+    border-radius: var(--custom-border-radius); */
 }
 
 figcaption {
-    padding: 1rem;
-    border-top-width: var(--custom-border-width);
+    padding: .5rem;
+    font-style: italic;
+    /* border-top-width: var(--custom-border-width);
     border-top-style: var(--custom-border-style);
     border-bottom-left-radius: var(--custom-border-radius);
-    border-bottom-right-radius: var(--custom-border-radius);
+    border-bottom-right-radius: var(--custom-border-radius); */
+}
+
+.container figure a, a:visited:not(.btn):not(.page-link) {
+    border-bottom: none;
+    text-decoration: none;
+}
+.container figure a:hover:not(.btn):not(.page-link) {
+    border-bottom: none;
+    text-decoration: none;
 }
 
 /* table */

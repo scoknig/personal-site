@@ -5,6 +5,11 @@ toc: false
 draft: false
 ---
 
+{{< figure
+img="knight.png"
+command="Resize"
+options="300x" >}}
+
 I'm Scott Knight, an engineer and builder drawn to useful work, clear thinking, and the lifelong pursuit of wisdom.
 
 I spend my days working in complex systems and my spare time trying to simplify them — which could mean refining workflows, spending time outdoors, or studying ideas that have endured longer than any software ever will.
