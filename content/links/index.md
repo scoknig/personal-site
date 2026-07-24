@@ -25,7 +25,7 @@ draft: false
 
 - [Inspiration for This Site](/inspiration/)
 
-- [RSS](https://scottk.mba/blog/index.xml)
+- [RSS](https://sknight.xyz/blog/index.xml)
 
 - [Tags](/tags/)
 

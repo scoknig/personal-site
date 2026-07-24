@@ -10,6 +10,7 @@
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
 {{- end -}}
+{{- $migrationDate := time "2026-07-24" -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -31,7 +32,11 @@
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <author>{{ with $.Site.Params.Author.name }}{{.}}{{end}}</author>
-      <guid>{{ .Permalink }}</guid>
+      {{- if .Date.Before $migrationDate }}
+      <guid isPermaLink="false">{{ printf "http://scottk.mba%s" .RelPermalink }}</guid>
+      {{- else }}
+      <guid isPermaLink="false">{{ printf "tag:sknight.xyz,%s:%s" (.Date.Format "2006-01-02") .RelPermalink }}</guid>
+      {{- end }}
       <description>{{ .Content | html }}</description>
     </item>
     {{ end }}

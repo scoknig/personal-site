@@ -32,7 +32,7 @@ This approach has several advantages:
 
 ## 4. Choose your platform
 
-Now, for the task(s) you've just targeted for automation, you'll want to consider which platform best suits the triggers/actions involved. For example, my simple "Blog to Social Media" automation is done using [IFTTT](https://ifttt.com/) since there is no complex logic involved. That automation is simply a trigger (a new post is published to my [RSS Feed](https://scottk.mba/blog/index.xml)) and subsequent actions (a new post is published to Mastodon and X/Twitter) are executed.
+Now, for the task(s) you've just targeted for automation, you'll want to consider which platform best suits the triggers/actions involved. For example, my simple "Blog to Social Media" automation is done using [IFTTT](https://ifttt.com/) since there is no complex logic involved. That automation is simply a trigger (a new post is published to my [RSS Feed](https://sknight.xyz/blog/index.xml)) and subsequent actions (a new post is published to Mastodon and X/Twitter) are executed.
 
 A more complex example might be my financial automation. I'm taking a CSV of my checking account transactions, parsing through that and performing some matching to categorize each transaction, and then saving the result to an Excel file for my records. For this, I opted to write a custom Python script which handles the more sophisticated logic.
 

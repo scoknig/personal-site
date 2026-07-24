@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Knight's Blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://sknight.xyz/blog/</link>
     <description>Recent content from Scott Knight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>"en-us"</language>
     <managingEditor>Scott Knight</managingEditor>
     <webMaster>Scott Knight</webMaster>
     <copyright>Scott Knight. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 23 Jan 2026 08:03:42 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jan 2026 08:03:42 -0600</lastBuildDate><atom:link href="https://sknight.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Back to Basics</title>
-      <link>http://localhost:1313/back-to-basics/</link>
+      <link>https://sknight.xyz/back-to-basics/</link>
       <pubDate>Fri, 23 Jan 2026 08:03:42 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/back-to-basics/</guid>
+      <guid isPermaLink="false">http://scottk.mba/back-to-basics/</guid>
       <description>&lt;h1 id=&#34;site-updates&#34;&gt;Site updates&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;ve decided to further consolidate and simplify some of the functionality as I continue to centralize my web presence. I don&amp;rsquo;t really post on social media, and as of late I am greatly cutting back my media consumption and replacing it with reading long-form texts. Here are some of the ways I&amp;rsquo;m doing this:&lt;/p&gt;
 &lt;ul&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>Don&#39;t Wait to Be Free</title>
-      <link>http://localhost:1313/dont-wait-to-be-free/</link>
+      <link>https://sknight.xyz/dont-wait-to-be-free/</link>
       <pubDate>Tue, 03 Jun 2025 07:23:43 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/dont-wait-to-be-free/</guid>
+      <guid isPermaLink="false">http://scottk.mba/dont-wait-to-be-free/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;A man should never get lost in the details of his life and forget that, ultimately and in truth, life amounts to nothing rather than what is the deepest truth of this present moment. Tasks don&amp;rsquo;t get a man anywhere more conscious or free than he is capable of being in this present moment&amp;hellip; Know eternity. Do whatever it takes. And from this depth of being, live the details of your life&amp;hellip; But if you postpone the process of submerging yourself in the source for the sake of taking care of business first, your life will be spent in hours and days of business, and then it will be gone. Only if you are well grounded in that which is larger than life will you be able to play life with humor, knowing that each task is a mirage of necessity&amp;hellip; The test of your fullness in every moment is your capacity to die in free and loving surrender, knowing you&amp;rsquo;ve done everything you could do while alive to give your gift and know the truth of being.&amp;rdquo; —David Deida&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -55,10 +55,10 @@
     
     <item>
       <title>How to Keep Your Mac Awake Using Terminal</title>
-      <link>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</link>
+      <link>https://sknight.xyz/how-to-keep-your-mac-awake-using-terminal/</link>
       <pubDate>Thu, 01 May 2025 18:54:22 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</guid>
+      <guid isPermaLink="false">http://scottk.mba/how-to-keep-your-mac-awake-using-terminal/</guid>
       <description>&lt;p&gt;Recently I was running some tasks on my Macbook Pro I wanted to prevent the machine from sleeping. A quick &lt;a href=&#34;https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/&#34;&gt;DuckDuckGo&lt;/a&gt; search tipped me off to the &lt;code&gt;caffeinate&lt;/code&gt; command that&amp;rsquo;s built into the Terminal in macOS. If this is a well-known thing in macOS, I&amp;rsquo;ve never come across it so I thought I&amp;rsquo;d share here in case anyone else would find it useful.&lt;/p&gt;
 &lt;p&gt;If you have some reason to prevent your machine running macOS from sleeping, &lt;code&gt;caffeinate&lt;/code&gt; gives you a few options. For basic usage, here&amp;rsquo;s how you use it:&lt;/p&gt;
 &lt;h2 id=&#34;step-1-open-terminal&#34;&gt;Step 1: Open Terminal&lt;/h2&gt;
@@ -80,10 +80,10 @@
     
     <item>
       <title>How to Improve Your Site&#39;s Typography</title>
-      <link>http://localhost:1313/how-to-improve-your-sites-typography/</link>
+      <link>https://sknight.xyz/how-to-improve-your-sites-typography/</link>
       <pubDate>Fri, 07 Feb 2025 14:54:31 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/how-to-improve-your-sites-typography/</guid>
+      <guid isPermaLink="false">http://scottk.mba/how-to-improve-your-sites-typography/</guid>
       <description>&lt;p&gt;Good typography is the foundation of a well-designed website, especially for personal sites and blogs like this one, where words are the main focus. You don&amp;rsquo;t need fancy layouts or complex design systems (unless you want that, then knock yourself out by all means). Even just paying attention to well-set text, specifically chosen fonts, and proper spacing can elevate your site from something amateurish to something polished with minimal effort. Plus, while the reader may not be able to consciously pick out the difference, good typography is really meant for &lt;em&gt;them&lt;/em&gt;, the readers of your work. It creates an overall better experience for them.&lt;/p&gt;
 &lt;p&gt;Many folks overlook typography when setting up a personal site or blog, but it directly impacts readability, user experience and, sometimes, even the credibility of your content. Poorly chosen fonts, too-tight spacing, or sprawling line lengths can make reading uncomfortable, leading discerning readers to click away before they&amp;rsquo;ve even engaged with your work. On the other hand, clean and intentional typography makes reading effortless, encouraging visitors to stay longer and enjoy more of what you have to say.&lt;/p&gt;
 &lt;h2 id=&#34;core-principles-of-good-web-typography&#34;&gt;Core Principles of Good Web Typography&lt;/h2&gt;
@@ -143,11 +143,11 @@
     
     <item>
       <title>Wrapping Up 2024</title>
-      <link>http://localhost:1313/wrapping-up-2024/</link>
+      <link>https://sknight.xyz/wrapping-up-2024/</link>
       <pubDate>Sat, 28 Dec 2024 08:10:39 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/wrapping-up-2024/</guid>
-      <description>&lt;p&gt;As we enter the final days of 2024, I&amp;rsquo;m reflecting on my goal &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;post&lt;/a&gt; from January. Though I managed to accomplish most items I had assigned myself for 2024, I&amp;rsquo;ve also concluded that setting a specific task list for the year is not always an ideal technique when accounting for a.) the length of an entire year, and b.) the uncertainty within that timespan which demands much more flexibility.&lt;/p&gt;
+      <guid isPermaLink="false">http://scottk.mba/wrapping-up-2024/</guid>
+      <description>&lt;p&gt;As we enter the final days of 2024, I&amp;rsquo;m reflecting on my goal &lt;a href=&#34;https://sknight.xyz/24-in-24&#34;&gt;post&lt;/a&gt; from January. Though I managed to accomplish most items I had assigned myself for 2024, I&amp;rsquo;ve also concluded that setting a specific task list for the year is not always an ideal technique when accounting for a.) the length of an entire year, and b.) the uncertainty within that timespan which demands much more flexibility.&lt;/p&gt;
 &lt;p&gt;A better practice would be to set a theme for the year&amp;mdash;something to act as a guidepost, yet one that remains flexible enough to allow interpretation in &lt;em&gt;how&lt;/em&gt; the specifics are planned and executed. For example, if the theme for the year is &amp;ldquo;Development&amp;rdquo; one&amp;rsquo;s actions would be driven by that concept&amp;mdash;reading more, enrolling in courses of interest, joining a community centered around a subject of interest to grow more in that domain, etc. This both accounts for flexibility in planning and does not restrict the scope of action (e.g. small daily actions vs. a large, months-long project).&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m sure I&amp;rsquo;ll publish something here in January with more on next year&amp;rsquo;s theme; for this brief retrospective, I claim 2024 as a good, productive year and look forward to even better things in 2025.&lt;/p&gt;
 </description>
@@ -155,10 +155,10 @@
     
     <item>
       <title>Markham&#39;s Brotherhood</title>
-      <link>http://localhost:1313/markhams-brotherhood/</link>
+      <link>https://sknight.xyz/markhams-brotherhood/</link>
       <pubDate>Sun, 15 Dec 2024 18:20:29 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/markhams-brotherhood/</guid>
+      <guid isPermaLink="false">http://scottk.mba/markhams-brotherhood/</guid>
       <description>
  
 &lt;a href=&#34;https://www.goodreads.com/book/show/45026743-markham-s-brotherhood&#34; style=&#34;float: left; padding-right: 20px&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Markham&#39;s Brotherhood: The Rosicrucian Manifestos in Modern English&#34; src=&#34;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555067384l/45026743._SX98_.jpg&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/45026743-markham-s-brotherhood&#34;&gt;Markham&#39;s Brotherhood: The Rosicrucian Manifestos in Modern English&lt;/a&gt; by &lt;a href=&#34;https://www.goodreads.com/author/show/19052605.Steven_E_Markham&#34;&gt;Steven E. Markham&lt;/a&gt;&lt;br/&gt;
@@ -173,11 +173,11 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Goals vs. Objectives</title>
-      <link>http://localhost:1313/goals-vs-objectives/</link>
+      <link>https://sknight.xyz/goals-vs-objectives/</link>
       <pubDate>Sat, 10 Aug 2024 08:46:59 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/goals-vs-objectives/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a year and some change since I began publishing on this site and I&amp;rsquo;ve recently been reflecting on the initial challenges I&amp;rsquo;d set for myself. One of these was to &lt;a href=&#34;http://localhost:1313/100-days-to-offload/&#34;&gt;publish 100 posts in a year&lt;/a&gt;, which was a sincere objective at the time. It&amp;rsquo;s also one which I haven&amp;rsquo;t met. Does that constitute a failure?&lt;/p&gt;
+      <guid isPermaLink="false">http://scottk.mba/goals-vs-objectives/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a year and some change since I began publishing on this site and I&amp;rsquo;ve recently been reflecting on the initial challenges I&amp;rsquo;d set for myself. One of these was to &lt;a href=&#34;https://sknight.xyz/100-days-to-offload/&#34;&gt;publish 100 posts in a year&lt;/a&gt;, which was a sincere objective at the time. It&amp;rsquo;s also one which I haven&amp;rsquo;t met. Does that constitute a failure?&lt;/p&gt;
 &lt;p&gt;This brings up an important point: &lt;em&gt;there is a notable difference between goals and objectives&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Goals&lt;/strong&gt;&lt;/em&gt; are long-term purposes one strives to achieve. A goal is the &amp;ldquo;end result&amp;rdquo;, and goals should be considered in long-term time frames. Goals are strategic and abstract.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/em&gt; are achievements along a path to achieving an overarching goal. They are the &amp;ldquo;means to an end&amp;rdquo; (the &amp;rsquo;end&amp;rsquo; being the goal), and should be considered in short-to-medium time frames. Objectives are tactical and concrete.&lt;/p&gt;
@@ -191,10 +191,10 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>A Postcard from the Capitol</title>
-      <link>http://localhost:1313/a-postcard-from-the-capitol/</link>
+      <link>https://sknight.xyz/a-postcard-from-the-capitol/</link>
       <pubDate>Wed, 31 Jul 2024 15:52:21 -0400</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/a-postcard-from-the-capitol/</guid>
+      <guid isPermaLink="false">http://scottk.mba/a-postcard-from-the-capitol/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m perched atop a D.C. rooftop, enjoying a view of our majestic Capitol Dome. Unfortunately, what would otherwise be a fantastic view is unceremoniously interrupted by a colossal Apple billboard.&lt;/p&gt;
 &lt;p&gt;Noticing this, I can&amp;rsquo;t help but appreciate the visual metaphor. The symbol of our nation, eclipsed by the relentless pursuit of profit.&lt;/p&gt;
 
@@ -213,8 +213,8 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view.jpeg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view_hu_55b803a637097c7c.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/a-postcard-from-the-capitol/capital-view.jpeg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/a-postcard-from-the-capitol/capital-view_hu_55b803a637097c7c.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -227,11 +227,11 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Homelab Update</title>
-      <link>http://localhost:1313/homelab-update/</link>
+      <link>https://sknight.xyz/homelab-update/</link>
       <pubDate>Sat, 27 Apr 2024 09:00:28 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/homelab-update/</guid>
-      <description>&lt;p&gt;Some time last year I wrote about using a cheap &lt;a href=&#34;https://www.stacksocial.com/sales/lenovo-thinkcentre-m900-tiny-core-i5-6500t-16gb-256gb-ssd-wi-fi-windows-10-pro-refurbished&#34;&gt;Lenovo Thinkcentre&lt;/a&gt; I bought as a lab machine to run my &lt;a href=&#34;https://www.reddit.com/r/homelab/wiki/introduction/&#34;&gt;homelab&lt;/a&gt; server. Initially I used it to &lt;a href=&#34;http://localhost:1313/linux-poll/&#34;&gt;try out a new (to me) Linux distro&lt;/a&gt;, which I installed straight onto the machine. I enjoyed test driving it, but it never replaced my primary system.&lt;/p&gt;
+      <guid isPermaLink="false">http://scottk.mba/homelab-update/</guid>
+      <description>&lt;p&gt;Some time last year I wrote about using a cheap &lt;a href=&#34;https://www.stacksocial.com/sales/lenovo-thinkcentre-m900-tiny-core-i5-6500t-16gb-256gb-ssd-wi-fi-windows-10-pro-refurbished&#34;&gt;Lenovo Thinkcentre&lt;/a&gt; I bought as a lab machine to run my &lt;a href=&#34;https://www.reddit.com/r/homelab/wiki/introduction/&#34;&gt;homelab&lt;/a&gt; server. Initially I used it to &lt;a href=&#34;https://sknight.xyz/linux-poll/&#34;&gt;try out a new (to me) Linux distro&lt;/a&gt;, which I installed straight onto the machine. I enjoyed test driving it, but it never replaced my primary system.&lt;/p&gt;
 &lt;p&gt;So, this week I decided to repurpose the ThinkCentre as a general lab server to locally host open-source applications and dust off some of my brain&amp;rsquo;s cobwebs around server configs and networking.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/olUD_F37n0E?si=zmN2r9tcmL9jTKta&#34;&gt;This YouTube video from TechHut&lt;/a&gt; provides a really easy way to get set up if you&amp;rsquo;re interested in doing something similar.&lt;/p&gt;
 &lt;p&gt;For now I&amp;rsquo;m running &lt;a href=&#34;https://ubuntu.com/download/server&#34;&gt;Ubuntu Server LTS&lt;/a&gt; with &lt;a href=&#34;https://www.docker.com&#34;&gt;Docker&lt;/a&gt; and &lt;a href=&#34;https://www.portainer.io/&#34;&gt;Portainer&lt;/a&gt; for container management.&lt;/p&gt;
@@ -252,8 +252,8 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/homelab-update/cosmos.png&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/homelab-update/cosmos_hu_4169aa2420986588.png&#34; width=&#34;600&#34; height=&#34;314&#34; alt=&#34;A tiny view of the Cosmos dashboard. The default color scheme reminds me of Mardi Gras.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/homelab-update/cosmos.png&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/homelab-update/cosmos_hu_4169aa2420986588.png&#34; width=&#34;600&#34; height=&#34;314&#34; alt=&#34;A tiny view of the Cosmos dashboard. The default color scheme reminds me of Mardi Gras.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -267,10 +267,10 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>6-to-1 Grocery Method</title>
-      <link>http://localhost:1313/6-to-1-grocery-method/</link>
+      <link>https://sknight.xyz/6-to-1-grocery-method/</link>
       <pubDate>Fri, 19 Apr 2024 12:43:55 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/6-to-1-grocery-method/</guid>
+      <guid isPermaLink="false">http://scottk.mba/6-to-1-grocery-method/</guid>
       <description>&lt;p&gt;While settling into my new home I&amp;rsquo;ve had to get back in the swing of grocery shopping and proper meal planning. And if there&amp;rsquo;s one thing I&amp;rsquo;ve noticed, it&amp;rsquo;s that it can be incredibly easy to get carried away at the grocery store and let the bill get out of hand.&lt;/p&gt;
 &lt;p&gt;I recently came across a social media post (sorry, I don&amp;rsquo;t remember the exact source to credit) outlining a method for grocery shopping I really like that helps prevent overspending while prioritize healthier ingredients, which is a win-win in my book. It&amp;rsquo;s called the &amp;ldquo;6-to-1&amp;rdquo; method, which essentially goes as follows.&lt;/p&gt;
 &lt;p&gt;When you&amp;rsquo;re grocery shopping, challenge yourself to stick to buying:&lt;/p&gt;
@@ -289,10 +289,10 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Keeping Analog Alive</title>
-      <link>http://localhost:1313/keeping-analog-alive/</link>
+      <link>https://sknight.xyz/keeping-analog-alive/</link>
       <pubDate>Wed, 17 Apr 2024 15:28:21 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/keeping-analog-alive/</guid>
+      <guid isPermaLink="false">http://scottk.mba/keeping-analog-alive/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve written here about my career in the software industry, but I&amp;rsquo;m also a big fan of analog technology. Digital stuff can be fun, but once you&amp;rsquo;re ingrained in the tech world for so long and understand how it all (or, at least, most of it) works, it can lose a bit of its magic. For that reason I&amp;rsquo;ve always been drawn to the machines and devices of yesteryear.&lt;/p&gt;
 &lt;p&gt;One way I express that interest is through my collection of vintage and antique typewriters. I have a handful of them which I&amp;rsquo;ve picked up and restored to working condition over the years. I use them for all sorts of things like recording recipes, notes, letters, greeting cards; the uses are endless. The tactile action and sound of the clacking keys as you type makes using them fun, while simultaneously allowing you to slow down, think, and appreciate the process of writing.&lt;/p&gt;
 &lt;p&gt;A greatly helpful resource I&amp;rsquo;ve used to clean, restore, and maintain my typewriters is &lt;a href=&#34;https://www.youtube.com/@Joe_VanCleave&#34;&gt;Joe Van Cleave&amp;rsquo;s YouTube channel&lt;/a&gt;. Joe&amp;rsquo;s been making videos on vintage and analog tech since the 1980&amp;rsquo;s and has &lt;em&gt;hundreds&lt;/em&gt; of videos on just about anything to do with writing, typewriters (their usage, maintenance, collecting), and camera systems. Unfortunately, the number of people knowledgable about these machines is dwindling and it is increasingly hard to find good resources on restoring them. Thankfully, however, there are still folks like Joe who are doing their best to pass their knowledge along.&lt;/p&gt;
@@ -304,10 +304,10 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Unsubscribing from New Homeowner Scams</title>
-      <link>http://localhost:1313/new-homeowner-scams/</link>
+      <link>https://sknight.xyz/new-homeowner-scams/</link>
       <pubDate>Sun, 25 Feb 2024 10:13:24 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/new-homeowner-scams/</guid>
+      <guid isPermaLink="false">http://scottk.mba/new-homeowner-scams/</guid>
       <description>&lt;p&gt;I recently wrote here about buying my new home. Since then, the experience has been slightly soured from a never-ending onslaught of predatory junk mail and door-knocking salespeople trying to swindle me into signing up for products or services I neither need nor want, targeting me as a new homeowner.&lt;/p&gt;
 &lt;p&gt;Many of them use fear-mongering tactics disguised as helpful advice, from mortgage warranty companies warning of natural disasters or my own death to security system salespeople making up stories about a &amp;ldquo;recent string of burglaries in my neighborhood&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;What&amp;rsquo;s worse, these exploitative and predatory practices are &lt;em&gt;completely legal&lt;/em&gt;. My information was sold, traded, and exploited to bring these scammers right to my doorstep, which is at once unsettling and infuriating.&lt;/p&gt;
@@ -324,11 +324,11 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>First One Down</title>
-      <link>http://localhost:1313/first-one-down/</link>
+      <link>https://sknight.xyz/first-one-down/</link>
       <pubDate>Sat, 17 Feb 2024 12:08:11 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/first-one-down/</guid>
-      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
+      <guid isPermaLink="false">http://scottk.mba/first-one-down/</guid>
+      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;https://sknight.xyz/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m particularly proud of this accomplishment. I&amp;rsquo;ve worked tirelessly toward this and have cultivated a wealth of financial discipline to make this happen. It has definitely been a learning process, but I enjoyed the challenge and look forward to taking the next step in my investing career soon.&lt;/p&gt;
 &lt;p&gt;Now to press on with the rest of the list!&lt;/p&gt;
 </description>
@@ -336,10 +336,10 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Ozymandias</title>
-      <link>http://localhost:1313/ozymandias/</link>
+      <link>https://sknight.xyz/ozymandias/</link>
       <pubDate>Fri, 05 Jan 2024 13:29:46 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/ozymandias/</guid>
+      <guid isPermaLink="false">http://scottk.mba/ozymandias/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;I met a traveller from an antique land,&lt;br&gt;
 Who said—“Two vast and trunkless legs of stone&lt;br&gt;
@@ -369,10 +369,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>24 in &#39;24</title>
-      <link>http://localhost:1313/24-in-24/</link>
+      <link>https://sknight.xyz/24-in-24/</link>
       <pubDate>Wed, 03 Jan 2024 09:17:41 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/24-in-24/</guid>
+      <guid isPermaLink="false">http://scottk.mba/24-in-24/</guid>
       <description>&lt;p&gt;Welcome back, fellow adventurers. As we dive headfirst into a new year, I can&amp;rsquo;t help but feel a surge of excitement and anticipation for the possibilities that await.&lt;/p&gt;
 &lt;p&gt;2024 is poised to be a year of growth, new experiences, and thrilling challenges. To kick things off, I thought it&amp;rsquo;d be fun to publish a list of 24 goals and projects I&amp;rsquo;m aiming to tackle in 2024. I&amp;rsquo;ll come back occasionally and cross them off the list as they&amp;rsquo;re completed.&lt;/p&gt;
 &lt;p&gt;In no particular order:&lt;/p&gt;
@@ -385,7 +385,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;&lt;strong&gt;Buy a House&lt;/strong&gt;&lt;/del&gt;: Since I&amp;rsquo;ve improved my financial position, I&amp;rsquo;m now looking to buy my first home. I want to close and move in by the end of spring.&lt;br&gt;
-&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;http://localhost:1313/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;https://sknight.xyz/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;Visit Three New Places&lt;/del&gt;: Satiate my travel bug by exploring three new destinations.&lt;/p&gt;
@@ -398,7 +398,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;Complete a New Hardware Project&lt;/del&gt;: Hone my tech skills and learn a new technology. I&amp;rsquo;m particularly interested in the Raspberry Pi Pico W and Circuit Python.&lt;br&gt;
-&lt;em&gt;I&amp;rsquo;m going to count my &lt;a href=&#34;http://localhost:1313/homelab-update/&#34;&gt;Homelab setup&lt;/a&gt; for this one, since it consisted of learning new tech I haven&amp;rsquo;t worked with before.&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;I&amp;rsquo;m going to count my &lt;a href=&#34;https://sknight.xyz/homelab-update/&#34;&gt;Homelab setup&lt;/a&gt; for this one, since it consisted of learning new tech I haven&amp;rsquo;t worked with before.&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Complete a DIY Home Improvement Project&lt;/strong&gt;: Channel my inner handyman and take on a DIY home improvement project in my soon-to-be first house.&lt;/p&gt;
@@ -460,10 +460,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Happy Holidays</title>
-      <link>http://localhost:1313/happy-holidays/</link>
+      <link>https://sknight.xyz/happy-holidays/</link>
       <pubDate>Wed, 27 Dec 2023 12:51:46 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/happy-holidays/</guid>
+      <guid isPermaLink="false">http://scottk.mba/happy-holidays/</guid>
       <description>&lt;p&gt;You may have noticed it&amp;rsquo;s been quiet around here lately. No, the site&amp;rsquo;s not abandoned and I haven&amp;rsquo;t neglected to keep writing here; I&amp;rsquo;m just taking a break to enjoy the holiday season with family and friends.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ll be back to posting in 2024 with some new writings and whatever else I find worth discussing here.&lt;/p&gt;
 &lt;p&gt;So whatever your faith, practice, tradition, culture, or custom, I hope you make time to enjoy some earned rest and have a happy holiday season.&lt;/p&gt;
@@ -472,10 +472,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Once</title>
-      <link>http://localhost:1313/once/</link>
+      <link>https://sknight.xyz/once/</link>
       <pubDate>Fri, 01 Dec 2023 15:19:52 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/once/</guid>
+      <guid isPermaLink="false">http://scottk.mba/once/</guid>
       <description>&lt;p&gt;Since I started using &lt;a href=&#34;https://hey.com/&#34;&gt;Hey&lt;/a&gt; for my personal email a while back, I&amp;rsquo;ve enjoyed following the stuff coming out of the &lt;a href=&#34;https://https://37signals.com/&#34;&gt;37signals&lt;/a&gt; shop. They have a unique and refreshing take on business, work philosophy, and building tech.&lt;/p&gt;
 &lt;p&gt;I saw that they&amp;rsquo;re releasing a new line of products soon over at &lt;a href=&#34;https://once.com/&#34;&gt;Once.com&lt;/a&gt;. I checked their site and, for now at least, it&amp;rsquo;s just a placeholder landing page. However, I read through the message and wanted to share an excerpt here because I appreciate the sentiment behind the project:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -495,11 +495,11 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Create Custom Terminal Commands in MacOS</title>
-      <link>http://localhost:1313/how-to-create-custom-terminal-commands-in-macos/</link>
+      <link>https://sknight.xyz/how-to-create-custom-terminal-commands-in-macos/</link>
       <pubDate>Mon, 06 Nov 2023 16:30:27 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/how-to-create-custom-terminal-commands-in-macos/</guid>
-      <description>&lt;p&gt;I recently wrote here about some of my favorite &lt;a href=&#34;http://localhost:1313/personal-automations/&#34;&gt;personal automations&lt;/a&gt;. When updating my a finance automation script recently, I decided I wanted a way to quickly run the automation anywhere. I typically have a terminal open, so I thought a custom terminal command would be the best way to fire off my scripts when I need them.&lt;/p&gt;
+      <guid isPermaLink="false">http://scottk.mba/how-to-create-custom-terminal-commands-in-macos/</guid>
+      <description>&lt;p&gt;I recently wrote here about some of my favorite &lt;a href=&#34;https://sknight.xyz/personal-automations/&#34;&gt;personal automations&lt;/a&gt;. When updating my a finance automation script recently, I decided I wanted a way to quickly run the automation anywhere. I typically have a terminal open, so I thought a custom terminal command would be the best way to fire off my scripts when I need them.&lt;/p&gt;
 &lt;p&gt;Unfortunately, the resources are slim out there regarding how to configure custom terminal commands in MacOS. Using an article I dug up (linked below), I was able to figure it out.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s how I was able to get it set it up in a few steps:&lt;/p&gt;
 &lt;h2 id=&#34;1-create-a-file-to-store-your-custom-commands&#34;&gt;1. Create a file to store your custom commands&lt;/h2&gt;
@@ -544,10 +544,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Automate Anything</title>
-      <link>http://localhost:1313/how-to-automate-anything/</link>
+      <link>https://sknight.xyz/how-to-automate-anything/</link>
       <pubDate>Mon, 30 Oct 2023 17:57:51 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/how-to-automate-anything/</guid>
+      <guid isPermaLink="false">http://scottk.mba/how-to-automate-anything/</guid>
       <description>&lt;p&gt;After some interest from my last post where I discussed some of my personal automations, I&amp;rsquo;d like to expand on the topic of personal automation a bit and discuss how you can automate (mostly) the boring or tedious stuff in &lt;em&gt;your&lt;/em&gt; life!&lt;/p&gt;
 &lt;p&gt;I say &amp;ldquo;mostly&amp;rdquo; because while with enough time and resources, you &lt;em&gt;could&lt;/em&gt; automate anything with a repeatable process. However, considering our main goal here is to save time, you&amp;rsquo;ll have to evaluate which things are pragmatically worth expending your time and effort to automate.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s my general process:&lt;/p&gt;
@@ -564,7 +564,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;li&gt;The work is spread out over time, so you don&amp;rsquo;t spend one large chunk of time automating an entire complex process (unless you really, really want to).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;4-choose-your-platform&#34;&gt;4. Choose your platform&lt;/h2&gt;
-&lt;p&gt;Now, for the task(s) you&amp;rsquo;ve just targeted for automation, you&amp;rsquo;ll want to consider which platform best suits the triggers/actions involved. For example, my simple &amp;ldquo;Blog to Social Media&amp;rdquo; automation is done using &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt; since there is no complex logic involved. That automation is simply a trigger (a new post is published to my &lt;a href=&#34;https://scottk.mba/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt;) and subsequent actions (a new post is published to Mastodon and X/Twitter) are executed.&lt;/p&gt;
+&lt;p&gt;Now, for the task(s) you&amp;rsquo;ve just targeted for automation, you&amp;rsquo;ll want to consider which platform best suits the triggers/actions involved. For example, my simple &amp;ldquo;Blog to Social Media&amp;rdquo; automation is done using &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt; since there is no complex logic involved. That automation is simply a trigger (a new post is published to my &lt;a href=&#34;https://sknight.xyz/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt;) and subsequent actions (a new post is published to Mastodon and X/Twitter) are executed.&lt;/p&gt;
 &lt;p&gt;A more complex example might be my financial automation. I&amp;rsquo;m taking a CSV of my checking account transactions, parsing through that and performing some matching to categorize each transaction, and then saving the result to an Excel file for my records. For this, I opted to write a custom Python script which handles the more sophisticated logic.&lt;/p&gt;
 &lt;p&gt;The point is, I choose a platform that&amp;rsquo;s appropriate for the complexity level of the task at hand. It&amp;rsquo;s not a one-size-fits-all sort of thing.&lt;/p&gt;
 &lt;h2 id=&#34;5-automate-it&#34;&gt;5. Automate it&lt;/h2&gt;
@@ -586,10 +586,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Personal Automations</title>
-      <link>http://localhost:1313/personal-automations/</link>
+      <link>https://sknight.xyz/personal-automations/</link>
       <pubDate>Wed, 25 Oct 2023 07:36:43 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/personal-automations/</guid>
+      <guid isPermaLink="false">http://scottk.mba/personal-automations/</guid>
       <description>&lt;p&gt;Since I learned to code, I&amp;rsquo;ve always been a fan of eliminating boring and/or tedious stuff with automation. This can involve anything from custom scripting (usually with Python, in my case) to using a service like &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt;, &lt;a href=&#34;https://zapier.com/&#34;&gt;Zapier&lt;/a&gt;, or &lt;a href=&#34;https://www.make.com/en/integromat-evolves-to-make/&#34;&gt;Make&lt;/a&gt; (formerly Integromat). With these tools you can connect most common services that expose an &lt;a href=&#34;https://www.ibm.com/topics/api/&#34;&gt;API&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;While automation use cases are usually born out of some personal pain point or specific challenge, I&amp;rsquo;m always interested in seeing what other people automate and how they choose do it. I&amp;rsquo;ve also taken great inspiration from pieces like Al Sweigart&amp;rsquo;s &lt;a href=&#34;https://automatetheboringstuff.com/&#34;&gt;&lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/NARKOZ/hacker-scripts&#34;&gt;this classic Github repo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I recently bought an IFTTT subscription and audited my personal life for a list of things that take up too much time or involve a tedious process.&lt;/p&gt;
@@ -620,10 +620,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Burning CDs in 2023</title>
-      <link>http://localhost:1313/burning-cds-in-2023/</link>
+      <link>https://sknight.xyz/burning-cds-in-2023/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/burning-cds-in-2023/</guid>
+      <guid isPermaLink="false">http://scottk.mba/burning-cds-in-2023/</guid>
       <description>&lt;p&gt;After my grandparents&amp;rsquo; house fire last year, we came across a bunch of old photo slides and 8mm film reels. Before we scrapped them I decided to buy some digitizing equipment and archive the content for us to preserve some of our family history. As I mentioned the project to other friends and family, I quickly realized this is a service that many folks are seeking.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve since turned it into &lt;a href=&#34;https://knightlab.film/&#34;&gt;a local business providing media digitization services&lt;/a&gt; for customers in our local area. There are companies online who do this sort of thing, but in my experience the majority of people would rather not risk shipping off their original media. As fragile as it normally is, it would be catastrophic if something happened in shipping, so they&amp;rsquo;d prefer hiring someone local like me who&amp;rsquo;ll take extra hands-on care with their items.&lt;/p&gt;
 &lt;p&gt;So I&amp;rsquo;m currently digitizing some audio cassette tapes and film transparencies for a returning client who requested that the audio be burned onto CDs, so they can listen to the tracks on their home system.&lt;/p&gt;
@@ -637,10 +637,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>You Should Have a Website</title>
-      <link>http://localhost:1313/you-should-have-a-website/</link>
+      <link>https://sknight.xyz/you-should-have-a-website/</link>
       <pubDate>Mon, 16 Oct 2023 14:41:57 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/you-should-have-a-website/</guid>
+      <guid isPermaLink="false">http://scottk.mba/you-should-have-a-website/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s often the case that I&amp;rsquo;m referred potential &lt;a href=&#34;https://knightlab.co&#34;&gt;website clients&lt;/a&gt; who have never had their own site before. In many of these cases, the person is reaching out because someone they know told them they need one, but they still aren&amp;rsquo;t fully on board with the idea.&lt;/p&gt;
 &lt;p&gt;After all, they&amp;rsquo;ve gone this long without a website; why get one now?&lt;/p&gt;
 &lt;p&gt;Whether you&amp;rsquo;re a business owner or an individual with a personal brand, a fundamental way to establish your presence online is by having a well-designed, user-friendly website.&lt;/p&gt;
@@ -672,10 +672,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Automate Your Data Governance</title>
-      <link>http://localhost:1313/automate-your-data-governance/</link>
+      <link>https://sknight.xyz/automate-your-data-governance/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/automate-your-data-governance/</guid>
+      <guid isPermaLink="false">http://scottk.mba/automate-your-data-governance/</guid>
       <description>&lt;p&gt;After reading about &lt;a href=&#34;https://techcrunch.com/2023/10/10/23andme-resets-user-passwords-after-genetic-data-posted-online/&#34;&gt;23andMe&amp;rsquo;s recent data breach issue&lt;/a&gt; this morning, I&amp;rsquo;d like to share some thoughts on data governance from my perspective as a Data Automation Engineer.&lt;/p&gt;
 &lt;p&gt;Data drives just about every aspect of our world, and increasingly so as technology continues to evolve. A growing challenge with this is the art of managing and governing this ever-growing volume of data in a way that ensures the proper maintenance of its quality and security.&lt;/p&gt;
 &lt;p&gt;In my career as a data professional I have seen how data governance can slip into an afterthought, particularly in small or mid-sized organizations. Luckily, automated data governance can be a powerful tool to ensure data quality, security, and compliance without much effort.&lt;/p&gt;
@@ -718,10 +718,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Leveraging the Power of No-Code</title>
-      <link>http://localhost:1313/leveraging-the-power-of-no-code/</link>
+      <link>https://sknight.xyz/leveraging-the-power-of-no-code/</link>
       <pubDate>Thu, 05 Oct 2023 15:45:02 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/leveraging-the-power-of-no-code/</guid>
+      <guid isPermaLink="false">http://scottk.mba/leveraging-the-power-of-no-code/</guid>
       <description>&lt;p&gt;As a founding fellow of the Engineering fellowship at &lt;a href=&#34;https://joincoho.com/&#34;&gt;Coho&lt;/a&gt;, I was asked to write a guest post for their inaugural &lt;a href=&#34;https://blueprint.joincoho.com/&#34;&gt;Blueprint&lt;/a&gt; newsletter when it launched a few months ago.&lt;/p&gt;
 &lt;p&gt;I chose to write an informative piece about how low- and no-code tools can be leveraged by non-technical folks to multiply their daily efforts by developing their own software tools.&lt;/p&gt;
 &lt;p&gt;I still believe this can be a game changer for those not familiar with traditional programming experience. If you&amp;rsquo;ve ever thought about a software solution for a problem or something you&amp;rsquo;d want to automate but weren&amp;rsquo;t sure how to bring it to life, this one&amp;rsquo;s for you.&lt;/p&gt;
@@ -731,10 +731,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>FIRE Flow Chart</title>
-      <link>http://localhost:1313/fire-flow-chart/</link>
+      <link>https://sknight.xyz/fire-flow-chart/</link>
       <pubDate>Mon, 02 Oct 2023 18:17:05 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/fire-flow-chart/</guid>
+      <guid isPermaLink="false">http://scottk.mba/fire-flow-chart/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s a ton of advice out there on personal finance, but I&amp;rsquo;ve only ever found one resource that provided an actionable path to gaining Financial Independence and Retiring Early (F.I.R.E.). Read more about that concept &lt;a href=&#34;https://www.reddit.com/r/Fire&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s a handy flow chart created by a member of the &lt;a href=&#34;https://www.reddit.com/r/financialindependence&#34;&gt;r/financialindependence&lt;/a&gt; subreddit. Just within the last year this flow chart has helped me pay off nearly all debt, grow my net worth, and drastically increase my savings rate.&lt;/p&gt;
 &lt;p&gt;I wanted to save it here for quick reference, but if you live in the U.S. and want to retire early and/or become financially independent I recommend starting here.&lt;/p&gt;
@@ -747,10 +747,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Join a Board of Directors</title>
-      <link>http://localhost:1313/how-to-join-a-board-of-directors/</link>
+      <link>https://sknight.xyz/how-to-join-a-board-of-directors/</link>
       <pubDate>Thu, 28 Sep 2023 15:13:07 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/how-to-join-a-board-of-directors/</guid>
+      <guid isPermaLink="false">http://scottk.mba/how-to-join-a-board-of-directors/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been a board member of a local non-profit for several years now.&lt;/p&gt;
 &lt;p&gt;My organization provides certified teaching staff, supplies, and facilities for children with dyslexia to get extra learning assistance outside of their school programs, all at no cost to parents. Being a board member of this organization has been a rewarding way to use my skills and business experience to give back to my community.&lt;/p&gt;
 &lt;p&gt;However, I&amp;rsquo;ll admit&amp;mdash;joining a board of directors isn&amp;rsquo;t always easy. It requires hard work, dedication, and a willingness to learn. But if you&amp;rsquo;re up for the challenge, it can be an incredibly rewarding experience.&lt;/p&gt;
@@ -791,10 +791,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Tennessee 2023</title>
-      <link>http://localhost:1313/tennessee-2023/</link>
+      <link>https://sknight.xyz/tennessee-2023/</link>
       <pubDate>Mon, 25 Sep 2023 11:05:00 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/tennessee-2023/</guid>
+      <guid isPermaLink="false">http://scottk.mba/tennessee-2023/</guid>
       <description>&lt;p&gt;For years, a favorite vacation spot of our family has been Tennessee. Yesterday I returned from a nice trip with some of my family to the Volunteer State, and thought I&amp;rsquo;d share a bit about it here.&lt;/p&gt;
 &lt;h2 id=&#34;home-base-tracy-city&#34;&gt;Home Base: Tracy City&lt;/h2&gt;
 &lt;p&gt;I discovered Tracy City back in 2020 through a cabin I rented through AirBnb for another weekend getaway. I enjoyed it so much the first time that we decided to reserve another cabin on the property for this trip.&lt;/p&gt;
@@ -817,8 +817,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/porch.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/porch_hu_66832d53505481b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/porch.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/porch_hu_66832d53505481b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -842,8 +842,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/autos.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/autos_hu_25b27acbeffd289c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/autos.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/autos_hu_25b27acbeffd289c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -869,8 +869,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_waterfall.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_waterfall_hu_498caeacd989aa4c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_waterfall.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_waterfall_hu_498caeacd989aa4c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -894,8 +894,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_overlook.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_overlook_hu_539a1010ee5c0b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_overlook.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_overlook_hu_539a1010ee5c0b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -919,8 +919,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_lizard.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_lizard_hu_907928792e114ca4.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_lizard.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_lizard_hu_907928792e114ca4.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -946,8 +946,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_truck.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_truck_hu_84bd2b85e0714db7.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/jd_truck.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/jd_truck_hu_84bd2b85e0714db7.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -971,8 +971,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks_hu_bca3f50cf1c8225e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/jd_firetrucks_hu_bca3f50cf1c8225e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -999,8 +999,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/aa_shop.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/aa_shop_hu_ced108f4e011655b.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/aa_shop.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/aa_shop_hu_ced108f4e011655b.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -1024,8 +1024,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/motor_works.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/motor_works_hu_2942361a08d68ccf.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/motor_works.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/motor_works_hu_2942361a08d68ccf.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -1056,10 +1056,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Matter of Structural Preference</title>
-      <link>http://localhost:1313/a-matter-of-structural-preference/</link>
+      <link>https://sknight.xyz/a-matter-of-structural-preference/</link>
       <pubDate>Mon, 18 Sep 2023 16:48:47 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/a-matter-of-structural-preference/</guid>
+      <guid isPermaLink="false">http://scottk.mba/a-matter-of-structural-preference/</guid>
       <description>&lt;p&gt;&lt;em&gt;Update: After some polling, I decided to make these changes. Also added a Links page to the main navigation with a sitemap.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I whipped up this site a while back with a few main goals in mind:&lt;/p&gt;
 &lt;ol&gt;
@@ -1073,7 +1073,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;Put out content that might be useful or interesting to other folks (check, hopefully)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;My original design here has featured what would normally function as an &amp;ldquo;About&amp;rdquo; page as my actual &lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt; page. Though, my thinking lately is that it may benefit readers to make my posts more easily accessible, since this is a main function of the site.&lt;/p&gt;
+&lt;p&gt;My original design here has featured what would normally function as an &amp;ldquo;About&amp;rdquo; page as my actual &lt;a href=&#34;https://sknight.xyz/&#34;&gt;Home&lt;/a&gt; page. Though, my thinking lately is that it may benefit readers to make my posts more easily accessible, since this is a main function of the site.&lt;/p&gt;
 &lt;p&gt;This change would require moving my Home page to an About page, which wouldn&amp;rsquo;t be a huge effort but it would be one of the larger structural changes I made since publishing the initial version of this site.&lt;/p&gt;
 &lt;p&gt;Ultimately, while I think it makes sense to present first-time visitors with a blurb about myself, from a UX perspective this does force returning readers to click through at least two pages to access my newest post.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m thinking that moving my Home page content to an About page and featuring my post content up front would have the most net benefit. Readers would have an easier time getting to my posts and my bio content would still be there for those interested in it.&lt;/p&gt;
@@ -1083,10 +1083,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Real Estate by the Numbers</title>
-      <link>http://localhost:1313/real-estate-by-the-numbers/</link>
+      <link>https://sknight.xyz/real-estate-by-the-numbers/</link>
       <pubDate>Thu, 14 Sep 2023 15:20:12 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/real-estate-by-the-numbers/</guid>
+      <guid isPermaLink="false">http://scottk.mba/real-estate-by-the-numbers/</guid>
       <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -1147,13 +1147,13 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Design Archival Project</title>
-      <link>http://localhost:1313/design-archival-project/</link>
+      <link>https://sknight.xyz/design-archival-project/</link>
       <pubDate>Mon, 11 Sep 2023 14:08:42 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/design-archival-project/</guid>
+      <guid isPermaLink="false">http://scottk.mba/design-archival-project/</guid>
       <description>&lt;p&gt;I thought it&amp;rsquo;d be a fun exercise to create a space for tracking changes to this site&amp;rsquo;s design, as I&amp;rsquo;m always tinkering with the theme and improving various things. I wanted to do this in a visual way so I can look back and get a sense of how things evolve over time.&lt;/p&gt;
 &lt;p&gt;To avoid loading a ton of screenshots onto the site, I&amp;rsquo;m using Internet Archive&amp;rsquo;s Wayback Machine to snapshot the site when I make big changes and linking to those instead. This effectively provides an archive that can be interacted with, rather than just browsing photos.&lt;/p&gt;
-&lt;p&gt;The new archive page lives here: &lt;a href=&#34;http://localhost:1313/design-archive/&#34;&gt;Design Archive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The new archive page lives here: &lt;a href=&#34;https://sknight.xyz/design-archive/&#34;&gt;Design Archive&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;As of now I do want to keep things content-focused and &lt;a href=&#34;https://512kb.club/&#34;&gt;avoid a bunch of bells and whistles&lt;/a&gt;, so I don&amp;rsquo;t anticipate any big changes to the structure of the site. This is also how I keep things somewhat consistent as I still want returning visitors to be able to recognize my site to some degree.&lt;/p&gt;
 &lt;p&gt;Just wanted to drop a quick note here in case others are interested in this sort of thing.&lt;/p&gt;
 </description>
@@ -1161,10 +1161,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>On Wealth</title>
-      <link>http://localhost:1313/on-wealth/</link>
+      <link>https://sknight.xyz/on-wealth/</link>
       <pubDate>Fri, 08 Sep 2023 15:05:55 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/on-wealth/</guid>
+      <guid isPermaLink="false">http://scottk.mba/on-wealth/</guid>
       <description>&lt;p&gt;What does it mean to be wealthy? What does wealth look like? Is it just being rich? How do we know when we&amp;rsquo;ve achieved wealth?&lt;/p&gt;
 &lt;p&gt;As I move toward purchasing my first home, this is something I&amp;rsquo;ve been reflecting on in recent weeks.&lt;/p&gt;
 &lt;p&gt;Cultures around the world are abundant with stories of characters on the pursuit of wealth who don&amp;rsquo;t quite get what they bargained for&amp;mdash;King Midas, for example. Over the years I myself have gone through bouts of chasing &amp;ldquo;wealth&amp;rdquo;, pouring everything I had into startup businesses, scraping by in hopes of eventually making it big.&lt;/p&gt;
@@ -1189,13 +1189,13 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Subscribe via Email</title>
-      <link>http://localhost:1313/email-subscriptions/</link>
+      <link>https://sknight.xyz/email-subscriptions/</link>
       <pubDate>Thu, 07 Sep 2023 14:57:55 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/email-subscriptions/</guid>
+      <guid isPermaLink="false">http://scottk.mba/email-subscriptions/</guid>
       <description>&lt;p&gt;An element of any good website/personal blog is that it allows readers to consume content in a variety of formats. That being said, I&amp;rsquo;ve spent some time debating on whether to add a way to subscribe via email, because I want to do it in a way that won&amp;rsquo;t become a pain to maintain. I also don&amp;rsquo;t want to maintain a separate newsletter that would require a manual copy/paste process.&lt;/p&gt;
 &lt;p&gt;I looked around at some other folks&amp;rsquo; blogs to see how they handled their email distros, and I think I&amp;rsquo;ve found a solution I like.&lt;/p&gt;
-&lt;p&gt;Using &lt;a href=&#34;https://buttondown.email/refer/scottk&#34;&gt;Buttondown&lt;/a&gt;, I&amp;rsquo;m able to have their system consume my existing &lt;a href=&#34;http://localhost:1313/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt; to populate an email template that will go out to the mailing list. This is great because it&amp;rsquo;s all completely automated. So if you decide to subscribe, the only emails you&amp;rsquo;ll receive from me are copies of my future posts.&lt;/p&gt;
+&lt;p&gt;Using &lt;a href=&#34;https://buttondown.email/refer/scottk&#34;&gt;Buttondown&lt;/a&gt;, I&amp;rsquo;m able to have their system consume my existing &lt;a href=&#34;https://sknight.xyz/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt; to populate an email template that will go out to the mailing list. This is great because it&amp;rsquo;s all completely automated. So if you decide to subscribe, the only emails you&amp;rsquo;ll receive from me are copies of my future posts.&lt;/p&gt;
 &lt;p&gt;A few notes on this:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1218,10 +1218,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>The Right to Repair: Fighting Planned Obsolescence</title>
-      <link>http://localhost:1313/right-to-repair/</link>
+      <link>https://sknight.xyz/right-to-repair/</link>
       <pubDate>Wed, 06 Sep 2023 15:41:08 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/right-to-repair/</guid>
+      <guid isPermaLink="false">http://scottk.mba/right-to-repair/</guid>
       <description>&lt;p&gt;&amp;ldquo;They don&amp;rsquo;t make stuff like they used to.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;ve all heard some form of this claim at some point and, unfortunately, it&amp;rsquo;s true. What&amp;rsquo;s concerning is that the decline of product quality and longevity we&amp;rsquo;ve seen in recent decades is fully intentional.&lt;/p&gt;
 &lt;p&gt;My family and I like to collect antiques and vintage goods we find at estate sales and shops on the weekends. Recently, this had me thinking: the items we find are noticeably sturdier and of a higher quality than anything you&amp;rsquo;d find on shelves today. From time to time we&amp;rsquo;ll even find vintage electronics or machines that still work like they did when they were new (or close to it)!&lt;/p&gt;
@@ -1277,10 +1277,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Fresh Face for Fall</title>
-      <link>http://localhost:1313/fall-theme/</link>
+      <link>https://sknight.xyz/fall-theme/</link>
       <pubDate>Tue, 29 Aug 2023 13:43:42 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/fall-theme/</guid>
+      <guid isPermaLink="false">http://scottk.mba/fall-theme/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s almost fall, y&amp;rsquo;all. In the next few weeks we head into fall with the &lt;a href=&#34;https://www.almanac.com/content/first-day-fall-autumnal-equinox&#34;&gt;Autumnal Equinox&lt;/a&gt;, which falls (no pun intended) on September 23, 2023.&lt;/p&gt;
 &lt;p&gt;Inspired by the impending fall season and the antiquarian philosophy books I&amp;rsquo;ve been reading lately, I felt like playing around with the site theme a bit. So, on this corner of the internet we&amp;rsquo;re heading into fall a bit early with this new theme I&amp;rsquo;m calling &amp;ldquo;Library&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;The rich leather and paper hues as well as the serif font are a nod to the warm, cozy ambiance of your favorite library reading nook.&lt;/p&gt;
@@ -1295,10 +1295,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Piece of AI History</title>
-      <link>http://localhost:1313/ai-history/</link>
+      <link>https://sknight.xyz/ai-history/</link>
       <pubDate>Sun, 20 Aug 2023 08:04:39 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/ai-history/</guid>
+      <guid isPermaLink="false">http://scottk.mba/ai-history/</guid>
       <description>&lt;p&gt;Yesterday I went to check out our local library&amp;rsquo;s annual used book sale, and one of the books I picked up is titled &lt;em&gt;Essentials of Artificial Intelligence&lt;/em&gt; by Matt Ginsberg. I thought it was a neat find because the book was written in 1992, and this particular edition was published in 1993 so it provides some interesting insight into what was going on in the early days of AI research.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve written a few posts recently that skew toward some of the more negative aspects of AI, but I don&amp;rsquo;t want to give the impression that I&amp;rsquo;m against it; on the contrary, I&amp;rsquo;m all for using AI and tech in general to better our human condition. It&amp;rsquo;s why I got into the field myself. I just think we should do it in a measured fashion and stay mindful of the side effects of its implementation, rather than letting those things be an afterthought.&lt;/p&gt;
 &lt;p&gt;Anyway, I&amp;rsquo;ll balance the scales here with a piece of AI history by sharing an excerpt from the book&amp;rsquo;s concluding remarks on the applications of AI. Comparatively, it does renew my appreciation of how far we&amp;rsquo;ve come technologically over the last thirty years.&lt;/p&gt;
@@ -1312,10 +1312,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>The Ethics of Artificial Intelligence</title>
-      <link>http://localhost:1313/ai-ethics/</link>
+      <link>https://sknight.xyz/ai-ethics/</link>
       <pubDate>Wed, 16 Aug 2023 11:32:47 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/ai-ethics/</guid>
+      <guid isPermaLink="false">http://scottk.mba/ai-ethics/</guid>
       <description>&lt;p&gt;A couple of weeks ago a family member struck up a conversation that&amp;rsquo;s become somewhat commonplace in my social dealings. The person (for their privacy I won&amp;rsquo;t name them here), asked what my thoughts were on &amp;ldquo;all this AI&amp;rdquo; that&amp;rsquo;s being developed lately.&lt;/p&gt;
 &lt;p&gt;Because I work in the tech industry, AI is something I&amp;rsquo;m regularly asked about by those close to me as it&amp;rsquo;s become more of a hot topic in the last couple of years. And my opinion on AI hasn&amp;rsquo;t changed much since a decade ago when the field&amp;rsquo;s momentum really began to pick up.&lt;/p&gt;
 &lt;p&gt;Nonetheless, many of the concerns brought up in these conversations are valid and relate to ethical concerns about our future with this powerful technology. What follows is a selection of the most emergent ethical hurdles I think AI and the tech industry will need to implement solutions for, regulatory or otherwise.&lt;/p&gt;
@@ -1348,10 +1348,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Crabs in a Bucket</title>
-      <link>http://localhost:1313/crabs/</link>
+      <link>https://sknight.xyz/crabs/</link>
       <pubDate>Sun, 30 Jul 2023 13:48:11 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/crabs/</guid>
+      <guid isPermaLink="false">http://scottk.mba/crabs/</guid>
       <description>&lt;p&gt;Despite the recent hellish heatwave(s) distressing the southern U.S. lately, we&amp;rsquo;ve been enjoying crabbing as a weekend family pastime down here in south Louisiana. Heading out into the marsh out of Pointe-Aux-Chenes (that&amp;rsquo;s French for &amp;ldquo;Oak Point&amp;rdquo;) down near the Gulf, we&amp;rsquo;ll typically return with several dozen crabs to boil for family and friends.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s one unique trait I&amp;rsquo;ve noticed about crabs &amp;mdash; if you have just one crab in a bucket, it&amp;rsquo;s usually going to figure out how to climb out; if you have more than one crab in a bucket and one tries to escape, the others are always going to pull it back down.&lt;/p&gt;
 &lt;p&gt;Similarly, as we work at making positive improvements in our lives many of us have toxic people around us that are always going to find a way to bring us down. Some do it intentionally because they may feel you&amp;rsquo;re &amp;ldquo;leaving them behind&amp;rdquo; as you make positive changes, taking away their social permission to maintain their own bad habits; others don&amp;rsquo;t even realize their behavior having a negative effect on you.&lt;/p&gt;
@@ -1361,10 +1361,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Week with Linux Mint</title>
-      <link>http://localhost:1313/linux-mint-first-impressions/</link>
+      <link>https://sknight.xyz/linux-mint-first-impressions/</link>
       <pubDate>Fri, 14 Jul 2023 15:31:48 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/linux-mint-first-impressions/</guid>
+      <guid isPermaLink="false">http://scottk.mba/linux-mint-first-impressions/</guid>
       <description>&lt;p&gt;Last week I posted here about open-sourcing my decision on which Linux distribution to use on my new lab machine. The overwhelming majority voted for Linux Mint, so that&amp;rsquo;s what I went with.&lt;/p&gt;
 &lt;p&gt;Not having used Linux in many years, I couldn&amp;rsquo;t recall anything particularly good or bad about my experience with the OS. That is to say, I&amp;rsquo;m going into this with an open mind.&lt;/p&gt;
 &lt;p&gt;The hardware I&amp;rsquo;m using isn&amp;rsquo;t anything special, which personally I prefer in the sense that it will allow me to additionally evaluate my chosen OS on an average system.&lt;/p&gt;
@@ -1414,10 +1414,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Using Data to Choose a Linux Distro</title>
-      <link>http://localhost:1313/linux-poll/</link>
+      <link>https://sknight.xyz/linux-poll/</link>
       <pubDate>Fri, 07 Jul 2023 16:51:29 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/linux-poll/</guid>
+      <guid isPermaLink="false">http://scottk.mba/linux-poll/</guid>
       <description>&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;
 &lt;p&gt;I recently decided that I wanted to beef up my home lab a bit by adding a small, inexpensive machine that I can use as a sandbox for server projects and testing operating systems. When I realized that StackSocial had a &lt;a href=&#34;https://stacksocial.com/sales/lenovo-thinkcentre-m900-tiny-core-i5-6500t-16gb-256gb-ssd-wi-fi-windows-10-pro-refurbished&#34;&gt;Lenovo ThinkCentre M900&lt;/a&gt; on sale for less than $200, I ordered one.&lt;/p&gt;
 &lt;p&gt;I also knew I wanted to try something besides Windows and MacOS on this new machine, so I decided to evaluate Linux distros. As it turns out, choosing a Linux distro is a really tall order for someone who&amp;rsquo;s only superifically familiar with the domain; there are hundreds, if not thousands, of distributions.&lt;/p&gt;
@@ -1441,10 +1441,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Why I Wont Be Joining Threads</title>
-      <link>http://localhost:1313/why-i-wont-be-joining-threads/</link>
+      <link>https://sknight.xyz/why-i-wont-be-joining-threads/</link>
       <pubDate>Thu, 06 Jul 2023 17:36:44 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/why-i-wont-be-joining-threads/</guid>
+      <guid isPermaLink="false">http://scottk.mba/why-i-wont-be-joining-threads/</guid>
       <description>&lt;p&gt;Threads, the new app from Instagram (Meta), is designed to be a more &amp;ldquo;intimate and private&amp;rdquo; way to connect with your friends. It&amp;rsquo;s free to use and there are no ads, which seem to be two of the main selling points. So far, though, I&amp;rsquo;m not convinced that it&amp;rsquo;s enough to make me want to join.&lt;/p&gt;
 &lt;p&gt;First of all, let&amp;rsquo;s talk about the privacy aspect. Instagram has a pretty &lt;a href=&#34;https://www.inc.com/jason-aten/instagram-just-acknowledged-it-has-a-much-bigger-privacy-problem-than-we-thought.html&#34;&gt;poor history&lt;/a&gt; when it comes to privacy. They&amp;rsquo;ve been caught allowing their ad partners to collect and share loads of data from millions of user accounts without their consent, and have been criticized for their &lt;a href=&#34;https://www.forbes.com/sites/zakdoffman/2019/09/12/new-instagram-hack-exclusive-facebook-confirms-user-accounts-and-phone-numbers-at-risk/?sh=1d369c4f2200&#34;&gt;lax security measures&lt;/a&gt;. So I&amp;rsquo;m not sure why I should trust them with the intimate and private messages between me and my friends.&lt;/p&gt;
 &lt;p&gt;Secondly, even if Threads were completely private I&amp;rsquo;m not sure I see the point. Between the &amp;ldquo;[insert career here] has been killed by AI&amp;rdquo; and &amp;ldquo;I discovered X about [insert buzzword]. Here&amp;rsquo;s what you should know&amp;hellip;&amp;rdquo; posts, I&amp;rsquo;m already bored with the Twitter echo chamber. It&amp;rsquo;s become a cesspool of people scrambling over each other to grab whatever clout they can get their grubby little fingers on. If Threads is supposed to be the &amp;ldquo;new Twitter&amp;rdquo;, what would I gain by joining?&lt;/p&gt;
@@ -1458,10 +1458,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>18 Month reMarkable 2 Review</title>
-      <link>http://localhost:1313/remarkable-2/</link>
+      <link>https://sknight.xyz/remarkable-2/</link>
       <pubDate>Sun, 02 Jul 2023 13:59:37 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/remarkable-2/</guid>
+      <guid isPermaLink="false">http://scottk.mba/remarkable-2/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://remarkable.com/store/remarkable-2&#34;&gt;reMarkable 2&lt;/a&gt; found its way to my Instagram feed in early 2022, a time when I was in the trenches of trying to get two companies off the ground while also just starting grad school working toward my MBA.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve always preferred handwritten notes to typed, but a pain point for me has been keeping my notes organized in a way that&amp;rsquo;s easily accessible later. Having been through several iterations of owning an iPad and Apple Pencil for keeping notes, I didn&amp;rsquo;t like the amount of distraction iPads can cause with the notifications and other apps.&lt;/p&gt;
 &lt;p&gt;The reMarkable 2 seemed to answer this struggle, so I ordered one.&lt;/p&gt;
@@ -1485,10 +1485,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Frogs on a Log</title>
-      <link>http://localhost:1313/frogs-on-a-log/</link>
+      <link>https://sknight.xyz/frogs-on-a-log/</link>
       <pubDate>Fri, 30 Jun 2023 12:23:56 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/frogs-on-a-log/</guid>
+      <guid isPermaLink="false">http://scottk.mba/frogs-on-a-log/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s an old story that goes something like this:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;There are five frogs sitting on a log. One decides to jump off. How many frogs are left on the log?&lt;/p&gt;
@@ -1504,10 +1504,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Self Hosted Software List</title>
-      <link>http://localhost:1313/self-hosted/</link>
+      <link>https://sknight.xyz/self-hosted/</link>
       <pubDate>Wed, 28 Jun 2023 17:03:29 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/self-hosted/</guid>
+      <guid isPermaLink="false">http://scottk.mba/self-hosted/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been browsing around for project ideas for an old &lt;a href=&#34;https://www.pcmag.com/reviews/dell-inspiron-15-7000-series-7559&#34;&gt;Dell Inspiron 15&lt;/a&gt; I have laying around. The bones are great, but some of the keys don&amp;rsquo;t work and the screen has some damage after being dropped on the ground at some point.&lt;/p&gt;
 &lt;p&gt;I want to keep it in use somehow, and my initial idea was to use it as a homebrew &lt;a href=&#34;https://en.wikipedia.org/wiki/Network-attached_storage&#34;&gt;NAS server&lt;/a&gt; using &lt;a href=&#34;https://www.truenas.com/truenas-core/&#34;&gt;TrueNas&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Before committing to that, though, I decided to check out other self-hosted software out there in case there was something else I&amp;rsquo;d rather add to my home lab.&lt;/p&gt;
@@ -1518,10 +1518,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>What&#39;s Up With Reddit?</title>
-      <link>http://localhost:1313/reddit-strike/</link>
+      <link>https://sknight.xyz/reddit-strike/</link>
       <pubDate>Mon, 26 Jun 2023 15:00:54 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/reddit-strike/</guid>
+      <guid isPermaLink="false">http://scottk.mba/reddit-strike/</guid>
       <description>&lt;p&gt;How long can a site continue to alienate its user base and volunteer moderators before its &lt;a href=&#34;https://fortune.com/2023/06/17/why-is-reddit-dark-subreddit-moderators-ceo-huffman-not-negotiating/&#34;&gt;bull-headed CEO&lt;/a&gt; corrects course? Reddit may be on track to answer that question for us.&lt;/p&gt;
 &lt;h2 id=&#34;the-situation&#34;&gt;The Situation&lt;/h2&gt;
 &lt;p&gt;In case you haven&amp;rsquo;t heard, Reddit mods and users have been on a major strike over the last week. Thousands of subreddits (some holding tens of millions of subscribers) have either gone private or otherwise restricted access to protest the company&amp;rsquo;s recent announcement of its intention to implement some major API pricing changes.&lt;/p&gt;
@@ -1540,27 +1540,27 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>100 Days to Offload</title>
-      <link>http://localhost:1313/100-days-to-offload/</link>
+      <link>https://sknight.xyz/100-days-to-offload/</link>
       <pubDate>Sun, 25 Jun 2023 09:30:12 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/100-days-to-offload/</guid>
+      <guid isPermaLink="false">http://scottk.mba/100-days-to-offload/</guid>
       <description>&lt;p&gt;Publish 100 posts on your personal blog in a year. That&amp;rsquo;s it, that&amp;rsquo;s the challenge.&lt;/p&gt;
 &lt;p&gt;Seems simple enough, so why not?&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve mentioned before that I&amp;rsquo;ve gone through several (at a minimum) iterations of starting a new site/personal blog as an online hub. The problem I&amp;rsquo;ve always run into is that I always felt the need to write for some particular audience, rather than for myself.&lt;/p&gt;
 &lt;p&gt;This time I realized that no one&amp;rsquo;s asking me to do that. This site is &lt;em&gt;my site&lt;/em&gt;, and I can post whatever I want here. Hopefully those who read this will find something useful or interesting, but the point here isn&amp;rsquo;t to amass imaginary points in my &lt;a href=&#34;https://scottk.goatcounter.com/&#34;&gt;analytics dashboard&lt;/a&gt; or to feel good about how many people sign up for my newsletter. At this point, I don&amp;rsquo;t even have a newsletter, and that&amp;rsquo;s intentional.&lt;/p&gt;
 &lt;p&gt;The thing is, people are more complex and multi-faceted than what you normally see in someone&amp;rsquo;s online presence. I don&amp;rsquo;t want to be relegated to writing about just one topic like tech or business here. I&amp;rsquo;m going to use this as a tool to think through concepts, save good ideas, and hopefully help someone else in the process. That&amp;rsquo;s the goal.&lt;/p&gt;
 &lt;p&gt;The practice of regular writing is also good for the mind, and this has so far been a great exercise in getting some of my thoughts out into the world.&lt;/p&gt;
-&lt;p&gt;I want to keep my &lt;a href=&#34;http://localhost:1313/flywheel/&#34;&gt;flywheel spinning&lt;/a&gt; here with regard to blogging momentum, so I&amp;rsquo;m taking on the &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to Offload&lt;/a&gt; challenge in order to keep the momentum going.&lt;/p&gt;
+&lt;p&gt;I want to keep my &lt;a href=&#34;https://sknight.xyz/flywheel/&#34;&gt;flywheel spinning&lt;/a&gt; here with regard to blogging momentum, so I&amp;rsquo;m taking on the &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to Offload&lt;/a&gt; challenge in order to keep the momentum going.&lt;/p&gt;
 &lt;p&gt;P.S. Yes, I&amp;rsquo;m still counting my first posts so I&amp;rsquo;ve given myself a bit of a head start. Sue me (please don&amp;rsquo;t).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How to Improvise Public Speaking</title>
-      <link>http://localhost:1313/public-speaking-formula/</link>
+      <link>https://sknight.xyz/public-speaking-formula/</link>
       <pubDate>Fri, 23 Jun 2023 14:49:17 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/public-speaking-formula/</guid>
+      <guid isPermaLink="false">http://scottk.mba/public-speaking-formula/</guid>
       <description>&lt;p&gt;Like most people, I&amp;rsquo;m not the biggest fan of public speaking.&lt;/p&gt;
 &lt;p&gt;But, I am a member of several social groups and organizations, so from time to time I get called upon to &amp;ldquo;say a few words&amp;rdquo; for a given occasion.&lt;/p&gt;
 &lt;p&gt;Knowing that this can potentially happen at any time, I always like to be prepared to rise to the occasion (and to avoid looking like a bumbling idiot in front of a crowd). Some time ago I began researching different methods, techniques, and formulas to make this easier. I figured, if I can keep a simple structure and maybe a few stories in my back pocket, then I&amp;rsquo;ll always be prepared with &lt;em&gt;something&lt;/em&gt; to say.&lt;/p&gt;
@@ -1605,10 +1605,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Spinning the Flywheel</title>
-      <link>http://localhost:1313/flywheel/</link>
+      <link>https://sknight.xyz/flywheel/</link>
       <pubDate>Tue, 20 Jun 2023 15:04:15 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/flywheel/</guid>
+      <guid isPermaLink="false">http://scottk.mba/flywheel/</guid>
       <description>&lt;p&gt;Below is a recycled post from one of my older blogs. I wrote this when I was in the midst of trying to get my first startup off the ground, so I approached the topic from that mental frame. Still, it remains useful and I often refer back to the idea when starting a new project or need some motivation. After the post I&amp;rsquo;ll share my current take on this concept.&lt;/p&gt;
 &lt;h2 id=&#34;original-post&#34;&gt;Original Post&lt;/h2&gt;
 &lt;p&gt;A while back I came across the concept of a flywheel. If you&amp;rsquo;re not familiar, a flywheel is technically defined as a wheel with a heavy rim placed on the revolving shaft of any machinery put in motion by an irregular or intermitting force or meeting with an irregular or intermittent resistance, for the purpose of rendering the motion equable and regular by means of its momentum.&lt;/p&gt;
@@ -1631,10 +1631,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Mindful Journey Through the Woods</title>
-      <link>http://localhost:1313/through-the-woods/</link>
+      <link>https://sknight.xyz/through-the-woods/</link>
       <pubDate>Fri, 16 Jun 2023 11:03:59 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/through-the-woods/</guid>
+      <guid isPermaLink="false">http://scottk.mba/through-the-woods/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always enjoyed nature. But, I work from home as a data engineer, so to counterbalance that I make sure to spend as much time as I can exploring the outdoors, far away from digital distractions. Most days, this can be as simple as taking a walk around the local park or going for a bike ride.&lt;/p&gt;
 &lt;p&gt;Last month, I took a solo camping trip to &lt;a href=&#34;https://allyouneedinstitute.com/&#34;&gt;All You Need Institute&lt;/a&gt; with the goal of exploring the concept of &amp;ldquo;forest bathing&amp;rdquo; and getting some peace and quiet.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/travel/article/forest-bathing-nature-walk-health&#34;&gt;Forest bathing&lt;/a&gt;, a Japanese concept I recently came across (though it&amp;rsquo;s been around since the eighties), is the practice of immersing oneself in nature in order to promote physical and mental well-being. They call it &lt;em&gt;shinrin-yoku&lt;/em&gt;. It&amp;rsquo;s meant to be a mindful activity where you purposely slow down and pay attention to the sights, sounds, smells, and feelings of the natural world. The health benefits of this practice are myriad.&lt;/p&gt;
@@ -1679,10 +1679,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Is There a Downside to AI?</title>
-      <link>http://localhost:1313/is-there-a-downside-to-ai/</link>
+      <link>https://sknight.xyz/is-there-a-downside-to-ai/</link>
       <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/is-there-a-downside-to-ai/</guid>
+      <guid isPermaLink="false">http://scottk.mba/is-there-a-downside-to-ai/</guid>
       <description>&lt;p&gt;I had a conversation the other day with my good friend, &lt;a href=&#34;https://twitter.com/kasrakhalili&#34;&gt;Kasra Khalili&lt;/a&gt;, that stuck with me.&lt;/p&gt;
 &lt;p&gt;We were discussing the viral rise of AI since the release of ChatGPT and its future potential. AI (Artificial Intelligence, if you&amp;rsquo;re reading this from the rock you&amp;rsquo;ve been living under) is the flavor of the month in the tech world, and it is rapidly entangling our everyday lives. From smartphones to self-driving cars, AI is changing the way we live and work.&lt;/p&gt;
 &lt;p&gt;One thing I&amp;rsquo;ve noticed lately is that, while many folks (especially Twitter tech bros) are hailing the latest exploits or scrapping to stake their claim as the latest and greatest &amp;ldquo;ChatGPT Prompt Engineer&amp;rdquo;, not many are talking about the potentially negative side effects lurking under the surface.&lt;/p&gt;
@@ -1697,10 +1697,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Ready Player One</title>
-      <link>http://localhost:1313/ready-player-one/</link>
+      <link>https://sknight.xyz/ready-player-one/</link>
       <pubDate>Sun, 11 Jun 2023 17:36:42 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/ready-player-one/</guid>
+      <guid isPermaLink="false">http://scottk.mba/ready-player-one/</guid>
       <description>&lt;p&gt;As I&amp;rsquo;m putting the finishing touches on this site, I&amp;rsquo;m also thinking back on the graveyard of &amp;ldquo;personal sites past&amp;rdquo; I&amp;rsquo;ve left behind over the years.&lt;/p&gt;
 &lt;p&gt;Since the dawn of the internet, there&amp;rsquo;s been an unspoken peer pressure to create a &amp;ldquo;digital presence&amp;rdquo; where people can find you online (doubly so for developers). For most people these days, social media fills this void. I&amp;rsquo;ve never really been thrilled with social media and, while I have accounts on a few platforms, I post &lt;em&gt;maybe&lt;/em&gt; a couple times per year at most.&lt;/p&gt;
 &lt;p&gt;A more useful thing to have is a place to keep ideas, resources, and other sundry tidbits that I may want to look back on later. In recent years I&amp;rsquo;ve come across Tiago Forte&amp;rsquo;s idea of building a &lt;a href=&#34;https://fortelabs.com/blog/basboverview/&#34;&gt;second brain&lt;/a&gt;. The only issue is that I can&amp;rsquo;t figure out what type of person has the time or attention to maintaining such a detailed thing.&lt;/p&gt;

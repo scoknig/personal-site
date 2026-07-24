@@ -1,4 +1,4 @@
-baseURL = "http://scottk.mba/"
+baseURL = "https://sknight.xyz/"
 languageCode = "en-us"
 title = "Scott Knight"
 copyright = "Scott Knight. All rights reserved."
@@ -6,6 +6,9 @@ pagination.pagerSize = 5
 
 [permalinks]
     blog = "/:filename"
+
+[outputs]
+  home = ["HTML", "RSS", "robots"]
 
 [build]
   writeStats = true

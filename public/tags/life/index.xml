@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Knight's Blog</title>
-    <link>http://localhost:1313/tags/life/</link>
+    <link>https://sknight.xyz/tags/life/</link>
     <description>Recent content from Scott Knight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>"en-us"</language>
     <managingEditor>Scott Knight</managingEditor>
     <webMaster>Scott Knight</webMaster>
     <copyright>Scott Knight. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 28 Dec 2024 08:10:39 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Dec 2024 08:10:39 -0600</lastBuildDate><atom:link href="https://sknight.xyz/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wrapping Up 2024</title>
-      <link>http://localhost:1313/wrapping-up-2024/</link>
+      <link>https://sknight.xyz/wrapping-up-2024/</link>
       <pubDate>Sat, 28 Dec 2024 08:10:39 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/wrapping-up-2024/</guid>
-      <description>&lt;p&gt;As we enter the final days of 2024, I&amp;rsquo;m reflecting on my goal &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;post&lt;/a&gt; from January. Though I managed to accomplish most items I had assigned myself for 2024, I&amp;rsquo;ve also concluded that setting a specific task list for the year is not always an ideal technique when accounting for a.) the length of an entire year, and b.) the uncertainty within that timespan which demands much more flexibility.&lt;/p&gt;
+      <guid isPermaLink="false">http://scottk.mba/wrapping-up-2024/</guid>
+      <description>&lt;p&gt;As we enter the final days of 2024, I&amp;rsquo;m reflecting on my goal &lt;a href=&#34;https://sknight.xyz/24-in-24&#34;&gt;post&lt;/a&gt; from January. Though I managed to accomplish most items I had assigned myself for 2024, I&amp;rsquo;ve also concluded that setting a specific task list for the year is not always an ideal technique when accounting for a.) the length of an entire year, and b.) the uncertainty within that timespan which demands much more flexibility.&lt;/p&gt;
 &lt;p&gt;A better practice would be to set a theme for the year&amp;mdash;something to act as a guidepost, yet one that remains flexible enough to allow interpretation in &lt;em&gt;how&lt;/em&gt; the specifics are planned and executed. For example, if the theme for the year is &amp;ldquo;Development&amp;rdquo; one&amp;rsquo;s actions would be driven by that concept&amp;mdash;reading more, enrolling in courses of interest, joining a community centered around a subject of interest to grow more in that domain, etc. This both accounts for flexibility in planning and does not restrict the scope of action (e.g. small daily actions vs. a large, months-long project).&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m sure I&amp;rsquo;ll publish something here in January with more on next year&amp;rsquo;s theme; for this brief retrospective, I claim 2024 as a good, productive year and look forward to even better things in 2025.&lt;/p&gt;
 </description>
@@ -24,11 +24,11 @@
     
     <item>
       <title>Goals vs. Objectives</title>
-      <link>http://localhost:1313/goals-vs-objectives/</link>
+      <link>https://sknight.xyz/goals-vs-objectives/</link>
       <pubDate>Sat, 10 Aug 2024 08:46:59 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/goals-vs-objectives/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a year and some change since I began publishing on this site and I&amp;rsquo;ve recently been reflecting on the initial challenges I&amp;rsquo;d set for myself. One of these was to &lt;a href=&#34;http://localhost:1313/100-days-to-offload/&#34;&gt;publish 100 posts in a year&lt;/a&gt;, which was a sincere objective at the time. It&amp;rsquo;s also one which I haven&amp;rsquo;t met. Does that constitute a failure?&lt;/p&gt;
+      <guid isPermaLink="false">http://scottk.mba/goals-vs-objectives/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a year and some change since I began publishing on this site and I&amp;rsquo;ve recently been reflecting on the initial challenges I&amp;rsquo;d set for myself. One of these was to &lt;a href=&#34;https://sknight.xyz/100-days-to-offload/&#34;&gt;publish 100 posts in a year&lt;/a&gt;, which was a sincere objective at the time. It&amp;rsquo;s also one which I haven&amp;rsquo;t met. Does that constitute a failure?&lt;/p&gt;
 &lt;p&gt;This brings up an important point: &lt;em&gt;there is a notable difference between goals and objectives&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Goals&lt;/strong&gt;&lt;/em&gt; are long-term purposes one strives to achieve. A goal is the &amp;ldquo;end result&amp;rdquo;, and goals should be considered in long-term time frames. Goals are strategic and abstract.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/em&gt; are achievements along a path to achieving an overarching goal. They are the &amp;ldquo;means to an end&amp;rdquo; (the &amp;rsquo;end&amp;rsquo; being the goal), and should be considered in short-to-medium time frames. Objectives are tactical and concrete.&lt;/p&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>A Postcard from the Capitol</title>
-      <link>http://localhost:1313/a-postcard-from-the-capitol/</link>
+      <link>https://sknight.xyz/a-postcard-from-the-capitol/</link>
       <pubDate>Wed, 31 Jul 2024 15:52:21 -0400</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/a-postcard-from-the-capitol/</guid>
+      <guid isPermaLink="false">http://scottk.mba/a-postcard-from-the-capitol/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m perched atop a D.C. rooftop, enjoying a view of our majestic Capitol Dome. Unfortunately, what would otherwise be a fantastic view is unceremoniously interrupted by a colossal Apple billboard.&lt;/p&gt;
 &lt;p&gt;Noticing this, I can&amp;rsquo;t help but appreciate the visual metaphor. The symbol of our nation, eclipsed by the relentless pursuit of profit.&lt;/p&gt;
 
@@ -64,8 +64,8 @@
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view.jpeg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view_hu_55b803a637097c7c.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/a-postcard-from-the-capitol/capital-view.jpeg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/a-postcard-from-the-capitol/capital-view_hu_55b803a637097c7c.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -78,10 +78,10 @@
     
     <item>
       <title>6-to-1 Grocery Method</title>
-      <link>http://localhost:1313/6-to-1-grocery-method/</link>
+      <link>https://sknight.xyz/6-to-1-grocery-method/</link>
       <pubDate>Fri, 19 Apr 2024 12:43:55 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/6-to-1-grocery-method/</guid>
+      <guid isPermaLink="false">http://scottk.mba/6-to-1-grocery-method/</guid>
       <description>&lt;p&gt;While settling into my new home I&amp;rsquo;ve had to get back in the swing of grocery shopping and proper meal planning. And if there&amp;rsquo;s one thing I&amp;rsquo;ve noticed, it&amp;rsquo;s that it can be incredibly easy to get carried away at the grocery store and let the bill get out of hand.&lt;/p&gt;
 &lt;p&gt;I recently came across a social media post (sorry, I don&amp;rsquo;t remember the exact source to credit) outlining a method for grocery shopping I really like that helps prevent overspending while prioritize healthier ingredients, which is a win-win in my book. It&amp;rsquo;s called the &amp;ldquo;6-to-1&amp;rdquo; method, which essentially goes as follows.&lt;/p&gt;
 &lt;p&gt;When you&amp;rsquo;re grocery shopping, challenge yourself to stick to buying:&lt;/p&gt;
@@ -100,10 +100,10 @@
     
     <item>
       <title>Keeping Analog Alive</title>
-      <link>http://localhost:1313/keeping-analog-alive/</link>
+      <link>https://sknight.xyz/keeping-analog-alive/</link>
       <pubDate>Wed, 17 Apr 2024 15:28:21 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/keeping-analog-alive/</guid>
+      <guid isPermaLink="false">http://scottk.mba/keeping-analog-alive/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve written here about my career in the software industry, but I&amp;rsquo;m also a big fan of analog technology. Digital stuff can be fun, but once you&amp;rsquo;re ingrained in the tech world for so long and understand how it all (or, at least, most of it) works, it can lose a bit of its magic. For that reason I&amp;rsquo;ve always been drawn to the machines and devices of yesteryear.&lt;/p&gt;
 &lt;p&gt;One way I express that interest is through my collection of vintage and antique typewriters. I have a handful of them which I&amp;rsquo;ve picked up and restored to working condition over the years. I use them for all sorts of things like recording recipes, notes, letters, greeting cards; the uses are endless. The tactile action and sound of the clacking keys as you type makes using them fun, while simultaneously allowing you to slow down, think, and appreciate the process of writing.&lt;/p&gt;
 &lt;p&gt;A greatly helpful resource I&amp;rsquo;ve used to clean, restore, and maintain my typewriters is &lt;a href=&#34;https://www.youtube.com/@Joe_VanCleave&#34;&gt;Joe Van Cleave&amp;rsquo;s YouTube channel&lt;/a&gt;. Joe&amp;rsquo;s been making videos on vintage and analog tech since the 1980&amp;rsquo;s and has &lt;em&gt;hundreds&lt;/em&gt; of videos on just about anything to do with writing, typewriters (their usage, maintenance, collecting), and camera systems. Unfortunately, the number of people knowledgable about these machines is dwindling and it is increasingly hard to find good resources on restoring them. Thankfully, however, there are still folks like Joe who are doing their best to pass their knowledge along.&lt;/p&gt;
@@ -115,10 +115,10 @@
     
     <item>
       <title>Unsubscribing from New Homeowner Scams</title>
-      <link>http://localhost:1313/new-homeowner-scams/</link>
+      <link>https://sknight.xyz/new-homeowner-scams/</link>
       <pubDate>Sun, 25 Feb 2024 10:13:24 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/new-homeowner-scams/</guid>
+      <guid isPermaLink="false">http://scottk.mba/new-homeowner-scams/</guid>
       <description>&lt;p&gt;I recently wrote here about buying my new home. Since then, the experience has been slightly soured from a never-ending onslaught of predatory junk mail and door-knocking salespeople trying to swindle me into signing up for products or services I neither need nor want, targeting me as a new homeowner.&lt;/p&gt;
 &lt;p&gt;Many of them use fear-mongering tactics disguised as helpful advice, from mortgage warranty companies warning of natural disasters or my own death to security system salespeople making up stories about a &amp;ldquo;recent string of burglaries in my neighborhood&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;What&amp;rsquo;s worse, these exploitative and predatory practices are &lt;em&gt;completely legal&lt;/em&gt;. My information was sold, traded, and exploited to bring these scammers right to my doorstep, which is at once unsettling and infuriating.&lt;/p&gt;
@@ -135,11 +135,11 @@
     
     <item>
       <title>First One Down</title>
-      <link>http://localhost:1313/first-one-down/</link>
+      <link>https://sknight.xyz/first-one-down/</link>
       <pubDate>Sat, 17 Feb 2024 12:08:11 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/first-one-down/</guid>
-      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
+      <guid isPermaLink="false">http://scottk.mba/first-one-down/</guid>
+      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;https://sknight.xyz/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m particularly proud of this accomplishment. I&amp;rsquo;ve worked tirelessly toward this and have cultivated a wealth of financial discipline to make this happen. It has definitely been a learning process, but I enjoyed the challenge and look forward to taking the next step in my investing career soon.&lt;/p&gt;
 &lt;p&gt;Now to press on with the rest of the list!&lt;/p&gt;
 </description>
@@ -147,10 +147,10 @@
     
     <item>
       <title>Ozymandias</title>
-      <link>http://localhost:1313/ozymandias/</link>
+      <link>https://sknight.xyz/ozymandias/</link>
       <pubDate>Fri, 05 Jan 2024 13:29:46 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/ozymandias/</guid>
+      <guid isPermaLink="false">http://scottk.mba/ozymandias/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;I met a traveller from an antique land,&lt;br&gt;
 Who said—“Two vast and trunkless legs of stone&lt;br&gt;
@@ -180,10 +180,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>24 in &#39;24</title>
-      <link>http://localhost:1313/24-in-24/</link>
+      <link>https://sknight.xyz/24-in-24/</link>
       <pubDate>Wed, 03 Jan 2024 09:17:41 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/24-in-24/</guid>
+      <guid isPermaLink="false">http://scottk.mba/24-in-24/</guid>
       <description>&lt;p&gt;Welcome back, fellow adventurers. As we dive headfirst into a new year, I can&amp;rsquo;t help but feel a surge of excitement and anticipation for the possibilities that await.&lt;/p&gt;
 &lt;p&gt;2024 is poised to be a year of growth, new experiences, and thrilling challenges. To kick things off, I thought it&amp;rsquo;d be fun to publish a list of 24 goals and projects I&amp;rsquo;m aiming to tackle in 2024. I&amp;rsquo;ll come back occasionally and cross them off the list as they&amp;rsquo;re completed.&lt;/p&gt;
 &lt;p&gt;In no particular order:&lt;/p&gt;
@@ -196,7 +196,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;&lt;strong&gt;Buy a House&lt;/strong&gt;&lt;/del&gt;: Since I&amp;rsquo;ve improved my financial position, I&amp;rsquo;m now looking to buy my first home. I want to close and move in by the end of spring.&lt;br&gt;
-&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;http://localhost:1313/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;https://sknight.xyz/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;Visit Three New Places&lt;/del&gt;: Satiate my travel bug by exploring three new destinations.&lt;/p&gt;
@@ -209,7 +209,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;Complete a New Hardware Project&lt;/del&gt;: Hone my tech skills and learn a new technology. I&amp;rsquo;m particularly interested in the Raspberry Pi Pico W and Circuit Python.&lt;br&gt;
-&lt;em&gt;I&amp;rsquo;m going to count my &lt;a href=&#34;http://localhost:1313/homelab-update/&#34;&gt;Homelab setup&lt;/a&gt; for this one, since it consisted of learning new tech I haven&amp;rsquo;t worked with before.&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;I&amp;rsquo;m going to count my &lt;a href=&#34;https://sknight.xyz/homelab-update/&#34;&gt;Homelab setup&lt;/a&gt; for this one, since it consisted of learning new tech I haven&amp;rsquo;t worked with before.&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Complete a DIY Home Improvement Project&lt;/strong&gt;: Channel my inner handyman and take on a DIY home improvement project in my soon-to-be first house.&lt;/p&gt;
@@ -271,10 +271,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Happy Holidays</title>
-      <link>http://localhost:1313/happy-holidays/</link>
+      <link>https://sknight.xyz/happy-holidays/</link>
       <pubDate>Wed, 27 Dec 2023 12:51:46 -0600</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/happy-holidays/</guid>
+      <guid isPermaLink="false">http://scottk.mba/happy-holidays/</guid>
       <description>&lt;p&gt;You may have noticed it&amp;rsquo;s been quiet around here lately. No, the site&amp;rsquo;s not abandoned and I haven&amp;rsquo;t neglected to keep writing here; I&amp;rsquo;m just taking a break to enjoy the holiday season with family and friends.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ll be back to posting in 2024 with some new writings and whatever else I find worth discussing here.&lt;/p&gt;
 &lt;p&gt;So whatever your faith, practice, tradition, culture, or custom, I hope you make time to enjoy some earned rest and have a happy holiday season.&lt;/p&gt;
@@ -283,10 +283,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Automate Anything</title>
-      <link>http://localhost:1313/how-to-automate-anything/</link>
+      <link>https://sknight.xyz/how-to-automate-anything/</link>
       <pubDate>Mon, 30 Oct 2023 17:57:51 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/how-to-automate-anything/</guid>
+      <guid isPermaLink="false">http://scottk.mba/how-to-automate-anything/</guid>
       <description>&lt;p&gt;After some interest from my last post where I discussed some of my personal automations, I&amp;rsquo;d like to expand on the topic of personal automation a bit and discuss how you can automate (mostly) the boring or tedious stuff in &lt;em&gt;your&lt;/em&gt; life!&lt;/p&gt;
 &lt;p&gt;I say &amp;ldquo;mostly&amp;rdquo; because while with enough time and resources, you &lt;em&gt;could&lt;/em&gt; automate anything with a repeatable process. However, considering our main goal here is to save time, you&amp;rsquo;ll have to evaluate which things are pragmatically worth expending your time and effort to automate.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s my general process:&lt;/p&gt;
@@ -303,7 +303,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;li&gt;The work is spread out over time, so you don&amp;rsquo;t spend one large chunk of time automating an entire complex process (unless you really, really want to).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;4-choose-your-platform&#34;&gt;4. Choose your platform&lt;/h2&gt;
-&lt;p&gt;Now, for the task(s) you&amp;rsquo;ve just targeted for automation, you&amp;rsquo;ll want to consider which platform best suits the triggers/actions involved. For example, my simple &amp;ldquo;Blog to Social Media&amp;rdquo; automation is done using &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt; since there is no complex logic involved. That automation is simply a trigger (a new post is published to my &lt;a href=&#34;https://scottk.mba/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt;) and subsequent actions (a new post is published to Mastodon and X/Twitter) are executed.&lt;/p&gt;
+&lt;p&gt;Now, for the task(s) you&amp;rsquo;ve just targeted for automation, you&amp;rsquo;ll want to consider which platform best suits the triggers/actions involved. For example, my simple &amp;ldquo;Blog to Social Media&amp;rdquo; automation is done using &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt; since there is no complex logic involved. That automation is simply a trigger (a new post is published to my &lt;a href=&#34;https://sknight.xyz/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt;) and subsequent actions (a new post is published to Mastodon and X/Twitter) are executed.&lt;/p&gt;
 &lt;p&gt;A more complex example might be my financial automation. I&amp;rsquo;m taking a CSV of my checking account transactions, parsing through that and performing some matching to categorize each transaction, and then saving the result to an Excel file for my records. For this, I opted to write a custom Python script which handles the more sophisticated logic.&lt;/p&gt;
 &lt;p&gt;The point is, I choose a platform that&amp;rsquo;s appropriate for the complexity level of the task at hand. It&amp;rsquo;s not a one-size-fits-all sort of thing.&lt;/p&gt;
 &lt;h2 id=&#34;5-automate-it&#34;&gt;5. Automate it&lt;/h2&gt;
@@ -325,10 +325,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Personal Automations</title>
-      <link>http://localhost:1313/personal-automations/</link>
+      <link>https://sknight.xyz/personal-automations/</link>
       <pubDate>Wed, 25 Oct 2023 07:36:43 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/personal-automations/</guid>
+      <guid isPermaLink="false">http://scottk.mba/personal-automations/</guid>
       <description>&lt;p&gt;Since I learned to code, I&amp;rsquo;ve always been a fan of eliminating boring and/or tedious stuff with automation. This can involve anything from custom scripting (usually with Python, in my case) to using a service like &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt;, &lt;a href=&#34;https://zapier.com/&#34;&gt;Zapier&lt;/a&gt;, or &lt;a href=&#34;https://www.make.com/en/integromat-evolves-to-make/&#34;&gt;Make&lt;/a&gt; (formerly Integromat). With these tools you can connect most common services that expose an &lt;a href=&#34;https://www.ibm.com/topics/api/&#34;&gt;API&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;While automation use cases are usually born out of some personal pain point or specific challenge, I&amp;rsquo;m always interested in seeing what other people automate and how they choose do it. I&amp;rsquo;ve also taken great inspiration from pieces like Al Sweigart&amp;rsquo;s &lt;a href=&#34;https://automatetheboringstuff.com/&#34;&gt;&lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://github.com/NARKOZ/hacker-scripts&#34;&gt;this classic Github repo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I recently bought an IFTTT subscription and audited my personal life for a list of things that take up too much time or involve a tedious process.&lt;/p&gt;
@@ -359,10 +359,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Burning CDs in 2023</title>
-      <link>http://localhost:1313/burning-cds-in-2023/</link>
+      <link>https://sknight.xyz/burning-cds-in-2023/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/burning-cds-in-2023/</guid>
+      <guid isPermaLink="false">http://scottk.mba/burning-cds-in-2023/</guid>
       <description>&lt;p&gt;After my grandparents&amp;rsquo; house fire last year, we came across a bunch of old photo slides and 8mm film reels. Before we scrapped them I decided to buy some digitizing equipment and archive the content for us to preserve some of our family history. As I mentioned the project to other friends and family, I quickly realized this is a service that many folks are seeking.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve since turned it into &lt;a href=&#34;https://knightlab.film/&#34;&gt;a local business providing media digitization services&lt;/a&gt; for customers in our local area. There are companies online who do this sort of thing, but in my experience the majority of people would rather not risk shipping off their original media. As fragile as it normally is, it would be catastrophic if something happened in shipping, so they&amp;rsquo;d prefer hiring someone local like me who&amp;rsquo;ll take extra hands-on care with their items.&lt;/p&gt;
 &lt;p&gt;So I&amp;rsquo;m currently digitizing some audio cassette tapes and film transparencies for a returning client who requested that the audio be burned onto CDs, so they can listen to the tracks on their home system.&lt;/p&gt;
@@ -376,10 +376,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>You Should Have a Website</title>
-      <link>http://localhost:1313/you-should-have-a-website/</link>
+      <link>https://sknight.xyz/you-should-have-a-website/</link>
       <pubDate>Mon, 16 Oct 2023 14:41:57 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/you-should-have-a-website/</guid>
+      <guid isPermaLink="false">http://scottk.mba/you-should-have-a-website/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s often the case that I&amp;rsquo;m referred potential &lt;a href=&#34;https://knightlab.co&#34;&gt;website clients&lt;/a&gt; who have never had their own site before. In many of these cases, the person is reaching out because someone they know told them they need one, but they still aren&amp;rsquo;t fully on board with the idea.&lt;/p&gt;
 &lt;p&gt;After all, they&amp;rsquo;ve gone this long without a website; why get one now?&lt;/p&gt;
 &lt;p&gt;Whether you&amp;rsquo;re a business owner or an individual with a personal brand, a fundamental way to establish your presence online is by having a well-designed, user-friendly website.&lt;/p&gt;
@@ -411,10 +411,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>FIRE Flow Chart</title>
-      <link>http://localhost:1313/fire-flow-chart/</link>
+      <link>https://sknight.xyz/fire-flow-chart/</link>
       <pubDate>Mon, 02 Oct 2023 18:17:05 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/fire-flow-chart/</guid>
+      <guid isPermaLink="false">http://scottk.mba/fire-flow-chart/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s a ton of advice out there on personal finance, but I&amp;rsquo;ve only ever found one resource that provided an actionable path to gaining Financial Independence and Retiring Early (F.I.R.E.). Read more about that concept &lt;a href=&#34;https://www.reddit.com/r/Fire&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s a handy flow chart created by a member of the &lt;a href=&#34;https://www.reddit.com/r/financialindependence&#34;&gt;r/financialindependence&lt;/a&gt; subreddit. Just within the last year this flow chart has helped me pay off nearly all debt, grow my net worth, and drastically increase my savings rate.&lt;/p&gt;
 &lt;p&gt;I wanted to save it here for quick reference, but if you live in the U.S. and want to retire early and/or become financially independent I recommend starting here.&lt;/p&gt;
@@ -427,10 +427,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Tennessee 2023</title>
-      <link>http://localhost:1313/tennessee-2023/</link>
+      <link>https://sknight.xyz/tennessee-2023/</link>
       <pubDate>Mon, 25 Sep 2023 11:05:00 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/tennessee-2023/</guid>
+      <guid isPermaLink="false">http://scottk.mba/tennessee-2023/</guid>
       <description>&lt;p&gt;For years, a favorite vacation spot of our family has been Tennessee. Yesterday I returned from a nice trip with some of my family to the Volunteer State, and thought I&amp;rsquo;d share a bit about it here.&lt;/p&gt;
 &lt;h2 id=&#34;home-base-tracy-city&#34;&gt;Home Base: Tracy City&lt;/h2&gt;
 &lt;p&gt;I discovered Tracy City back in 2020 through a cabin I rented through AirBnb for another weekend getaway. I enjoyed it so much the first time that we decided to reserve another cabin on the property for this trip.&lt;/p&gt;
@@ -453,8 +453,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/porch.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/porch_hu_66832d53505481b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/porch.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/porch_hu_66832d53505481b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -478,8 +478,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/autos.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/autos_hu_25b27acbeffd289c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/autos.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/autos_hu_25b27acbeffd289c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -505,8 +505,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_waterfall.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_waterfall_hu_498caeacd989aa4c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_waterfall.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_waterfall_hu_498caeacd989aa4c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -530,8 +530,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_overlook.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_overlook_hu_539a1010ee5c0b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_overlook.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_overlook_hu_539a1010ee5c0b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -555,8 +555,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_lizard.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_lizard_hu_907928792e114ca4.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_lizard.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_lizard_hu_907928792e114ca4.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -582,8 +582,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_truck.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_truck_hu_84bd2b85e0714db7.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/jd_truck.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/jd_truck_hu_84bd2b85e0714db7.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -607,8 +607,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks_hu_bca3f50cf1c8225e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/jd_firetrucks_hu_bca3f50cf1c8225e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -635,8 +635,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/aa_shop.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/aa_shop_hu_ced108f4e011655b.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/aa_shop.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/aa_shop_hu_ced108f4e011655b.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -660,8 +660,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;http://localhost:1313/tennessee-2023/motor_works.jpg&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/tennessee-2023/motor_works_hu_2942361a08d68ccf.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
+  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/motor_works.jpg&#34;&gt;
+    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/motor_works_hu_2942361a08d68ccf.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -692,10 +692,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>On Wealth</title>
-      <link>http://localhost:1313/on-wealth/</link>
+      <link>https://sknight.xyz/on-wealth/</link>
       <pubDate>Fri, 08 Sep 2023 15:05:55 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/on-wealth/</guid>
+      <guid isPermaLink="false">http://scottk.mba/on-wealth/</guid>
       <description>&lt;p&gt;What does it mean to be wealthy? What does wealth look like? Is it just being rich? How do we know when we&amp;rsquo;ve achieved wealth?&lt;/p&gt;
 &lt;p&gt;As I move toward purchasing my first home, this is something I&amp;rsquo;ve been reflecting on in recent weeks.&lt;/p&gt;
 &lt;p&gt;Cultures around the world are abundant with stories of characters on the pursuit of wealth who don&amp;rsquo;t quite get what they bargained for&amp;mdash;King Midas, for example. Over the years I myself have gone through bouts of chasing &amp;ldquo;wealth&amp;rdquo;, pouring everything I had into startup businesses, scraping by in hopes of eventually making it big.&lt;/p&gt;
@@ -720,10 +720,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Crabs in a Bucket</title>
-      <link>http://localhost:1313/crabs/</link>
+      <link>https://sknight.xyz/crabs/</link>
       <pubDate>Sun, 30 Jul 2023 13:48:11 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/crabs/</guid>
+      <guid isPermaLink="false">http://scottk.mba/crabs/</guid>
       <description>&lt;p&gt;Despite the recent hellish heatwave(s) distressing the southern U.S. lately, we&amp;rsquo;ve been enjoying crabbing as a weekend family pastime down here in south Louisiana. Heading out into the marsh out of Pointe-Aux-Chenes (that&amp;rsquo;s French for &amp;ldquo;Oak Point&amp;rdquo;) down near the Gulf, we&amp;rsquo;ll typically return with several dozen crabs to boil for family and friends.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s one unique trait I&amp;rsquo;ve noticed about crabs &amp;mdash; if you have just one crab in a bucket, it&amp;rsquo;s usually going to figure out how to climb out; if you have more than one crab in a bucket and one tries to escape, the others are always going to pull it back down.&lt;/p&gt;
 &lt;p&gt;Similarly, as we work at making positive improvements in our lives many of us have toxic people around us that are always going to find a way to bring us down. Some do it intentionally because they may feel you&amp;rsquo;re &amp;ldquo;leaving them behind&amp;rdquo; as you make positive changes, taking away their social permission to maintain their own bad habits; others don&amp;rsquo;t even realize their behavior having a negative effect on you.&lt;/p&gt;
@@ -733,10 +733,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Frogs on a Log</title>
-      <link>http://localhost:1313/frogs-on-a-log/</link>
+      <link>https://sknight.xyz/frogs-on-a-log/</link>
       <pubDate>Fri, 30 Jun 2023 12:23:56 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/frogs-on-a-log/</guid>
+      <guid isPermaLink="false">http://scottk.mba/frogs-on-a-log/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s an old story that goes something like this:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;There are five frogs sitting on a log. One decides to jump off. How many frogs are left on the log?&lt;/p&gt;
@@ -752,10 +752,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Improvise Public Speaking</title>
-      <link>http://localhost:1313/public-speaking-formula/</link>
+      <link>https://sknight.xyz/public-speaking-formula/</link>
       <pubDate>Fri, 23 Jun 2023 14:49:17 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/public-speaking-formula/</guid>
+      <guid isPermaLink="false">http://scottk.mba/public-speaking-formula/</guid>
       <description>&lt;p&gt;Like most people, I&amp;rsquo;m not the biggest fan of public speaking.&lt;/p&gt;
 &lt;p&gt;But, I am a member of several social groups and organizations, so from time to time I get called upon to &amp;ldquo;say a few words&amp;rdquo; for a given occasion.&lt;/p&gt;
 &lt;p&gt;Knowing that this can potentially happen at any time, I always like to be prepared to rise to the occasion (and to avoid looking like a bumbling idiot in front of a crowd). Some time ago I began researching different methods, techniques, and formulas to make this easier. I figured, if I can keep a simple structure and maybe a few stories in my back pocket, then I&amp;rsquo;ll always be prepared with &lt;em&gt;something&lt;/em&gt; to say.&lt;/p&gt;
@@ -800,10 +800,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Spinning the Flywheel</title>
-      <link>http://localhost:1313/flywheel/</link>
+      <link>https://sknight.xyz/flywheel/</link>
       <pubDate>Tue, 20 Jun 2023 15:04:15 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/flywheel/</guid>
+      <guid isPermaLink="false">http://scottk.mba/flywheel/</guid>
       <description>&lt;p&gt;Below is a recycled post from one of my older blogs. I wrote this when I was in the midst of trying to get my first startup off the ground, so I approached the topic from that mental frame. Still, it remains useful and I often refer back to the idea when starting a new project or need some motivation. After the post I&amp;rsquo;ll share my current take on this concept.&lt;/p&gt;
 &lt;h2 id=&#34;original-post&#34;&gt;Original Post&lt;/h2&gt;
 &lt;p&gt;A while back I came across the concept of a flywheel. If you&amp;rsquo;re not familiar, a flywheel is technically defined as a wheel with a heavy rim placed on the revolving shaft of any machinery put in motion by an irregular or intermitting force or meeting with an irregular or intermittent resistance, for the purpose of rendering the motion equable and regular by means of its momentum.&lt;/p&gt;
@@ -826,10 +826,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Mindful Journey Through the Woods</title>
-      <link>http://localhost:1313/through-the-woods/</link>
+      <link>https://sknight.xyz/through-the-woods/</link>
       <pubDate>Fri, 16 Jun 2023 11:03:59 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid>http://localhost:1313/through-the-woods/</guid>
+      <guid isPermaLink="false">http://scottk.mba/through-the-woods/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always enjoyed nature. But, I work from home as a data engineer, so to counterbalance that I make sure to spend as much time as I can exploring the outdoors, far away from digital distractions. Most days, this can be as simple as taking a walk around the local park or going for a bike ride.&lt;/p&gt;
 &lt;p&gt;Last month, I took a solo camping trip to &lt;a href=&#34;https://allyouneedinstitute.com/&#34;&gt;All You Need Institute&lt;/a&gt; with the goal of exploring the concept of &amp;ldquo;forest bathing&amp;rdquo; and getting some peace and quiet.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.nationalgeographic.com/travel/article/forest-bathing-nature-walk-health&#34;&gt;Forest bathing&lt;/a&gt;, a Japanese concept I recently came across (though it&amp;rsquo;s been around since the eighties), is the practice of immersing oneself in nature in order to promote physical and mental well-being. They call it &lt;em&gt;shinrin-yoku&lt;/em&gt;. It&amp;rsquo;s meant to be a mindful activity where you purposely slow down and pay attention to the sights, sounds, smells, and feelings of the natural world. The health benefits of this practice are myriad.&lt;/p&gt;
