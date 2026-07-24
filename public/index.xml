@@ -16,10 +16,11 @@
       <pubDate>Fri, 24 Jul 2026 09:00:00 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">tag:sknight.xyz,2026-07-24:/new-address/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Quick housekeeping note&lt;/em&gt;: this site has moved from &lt;code&gt;scottk.mba&lt;/code&gt; to &lt;code&gt;sknight.xyz&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;The &lt;code&gt;.mba&lt;/code&gt; domain always carried, at least for me, a bit of an implication that this was some kind of professional or business showcase, which was never really the intent. This has always been meant as a catch-all personal site—whatever I&amp;rsquo;m reading, building, or thinking about, not just career stuff. &lt;code&gt;sknight.xyz&lt;/code&gt; is a more neutral home for that. It&amp;rsquo;s also cheaper to keep renewed, which is an added bonus.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;ve got the old domain bookmarked or you&amp;rsquo;re subscribed via RSS (I&amp;rsquo;m flattered), you don&amp;rsquo;t need to do anything. &lt;code&gt;scottk.mba&lt;/code&gt; now redirects to &lt;code&gt;sknight.xyz&lt;/code&gt; automatically, and it preserves the full path—so an old link like &lt;code&gt;scottk.mba/back-to-basics/&lt;/code&gt; will still take you to the right post, not just dumped on the homepage.&lt;/p&gt;
-&lt;p&gt;For anyone technical who cares about the details:&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Quick housekeeping note&lt;/em&gt;:&lt;/strong&gt; &lt;br&gt;
+&lt;strong&gt;[tl;dr] This site has moved from &lt;code&gt;scottk.mba&lt;/code&gt; to &lt;code&gt;sknight.xyz&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;.mba&lt;/code&gt; domain carried, at least for me, a subtle implication that this was some kind of professional or business showcase, which was never really the intent. This has always been meant as a catch-all personal site—whatever I&amp;rsquo;m reading, building, or thinking about, not just career stuff. &lt;code&gt;sknight.xyz&lt;/code&gt; is simply a more neutral home for that. As an added bonus, it&amp;rsquo;s also cheaper to keep renewed.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve got the old domain bookmarked or you&amp;rsquo;re subscribed via &lt;a href=&#34;https://sknight.xyz/blog/index.xml&#34;&gt;RSS&lt;/a&gt; (I&amp;rsquo;m flattered), you don&amp;rsquo;t need to do anything for now. &lt;code&gt;scottk.mba&lt;/code&gt; now redirects to &lt;code&gt;sknight.xyz&lt;/code&gt; automatically and preserves the full path, so an old link like &lt;code&gt;scottk.mba/dont-wait-to-be-free&lt;/code&gt; will still take you to the right post instead of confoundingly dumping you on the homepage.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;For anyone technical who cares about the details:&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I had to be careful with the RSS feed here. Feed readers track what they&amp;rsquo;ve already shown you by each post&amp;rsquo;s &lt;code&gt;guid&lt;/code&gt;, which is usually just the post&amp;rsquo;s URL. If I&amp;rsquo;d let that regenerate naively under the new domain, every post I&amp;rsquo;ve ever published would&amp;rsquo;ve gotten a new guid overnight and probably surfaced as &amp;ldquo;unread&amp;rdquo; all at once for anyone subscribed. To avoid that, every post published before today keeps its original &lt;code&gt;scottk.mba&lt;/code&gt; guid, frozen in place and marked as a non-permalink identifier rather than a real link. Anything I publish from here on gets a domain-independent guid instead, so this isn&amp;rsquo;t a problem again if I ever move domains in the future.&lt;/p&gt;
 &lt;p&gt;Everything else is unchanged, same me, just a new address. Update your bookmarks whenever you get around to it, and thanks for reading.&lt;/p&gt;
 </description>
@@ -1135,7 +1136,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;h2 id=&#34;work&#34;&gt;Work&lt;/h2&gt;
 &lt;p&gt;I work at &lt;a href=&#34;https://sev1tech.com&#34;&gt;Sev1Tech&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I also consult on technical projects and build intelligent, data-driven systems that solve complex business problems.&lt;/p&gt;
-&lt;p&gt;I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. (hence the domain) in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.&lt;/p&gt;
+&lt;p&gt;I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.&lt;/p&gt;
 &lt;h2 id=&#34;blog&#34;&gt;Blog&lt;/h2&gt;
 &lt;p&gt;In the &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;blog&lt;/a&gt; you&amp;rsquo;ll find an ever-growing collection of my thoughts, things I&amp;rsquo;ve learned, and interesting nuggets I find.&lt;/p&gt;
 &lt;p&gt;Here are several of my most recent posts:&lt;/p&gt;
