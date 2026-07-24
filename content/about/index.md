@@ -22,7 +22,7 @@ I work at [Sev1Tech](https://sev1tech.com).
 
 I also consult on technical projects and build intelligent, data-driven systems that solve complex business problems.
 
-I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. (hence the domain) in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.
+I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.
 
 ## Blog
 
