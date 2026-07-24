@@ -2,17 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Knight's Blog</title>
-    <link>https://sknight.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content from Scott Knight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>"en-us"</language>
     <managingEditor>Scott Knight</managingEditor>
     <webMaster>Scott Knight</webMaster>
     <copyright>Scott Knight. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 11 Jun 2023 10:30:59 -0500</lastBuildDate><atom:link href="https://sknight.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jun 2023 10:30:59 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Address, Same Site</title>
+      <link>http://localhost:1313/new-address/</link>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid isPermaLink="false">tag:sknight.xyz,2026-07-24:/new-address/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Quick housekeeping note&lt;/em&gt;: this site has moved from &lt;code&gt;scottk.mba&lt;/code&gt; to &lt;code&gt;sknight.xyz&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;.mba&lt;/code&gt; domain always carried, at least for me, a bit of an implication that this was some kind of professional or business showcase, which was never really the intent. This has always been meant as a catch-all personal site—whatever I&amp;rsquo;m reading, building, or thinking about, not just career stuff. &lt;code&gt;sknight.xyz&lt;/code&gt; is a more neutral home for that. It&amp;rsquo;s also cheaper to keep renewed, which is an added bonus.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve got the old domain bookmarked or you&amp;rsquo;re subscribed via RSS (I&amp;rsquo;m flattered), you don&amp;rsquo;t need to do anything. &lt;code&gt;scottk.mba&lt;/code&gt; now redirects to &lt;code&gt;sknight.xyz&lt;/code&gt; automatically, and it preserves the full path—so an old link like &lt;code&gt;scottk.mba/back-to-basics/&lt;/code&gt; will still take you to the right post, not just dumped on the homepage.&lt;/p&gt;
+&lt;p&gt;For anyone technical who cares about the details:&lt;/p&gt;
+&lt;p&gt;I had to be careful with the RSS feed here. Feed readers track what they&amp;rsquo;ve already shown you by each post&amp;rsquo;s &lt;code&gt;guid&lt;/code&gt;, which is usually just the post&amp;rsquo;s URL. If I&amp;rsquo;d let that regenerate naively under the new domain, every post I&amp;rsquo;ve ever published would&amp;rsquo;ve gotten a new guid overnight and probably surfaced as &amp;ldquo;unread&amp;rdquo; all at once for anyone subscribed. To avoid that, every post published before today keeps its original &lt;code&gt;scottk.mba&lt;/code&gt; guid, frozen in place and marked as a non-permalink identifier rather than a real link. Anything I publish from here on gets a domain-independent guid instead, so this isn&amp;rsquo;t a problem again if I ever move domains in the future.&lt;/p&gt;
+&lt;p&gt;Everything else is unchanged, same me, just a new address. Update your bookmarks whenever you get around to it, and thanks for reading.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Back to Basics</title>
-      <link>https://sknight.xyz/back-to-basics/</link>
+      <link>http://localhost:1313/back-to-basics/</link>
       <pubDate>Fri, 23 Jan 2026 08:03:42 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/back-to-basics/</guid>
@@ -36,7 +51,7 @@
     
     <item>
       <title>KnightLab has been retired.</title>
-      <link>https://sknight.xyz/knightlab/</link>
+      <link>http://localhost:1313/knightlab/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/knightlab/</guid>
@@ -49,7 +64,7 @@
     
     <item>
       <title>Let&#39;s Stay Connected</title>
-      <link>https://sknight.xyz/hey/</link>
+      <link>http://localhost:1313/hey/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/hey/</guid>
@@ -69,7 +84,7 @@
     
     <item>
       <title>Don&#39;t Wait to Be Free</title>
-      <link>https://sknight.xyz/dont-wait-to-be-free/</link>
+      <link>http://localhost:1313/dont-wait-to-be-free/</link>
       <pubDate>Tue, 03 Jun 2025 07:23:43 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/dont-wait-to-be-free/</guid>
@@ -88,7 +103,7 @@
     
     <item>
       <title>How to Keep Your Mac Awake Using Terminal</title>
-      <link>https://sknight.xyz/how-to-keep-your-mac-awake-using-terminal/</link>
+      <link>http://localhost:1313/how-to-keep-your-mac-awake-using-terminal/</link>
       <pubDate>Thu, 01 May 2025 18:54:22 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/how-to-keep-your-mac-awake-using-terminal/</guid>
@@ -113,7 +128,7 @@
     
     <item>
       <title>How to Improve Your Site&#39;s Typography</title>
-      <link>https://sknight.xyz/how-to-improve-your-sites-typography/</link>
+      <link>http://localhost:1313/how-to-improve-your-sites-typography/</link>
       <pubDate>Fri, 07 Feb 2025 14:54:31 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/how-to-improve-your-sites-typography/</guid>
@@ -176,11 +191,11 @@
     
     <item>
       <title>Wrapping Up 2024</title>
-      <link>https://sknight.xyz/wrapping-up-2024/</link>
+      <link>http://localhost:1313/wrapping-up-2024/</link>
       <pubDate>Sat, 28 Dec 2024 08:10:39 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/wrapping-up-2024/</guid>
-      <description>&lt;p&gt;As we enter the final days of 2024, I&amp;rsquo;m reflecting on my goal &lt;a href=&#34;https://sknight.xyz/24-in-24&#34;&gt;post&lt;/a&gt; from January. Though I managed to accomplish most items I had assigned myself for 2024, I&amp;rsquo;ve also concluded that setting a specific task list for the year is not always an ideal technique when accounting for a.) the length of an entire year, and b.) the uncertainty within that timespan which demands much more flexibility.&lt;/p&gt;
+      <description>&lt;p&gt;As we enter the final days of 2024, I&amp;rsquo;m reflecting on my goal &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;post&lt;/a&gt; from January. Though I managed to accomplish most items I had assigned myself for 2024, I&amp;rsquo;ve also concluded that setting a specific task list for the year is not always an ideal technique when accounting for a.) the length of an entire year, and b.) the uncertainty within that timespan which demands much more flexibility.&lt;/p&gt;
 &lt;p&gt;A better practice would be to set a theme for the year&amp;mdash;something to act as a guidepost, yet one that remains flexible enough to allow interpretation in &lt;em&gt;how&lt;/em&gt; the specifics are planned and executed. For example, if the theme for the year is &amp;ldquo;Development&amp;rdquo; one&amp;rsquo;s actions would be driven by that concept&amp;mdash;reading more, enrolling in courses of interest, joining a community centered around a subject of interest to grow more in that domain, etc. This both accounts for flexibility in planning and does not restrict the scope of action (e.g. small daily actions vs. a large, months-long project).&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m sure I&amp;rsquo;ll publish something here in January with more on next year&amp;rsquo;s theme; for this brief retrospective, I claim 2024 as a good, productive year and look forward to even better things in 2025.&lt;/p&gt;
 </description>
@@ -188,7 +203,7 @@
     
     <item>
       <title>Markham&#39;s Brotherhood</title>
-      <link>https://sknight.xyz/markhams-brotherhood/</link>
+      <link>http://localhost:1313/markhams-brotherhood/</link>
       <pubDate>Sun, 15 Dec 2024 18:20:29 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/markhams-brotherhood/</guid>
@@ -206,11 +221,11 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Goals vs. Objectives</title>
-      <link>https://sknight.xyz/goals-vs-objectives/</link>
+      <link>http://localhost:1313/goals-vs-objectives/</link>
       <pubDate>Sat, 10 Aug 2024 08:46:59 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/goals-vs-objectives/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a year and some change since I began publishing on this site and I&amp;rsquo;ve recently been reflecting on the initial challenges I&amp;rsquo;d set for myself. One of these was to &lt;a href=&#34;https://sknight.xyz/100-days-to-offload/&#34;&gt;publish 100 posts in a year&lt;/a&gt;, which was a sincere objective at the time. It&amp;rsquo;s also one which I haven&amp;rsquo;t met. Does that constitute a failure?&lt;/p&gt;
+      <description>&lt;p&gt;It&amp;rsquo;s been a year and some change since I began publishing on this site and I&amp;rsquo;ve recently been reflecting on the initial challenges I&amp;rsquo;d set for myself. One of these was to &lt;a href=&#34;http://localhost:1313/100-days-to-offload/&#34;&gt;publish 100 posts in a year&lt;/a&gt;, which was a sincere objective at the time. It&amp;rsquo;s also one which I haven&amp;rsquo;t met. Does that constitute a failure?&lt;/p&gt;
 &lt;p&gt;This brings up an important point: &lt;em&gt;there is a notable difference between goals and objectives&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Goals&lt;/strong&gt;&lt;/em&gt; are long-term purposes one strives to achieve. A goal is the &amp;ldquo;end result&amp;rdquo;, and goals should be considered in long-term time frames. Goals are strategic and abstract.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/em&gt; are achievements along a path to achieving an overarching goal. They are the &amp;ldquo;means to an end&amp;rdquo; (the &amp;rsquo;end&amp;rsquo; being the goal), and should be considered in short-to-medium time frames. Objectives are tactical and concrete.&lt;/p&gt;
@@ -224,7 +239,7 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>A Postcard from the Capitol</title>
-      <link>https://sknight.xyz/a-postcard-from-the-capitol/</link>
+      <link>http://localhost:1313/a-postcard-from-the-capitol/</link>
       <pubDate>Wed, 31 Jul 2024 15:52:21 -0400</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/a-postcard-from-the-capitol/</guid>
@@ -246,8 +261,8 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/a-postcard-from-the-capitol/capital-view.jpeg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/a-postcard-from-the-capitol/capital-view_hu_55b803a637097c7c.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view.jpeg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view_hu_55b803a637097c7c.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -260,11 +275,11 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Homelab Update</title>
-      <link>https://sknight.xyz/homelab-update/</link>
+      <link>http://localhost:1313/homelab-update/</link>
       <pubDate>Sat, 27 Apr 2024 09:00:28 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/homelab-update/</guid>
-      <description>&lt;p&gt;Some time last year I wrote about using a cheap &lt;a href=&#34;https://www.stacksocial.com/sales/lenovo-thinkcentre-m900-tiny-core-i5-6500t-16gb-256gb-ssd-wi-fi-windows-10-pro-refurbished&#34;&gt;Lenovo Thinkcentre&lt;/a&gt; I bought as a lab machine to run my &lt;a href=&#34;https://www.reddit.com/r/homelab/wiki/introduction/&#34;&gt;homelab&lt;/a&gt; server. Initially I used it to &lt;a href=&#34;https://sknight.xyz/linux-poll/&#34;&gt;try out a new (to me) Linux distro&lt;/a&gt;, which I installed straight onto the machine. I enjoyed test driving it, but it never replaced my primary system.&lt;/p&gt;
+      <description>&lt;p&gt;Some time last year I wrote about using a cheap &lt;a href=&#34;https://www.stacksocial.com/sales/lenovo-thinkcentre-m900-tiny-core-i5-6500t-16gb-256gb-ssd-wi-fi-windows-10-pro-refurbished&#34;&gt;Lenovo Thinkcentre&lt;/a&gt; I bought as a lab machine to run my &lt;a href=&#34;https://www.reddit.com/r/homelab/wiki/introduction/&#34;&gt;homelab&lt;/a&gt; server. Initially I used it to &lt;a href=&#34;http://localhost:1313/linux-poll/&#34;&gt;try out a new (to me) Linux distro&lt;/a&gt;, which I installed straight onto the machine. I enjoyed test driving it, but it never replaced my primary system.&lt;/p&gt;
 &lt;p&gt;So, this week I decided to repurpose the ThinkCentre as a general lab server to locally host open-source applications and dust off some of my brain&amp;rsquo;s cobwebs around server configs and networking.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/olUD_F37n0E?si=zmN2r9tcmL9jTKta&#34;&gt;This YouTube video from TechHut&lt;/a&gt; provides a really easy way to get set up if you&amp;rsquo;re interested in doing something similar.&lt;/p&gt;
 &lt;p&gt;For now I&amp;rsquo;m running &lt;a href=&#34;https://ubuntu.com/download/server&#34;&gt;Ubuntu Server LTS&lt;/a&gt; with &lt;a href=&#34;https://www.docker.com&#34;&gt;Docker&lt;/a&gt; and &lt;a href=&#34;https://www.portainer.io/&#34;&gt;Portainer&lt;/a&gt; for container management.&lt;/p&gt;
@@ -285,8 +300,8 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/homelab-update/cosmos.png&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/homelab-update/cosmos_hu_4169aa2420986588.png&#34; width=&#34;600&#34; height=&#34;314&#34; alt=&#34;A tiny view of the Cosmos dashboard. The default color scheme reminds me of Mardi Gras.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/homelab-update/cosmos.png&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/homelab-update/cosmos_hu_4169aa2420986588.png&#34; width=&#34;600&#34; height=&#34;314&#34; alt=&#34;A tiny view of the Cosmos dashboard. The default color scheme reminds me of Mardi Gras.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -300,7 +315,7 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>6-to-1 Grocery Method</title>
-      <link>https://sknight.xyz/6-to-1-grocery-method/</link>
+      <link>http://localhost:1313/6-to-1-grocery-method/</link>
       <pubDate>Fri, 19 Apr 2024 12:43:55 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/6-to-1-grocery-method/</guid>
@@ -322,7 +337,7 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Keeping Analog Alive</title>
-      <link>https://sknight.xyz/keeping-analog-alive/</link>
+      <link>http://localhost:1313/keeping-analog-alive/</link>
       <pubDate>Wed, 17 Apr 2024 15:28:21 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/keeping-analog-alive/</guid>
@@ -337,7 +352,7 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Unsubscribing from New Homeowner Scams</title>
-      <link>https://sknight.xyz/new-homeowner-scams/</link>
+      <link>http://localhost:1313/new-homeowner-scams/</link>
       <pubDate>Sun, 25 Feb 2024 10:13:24 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/new-homeowner-scams/</guid>
@@ -357,11 +372,11 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>First One Down</title>
-      <link>https://sknight.xyz/first-one-down/</link>
+      <link>http://localhost:1313/first-one-down/</link>
       <pubDate>Sat, 17 Feb 2024 12:08:11 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/first-one-down/</guid>
-      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;https://sknight.xyz/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
+      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m particularly proud of this accomplishment. I&amp;rsquo;ve worked tirelessly toward this and have cultivated a wealth of financial discipline to make this happen. It has definitely been a learning process, but I enjoyed the challenge and look forward to taking the next step in my investing career soon.&lt;/p&gt;
 &lt;p&gt;Now to press on with the rest of the list!&lt;/p&gt;
 </description>
@@ -369,7 +384,7 @@ Markham&#39;s translation strikes a nice balance between accessibility and fidel
     
     <item>
       <title>Ozymandias</title>
-      <link>https://sknight.xyz/ozymandias/</link>
+      <link>http://localhost:1313/ozymandias/</link>
       <pubDate>Fri, 05 Jan 2024 13:29:46 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/ozymandias/</guid>
@@ -402,7 +417,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>24 in &#39;24</title>
-      <link>https://sknight.xyz/24-in-24/</link>
+      <link>http://localhost:1313/24-in-24/</link>
       <pubDate>Wed, 03 Jan 2024 09:17:41 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/24-in-24/</guid>
@@ -418,7 +433,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;&lt;strong&gt;Buy a House&lt;/strong&gt;&lt;/del&gt;: Since I&amp;rsquo;ve improved my financial position, I&amp;rsquo;m now looking to buy my first home. I want to close and move in by the end of spring.&lt;br&gt;
-&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;https://sknight.xyz/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;http://localhost:1313/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;Visit Three New Places&lt;/del&gt;: Satiate my travel bug by exploring three new destinations.&lt;/p&gt;
@@ -431,7 +446,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;Complete a New Hardware Project&lt;/del&gt;: Hone my tech skills and learn a new technology. I&amp;rsquo;m particularly interested in the Raspberry Pi Pico W and Circuit Python.&lt;br&gt;
-&lt;em&gt;I&amp;rsquo;m going to count my &lt;a href=&#34;https://sknight.xyz/homelab-update/&#34;&gt;Homelab setup&lt;/a&gt; for this one, since it consisted of learning new tech I haven&amp;rsquo;t worked with before.&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;I&amp;rsquo;m going to count my &lt;a href=&#34;http://localhost:1313/homelab-update/&#34;&gt;Homelab setup&lt;/a&gt; for this one, since it consisted of learning new tech I haven&amp;rsquo;t worked with before.&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Complete a DIY Home Improvement Project&lt;/strong&gt;: Channel my inner handyman and take on a DIY home improvement project in my soon-to-be first house.&lt;/p&gt;
@@ -493,7 +508,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Happy Holidays</title>
-      <link>https://sknight.xyz/happy-holidays/</link>
+      <link>http://localhost:1313/happy-holidays/</link>
       <pubDate>Wed, 27 Dec 2023 12:51:46 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/happy-holidays/</guid>
@@ -505,7 +520,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Once</title>
-      <link>https://sknight.xyz/once/</link>
+      <link>http://localhost:1313/once/</link>
       <pubDate>Fri, 01 Dec 2023 15:19:52 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/once/</guid>
@@ -528,11 +543,11 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Create Custom Terminal Commands in MacOS</title>
-      <link>https://sknight.xyz/how-to-create-custom-terminal-commands-in-macos/</link>
+      <link>http://localhost:1313/how-to-create-custom-terminal-commands-in-macos/</link>
       <pubDate>Mon, 06 Nov 2023 16:30:27 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/how-to-create-custom-terminal-commands-in-macos/</guid>
-      <description>&lt;p&gt;I recently wrote here about some of my favorite &lt;a href=&#34;https://sknight.xyz/personal-automations/&#34;&gt;personal automations&lt;/a&gt;. When updating my a finance automation script recently, I decided I wanted a way to quickly run the automation anywhere. I typically have a terminal open, so I thought a custom terminal command would be the best way to fire off my scripts when I need them.&lt;/p&gt;
+      <description>&lt;p&gt;I recently wrote here about some of my favorite &lt;a href=&#34;http://localhost:1313/personal-automations/&#34;&gt;personal automations&lt;/a&gt;. When updating my a finance automation script recently, I decided I wanted a way to quickly run the automation anywhere. I typically have a terminal open, so I thought a custom terminal command would be the best way to fire off my scripts when I need them.&lt;/p&gt;
 &lt;p&gt;Unfortunately, the resources are slim out there regarding how to configure custom terminal commands in MacOS. Using an article I dug up (linked below), I was able to figure it out.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s how I was able to get it set it up in a few steps:&lt;/p&gt;
 &lt;h2 id=&#34;1-create-a-file-to-store-your-custom-commands&#34;&gt;1. Create a file to store your custom commands&lt;/h2&gt;
@@ -577,7 +592,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Automate Anything</title>
-      <link>https://sknight.xyz/how-to-automate-anything/</link>
+      <link>http://localhost:1313/how-to-automate-anything/</link>
       <pubDate>Mon, 30 Oct 2023 17:57:51 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/how-to-automate-anything/</guid>
@@ -619,7 +634,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Personal Automations</title>
-      <link>https://sknight.xyz/personal-automations/</link>
+      <link>http://localhost:1313/personal-automations/</link>
       <pubDate>Wed, 25 Oct 2023 07:36:43 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/personal-automations/</guid>
@@ -653,7 +668,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Burning CDs in 2023</title>
-      <link>https://sknight.xyz/burning-cds-in-2023/</link>
+      <link>http://localhost:1313/burning-cds-in-2023/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/burning-cds-in-2023/</guid>
@@ -670,7 +685,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>You Should Have a Website</title>
-      <link>https://sknight.xyz/you-should-have-a-website/</link>
+      <link>http://localhost:1313/you-should-have-a-website/</link>
       <pubDate>Mon, 16 Oct 2023 14:41:57 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/you-should-have-a-website/</guid>
@@ -705,7 +720,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Automate Your Data Governance</title>
-      <link>https://sknight.xyz/automate-your-data-governance/</link>
+      <link>http://localhost:1313/automate-your-data-governance/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/automate-your-data-governance/</guid>
@@ -751,7 +766,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Leveraging the Power of No-Code</title>
-      <link>https://sknight.xyz/leveraging-the-power-of-no-code/</link>
+      <link>http://localhost:1313/leveraging-the-power-of-no-code/</link>
       <pubDate>Thu, 05 Oct 2023 15:45:02 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/leveraging-the-power-of-no-code/</guid>
@@ -764,7 +779,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>FIRE Flow Chart</title>
-      <link>https://sknight.xyz/fire-flow-chart/</link>
+      <link>http://localhost:1313/fire-flow-chart/</link>
       <pubDate>Mon, 02 Oct 2023 18:17:05 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/fire-flow-chart/</guid>
@@ -780,7 +795,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Join a Board of Directors</title>
-      <link>https://sknight.xyz/how-to-join-a-board-of-directors/</link>
+      <link>http://localhost:1313/how-to-join-a-board-of-directors/</link>
       <pubDate>Thu, 28 Sep 2023 15:13:07 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/how-to-join-a-board-of-directors/</guid>
@@ -824,7 +839,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Tennessee 2023</title>
-      <link>https://sknight.xyz/tennessee-2023/</link>
+      <link>http://localhost:1313/tennessee-2023/</link>
       <pubDate>Mon, 25 Sep 2023 11:05:00 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tennessee-2023/</guid>
@@ -850,8 +865,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/porch.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/porch_hu_66832d53505481b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/porch.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/porch_hu_66832d53505481b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -875,8 +890,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/autos.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/autos_hu_25b27acbeffd289c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/autos.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/autos_hu_25b27acbeffd289c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -902,8 +917,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_waterfall.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_waterfall_hu_498caeacd989aa4c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_waterfall.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_waterfall_hu_498caeacd989aa4c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -927,8 +942,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_overlook.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_overlook_hu_539a1010ee5c0b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_overlook.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_overlook_hu_539a1010ee5c0b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -952,8 +967,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_lizard.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_lizard_hu_907928792e114ca4.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_lizard.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_lizard_hu_907928792e114ca4.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -979,8 +994,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/jd_truck.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/jd_truck_hu_84bd2b85e0714db7.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_truck.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_truck_hu_84bd2b85e0714db7.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -1004,8 +1019,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/jd_firetrucks_hu_bca3f50cf1c8225e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks_hu_bca3f50cf1c8225e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -1032,8 +1047,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/aa_shop.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/aa_shop_hu_ced108f4e011655b.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/aa_shop.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/aa_shop_hu_ced108f4e011655b.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -1057,8 +1072,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/motor_works.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/motor_works_hu_2942361a08d68ccf.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/motor_works.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/motor_works_hu_2942361a08d68ccf.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -1089,7 +1104,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>About</title>
-      <link>https://sknight.xyz/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/about/</guid>
@@ -1109,8 +1124,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/about/knight.png&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/about/knight_hu_dc0e2893cd5572d5.png&#34; width=&#34;300&#34; height=&#34;312&#34; alt=&#34;About&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/about/knight.png&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/about/knight_hu_dc0e2893cd5572d5.png&#34; width=&#34;300&#34; height=&#34;312&#34; alt=&#34;About&#34;&gt;
   &lt;/a&gt;
   
 &lt;/figure&gt;
@@ -1122,28 +1137,28 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;I also consult on technical projects and build intelligent, data-driven systems that solve complex business problems.&lt;/p&gt;
 &lt;p&gt;I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. (hence the domain) in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.&lt;/p&gt;
 &lt;h2 id=&#34;blog&#34;&gt;Blog&lt;/h2&gt;
-&lt;p&gt;In the &lt;a href=&#34;https://sknight.xyz/blog/&#34;&gt;blog&lt;/a&gt; you&amp;rsquo;ll find an ever-growing collection of my thoughts, things I&amp;rsquo;ve learned, and interesting nuggets I find.&lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;blog&lt;/a&gt; you&amp;rsquo;ll find an ever-growing collection of my thoughts, things I&amp;rsquo;ve learned, and interesting nuggets I find.&lt;/p&gt;
 &lt;p&gt;Here are several of my most recent posts:&lt;/p&gt;
 
-  &lt;a href=&#34;https://sknight.xyz/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
+  &lt;a href=&#34;http://localhost:1313/new-address/&#34;&gt;New Address, Same Site&lt;/a&gt;&lt;br&gt;
 
-  &lt;a href=&#34;https://sknight.xyz/dont-wait-to-be-free/&#34;&gt;Don&amp;#39;t Wait to Be Free&lt;/a&gt;&lt;br&gt;
+  &lt;a href=&#34;http://localhost:1313/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
 
-  &lt;a href=&#34;https://sknight.xyz/how-to-keep-your-mac-awake-using-terminal/&#34;&gt;How to Keep Your Mac Awake Using Terminal&lt;/a&gt;&lt;br&gt;
+  &lt;a href=&#34;http://localhost:1313/dont-wait-to-be-free/&#34;&gt;Don&amp;#39;t Wait to Be Free&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
-&lt;p&gt;If you &lt;a href=&#34;https://aboutfeeds.com/&#34;&gt;use an RSS reader&lt;/a&gt;, here&amp;rsquo;s the &lt;a href=&#34;https://sknight.xyz/blog/index.xml&#34;&gt;blog&amp;rsquo;s RSS feed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you &lt;a href=&#34;https://aboutfeeds.com/&#34;&gt;use an RSS reader&lt;/a&gt;, here&amp;rsquo;s the &lt;a href=&#34;http://localhost:1313/blog/index.xml&#34;&gt;blog&amp;rsquo;s RSS feed&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Feel free to have a look around. I hope you find something interesting.&lt;/p&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
 &lt;p&gt;If you&amp;rsquo;d like to get in touch, you can email me at &lt;a href=&#34;mailto:www@knight.mba&#34;&gt;www@knight.mba&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;p&gt;A listing of this site&amp;rsquo;s pages and some other odds and ends can be found &lt;a href=&#34;https://sknight.xyz/links/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A listing of this site&amp;rsquo;s pages and some other odds and ends can be found &lt;a href=&#34;http://localhost:1313/links/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Matter of Structural Preference</title>
-      <link>https://sknight.xyz/a-matter-of-structural-preference/</link>
+      <link>http://localhost:1313/a-matter-of-structural-preference/</link>
       <pubDate>Mon, 18 Sep 2023 16:48:47 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/a-matter-of-structural-preference/</guid>
@@ -1160,7 +1175,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;Put out content that might be useful or interesting to other folks (check, hopefully)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;My original design here has featured what would normally function as an &amp;ldquo;About&amp;rdquo; page as my actual &lt;a href=&#34;https://sknight.xyz/&#34;&gt;Home&lt;/a&gt; page. Though, my thinking lately is that it may benefit readers to make my posts more easily accessible, since this is a main function of the site.&lt;/p&gt;
+&lt;p&gt;My original design here has featured what would normally function as an &amp;ldquo;About&amp;rdquo; page as my actual &lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt; page. Though, my thinking lately is that it may benefit readers to make my posts more easily accessible, since this is a main function of the site.&lt;/p&gt;
 &lt;p&gt;This change would require moving my Home page to an About page, which wouldn&amp;rsquo;t be a huge effort but it would be one of the larger structural changes I made since publishing the initial version of this site.&lt;/p&gt;
 &lt;p&gt;Ultimately, while I think it makes sense to present first-time visitors with a blurb about myself, from a UX perspective this does force returning readers to click through at least two pages to access my newest post.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m thinking that moving my Home page content to an About page and featuring my post content up front would have the most net benefit. Readers would have an easier time getting to my posts and my bio content would still be there for those interested in it.&lt;/p&gt;
@@ -1170,7 +1185,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Real Estate by the Numbers</title>
-      <link>https://sknight.xyz/real-estate-by-the-numbers/</link>
+      <link>http://localhost:1313/real-estate-by-the-numbers/</link>
       <pubDate>Thu, 14 Sep 2023 15:20:12 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/real-estate-by-the-numbers/</guid>
@@ -1234,13 +1249,13 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Design Archival Project</title>
-      <link>https://sknight.xyz/design-archival-project/</link>
+      <link>http://localhost:1313/design-archival-project/</link>
       <pubDate>Mon, 11 Sep 2023 14:08:42 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/design-archival-project/</guid>
       <description>&lt;p&gt;I thought it&amp;rsquo;d be a fun exercise to create a space for tracking changes to this site&amp;rsquo;s design, as I&amp;rsquo;m always tinkering with the theme and improving various things. I wanted to do this in a visual way so I can look back and get a sense of how things evolve over time.&lt;/p&gt;
 &lt;p&gt;To avoid loading a ton of screenshots onto the site, I&amp;rsquo;m using Internet Archive&amp;rsquo;s Wayback Machine to snapshot the site when I make big changes and linking to those instead. This effectively provides an archive that can be interacted with, rather than just browsing photos.&lt;/p&gt;
-&lt;p&gt;The new archive page lives here: &lt;a href=&#34;https://sknight.xyz/design-archive/&#34;&gt;Design Archive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The new archive page lives here: &lt;a href=&#34;http://localhost:1313/design-archive/&#34;&gt;Design Archive&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;As of now I do want to keep things content-focused and &lt;a href=&#34;https://512kb.club/&#34;&gt;avoid a bunch of bells and whistles&lt;/a&gt;, so I don&amp;rsquo;t anticipate any big changes to the structure of the site. This is also how I keep things somewhat consistent as I still want returning visitors to be able to recognize my site to some degree.&lt;/p&gt;
 &lt;p&gt;Just wanted to drop a quick note here in case others are interested in this sort of thing.&lt;/p&gt;
 </description>
@@ -1248,7 +1263,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>On Wealth</title>
-      <link>https://sknight.xyz/on-wealth/</link>
+      <link>http://localhost:1313/on-wealth/</link>
       <pubDate>Fri, 08 Sep 2023 15:05:55 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/on-wealth/</guid>
@@ -1276,13 +1291,13 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Subscribe via Email</title>
-      <link>https://sknight.xyz/email-subscriptions/</link>
+      <link>http://localhost:1313/email-subscriptions/</link>
       <pubDate>Thu, 07 Sep 2023 14:57:55 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/email-subscriptions/</guid>
       <description>&lt;p&gt;An element of any good website/personal blog is that it allows readers to consume content in a variety of formats. That being said, I&amp;rsquo;ve spent some time debating on whether to add a way to subscribe via email, because I want to do it in a way that won&amp;rsquo;t become a pain to maintain. I also don&amp;rsquo;t want to maintain a separate newsletter that would require a manual copy/paste process.&lt;/p&gt;
 &lt;p&gt;I looked around at some other folks&amp;rsquo; blogs to see how they handled their email distros, and I think I&amp;rsquo;ve found a solution I like.&lt;/p&gt;
-&lt;p&gt;Using &lt;a href=&#34;https://buttondown.email/refer/scottk&#34;&gt;Buttondown&lt;/a&gt;, I&amp;rsquo;m able to have their system consume my existing &lt;a href=&#34;https://sknight.xyz/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt; to populate an email template that will go out to the mailing list. This is great because it&amp;rsquo;s all completely automated. So if you decide to subscribe, the only emails you&amp;rsquo;ll receive from me are copies of my future posts.&lt;/p&gt;
+&lt;p&gt;Using &lt;a href=&#34;https://buttondown.email/refer/scottk&#34;&gt;Buttondown&lt;/a&gt;, I&amp;rsquo;m able to have their system consume my existing &lt;a href=&#34;http://localhost:1313/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt; to populate an email template that will go out to the mailing list. This is great because it&amp;rsquo;s all completely automated. So if you decide to subscribe, the only emails you&amp;rsquo;ll receive from me are copies of my future posts.&lt;/p&gt;
 &lt;p&gt;A few notes on this:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1305,7 +1320,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>The Right to Repair: Fighting Planned Obsolescence</title>
-      <link>https://sknight.xyz/right-to-repair/</link>
+      <link>http://localhost:1313/right-to-repair/</link>
       <pubDate>Wed, 06 Sep 2023 15:41:08 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/right-to-repair/</guid>
@@ -1364,7 +1379,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Fresh Face for Fall</title>
-      <link>https://sknight.xyz/fall-theme/</link>
+      <link>http://localhost:1313/fall-theme/</link>
       <pubDate>Tue, 29 Aug 2023 13:43:42 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/fall-theme/</guid>
@@ -1382,7 +1397,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Piece of AI History</title>
-      <link>https://sknight.xyz/ai-history/</link>
+      <link>http://localhost:1313/ai-history/</link>
       <pubDate>Sun, 20 Aug 2023 08:04:39 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/ai-history/</guid>
@@ -1399,7 +1414,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>The Ethics of Artificial Intelligence</title>
-      <link>https://sknight.xyz/ai-ethics/</link>
+      <link>http://localhost:1313/ai-ethics/</link>
       <pubDate>Wed, 16 Aug 2023 11:32:47 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/ai-ethics/</guid>
@@ -1435,7 +1450,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Crabs in a Bucket</title>
-      <link>https://sknight.xyz/crabs/</link>
+      <link>http://localhost:1313/crabs/</link>
       <pubDate>Sun, 30 Jul 2023 13:48:11 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/crabs/</guid>
@@ -1448,7 +1463,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Week with Linux Mint</title>
-      <link>https://sknight.xyz/linux-mint-first-impressions/</link>
+      <link>http://localhost:1313/linux-mint-first-impressions/</link>
       <pubDate>Fri, 14 Jul 2023 15:31:48 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/linux-mint-first-impressions/</guid>
@@ -1501,7 +1516,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Using Data to Choose a Linux Distro</title>
-      <link>https://sknight.xyz/linux-poll/</link>
+      <link>http://localhost:1313/linux-poll/</link>
       <pubDate>Fri, 07 Jul 2023 16:51:29 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/linux-poll/</guid>
@@ -1528,7 +1543,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Why I Wont Be Joining Threads</title>
-      <link>https://sknight.xyz/why-i-wont-be-joining-threads/</link>
+      <link>http://localhost:1313/why-i-wont-be-joining-threads/</link>
       <pubDate>Thu, 06 Jul 2023 17:36:44 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/why-i-wont-be-joining-threads/</guid>
@@ -1545,7 +1560,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>18 Month reMarkable 2 Review</title>
-      <link>https://sknight.xyz/remarkable-2/</link>
+      <link>http://localhost:1313/remarkable-2/</link>
       <pubDate>Sun, 02 Jul 2023 13:59:37 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/remarkable-2/</guid>
@@ -1572,7 +1587,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Frogs on a Log</title>
-      <link>https://sknight.xyz/frogs-on-a-log/</link>
+      <link>http://localhost:1313/frogs-on-a-log/</link>
       <pubDate>Fri, 30 Jun 2023 12:23:56 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/frogs-on-a-log/</guid>
@@ -1591,7 +1606,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Self Hosted Software List</title>
-      <link>https://sknight.xyz/self-hosted/</link>
+      <link>http://localhost:1313/self-hosted/</link>
       <pubDate>Wed, 28 Jun 2023 17:03:29 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/self-hosted/</guid>
@@ -1605,7 +1620,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>What&#39;s Up With Reddit?</title>
-      <link>https://sknight.xyz/reddit-strike/</link>
+      <link>http://localhost:1313/reddit-strike/</link>
       <pubDate>Mon, 26 Jun 2023 15:00:54 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/reddit-strike/</guid>
@@ -1627,7 +1642,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>100 Days to Offload</title>
-      <link>https://sknight.xyz/100-days-to-offload/</link>
+      <link>http://localhost:1313/100-days-to-offload/</link>
       <pubDate>Sun, 25 Jun 2023 09:30:12 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/100-days-to-offload/</guid>
@@ -1637,14 +1652,14 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;This time I realized that no one&amp;rsquo;s asking me to do that. This site is &lt;em&gt;my site&lt;/em&gt;, and I can post whatever I want here. Hopefully those who read this will find something useful or interesting, but the point here isn&amp;rsquo;t to amass imaginary points in my &lt;a href=&#34;https://scottk.goatcounter.com/&#34;&gt;analytics dashboard&lt;/a&gt; or to feel good about how many people sign up for my newsletter. At this point, I don&amp;rsquo;t even have a newsletter, and that&amp;rsquo;s intentional.&lt;/p&gt;
 &lt;p&gt;The thing is, people are more complex and multi-faceted than what you normally see in someone&amp;rsquo;s online presence. I don&amp;rsquo;t want to be relegated to writing about just one topic like tech or business here. I&amp;rsquo;m going to use this as a tool to think through concepts, save good ideas, and hopefully help someone else in the process. That&amp;rsquo;s the goal.&lt;/p&gt;
 &lt;p&gt;The practice of regular writing is also good for the mind, and this has so far been a great exercise in getting some of my thoughts out into the world.&lt;/p&gt;
-&lt;p&gt;I want to keep my &lt;a href=&#34;https://sknight.xyz/flywheel/&#34;&gt;flywheel spinning&lt;/a&gt; here with regard to blogging momentum, so I&amp;rsquo;m taking on the &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to Offload&lt;/a&gt; challenge in order to keep the momentum going.&lt;/p&gt;
+&lt;p&gt;I want to keep my &lt;a href=&#34;http://localhost:1313/flywheel/&#34;&gt;flywheel spinning&lt;/a&gt; here with regard to blogging momentum, so I&amp;rsquo;m taking on the &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to Offload&lt;/a&gt; challenge in order to keep the momentum going.&lt;/p&gt;
 &lt;p&gt;P.S. Yes, I&amp;rsquo;m still counting my first posts so I&amp;rsquo;ve given myself a bit of a head start. Sue me (please don&amp;rsquo;t).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How to Improvise Public Speaking</title>
-      <link>https://sknight.xyz/public-speaking-formula/</link>
+      <link>http://localhost:1313/public-speaking-formula/</link>
       <pubDate>Fri, 23 Jun 2023 14:49:17 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/public-speaking-formula/</guid>
@@ -1692,7 +1707,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Spinning the Flywheel</title>
-      <link>https://sknight.xyz/flywheel/</link>
+      <link>http://localhost:1313/flywheel/</link>
       <pubDate>Tue, 20 Jun 2023 15:04:15 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/flywheel/</guid>
@@ -1718,7 +1733,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Blogroll</title>
-      <link>https://sknight.xyz/blogroll/</link>
+      <link>http://localhost:1313/blogroll/</link>
       <pubDate>Sat, 17 Jun 2023 18:11:43 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/blogroll/</guid>
@@ -1751,7 +1766,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Disclaimer</title>
-      <link>https://sknight.xyz/disclaimer/</link>
+      <link>http://localhost:1313/disclaimer/</link>
       <pubDate>Fri, 16 Jun 2023 13:50:58 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/disclaimer/</guid>
@@ -1766,7 +1781,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Design Archive</title>
-      <link>https://sknight.xyz/design-archive/</link>
+      <link>http://localhost:1313/design-archive/</link>
       <pubDate>Fri, 16 Jun 2023 13:47:10 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/design-archive/</guid>
@@ -1777,53 +1792,53 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20240824223430/https://scottk.mba/&#34;&gt;August 24, 2024&lt;/a&gt; &amp;mdash; No major changes. Updated the dark background color to a darker navy to improve contrast and readability.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20240810143518/https://scottk.mba/&#34;&gt;August 10, 2024&lt;/a&gt; &amp;mdash; Not a major theme change by any means. Updated the accent color from Nike Volt green to a yellow that looks more in alignment with the soft yellow used for all text on the site.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20240103164706/https://scottk.mba/&#34;&gt;January 03, 2024&lt;/a&gt; &amp;mdash; Active theme. Bringing the action and momentum and action of the new year with this design utilizing system-ui typeface and palette with dark cyan, soft yellow, and Nike Volt green for the accent.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20230911012951/https://scottk.mba/&#34;&gt;September 11, 2023&lt;/a&gt; &amp;mdash; Fall theme, &amp;ldquo;&lt;a href=&#34;https://sknight.xyz/fall-theme/&#34;&gt;Library&lt;/a&gt;&amp;rdquo;. Seasonal change with an academic feel; Palatino typeface, vintage leather &amp;amp; paper hues. Warm and cozy.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20230911012951/https://scottk.mba/&#34;&gt;September 11, 2023&lt;/a&gt; &amp;mdash; Fall theme, &amp;ldquo;&lt;a href=&#34;http://localhost:1313/fall-theme/&#34;&gt;Library&lt;/a&gt;&amp;rdquo;. Seasonal change with an academic feel; Palatino typeface, vintage leather &amp;amp; paper hues. Warm and cozy.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20230715053445/https://scottk.mba/&#34;&gt;July 15, 2023&lt;/a&gt; &amp;mdash; Initial site release. Dark, minimal theme with gray color palette and green accent. System default sans-serif typeface.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Links</title>
-      <link>https://sknight.xyz/links/</link>
+      <link>http://localhost:1313/links/</link>
       <pubDate>Fri, 16 Jun 2023 13:47:10 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/links/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/about/&#34;&gt;About&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;About&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/blog/&#34;&gt;Blog Posts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;Blog Posts&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/blogroll/&#34;&gt;Blogroll&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blogroll/&#34;&gt;Blogroll&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/projects/&#34;&gt;Current Projects&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;Current Projects&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/design-archive/&#34;&gt;Design Archive&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/design-archive/&#34;&gt;Design Archive&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/disclaimer/&#34;&gt;Disclaimer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/disclaimer/&#34;&gt;Disclaimer&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://goodreads.com/scottknight/&#34;&gt;Goodreads&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/inspiration/&#34;&gt;Inspiration for This Site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/inspiration/&#34;&gt;Inspiration for This Site&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://sknight.xyz/blog/index.xml&#34;&gt;RSS&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/tags/&#34;&gt;Tags&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;Tags&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/tools/&#34;&gt;Uses&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tools/&#34;&gt;Uses&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -1831,7 +1846,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Mindful Journey Through the Woods</title>
-      <link>https://sknight.xyz/through-the-woods/</link>
+      <link>http://localhost:1313/through-the-woods/</link>
       <pubDate>Fri, 16 Jun 2023 11:03:59 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/through-the-woods/</guid>
@@ -1879,7 +1894,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Contact Me</title>
-      <link>https://sknight.xyz/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/contact/</guid>
@@ -1899,8 +1914,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/contact/bird.png&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/contact/bird_hu_beee2c47e2903a6d.png&#34; width=&#34;350&#34; height=&#34;75&#34; alt=&#34;Contact Me&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/contact/bird.png&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/contact/bird_hu_beee2c47e2903a6d.png&#34; width=&#34;350&#34; height=&#34;75&#34; alt=&#34;Contact Me&#34;&gt;
   &lt;/a&gt;
   
 &lt;/figure&gt;
@@ -1913,7 +1928,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Is There a Downside to AI?</title>
-      <link>https://sknight.xyz/is-there-a-downside-to-ai/</link>
+      <link>http://localhost:1313/is-there-a-downside-to-ai/</link>
       <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/is-there-a-downside-to-ai/</guid>
@@ -1931,7 +1946,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>One more thing...</title>
-      <link>https://sknight.xyz/thanks/</link>
+      <link>http://localhost:1313/thanks/</link>
       <pubDate>Mon, 12 Jun 2023 16:59:43 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/thanks/</guid>
@@ -1946,7 +1961,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Projects</title>
-      <link>https://sknight.xyz/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 12 Jun 2023 16:59:43 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/projects/</guid>
@@ -1954,10 +1969,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a few things I&amp;rsquo;m currently working on:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/tools/&#34;&gt;This website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/tools/&#34;&gt;This website&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sknight.xyz/linux-poll/&#34;&gt;Building my home lab&lt;/a&gt; to experiment with new tech&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/linux-poll/&#34;&gt;Building my home lab&lt;/a&gt; to experiment with new tech&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://knightlab.film/&#34;&gt;Digitizing and preserving old media&lt;/a&gt; like 8mm film, VHS tapes, film negatives/positives, etc.&lt;/p&gt;
@@ -1987,18 +2002,18 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Your subscription is confirmed</title>
-      <link>https://sknight.xyz/sub-confirmed/</link>
+      <link>http://localhost:1313/sub-confirmed/</link>
       <pubDate>Mon, 12 Jun 2023 16:59:43 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/sub-confirmed/</guid>
       <description>&lt;p&gt;You&amp;rsquo;re all set to receive future posts via email.&lt;/p&gt;
-&lt;p&gt;Since you&amp;rsquo;re here, feel free to check out some of my &lt;a href=&#34;https://sknight.xyz/blog/&#34;&gt;previous posts&lt;/a&gt;. Here&amp;rsquo;s a few recent ones:&lt;/p&gt;
+&lt;p&gt;Since you&amp;rsquo;re here, feel free to check out some of my &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;previous posts&lt;/a&gt;. Here&amp;rsquo;s a few recent ones:&lt;/p&gt;
 
-  &lt;a href=&#34;https://sknight.xyz/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
+  &lt;a href=&#34;http://localhost:1313/new-address/&#34;&gt;New Address, Same Site&lt;/a&gt;&lt;br&gt;
 
-  &lt;a href=&#34;https://sknight.xyz/dont-wait-to-be-free/&#34;&gt;Don&amp;#39;t Wait to Be Free&lt;/a&gt;&lt;br&gt;
+  &lt;a href=&#34;http://localhost:1313/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
 
-  &lt;a href=&#34;https://sknight.xyz/how-to-keep-your-mac-awake-using-terminal/&#34;&gt;How to Keep Your Mac Awake Using Terminal&lt;/a&gt;&lt;br&gt;
+  &lt;a href=&#34;http://localhost:1313/dont-wait-to-be-free/&#34;&gt;Don&amp;#39;t Wait to Be Free&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
 &lt;p&gt;Cheers,&lt;/p&gt;
@@ -2008,7 +2023,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Uses</title>
-      <link>https://sknight.xyz/tools/</link>
+      <link>http://localhost:1313/tools/</link>
       <pubDate>Mon, 12 Jun 2023 14:56:00 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tools/</guid>
@@ -2035,7 +2050,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Ready Player One</title>
-      <link>https://sknight.xyz/ready-player-one/</link>
+      <link>http://localhost:1313/ready-player-one/</link>
       <pubDate>Sun, 11 Jun 2023 17:36:42 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/ready-player-one/</guid>
@@ -2052,7 +2067,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Inspiration for this Site</title>
-      <link>https://sknight.xyz/inspiration/</link>
+      <link>http://localhost:1313/inspiration/</link>
       <pubDate>Sun, 11 Jun 2023 16:13:07 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/inspiration/</guid>

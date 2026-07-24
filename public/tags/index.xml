@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Knight's Blog</title>
-    <link>https://sknight.xyz/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content from Scott Knight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>"en-us"</language>
     <managingEditor>Scott Knight</managingEditor>
     <webMaster>Scott Knight</webMaster>
     <copyright>Scott Knight. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 23 Jan 2026 08:03:42 -0600</lastBuildDate><atom:link href="https://sknight.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jul 2026 09:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meta</title>
-      <link>https://sknight.xyz/tags/meta/</link>
-      <pubDate>Fri, 23 Jan 2026 08:03:42 -0600</pubDate>
+      <link>http://localhost:1313/tags/meta/</link>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 -0500</pubDate>
       <author>Scott Knight</author>
-      <guid isPermaLink="false">http://scottk.mba/tags/meta/</guid>
+      <guid isPermaLink="false">tag:sknight.xyz,2026-07-24:/tags/meta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philosophy</title>
-      <link>https://sknight.xyz/tags/philosophy/</link>
+      <link>http://localhost:1313/tags/philosophy/</link>
       <pubDate>Tue, 03 Jun 2025 07:23:43 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/philosophy/</guid>
@@ -30,7 +30,7 @@
     
     <item>
       <title>Tech</title>
-      <link>https://sknight.xyz/tags/tech/</link>
+      <link>http://localhost:1313/tags/tech/</link>
       <pubDate>Thu, 01 May 2025 18:54:22 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/tech/</guid>
@@ -39,7 +39,7 @@
     
     <item>
       <title>Design</title>
-      <link>https://sknight.xyz/tags/design/</link>
+      <link>http://localhost:1313/tags/design/</link>
       <pubDate>Fri, 07 Feb 2025 14:54:31 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/design/</guid>
@@ -48,7 +48,7 @@
     
     <item>
       <title>Life</title>
-      <link>https://sknight.xyz/tags/life/</link>
+      <link>http://localhost:1313/tags/life/</link>
       <pubDate>Sat, 28 Dec 2024 08:10:39 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/life/</guid>
@@ -57,7 +57,7 @@
     
     <item>
       <title>Reading</title>
-      <link>https://sknight.xyz/tags/reading/</link>
+      <link>http://localhost:1313/tags/reading/</link>
       <pubDate>Sun, 15 Dec 2024 18:20:29 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/reading/</guid>
@@ -66,7 +66,7 @@
     
     <item>
       <title>Business</title>
-      <link>https://sknight.xyz/tags/business/</link>
+      <link>http://localhost:1313/tags/business/</link>
       <pubDate>Sat, 10 Aug 2024 08:46:59 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/business/</guid>
@@ -75,7 +75,7 @@
     
     <item>
       <title>Homelab</title>
-      <link>https://sknight.xyz/tags/homelab/</link>
+      <link>http://localhost:1313/tags/homelab/</link>
       <pubDate>Sat, 27 Apr 2024 09:00:28 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/homelab/</guid>
@@ -84,7 +84,7 @@
     
     <item>
       <title>Ai</title>
-      <link>https://sknight.xyz/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/ai/</guid>
@@ -93,7 +93,7 @@
     
     <item>
       <title>Data</title>
-      <link>https://sknight.xyz/tags/data/</link>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/data/</guid>
@@ -102,7 +102,7 @@
     
     <item>
       <title>Book</title>
-      <link>https://sknight.xyz/tags/book/</link>
+      <link>http://localhost:1313/tags/book/</link>
       <pubDate>Thu, 14 Sep 2023 15:20:12 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tags/book/</guid>

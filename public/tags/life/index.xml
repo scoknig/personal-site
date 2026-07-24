@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Knight's Blog</title>
-    <link>https://sknight.xyz/tags/life/</link>
+    <link>http://localhost:1313/tags/life/</link>
     <description>Recent content from Scott Knight</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>"en-us"</language>
     <managingEditor>Scott Knight</managingEditor>
     <webMaster>Scott Knight</webMaster>
     <copyright>Scott Knight. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 28 Dec 2024 08:10:39 -0600</lastBuildDate><atom:link href="https://sknight.xyz/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Dec 2024 08:10:39 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wrapping Up 2024</title>
-      <link>https://sknight.xyz/wrapping-up-2024/</link>
+      <link>http://localhost:1313/wrapping-up-2024/</link>
       <pubDate>Sat, 28 Dec 2024 08:10:39 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/wrapping-up-2024/</guid>
-      <description>&lt;p&gt;As we enter the final days of 2024, I&amp;rsquo;m reflecting on my goal &lt;a href=&#34;https://sknight.xyz/24-in-24&#34;&gt;post&lt;/a&gt; from January. Though I managed to accomplish most items I had assigned myself for 2024, I&amp;rsquo;ve also concluded that setting a specific task list for the year is not always an ideal technique when accounting for a.) the length of an entire year, and b.) the uncertainty within that timespan which demands much more flexibility.&lt;/p&gt;
+      <description>&lt;p&gt;As we enter the final days of 2024, I&amp;rsquo;m reflecting on my goal &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;post&lt;/a&gt; from January. Though I managed to accomplish most items I had assigned myself for 2024, I&amp;rsquo;ve also concluded that setting a specific task list for the year is not always an ideal technique when accounting for a.) the length of an entire year, and b.) the uncertainty within that timespan which demands much more flexibility.&lt;/p&gt;
 &lt;p&gt;A better practice would be to set a theme for the year&amp;mdash;something to act as a guidepost, yet one that remains flexible enough to allow interpretation in &lt;em&gt;how&lt;/em&gt; the specifics are planned and executed. For example, if the theme for the year is &amp;ldquo;Development&amp;rdquo; one&amp;rsquo;s actions would be driven by that concept&amp;mdash;reading more, enrolling in courses of interest, joining a community centered around a subject of interest to grow more in that domain, etc. This both accounts for flexibility in planning and does not restrict the scope of action (e.g. small daily actions vs. a large, months-long project).&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m sure I&amp;rsquo;ll publish something here in January with more on next year&amp;rsquo;s theme; for this brief retrospective, I claim 2024 as a good, productive year and look forward to even better things in 2025.&lt;/p&gt;
 </description>
@@ -24,11 +24,11 @@
     
     <item>
       <title>Goals vs. Objectives</title>
-      <link>https://sknight.xyz/goals-vs-objectives/</link>
+      <link>http://localhost:1313/goals-vs-objectives/</link>
       <pubDate>Sat, 10 Aug 2024 08:46:59 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/goals-vs-objectives/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s been a year and some change since I began publishing on this site and I&amp;rsquo;ve recently been reflecting on the initial challenges I&amp;rsquo;d set for myself. One of these was to &lt;a href=&#34;https://sknight.xyz/100-days-to-offload/&#34;&gt;publish 100 posts in a year&lt;/a&gt;, which was a sincere objective at the time. It&amp;rsquo;s also one which I haven&amp;rsquo;t met. Does that constitute a failure?&lt;/p&gt;
+      <description>&lt;p&gt;It&amp;rsquo;s been a year and some change since I began publishing on this site and I&amp;rsquo;ve recently been reflecting on the initial challenges I&amp;rsquo;d set for myself. One of these was to &lt;a href=&#34;http://localhost:1313/100-days-to-offload/&#34;&gt;publish 100 posts in a year&lt;/a&gt;, which was a sincere objective at the time. It&amp;rsquo;s also one which I haven&amp;rsquo;t met. Does that constitute a failure?&lt;/p&gt;
 &lt;p&gt;This brings up an important point: &lt;em&gt;there is a notable difference between goals and objectives&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Goals&lt;/strong&gt;&lt;/em&gt; are long-term purposes one strives to achieve. A goal is the &amp;ldquo;end result&amp;rdquo;, and goals should be considered in long-term time frames. Goals are strategic and abstract.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/em&gt; are achievements along a path to achieving an overarching goal. They are the &amp;ldquo;means to an end&amp;rdquo; (the &amp;rsquo;end&amp;rsquo; being the goal), and should be considered in short-to-medium time frames. Objectives are tactical and concrete.&lt;/p&gt;
@@ -42,7 +42,7 @@
     
     <item>
       <title>A Postcard from the Capitol</title>
-      <link>https://sknight.xyz/a-postcard-from-the-capitol/</link>
+      <link>http://localhost:1313/a-postcard-from-the-capitol/</link>
       <pubDate>Wed, 31 Jul 2024 15:52:21 -0400</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/a-postcard-from-the-capitol/</guid>
@@ -64,8 +64,8 @@
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/a-postcard-from-the-capitol/capital-view.jpeg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/a-postcard-from-the-capitol/capital-view_hu_55b803a637097c7c.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view.jpeg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/a-postcard-from-the-capitol/capital-view_hu_55b803a637097c7c.jpeg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Capitol gains.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -78,7 +78,7 @@
     
     <item>
       <title>6-to-1 Grocery Method</title>
-      <link>https://sknight.xyz/6-to-1-grocery-method/</link>
+      <link>http://localhost:1313/6-to-1-grocery-method/</link>
       <pubDate>Fri, 19 Apr 2024 12:43:55 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/6-to-1-grocery-method/</guid>
@@ -100,7 +100,7 @@
     
     <item>
       <title>Keeping Analog Alive</title>
-      <link>https://sknight.xyz/keeping-analog-alive/</link>
+      <link>http://localhost:1313/keeping-analog-alive/</link>
       <pubDate>Wed, 17 Apr 2024 15:28:21 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/keeping-analog-alive/</guid>
@@ -115,7 +115,7 @@
     
     <item>
       <title>Unsubscribing from New Homeowner Scams</title>
-      <link>https://sknight.xyz/new-homeowner-scams/</link>
+      <link>http://localhost:1313/new-homeowner-scams/</link>
       <pubDate>Sun, 25 Feb 2024 10:13:24 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/new-homeowner-scams/</guid>
@@ -135,11 +135,11 @@
     
     <item>
       <title>First One Down</title>
-      <link>https://sknight.xyz/first-one-down/</link>
+      <link>http://localhost:1313/first-one-down/</link>
       <pubDate>Sat, 17 Feb 2024 12:08:11 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/first-one-down/</guid>
-      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;https://sknight.xyz/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
+      <description>&lt;p&gt;I probably picked the largest, most stressful item on my &lt;a href=&#34;http://localhost:1313/24-in-24&#34;&gt;24 in &amp;lsquo;24&lt;/a&gt; list to start with but I&amp;rsquo;m glad to update that I&amp;rsquo;m just getting settled into my new home. I had already planned to make a purchase in the first quarter of this year, and a great deal just happened to fall directly into my lap. So, I jumped on it and closed the deal at the beginning of this month.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m particularly proud of this accomplishment. I&amp;rsquo;ve worked tirelessly toward this and have cultivated a wealth of financial discipline to make this happen. It has definitely been a learning process, but I enjoyed the challenge and look forward to taking the next step in my investing career soon.&lt;/p&gt;
 &lt;p&gt;Now to press on with the rest of the list!&lt;/p&gt;
 </description>
@@ -147,7 +147,7 @@
     
     <item>
       <title>Ozymandias</title>
-      <link>https://sknight.xyz/ozymandias/</link>
+      <link>http://localhost:1313/ozymandias/</link>
       <pubDate>Fri, 05 Jan 2024 13:29:46 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/ozymandias/</guid>
@@ -180,7 +180,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>24 in &#39;24</title>
-      <link>https://sknight.xyz/24-in-24/</link>
+      <link>http://localhost:1313/24-in-24/</link>
       <pubDate>Wed, 03 Jan 2024 09:17:41 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/24-in-24/</guid>
@@ -196,7 +196,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;&lt;strong&gt;Buy a House&lt;/strong&gt;&lt;/del&gt;: Since I&amp;rsquo;ve improved my financial position, I&amp;rsquo;m now looking to buy my first home. I want to close and move in by the end of spring.&lt;br&gt;
-&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;https://sknight.xyz/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;February Update: Starting off strong here. I closed on my home at the beginning of the month. &lt;a href=&#34;http://localhost:1313/first-one-down&#34;&gt;Check!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;Visit Three New Places&lt;/del&gt;: Satiate my travel bug by exploring three new destinations.&lt;/p&gt;
@@ -209,7 +209,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;del&gt;Complete a New Hardware Project&lt;/del&gt;: Hone my tech skills and learn a new technology. I&amp;rsquo;m particularly interested in the Raspberry Pi Pico W and Circuit Python.&lt;br&gt;
-&lt;em&gt;I&amp;rsquo;m going to count my &lt;a href=&#34;https://sknight.xyz/homelab-update/&#34;&gt;Homelab setup&lt;/a&gt; for this one, since it consisted of learning new tech I haven&amp;rsquo;t worked with before.&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;I&amp;rsquo;m going to count my &lt;a href=&#34;http://localhost:1313/homelab-update/&#34;&gt;Homelab setup&lt;/a&gt; for this one, since it consisted of learning new tech I haven&amp;rsquo;t worked with before.&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Complete a DIY Home Improvement Project&lt;/strong&gt;: Channel my inner handyman and take on a DIY home improvement project in my soon-to-be first house.&lt;/p&gt;
@@ -271,7 +271,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Happy Holidays</title>
-      <link>https://sknight.xyz/happy-holidays/</link>
+      <link>http://localhost:1313/happy-holidays/</link>
       <pubDate>Wed, 27 Dec 2023 12:51:46 -0600</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/happy-holidays/</guid>
@@ -283,7 +283,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Automate Anything</title>
-      <link>https://sknight.xyz/how-to-automate-anything/</link>
+      <link>http://localhost:1313/how-to-automate-anything/</link>
       <pubDate>Mon, 30 Oct 2023 17:57:51 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/how-to-automate-anything/</guid>
@@ -325,7 +325,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Personal Automations</title>
-      <link>https://sknight.xyz/personal-automations/</link>
+      <link>http://localhost:1313/personal-automations/</link>
       <pubDate>Wed, 25 Oct 2023 07:36:43 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/personal-automations/</guid>
@@ -359,7 +359,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Burning CDs in 2023</title>
-      <link>https://sknight.xyz/burning-cds-in-2023/</link>
+      <link>http://localhost:1313/burning-cds-in-2023/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/burning-cds-in-2023/</guid>
@@ -376,7 +376,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>You Should Have a Website</title>
-      <link>https://sknight.xyz/you-should-have-a-website/</link>
+      <link>http://localhost:1313/you-should-have-a-website/</link>
       <pubDate>Mon, 16 Oct 2023 14:41:57 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/you-should-have-a-website/</guid>
@@ -411,7 +411,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>FIRE Flow Chart</title>
-      <link>https://sknight.xyz/fire-flow-chart/</link>
+      <link>http://localhost:1313/fire-flow-chart/</link>
       <pubDate>Mon, 02 Oct 2023 18:17:05 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/fire-flow-chart/</guid>
@@ -427,7 +427,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Tennessee 2023</title>
-      <link>https://sknight.xyz/tennessee-2023/</link>
+      <link>http://localhost:1313/tennessee-2023/</link>
       <pubDate>Mon, 25 Sep 2023 11:05:00 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/tennessee-2023/</guid>
@@ -453,8 +453,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/porch.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/porch_hu_66832d53505481b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/porch.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/porch_hu_66832d53505481b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A view from the back porch of our cabin.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -478,8 +478,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/autos.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/autos_hu_25b27acbeffd289c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/autos.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/autos_hu_25b27acbeffd289c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;Some cool vehicles on the property with serious Jurassic Park vibes.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -505,8 +505,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_waterfall.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_waterfall_hu_498caeacd989aa4c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_waterfall.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_waterfall_hu_498caeacd989aa4c.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;One of Rock City&amp;#39;s many water features.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -530,8 +530,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_overlook.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_overlook_hu_539a1010ee5c0b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_overlook.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_overlook_hu_539a1010ee5c0b9.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;See 7 states at once from Lookout Mountain.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -555,8 +555,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/rc_lizard.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/rc_lizard_hu_907928792e114ca4.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/rc_lizard.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/rc_lizard_hu_907928792e114ca4.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;A blue-tailed skink I found sunbathing on the trail.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -582,8 +582,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/jd_truck.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/jd_truck_hu_84bd2b85e0714db7.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_truck.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_truck_hu_84bd2b85e0714db7.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;An old truck that used to deliver Jack Daniel&amp;#39;s Whiskey.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -607,8 +607,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/jd_firetrucks_hu_bca3f50cf1c8225e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/jd_firetrucks_hu_bca3f50cf1c8225e.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;The J.D. distillery has its own fire brigade.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -635,8 +635,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/aa_shop.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/aa_shop_hu_ced108f4e011655b.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/aa_shop.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/aa_shop_hu_ced108f4e011655b.jpg&#34; width=&#34;600&#34; height=&#34;800&#34; alt=&#34;Antique Archaeology, home of the American Pickers.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -660,8 +660,8 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 
 
 &lt;figure&gt;
-  &lt;a href=&#34;https://sknight.xyz/tennessee-2023/motor_works.jpg&#34;&gt;
-    &lt;img src=&#34;https://sknight.xyz/tennessee-2023/motor_works_hu_2942361a08d68ccf.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
+  &lt;a href=&#34;http://localhost:1313/tennessee-2023/motor_works.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/tennessee-2023/motor_works_hu_2942361a08d68ccf.jpg&#34; width=&#34;600&#34; height=&#34;450&#34; alt=&#34;A neat museum inside the old Marathon Motor Works building shows the history of auto manufacturing.&#34;&gt;
   &lt;/a&gt;
   
     &lt;figcaption&gt;
@@ -692,7 +692,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>On Wealth</title>
-      <link>https://sknight.xyz/on-wealth/</link>
+      <link>http://localhost:1313/on-wealth/</link>
       <pubDate>Fri, 08 Sep 2023 15:05:55 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/on-wealth/</guid>
@@ -720,7 +720,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Crabs in a Bucket</title>
-      <link>https://sknight.xyz/crabs/</link>
+      <link>http://localhost:1313/crabs/</link>
       <pubDate>Sun, 30 Jul 2023 13:48:11 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/crabs/</guid>
@@ -733,7 +733,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Frogs on a Log</title>
-      <link>https://sknight.xyz/frogs-on-a-log/</link>
+      <link>http://localhost:1313/frogs-on-a-log/</link>
       <pubDate>Fri, 30 Jun 2023 12:23:56 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/frogs-on-a-log/</guid>
@@ -752,7 +752,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>How to Improvise Public Speaking</title>
-      <link>https://sknight.xyz/public-speaking-formula/</link>
+      <link>http://localhost:1313/public-speaking-formula/</link>
       <pubDate>Fri, 23 Jun 2023 14:49:17 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/public-speaking-formula/</guid>
@@ -800,7 +800,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>Spinning the Flywheel</title>
-      <link>https://sknight.xyz/flywheel/</link>
+      <link>http://localhost:1313/flywheel/</link>
       <pubDate>Tue, 20 Jun 2023 15:04:15 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/flywheel/</guid>
@@ -826,7 +826,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
     
     <item>
       <title>A Mindful Journey Through the Woods</title>
-      <link>https://sknight.xyz/through-the-woods/</link>
+      <link>http://localhost:1313/through-the-woods/</link>
       <pubDate>Fri, 16 Jun 2023 11:03:59 -0500</pubDate>
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/through-the-woods/</guid>
