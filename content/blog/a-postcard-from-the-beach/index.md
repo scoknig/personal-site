@@ -2,7 +2,7 @@
 title: "A Postcard from the Beach"
 date: 2026-08-04
 tags: [life]
-summary: My view from work this week.
+summary: A photo from last week's trip to Grayton Beach, FL.
 toc: false
 draft: false
 ---
