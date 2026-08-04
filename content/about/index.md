@@ -12,13 +12,13 @@ options="300x" >}}
 
 I'm Scott Knight, an engineer and builder drawn to useful work, clear thinking, and the lifelong pursuit of wisdom.
 
-I spend my days working in complex systems and my spare time trying to simplify them — which could mean refining workflows, spending time outdoors, or studying ideas that have endured longer than any software ever will.
+I spend my days working in complex systems and my spare time trying to simplify them — refining workflows, spending time outdoors, or studying ideas that have endured longer than any software ever will.
 
 This site is where I write about what I'm building, learning, and anything else that strikes me. If you're interested in thoughtful work, small ventures, or enduring ideas, I hope you will find something useful here.
 
 ## Work
 
-I work at [Sev1Tech](https://sev1tech.com).
+I work at [Entarian](https://entarian.com).
 
 I also consult on technical projects and build intelligent, data-driven systems that solve complex business problems.
 
@@ -39,6 +39,8 @@ Feel free to have a look around. I hope you find something interesting.
 ## Contact
 
 If you'd like to get in touch, you can email me at [{{< email >}}](mailto:{{< email >}})
+
+(Hopefully you appreciate the pun density there).
 
 ## Links
 

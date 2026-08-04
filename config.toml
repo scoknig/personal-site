@@ -33,7 +33,7 @@ pagination.pagerSize = 5
 
 [params.author]
   name = "Scott Knight"
-  email = "www@knight.mba"
+  email = "chainmail@sknight.xyz"
 
 [taxonomies]
   tag = "tags"
