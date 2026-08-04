@@ -9,7 +9,43 @@
     <managingEditor>Scott Knight</managingEditor>
     <webMaster>Scott Knight</webMaster>
     <copyright>Scott Knight. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 09:00:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Postcard from the Beach</title>
+      <link>http://localhost:1313/a-postcard-from-the-beach/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <author>Scott Knight</author>
+      <guid isPermaLink="false">tag:sknight.xyz,2026-08-04:/a-postcard-from-the-beach/</guid>
+      <description>&lt;p&gt;A photo from last week&amp;rsquo;s trip to Grayton Beach, FL.&lt;/p&gt;
+&lt;p&gt;Time wasted at the beach is time well spent, especially among good friends.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-beach/beach.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/a-postcard-from-the-beach/beach_hu_4607c1a5d4c383d3.jpg&#34; width=&#34;600&#34; height=&#34;914&#34; alt=&#34;Vitamin sea.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      Vitamin sea.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+</description>
+    </item>
+    
     <item>
       <title>New Address, Same Site</title>
       <link>http://localhost:1313/new-address/</link>

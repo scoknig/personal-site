@@ -11,6 +11,42 @@
     <copyright>Scott Knight. All rights reserved.</copyright>
     <lastBuildDate>Sun, 11 Jun 2023 10:30:59 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Postcard from the Beach</title>
+      <link>http://localhost:1313/a-postcard-from-the-beach/</link>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <author>Scott Knight</author>
+      <guid isPermaLink="false">tag:sknight.xyz,2026-08-04:/a-postcard-from-the-beach/</guid>
+      <description>&lt;p&gt;A photo from last week&amp;rsquo;s trip to Grayton Beach, FL.&lt;/p&gt;
+&lt;p&gt;Time wasted at the beach is time well spent, especially among good friends.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;figure&gt;
+  &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-beach/beach.jpg&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/a-postcard-from-the-beach/beach_hu_4607c1a5d4c383d3.jpg&#34; width=&#34;600&#34; height=&#34;914&#34; alt=&#34;Vitamin sea.&#34;&gt;
+  &lt;/a&gt;
+  
+    &lt;figcaption&gt;
+      Vitamin sea.
+    &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Address, Same Site</title>
       <link>http://localhost:1313/new-address/</link>
       <pubDate>Fri, 24 Jul 2026 09:00:00 -0500</pubDate>
@@ -1134,18 +1170,18 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;I spend my days working in complex systems and my spare time trying to simplify them — refining workflows, spending time outdoors, or studying ideas that have endured longer than any software ever will.&lt;/p&gt;
 &lt;p&gt;This site is where I write about what I&amp;rsquo;m building, learning, and anything else that strikes me. If you&amp;rsquo;re interested in thoughtful work, small ventures, or enduring ideas, I hope you will find something useful here.&lt;/p&gt;
 &lt;h2 id=&#34;work&#34;&gt;Work&lt;/h2&gt;
-&lt;p&gt;I work at &lt;a href=&#34;https://sev1tech.com&#34;&gt;Sev1Tech&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I work at &lt;a href=&#34;https://entarian.com&#34;&gt;Entarian&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I also consult on technical projects and build intelligent, data-driven systems that solve complex business problems.&lt;/p&gt;
 &lt;p&gt;I have a B.S. in Computer Science from Southeastern Louisiana University and an M.B.A. in Entrepreneurship and Family Enterprise from Louisiana State University in Shreveport.&lt;/p&gt;
 &lt;h2 id=&#34;blog&#34;&gt;Blog&lt;/h2&gt;
 &lt;p&gt;In the &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;blog&lt;/a&gt; you&amp;rsquo;ll find an ever-growing collection of my thoughts, things I&amp;rsquo;ve learned, and interesting nuggets I find.&lt;/p&gt;
 &lt;p&gt;Here are several of my most recent posts:&lt;/p&gt;
 
+  &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-beach/&#34;&gt;A Postcard from the Beach&lt;/a&gt;&lt;br&gt;
+
   &lt;a href=&#34;http://localhost:1313/new-address/&#34;&gt;New Address, Same Site&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
-
-  &lt;a href=&#34;http://localhost:1313/dont-wait-to-be-free/&#34;&gt;Don&amp;#39;t Wait to Be Free&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
 &lt;p&gt;If you &lt;a href=&#34;https://aboutfeeds.com/&#34;&gt;use an RSS reader&lt;/a&gt;, here&amp;rsquo;s the &lt;a href=&#34;http://localhost:1313/blog/index.xml&#34;&gt;blog&amp;rsquo;s RSS feed&lt;/a&gt;.&lt;/p&gt;
@@ -2011,11 +2047,11 @@ The lone and level sands stretch far away.”&lt;/p&gt;
       <description>&lt;p&gt;You&amp;rsquo;re all set to receive future posts via email.&lt;/p&gt;
 &lt;p&gt;Since you&amp;rsquo;re here, feel free to check out some of my &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;previous posts&lt;/a&gt;. Here&amp;rsquo;s a few recent ones:&lt;/p&gt;
 
+  &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-beach/&#34;&gt;A Postcard from the Beach&lt;/a&gt;&lt;br&gt;
+
   &lt;a href=&#34;http://localhost:1313/new-address/&#34;&gt;New Address, Same Site&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
-
-  &lt;a href=&#34;http://localhost:1313/dont-wait-to-be-free/&#34;&gt;Don&amp;#39;t Wait to Be Free&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
 &lt;p&gt;Cheers,&lt;/p&gt;
