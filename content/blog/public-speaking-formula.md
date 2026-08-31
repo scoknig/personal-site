@@ -19,7 +19,7 @@ Peter lays out a simple, three-step formula for improvising a speech for just ab
 
 It's called the __FAT__ method. Here's how it works:
 
-## F: Feeling
+# F: Feeling
 
 The first step is to __express your feeling__ about the topic.
 
@@ -27,19 +27,19 @@ For a quick example, let's pretend you unexpectedly win a company award at work 
 
 >"I'm grateful and honored to receive this Employee of the Universe Award. I couldn't have done it without the support of my team and leadership *(only if this is true)*..."
 
-## A: Anecdote
+# A: Anecdote
 
 Now, __throw in a short anecdote__ to give the audience something to relate to. In our example, you might say:
 
 >"I remember my early days working for Acme as a Trap Engineer. The roadrunners were still running around in droves and I never imagined I'd have such an impact through my work here. Now, we are closer than ever to eliminating the lot of them..."
 
-## T: Tie Back
+# T: Tie Back
 
 Finally, __tie everything back__ to the topic at hand and close it out.
 
 >"I want to thank our company leadership and my colleagues for being a great team. I appreciate the award and will always strive to ensure our continued success."
 
-## Bonus Speaking Tips
+# Bonus Speaking Tips
 
 That's it! Super easy, and that's the point. The great thing is that you can extend any or all of these components to make as long or as short of a speech as you want.
 

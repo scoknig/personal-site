@@ -13,7 +13,7 @@ I've always preferred handwritten notes to typed, but a pain point for me has be
 
 The reMarkable 2 seemed to answer this struggle, so I ordered one.
 
-## Pros
+# Pros
 
 What stood out to me about the reMarkable 2 is that it's a device designed for focus. There aren't any additional apps or notifications to distract you from your note taking or writing, you can use it to convert handwritten notes to text, email them around, and sync your notes to your other devices. The user interface is minimal and easy to navigate, and I like the integration with various cloud storage providers. 
 
@@ -21,7 +21,7 @@ In addition to these software features, the tactile experience of the reMarkable
 
 Physically, the device is also quite thin and sleek, so it's easy to tote around to meetings or other places where you might want to bring some documents or take notes.
 
-## Cons
+# Cons
 
 In my experience with the reMarkable 2, my only remarkable (pun intended) negatives are primarily the costs. While I think the device itself is reasonable, currently selling for $299 with a $279 refurbished option, the peripherals are going to rack up your order total.
 
@@ -33,7 +33,7 @@ You're also going to want to protect your device, and the cover folio is also so
 
 The good news here is that you can find cheaper stylus and cover folio alternatives on Amazon for much cheaper, which is what I've done since the initial purchase.
 
-## Overall Opinion
+# Overall Opinion
 
 All things considered, 18 months later I still use my reMarkable 2 every week. The stylus nibs last a good while, so after the initial investment there really isn't much you need to keep the device running other than the optional $2.99 Connect subscription. Connect is reMarkable's online service that keeps your notes synced to your other devices and backed up in their cloud.
 

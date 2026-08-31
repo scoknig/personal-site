@@ -33,7 +33,7 @@ If you're interested, here are the basic specs:
 
 The intention here is that it will serve as part of my home lab on which I can run experiments and projects without affecting my primary machines. So, with that in mind, it should be sufficient for its purpose.
 
-## Installation
+# Installation
 
 I didn't have any major issues installing Linux Mint on the machine. LM provides detailed [installation docs](https://linuxmint-installation-guide.readthedocs.io/en/latest/) that were easy to follow, and the process was a standard one: create a bootable USB, boot it up using the BIOS, then install.
 
@@ -43,7 +43,7 @@ Once I ran the full installation, it probably took less than ten minutes to get 
 
 By the way, I'm running __Linux Mint 21.1 "Vera"__.
 
-## User Experience
+# User Experience
 
 The one challenge I had in getting things fully operational was setting up the wi-fi adapter drivers on the system. Unfortunately, the [Realtek RTL8188FTV](https://www.realtek.com/en/products/communications-network-ics/item/rtl8188ftv) that came with the ThinkCentre (the hardware does not have internal wi-fi support) was not recognized by the OS.
 

@@ -9,7 +9,7 @@ draft: false
 
 Below is a recycled post from one of my older blogs. I wrote this when I was in the midst of trying to get my first startup off the ground, so I approached the topic from that mental frame. Still, it remains useful and I often refer back to the idea when starting a new project or need some motivation. After the post I'll share my current take on this concept.
 
-## Original Post
+# Original Post
 
 A while back I came across the concept of a flywheel. If you're not familiar, a flywheel is technically defined as a wheel with a heavy rim placed on the revolving shaft of any machinery put in motion by an irregular or intermitting force or meeting with an irregular or intermittent resistance, for the purpose of rendering the motion equable and regular by means of its momentum.
 
@@ -25,7 +25,7 @@ Why? Because the startup process is a flywheel. If you are patient and consisten
 
 Get that flywheel spinning, and eventually it will become a difficult force to stop.
 
-## Current Perspective
+# Current Perspective
 
 While it's obvious that I was deep in a startup founder headspace when I initially wrote that, I believe the concept can be applied to many aspects of life. 
 

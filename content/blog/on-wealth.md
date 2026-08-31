@@ -26,7 +26,7 @@ Wealth, then, is more than a simple dollar figure. It's about recognizing your n
 
 I'll leave you with a short story I read several years ago that's informed my philosophy on this topic.
 
-## The Parable of the Fisherman
+# The Parable of the Fisherman
 
 A smartly-dressed enterprising tourist is taking photographs when he notices a shabbily dressed local fisherman taking a nap in his fishing boat. The tourist is disappointed with the fisherman's apparently lazy attitude towards his work, so he approaches the fisherman and asks him why he is lying around instead of catching fish. The fisherman explains that he went fishing in the morning, and the small catch would be sufficient for the next two days.
 

@@ -17,11 +17,11 @@ Many devices today are only good for a few years before they start slowing down 
 
 Let's talk about it.
 
-## What is planned obsolescence?
+# What is planned obsolescence?
 
 Planned obsolescence is the practice of designing products with a limited lifespan, so that they become obsolete and need to be replaced sooner rather than later. This is done in a variety of ways, such as cheapening materials, making products difficult to repair, intentionally reducing updates that slow down or disable older devices, or removing support for older devices altogether.
 
-## What is Right to Repair?
+# What is Right to Repair?
 
 The Right to Repair is simply the principle that consumers should have the right to repair their own devices. This would include the right to repair information, spare parts, and tools necessary to accomplish successful repairs without needing to go back and pay for manufacturer's service or replacing the product outright.
 
@@ -29,7 +29,7 @@ Obviously, this is not appropriate in *all* products for practal reasons. The Pl
 
 Still, I would argue that we as consumers should have the option to repair most anything we own, if we so wish.
 
-## Why does it matter?
+# Why does it matter?
 
 This principle is important for several reasons.
 
@@ -41,7 +41,7 @@ This principle is important for several reasons.
 
 4) More jobs would be created in the repair industry.
 
-## How can companies transition?
+# How can companies transition?
 
 While it will likely take legislative action to cause any significant change to these practices, here is a potential path for companies wanting to create more repairable products:
 
@@ -55,7 +55,7 @@ While it will likely take legislative action to cause any significant change to 
 
 - Allow independent repair shops to access diagnostic tools and software.
 
-## What can we do about it?
+# What can we do about it?
 
 The right to repair is a growing movement. Canada, members of the E.U., and a number of states in the U.S. have passed Right to Repair laws, and other countries are considering similar laws as an instrument of consumer and environmental protection. As the Right to Repair movement continues to gain momentum, the hope is that more tech companies will start designing products that are more repairable.
 

@@ -11,11 +11,11 @@ Good typography is the foundation of a well-designed website, especially for per
 
 Many folks overlook typography when setting up a personal site or blog, but it directly impacts readability, user experience and, sometimes, even the credibility of your content. Poorly chosen fonts, too-tight spacing, or sprawling line lengths can make reading uncomfortable, leading discerning readers to click away before they've even engaged with your work. On the other hand, clean and intentional typography makes reading effortless, encouraging visitors to stay longer and enjoy more of what you have to say.
 
-## Core Principles of Good Web Typography
+# Core Principles of Good Web Typography
 
 Don't worry. You don't need to be a trained or professional designer to get typography right. The good news is that we can learn from people who *are* trained in these things. Here are some golden "rules" to get started off on the right foot:
 
-### 1. Choose the right fonts
+## 1. Choose the right fonts
 [Serif fonts](https://fonts.google.com/?categoryFilters=Serif:%2FSerif%2F*,%2FSlab%2F*) have a more classic and elegant feel, while [sans-serif fonts](https://fonts.google.com/?categoryFilters=Sans+Serif:%2FSans%2F*) look more modern and minimal.
 
 Stick to two fonts, max. If you use more than one, keep one for body text and one for headings. Mixing too many fonts leads to visual clutter.
@@ -42,7 +42,7 @@ Avoid walls of text by adding a little extra space between paragraphs.
 
 The above are general guidelines. When making any changes, the best judges of which settings are right are your eyes. Make tiny adjustments and see where the sweet spot is in terms of readability, which is the most important thing if you haven't picked up on that already. There is certainly an art to it.
 
-## Simple CSS Example for Better Typography
+# Simple CSS Example for Better Typography
 
 ```css
 body {
@@ -71,7 +71,7 @@ The setup above:
 - ensures adequate line spacing and comfortable reading width, and
 - adds additional spacing to prevent things from feeling cramped.
 
-## Tools to make typography even easier
+# Tools to make typography even easier
 
 Don't feel the need to tweak every detail and get stuck in analysis paralysis. Here are some reasources that I often use:
 

@@ -11,10 +11,10 @@ Recently I was running some tasks on my Macbook Pro I wanted to prevent the mach
 
 If you have some reason to prevent your machine running macOS from sleeping, `caffeinate` gives you a few options. For basic usage, here's how you use it:
 
-## Step 1: Open Terminal
+# Step 1: Open Terminal
 If you're not sure how to do this, [see here](https://www.tomsguide.com/how-to/how-to-open-terminal-on-mac) (it's one of the Applications that comes with macOS).
 
-## Step 2: Type `caffeinate` and hit Enter
+# Step 2: Type `caffeinate` and hit Enter
 
 This will prevent your Mac from sleeping as long as you don't close the lid or exit Terminal. Once you close Terminal, hit Ctrl+C, or close the lid on your machine, the process will exit and normal sleep behavior will resume.
 
@@ -27,5 +27,5 @@ Now, here's the really handy part—`caffeinate` takes arguments, meaning that i
 
 ---
 
-### Resources
+# Resources
 For further reading, here's [the original article](https://commandmasters.com/commands/caffeinate-osx/) I found as well as the actual [man page](https://ss64.com/mac/caffeinate.html) for the command.

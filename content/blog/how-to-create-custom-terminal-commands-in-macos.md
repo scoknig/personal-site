@@ -13,7 +13,7 @@ Unfortunately, the resources are slim out there regarding how to configure custo
 
 Here's how I was able to get it set it up in a few steps:
 
-## 1. Create a file to store your custom commands
+# 1. Create a file to store your custom commands
 
 Open a terminal window and navigate to the Home directory using the command:
 
@@ -27,7 +27,7 @@ Now, create the custom commands file using the command:
 touch .my_custom_commands.sh
 ```
 
-## 2. Add custom commands
+# 2. Add custom commands
 
 Open the file in Visual Studio Code or your preferred text editor. Note that the dot we added before the filename creates a hidden file, so be sure you're able to locate and open it properly.
 
@@ -41,7 +41,7 @@ function my_function_name() {
 }
 ```
 
-## 3. Set up file permissions, if needed
+# 3. Set up file permissions, if needed
 
 The new file may generate a "permission denied" message. If so, you should be able to fix this by running the following command:
 
@@ -49,7 +49,7 @@ The new file may generate a "permission denied" message. If so, you should be ab
 chmod +x .my_custom_commands.sh
 ```
 
-## 4. Make it available in the terminal
+# 4. Make it available in the terminal
 
 If you try to run the command (the name of the function) you just created, you won't be able to quite yet. We'll need to let the terminal know to load your commands to each new session.
 

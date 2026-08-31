@@ -13,7 +13,7 @@ It's a handy flow chart created by a member of the [r/financialindependence](htt
 
 I wanted to save it here for quick reference, but if you live in the U.S. and want to retire early and/or become financially independent I recommend starting here.
 
-## Links
+# Links
 
 [FIRE Flow Chart v4.3 - Light Mode](https://u.cubeupload.com/demonlesondledon/FinFlowChartv43.png) (PNG)  
 [FIRE Flow Chart v4.3 - Dark Mode](https://u.cubeupload.com/demonlesondledon/FinFlowChartv43Dark.png) (PNG)

@@ -9,13 +9,13 @@ draft: false
 
 How long can a site continue to alienate its user base and volunteer moderators before its [bull-headed CEO](https://fortune.com/2023/06/17/why-is-reddit-dark-subreddit-moderators-ceo-huffman-not-negotiating/) corrects course? Reddit may be on track to answer that question for us.
 
-## The Situation
+# The Situation
 
 In case you haven't heard, Reddit mods and users have been on a major strike over the last week. Thousands of subreddits (some holding tens of millions of subscribers) have either gone private or otherwise restricted access to protest the company's recent announcement of its intention to implement some major API pricing changes.
 
 While these changes may have internally seemed like a good idea for stakeholders, this would also force some of the largest third-party apps and services to close up shop.
 
-## The Problem
+# The Problem
 
 The problem isn't that Reddit made a business decision. From an executive and stakeholder's perspective it makes all the sense in the world to steer toward increasing revenue; they realized that many generative AI services like ChatGPT are using their corpus of data and they want to be compensated. Fair enough.
 
@@ -25,7 +25,7 @@ Further complicating things, Steve Huffman's ~~idiotic~~ stubborn response to th
 
 I'm not sure the company's reputation will fully recover from this fiasco.
 
-## What Happens Now?
+# What Happens Now?
 
 Ultimately, it's anyone's guess.
 

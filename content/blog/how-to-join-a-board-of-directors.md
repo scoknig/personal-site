@@ -15,7 +15,7 @@ However, I'll admit---joining a board of directors isn't always easy. It require
 
 Here are a few tips on how to join a board of directors:
 
-## Know the difference between *corporate* and *non-profit* boards.
+# Know the difference between *corporate* and *non-profit* boards.
 
 There are several key differences between corporate and non-profit boards. 
 
@@ -27,11 +27,11 @@ Although these tips apply to both types of boards, for the purposes of this arti
 
 Here are some key tips to help you find a good fit:
 
-## Start by networking. 
+# Start by networking. 
 
 One of the best ways to find board opportunities is through your network. Talk to your friends, family, and colleagues to see if they know of any boards that are looking for new members. You can also attend industry events and conferences to meet potential board members and recruiters. When you talk to people, make it known that you are seeking a board position and what your goals are.
 
-## Do your research.
+# Do your research.
 
 Once you've identified a few boards that you're interested in, take some time to learn more about them. What is the organization's mission? What are the board's responsibilities? What kind of skills and experience are they looking for in new members?
 
@@ -39,11 +39,11 @@ It is not advisable to join a board just for the title. If you don't have a comp
 
 *Bonus tip:* Be creative in your search. In addition to traditional networking and job boards, there are a number of other ways to find board opportunities. For example, you can search online databases like [BoardStrong](https://boardstrong.org/) and [OnBoard](https://www.bridgespan.org/). You can also connect with recruiters who specialize in board placements. And don't be afraid to reach out directly to organizations that you're interested in serving on.
 
-## Prepare your pitch. 
+# Prepare your pitch. 
 
 When you're ready to start applying for board positions, be prepared to pitch yourself. Write a brief bio that highlights your skills and experience, and explain why you're interested in serving on the organization's board. You may also want to write a cover letter that addresses the specific skills and experience that the board is looking for. This will help you stand out as a solid candidate.
 
-## Be patient and persistent. 
+# Be patient and persistent. 
 
 It may take some time to find the right board position for you. Don't get discouraged if you don't get the first few positions you apply for. Keep networking, doing your research, and preparing your pitch, and eventually you'll find the perfect fit.
 

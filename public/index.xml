@@ -11,6 +11,48 @@
     <copyright>Scott Knight. All rights reserved.</copyright>
     <lastBuildDate>Sun, 11 Jun 2023 10:30:59 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>What &#34;No Reasonable Expectation of Privacy&#34; Actually Means, According to the 1983 Supreme Court</title>
+      <link>http://localhost:1313/no-expectation-of-privacy-alpr-surveillance/</link>
+      <pubDate>Mon, 31 Aug 2026 04:17:00 -0500</pubDate>
+      <author>Scott Knight</author>
+      <guid isPermaLink="false">tag:sknight.xyz,2026-08-31:/no-expectation-of-privacy-alpr-surveillance/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;ve spent any time in a city council meeting lately, you&amp;rsquo;ve likely heard someone recite this phrase: &amp;ldquo;there&amp;rsquo;s no reasonable expectation of privacy in public.&amp;rdquo; It is intended as a conversation-ender, the legal equivalent of a shrug and a wave of the hand. A citizen raises a concern about a new license plate reader bolted to a pole at the entrance to their subdivision, and a councilman, law enforcement leader, or an ALPR company representative answers with that line as if the matter were settled some forty years ago and there&amp;rsquo;s nothing left to discuss.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s good to know where this line comes from, because the case from which it originates says much more than the isolated sound bite intimates.&lt;/p&gt;
+&lt;h1 id=&#34;1983-the-chloroform-in-the-trunk&#34;&gt;1983: The chloroform in the trunk&lt;/h1&gt;
+&lt;p&gt;The line traces back to &lt;em&gt;&lt;a href=&#34;https://www.loc.gov/item/usrep460276/&#34;&gt;United States v. Knotts&lt;/a&gt;&lt;/em&gt;, decided by the Supreme Court in 1983. Minnesota narcotics investigators suspected a man named Armstrong of buying chemicals to cook illegal drugs. With the seller&amp;rsquo;s cooperation, they hid a radio transmitter, a &amp;ldquo;beeper&amp;rdquo;, inside a container of chloroform before Armstrong retrieved it. From there, agents followed the car by sight and by signal as it made its way from Minneapolis to a cabin in rural Wisconsin (owned by the defendant, Knotts), where they eventually found a drug lab.&lt;/p&gt;
+&lt;p&gt;Knotts argued that tracking him this way without a warrant violated his &lt;a href=&#34;https://constitution.congress.gov/constitution/amendment-4/&#34;&gt;Fourth Amendment&lt;/a&gt; rights under the U.S. Constitution. The Court disagreed. Writing for a unanimous bench, Justice Rehnquist reasoned that a person driving on public roads has already made his movements visible to anyone who cares to watch. The beeper, in the Court&amp;rsquo;s view, was no different in kind from an officer trailing the car with a good pair of binoculars. The technology just made the officers&amp;rsquo; job easier. That&amp;rsquo;s the origin of the phrase everyone quotes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;A person traveling on public thoroughfares has no reasonable expectation of privacy in his movements.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Fair enough, as far as it goes. However, this is not where the &lt;a href=&#34;https://tile.loc.gov/storage-services/service/ll/usrep/usrep460/usrep460276/usrep460276.pdf&#34;&gt;full opinion&lt;/a&gt; ends.&lt;/p&gt;
+&lt;h1 id=&#34;the-raincheck-clause&#34;&gt;The Raincheck Clause&lt;/h1&gt;
+&lt;p&gt;Buried in the same paragraph, Knotts&amp;rsquo; own legal brief warned the Court about exactly what a ruling like this could enable down the line. His attorneys wrote that if the government&amp;rsquo;s argument won, &amp;ldquo;twenty-four hour surveillance of any citizen of this country will be possible, without judicial knowledge or supervision.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The Court didn&amp;rsquo;t dismiss this as paranoia, nor did it even appear to disagree. What it said instead was that the &amp;ldquo;reality hardly suggests abuse,&amp;rdquo; and that if &amp;ldquo;&lt;em&gt;such dragnet-type law enforcement practices as respondent envisions should eventually occur, there will be time enough then to determine whether different constitutional principles may be applicable.&lt;/em&gt;&amp;rdquo; [emphasis mine.]&lt;/p&gt;
+&lt;p&gt;Read that again.&lt;/p&gt;
+&lt;p&gt;The Court wasn&amp;rsquo;t closing the door on Knotts&amp;rsquo; concern but was rather punting it. It said, in effect: &lt;em&gt;that future you&amp;rsquo;re describing isn&amp;rsquo;t here yet, so we don&amp;rsquo;t have to rule on that today. Should it arrive, the courts will take a fresh look then.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In this way, the Court ultimately issued a raincheck on the issue. Interestingly, the word the Court chose to describe the future it was declining to rule on at the time was a specific one: &lt;strong&gt;dragnet&lt;/strong&gt;. Not &amp;ldquo;widespread&amp;rdquo; or &amp;ldquo;extensive.&amp;rdquo; Dragnet, a word that means sweeping up everyone in an area regardless of individual suspicion, or whether they&amp;rsquo;re a person of interest or not. The justices in 1983 had a fairly precise picture in mind of the criteria that would eventually force them to reconsider, and even put a name to it.&lt;/p&gt;
+&lt;h1 id=&#34;cashing-the-check&#34;&gt;Cashing the check&lt;/h1&gt;
+&lt;p&gt;It is now forty-three years later, and most people looking honestly around their own communities would likely agree that future has arrived.&lt;/p&gt;
+&lt;p&gt;Automated license plate readers (ALPRs), the kind sold by companies like Flock Safety and Axon, tread far beyond a single beeper hidden in a single drum of chemicals tied to a specific ongoing investigation. They are fixed or mobile cameras logging every license plate that passes, whether the driver has ever been suspected of anything or not. The data collected stored in databases, owned and controlled by private companies, that are searchable other agencies across the country. A single one of these networks can process billions of scans per month. This involves more than tailing a suspect; it creates a searchable record of where nearly everyone goes, built and installed without any individualized suspicion at all, which is close to a textbook definition of a dragnet.&lt;/p&gt;
+&lt;p&gt;The comparison to law enforcement following a car isn&amp;rsquo;t quite honest anymore, either. A police officer trailing a vehicle has a finite shift, a limited fuel budget, and a supervisor who eventually asks why the overtime is so high. A camera network doesn&amp;rsquo;t get tired, doesn&amp;rsquo;t need a warrant to keep running, and doesn&amp;rsquo;t forget. The Court&amp;rsquo;s whole argument in Knotts rested on the idea that the beeper was just a stand-in for an officer&amp;rsquo;s own eyes and legs. Once you&amp;rsquo;re logging millions of people a day into a searchable, retained database, you&amp;rsquo;ve now built something categorically different from an officer with a good pair of binoculars, and pretending otherwise is where I think the &amp;ldquo;no expectation of privacy&amp;rdquo; line gets stretched well past what it was ever meant to cover.&lt;/p&gt;
+&lt;p&gt;Furthermore, the technology continues to expand past even this. Many of these camera systems are being &lt;a href=&#34;https://developmentstoday.com/culture/signaltrace-license-plate-readers-track-phones-airpods-smartwatches&#34;&gt;fitted with add-on sensors&lt;/a&gt; that pick up individually identifiable Bluetooth, Wi-Fi, and other wireless signals coming from phones, earbuds, and smartwatches inside passing vehicles. This practice shifts the entire premise of the system as it has been intially presented. It becomes no longer about identifying a license plate, but about identifying the specific people riding inside the car, whether or not they&amp;rsquo;re the registered owner, whether or not they&amp;rsquo;ve done anything to draw attention, etc. The device evolves from being a license plate reader and starts being a people-tracking surveillance checkpoint that happens to be mounted near a road.&lt;/p&gt;
+&lt;h1 id=&#34;why-this-should-matter-to-you-regardless-of-politics&#34;&gt;Why this should matter to you, regardless of politics&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;d ask you to set aside, for a moment, whatever your priors are about policing generally. This is not a partisan issue, and treating it as one is perhaps partly how these systems get installed without due public conversation or consideration. A searchable record of where every driver in an area has been doesn&amp;rsquo;t discriminate based on who&amp;rsquo;s asking to see it. It&amp;rsquo;s just as available to a well-meaning detective solving a hit and run as it is to an agency doing immigration sweeps, an abusive ex-partner or &lt;a href=&#34;https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/&#34;&gt;bad actor with a badge and access to the system&lt;/a&gt;, or whoever ends up running these databases twenty years from now under laws and politics none of us can predict today.&lt;/p&gt;
+&lt;p&gt;These are all valid arguments for caution here, and the latter is the same one Knotts&amp;rsquo; lawyers made in 1983: it&amp;rsquo;s not really about whether today&amp;rsquo;s use is reasonable, but what the infrastructure makes possible once it exists, because infrastructure, once installed, tends to outlast the specific justification that got it funded.&lt;/p&gt;
+&lt;p&gt;You can be sure the vendors lobbying your local councils and/or agencies for this technology are well aware of this.&lt;/p&gt;
+&lt;h1 id=&#34;what-you-can-actually-do-about-it&#34;&gt;What you can actually do about it&lt;/h1&gt;
+&lt;p&gt;Regardless of where you land on this issue, none of this requires you to become a constitutional scholar. It mostly requires showing up. Camera contracts get approved at city council and parish/county council meetings, often with very little public comment because most residents don&amp;rsquo;t know the vote is happening. Find out if your town already has this technology, and if it doesn&amp;rsquo;t yet, find out if it&amp;rsquo;s on an upcoming agenda somewhere near you.&lt;/p&gt;
+&lt;p&gt;A few places to start:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://deflock.org&#34;&gt;DeFlock&lt;/a&gt;&lt;/strong&gt; — a crowdsourced, open map of ALPR camera locations across the country, so you can see what&amp;rsquo;s already installed near you.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://atlasofsurveillance.org&#34;&gt;EFF&amp;rsquo;s Atlas of Surveillance&lt;/a&gt;&lt;/strong&gt; — a broader project from the Electronic Frontier Foundation tracking surveillance technology used by police departments nationwide, including but not limited to license plate readers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Read your city or parish/county/city council&amp;rsquo;s meeting minutes. Ask your local police department, in writing, whether they have a contract with an ALPR vendor, and if so, ask for the data retention policy and who else has access to the database. These are &lt;a href=&#34;https://www.foia.gov/how-to.html&#34;&gt;public records requests any resident can make&lt;/a&gt;. You &lt;a href=&#34;https://www.foia.gov/about.html&#34;&gt;don&amp;rsquo;t need permission&lt;/a&gt; to ask.&lt;/p&gt;
+&lt;p&gt;The Supreme Court told us plainly in 1983 what would eventually force a second look. We are the generation that gets to decide on taking that look, or whether to let this raincheck expire unclaimed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Postcard from the Beach</title>
       <link>http://localhost:1313/a-postcard-from-the-beach/</link>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
@@ -146,9 +188,9 @@
       <guid isPermaLink="false">http://scottk.mba/how-to-keep-your-mac-awake-using-terminal/</guid>
       <description>&lt;p&gt;Recently I was running some tasks on my Macbook Pro I wanted to prevent the machine from sleeping. A quick &lt;a href=&#34;https://spreadprivacy.com/why-use-duckduckgo-instead-of-google/&#34;&gt;DuckDuckGo&lt;/a&gt; search tipped me off to the &lt;code&gt;caffeinate&lt;/code&gt; command that&amp;rsquo;s built into the Terminal in macOS. If this is a well-known thing in macOS, I&amp;rsquo;ve never come across it so I thought I&amp;rsquo;d share here in case anyone else would find it useful.&lt;/p&gt;
 &lt;p&gt;If you have some reason to prevent your machine running macOS from sleeping, &lt;code&gt;caffeinate&lt;/code&gt; gives you a few options. For basic usage, here&amp;rsquo;s how you use it:&lt;/p&gt;
-&lt;h2 id=&#34;step-1-open-terminal&#34;&gt;Step 1: Open Terminal&lt;/h2&gt;
+&lt;h1 id=&#34;step-1-open-terminal&#34;&gt;Step 1: Open Terminal&lt;/h1&gt;
 &lt;p&gt;If you&amp;rsquo;re not sure how to do this, &lt;a href=&#34;https://www.tomsguide.com/how-to/how-to-open-terminal-on-mac&#34;&gt;see here&lt;/a&gt; (it&amp;rsquo;s one of the Applications that comes with macOS).&lt;/p&gt;
-&lt;h2 id=&#34;step-2-type-caffeinate-and-hit-enter&#34;&gt;Step 2: Type &lt;code&gt;caffeinate&lt;/code&gt; and hit Enter&lt;/h2&gt;
+&lt;h1 id=&#34;step-2-type-caffeinate-and-hit-enter&#34;&gt;Step 2: Type &lt;code&gt;caffeinate&lt;/code&gt; and hit Enter&lt;/h1&gt;
 &lt;p&gt;This will prevent your Mac from sleeping as long as you don&amp;rsquo;t close the lid or exit Terminal. Once you close Terminal, hit Ctrl+C, or close the lid on your machine, the process will exit and normal sleep behavior will resume.&lt;/p&gt;
 &lt;p&gt;Now, here&amp;rsquo;s the really handy part—&lt;code&gt;caffeinate&lt;/code&gt; takes arguments, meaning that if you add an option after the command, you can change how long it will run or set it to wait for a specific process or command to complete before exiting.&lt;/p&gt;
 &lt;ul&gt;
@@ -158,7 +200,7 @@
 &lt;li&gt;&lt;code&gt;caffeinate -w &amp;lt;pid&amp;gt;&lt;/code&gt; prevents sleeping until a running process completes, provided you define the PID of the process&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
 &lt;p&gt;For further reading, here&amp;rsquo;s &lt;a href=&#34;https://commandmasters.com/commands/caffeinate-osx/&#34;&gt;the original article&lt;/a&gt; I found as well as the actual &lt;a href=&#34;https://ss64.com/mac/caffeinate.html&#34;&gt;man page&lt;/a&gt; for the command.&lt;/p&gt;
 </description>
     </item>
@@ -171,9 +213,9 @@
       <guid isPermaLink="false">http://scottk.mba/how-to-improve-your-sites-typography/</guid>
       <description>&lt;p&gt;Good typography is the foundation of a well-designed website, especially for personal sites and blogs like this one, where words are the main focus. You don&amp;rsquo;t need fancy layouts or complex design systems (unless you want that, then knock yourself out by all means). Even just paying attention to well-set text, specifically chosen fonts, and proper spacing can elevate your site from something amateurish to something polished with minimal effort. Plus, while the reader may not be able to consciously pick out the difference, good typography is really meant for &lt;em&gt;them&lt;/em&gt;, the readers of your work. It creates an overall better experience for them.&lt;/p&gt;
 &lt;p&gt;Many folks overlook typography when setting up a personal site or blog, but it directly impacts readability, user experience and, sometimes, even the credibility of your content. Poorly chosen fonts, too-tight spacing, or sprawling line lengths can make reading uncomfortable, leading discerning readers to click away before they&amp;rsquo;ve even engaged with your work. On the other hand, clean and intentional typography makes reading effortless, encouraging visitors to stay longer and enjoy more of what you have to say.&lt;/p&gt;
-&lt;h2 id=&#34;core-principles-of-good-web-typography&#34;&gt;Core Principles of Good Web Typography&lt;/h2&gt;
+&lt;h1 id=&#34;core-principles-of-good-web-typography&#34;&gt;Core Principles of Good Web Typography&lt;/h1&gt;
 &lt;p&gt;Don&amp;rsquo;t worry. You don&amp;rsquo;t need to be a trained or professional designer to get typography right. The good news is that we can learn from people who &lt;em&gt;are&lt;/em&gt; trained in these things. Here are some golden &amp;ldquo;rules&amp;rdquo; to get started off on the right foot:&lt;/p&gt;
-&lt;h3 id=&#34;1-choose-the-right-fonts&#34;&gt;1. Choose the right fonts&lt;/h3&gt;
+&lt;h2 id=&#34;1-choose-the-right-fonts&#34;&gt;1. Choose the right fonts&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://fonts.google.com/?categoryFilters=Serif:%2FSerif%2F*,%2FSlab%2F*&#34;&gt;Serif fonts&lt;/a&gt; have a more classic and elegant feel, while &lt;a href=&#34;https://fonts.google.com/?categoryFilters=Sans+Serif:%2FSans%2F*&#34;&gt;sans-serif fonts&lt;/a&gt; look more modern and minimal.&lt;/p&gt;
 &lt;p&gt;Stick to two fonts, max. If you use more than one, keep one for body text and one for headings. Mixing too many fonts leads to visual clutter.&lt;/p&gt;
 &lt;p&gt;Prioritize readability by avoiding overly stylized or novelty fonts for body text (or preferably, at all). If a font looks &amp;ldquo;cool&amp;rdquo; but strains the eyes, it&amp;rsquo;s a bad choice.&lt;/p&gt;
@@ -187,7 +229,7 @@
 &lt;p&gt;Avoid walls of text by adding a little extra space between paragraphs.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;The above are general guidelines. When making any changes, the best judges of which settings are right are your eyes. Make tiny adjustments and see where the sweet spot is in terms of readability, which is the most important thing if you haven&amp;rsquo;t picked up on that already. There is certainly an art to it.&lt;/p&gt;
-&lt;h2 id=&#34;simple-css-example-for-better-typography&#34;&gt;Simple CSS Example for Better Typography&lt;/h2&gt;
+&lt;h1 id=&#34;simple-css-example-for-better-typography&#34;&gt;Simple CSS Example for Better Typography&lt;/h1&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#268bd2;font-weight:bold&#34;&gt;body&lt;/span&gt; {
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#859900&#34;&gt;font-family&lt;/span&gt;: &lt;span style=&#34;color:#2aa198&#34;&gt;&amp;#34;Charter&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#859900;font-weight:bold&#34;&gt;serif&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#859900&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#2aa198;font-weight:bold&#34;&gt;18&lt;/span&gt;&lt;span style=&#34;color:#859900;font-weight:bold&#34;&gt;px&lt;/span&gt;;
@@ -213,7 +255,7 @@
 &lt;li&gt;ensures adequate line spacing and comfortable reading width, and&lt;/li&gt;
 &lt;li&gt;adds additional spacing to prevent things from feeling cramped.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;tools-to-make-typography-even-easier&#34;&gt;Tools to make typography even easier&lt;/h2&gt;
+&lt;h1 id=&#34;tools-to-make-typography-even-easier&#34;&gt;Tools to make typography even easier&lt;/h1&gt;
 &lt;p&gt;Don&amp;rsquo;t feel the need to tweak every detail and get stuck in analysis paralysis. Here are some reasources that I often use:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://practicaltypography.com/&#34;&gt;Butterick&amp;rsquo;s Practical Typography&lt;/a&gt; for expert advice on typography for everyday life&lt;/li&gt;
@@ -587,12 +629,12 @@ The lone and level sands stretch far away.”&lt;/p&gt;
       <description>&lt;p&gt;I recently wrote here about some of my favorite &lt;a href=&#34;http://localhost:1313/personal-automations/&#34;&gt;personal automations&lt;/a&gt;. When updating my a finance automation script recently, I decided I wanted a way to quickly run the automation anywhere. I typically have a terminal open, so I thought a custom terminal command would be the best way to fire off my scripts when I need them.&lt;/p&gt;
 &lt;p&gt;Unfortunately, the resources are slim out there regarding how to configure custom terminal commands in MacOS. Using an article I dug up (linked below), I was able to figure it out.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s how I was able to get it set it up in a few steps:&lt;/p&gt;
-&lt;h2 id=&#34;1-create-a-file-to-store-your-custom-commands&#34;&gt;1. Create a file to store your custom commands&lt;/h2&gt;
+&lt;h1 id=&#34;1-create-a-file-to-store-your-custom-commands&#34;&gt;1. Create a file to store your custom commands&lt;/h1&gt;
 &lt;p&gt;Open a terminal window and navigate to the Home directory using the command:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#cb4b16&#34;&gt;cd&lt;/span&gt; ~
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now, create the custom commands file using the command:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;touch .my_custom_commands.sh
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;2-add-custom-commands&#34;&gt;2. Add custom commands&lt;/h2&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;2-add-custom-commands&#34;&gt;2. Add custom commands&lt;/h1&gt;
 &lt;p&gt;Open the file in Visual Studio Code or your preferred text editor. Note that the dot we added before the filename creates a hidden file, so be sure you&amp;rsquo;re able to locate and open it properly.&lt;/p&gt;
 &lt;p&gt;In the new file, add your custom commands using the following structure and save:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#93a1a1;font-style:italic&#34;&gt;#!/bin/bash
@@ -600,10 +642,10 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#859900&#34;&gt;function&lt;/span&gt; my_function_name() {
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    python ~/path/to/my/script.py
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;3-set-up-file-permissions-if-needed&#34;&gt;3. Set up file permissions, if needed&lt;/h2&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;3-set-up-file-permissions-if-needed&#34;&gt;3. Set up file permissions, if needed&lt;/h1&gt;
 &lt;p&gt;The new file may generate a &amp;ldquo;permission denied&amp;rdquo; message. If so, you should be able to fix this by running the following command:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#586e75;background-color:#eee8d5;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chmod +x .my_custom_commands.sh
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;4-make-it-available-in-the-terminal&#34;&gt;4. Make it available in the terminal&lt;/h2&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;4-make-it-available-in-the-terminal&#34;&gt;4. Make it available in the terminal&lt;/h1&gt;
 &lt;p&gt;If you try to run the command (the name of the function) you just created, you won&amp;rsquo;t be able to quite yet. We&amp;rsquo;ll need to let the terminal know to load your commands to each new session.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Open the &lt;code&gt;rc&lt;/code&gt; file:&lt;/li&gt;
@@ -636,11 +678,11 @@ The lone and level sands stretch far away.”&lt;/p&gt;
       <description>&lt;p&gt;After some interest from my last post where I discussed some of my personal automations, I&amp;rsquo;d like to expand on the topic of personal automation a bit and discuss how you can automate (mostly) the boring or tedious stuff in &lt;em&gt;your&lt;/em&gt; life!&lt;/p&gt;
 &lt;p&gt;I say &amp;ldquo;mostly&amp;rdquo; because while with enough time and resources, you &lt;em&gt;could&lt;/em&gt; automate anything with a repeatable process. However, considering our main goal here is to save time, you&amp;rsquo;ll have to evaluate which things are pragmatically worth expending your time and effort to automate.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s my general process:&lt;/p&gt;
-&lt;h2 id=&#34;1-choose-what-you-want-to-automate&#34;&gt;1. Choose what you want to automate&lt;/h2&gt;
+&lt;h1 id=&#34;1-choose-what-you-want-to-automate&#34;&gt;1. Choose what you want to automate&lt;/h1&gt;
 &lt;p&gt;An obvious first step, I know. But as I just mentioned, here&amp;rsquo;s where you sift through your daily life to see where your pain points are. Make a short list of the most tedious things you&amp;rsquo;d rather not have to do, and then pick out the things that don&amp;rsquo;t require human skill as part of the process. That is to say, the best candidates for automation are those with a repeatable process.&lt;/p&gt;
-&lt;h2 id=&#34;2-record-the-steps&#34;&gt;2. Record the steps&lt;/h2&gt;
+&lt;h1 id=&#34;2-record-the-steps&#34;&gt;2. Record the steps&lt;/h1&gt;
 &lt;p&gt;Now that you&amp;rsquo;ve chosen a task that can be reasonably automated, write out the steps to give yourself an idea of what the automation needs to accomplish. If the task is complex, that&amp;rsquo;s okay for now. Just write down the general steps as a working outline.&lt;/p&gt;
-&lt;h2 id=&#34;3-identify-the-most-painful-step&#34;&gt;3. Identify the most painful step&lt;/h2&gt;
+&lt;h1 id=&#34;3-identify-the-most-painful-step&#34;&gt;3. Identify the most painful step&lt;/h1&gt;
 &lt;p&gt;From the list you just created, look through the process to find the most pressing bottleneck or pain point. This is likely the best place to start automating. You may have thought we were going to automate the entire process all at once, but in my opinion it&amp;rsquo;s best to start small and iterate your automation until it captures the overall process over time.&lt;/p&gt;
 &lt;p&gt;This approach has several advantages:&lt;/p&gt;
 &lt;ul&gt;
@@ -648,20 +690,20 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;li&gt;You get to test each step to make sure it works fully and accurately before moving onto the next.&lt;/li&gt;
 &lt;li&gt;The work is spread out over time, so you don&amp;rsquo;t spend one large chunk of time automating an entire complex process (unless you really, really want to).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;4-choose-your-platform&#34;&gt;4. Choose your platform&lt;/h2&gt;
+&lt;h1 id=&#34;4-choose-your-platform&#34;&gt;4. Choose your platform&lt;/h1&gt;
 &lt;p&gt;Now, for the task(s) you&amp;rsquo;ve just targeted for automation, you&amp;rsquo;ll want to consider which platform best suits the triggers/actions involved. For example, my simple &amp;ldquo;Blog to Social Media&amp;rdquo; automation is done using &lt;a href=&#34;https://ifttt.com/&#34;&gt;IFTTT&lt;/a&gt; since there is no complex logic involved. That automation is simply a trigger (a new post is published to my &lt;a href=&#34;https://sknight.xyz/blog/index.xml&#34;&gt;RSS Feed&lt;/a&gt;) and subsequent actions (a new post is published to Mastodon and X/Twitter) are executed.&lt;/p&gt;
 &lt;p&gt;A more complex example might be my financial automation. I&amp;rsquo;m taking a CSV of my checking account transactions, parsing through that and performing some matching to categorize each transaction, and then saving the result to an Excel file for my records. For this, I opted to write a custom Python script which handles the more sophisticated logic.&lt;/p&gt;
 &lt;p&gt;The point is, I choose a platform that&amp;rsquo;s appropriate for the complexity level of the task at hand. It&amp;rsquo;s not a one-size-fits-all sort of thing.&lt;/p&gt;
-&lt;h2 id=&#34;5-automate-it&#34;&gt;5. Automate it&lt;/h2&gt;
+&lt;h1 id=&#34;5-automate-it&#34;&gt;5. Automate it&lt;/h1&gt;
 &lt;p&gt;You&amp;rsquo;ve chosen your most painful step to automate, as well as your platform. From here, create the script as required to solve the problem at hand. You may need to consider how often to run the automation or what triggers need to be configured so that the automation is run as needed.&lt;/p&gt;
 &lt;p&gt;Depending on the scenario, you might only need to run your automation manually (on a case-by-case basis, as my finance automation) or via some other action like my RSS-to-Social script.&lt;/p&gt;
 &lt;p&gt;As a tip: if you&amp;rsquo;re opting for a no-code platform like IFTTT or Make to set things up, it still helps to have some surface-level familiarity with APIs and how to use them. This will come in handy for cases in which you need to interact with some service that doesn&amp;rsquo;t have a built-in set of building blocks.&lt;/p&gt;
-&lt;h2 id=&#34;6-repeat-steps-3-5-until-the-whole-process-is-automated&#34;&gt;6. Repeat steps 3-5 until the whole process is automated&lt;/h2&gt;
+&lt;h1 id=&#34;6-repeat-steps-3-5-until-the-whole-process-is-automated&#34;&gt;6. Repeat steps 3-5 until the whole process is automated&lt;/h1&gt;
 &lt;p&gt;Keep working through your Step 3 list until the whole process is done. This will help you automate the most difficult parts of a process, significantly cutting down on your pain points even from the first iteration.&lt;/p&gt;
-&lt;h2 id=&#34;7-deploy&#34;&gt;7. Deploy&lt;/h2&gt;
+&lt;h1 id=&#34;7-deploy&#34;&gt;7. Deploy&lt;/h1&gt;
 &lt;p&gt;Set up your automation using the appropriate triggers, as mentioned previously. If you&amp;rsquo;re using an online service like IFTTT, this is probably already taken care of. If you&amp;rsquo;ve opted for something more custom like a Python script, you&amp;rsquo;ll need to consider how to deploy that so it&amp;rsquo;ll run when you need it.&lt;/p&gt;
 &lt;p&gt;Good solutions for this could be &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt;, &lt;a href=&#34;https://aws.amazon.com/console/&#34;&gt;Amazon Web Services&lt;/a&gt;, or one of any number of similar cloud hosting services. Find one that fits your expertise and budget.&lt;/p&gt;
-&lt;h2 id=&#34;8-monitor-iterate-and-improve&#34;&gt;8. Monitor, iterate, and improve&lt;/h2&gt;
+&lt;h1 id=&#34;8-monitor-iterate-and-improve&#34;&gt;8. Monitor, iterate, and improve&lt;/h1&gt;
 &lt;p&gt;While this is all called &amp;ldquo;automation&amp;rdquo;, you&amp;rsquo;d be sorely missing a step by just setting everything and forgetting about it. You&amp;rsquo;ll want to monitor things over time to make sure that, once you&amp;rsquo;re &amp;ldquo;done&amp;rdquo;, everything &lt;em&gt;keeps&lt;/em&gt; running as intended.&lt;/p&gt;
 &lt;p&gt;APIs and services change their available functions, the timing of tasks is prone to change at various points, and many other things may change over time from your initial configuration.&lt;/p&gt;
 &lt;p&gt;In addition, you may think of ways to improve your automation or use the extra time you&amp;rsquo;ve saved to add more steps that wouldn&amp;rsquo;t have been possible when you were handling things manually.&lt;/p&gt;
@@ -731,25 +773,25 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;Whether you&amp;rsquo;re a business owner or an individual with a personal brand, a fundamental way to establish your presence online is by having a well-designed, user-friendly website.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re old-school and/or have had second thoughts on this, let me assure you&amp;mdash;the benefits far outweigh any initial hesitations you might have.&lt;/p&gt;
 &lt;p&gt;Here are some reasons I believe it&amp;rsquo;s important to have your own website.&lt;/p&gt;
-&lt;h2 id=&#34;1-professional-credibility&#34;&gt;1. Professional Credibility&lt;/h2&gt;
+&lt;h1 id=&#34;1-professional-credibility&#34;&gt;1. Professional Credibility&lt;/h1&gt;
 &lt;p&gt;Imagine you&amp;rsquo;re in need of a particular service or product. What&amp;rsquo;s the first thing you do? You pull out your smartphone or sit down at your computer and search for it online. In today&amp;rsquo;s digital landscape, your website is often the first point of contact that potential customers have with your brand. A well-designed website signals professionalism and establishes trust. It conveys that you&amp;rsquo;re serious about what you do and are accessible to your audience.&lt;/p&gt;
 &lt;p&gt;If you don&amp;rsquo;t have your own website, then you&amp;rsquo;re not controlling your public image.&lt;/p&gt;
 &lt;p&gt;Speaking of which&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;2-control-your-brand-image&#34;&gt;2. Control Your Brand Image&lt;/h2&gt;
+&lt;h1 id=&#34;2-control-your-brand-image&#34;&gt;2. Control Your Brand Image&lt;/h1&gt;
 &lt;p&gt;Your website is like your digital storefront. It&amp;rsquo;s where you have complete control over how your brand is presented. You can choose the colors, design, content, and overall vibe to ensure consistency with your brand identity. This control allows you to tailor the user experience, and in turn more effectively communicate your message and values to your audience.&lt;/p&gt;
-&lt;h2 id=&#34;3-global-reach&#34;&gt;3. Global Reach&lt;/h2&gt;
+&lt;h1 id=&#34;3-global-reach&#34;&gt;3. Global Reach&lt;/h1&gt;
 &lt;p&gt;The internet is a vast space, and having a website means you have the potential to reach a global audience. Your website is accessible 24/7, allowing people from different time zones to learn about you and your offerings, even when you&amp;rsquo;re asleep.&lt;/p&gt;
 &lt;p&gt;This global reach can significantly expand your customer base and generate new business opportunities.&lt;/p&gt;
-&lt;h2 id=&#34;4-effective-marketing-tool&#34;&gt;4. Effective Marketing Tool&lt;/h2&gt;
+&lt;h1 id=&#34;4-effective-marketing-tool&#34;&gt;4. Effective Marketing Tool&lt;/h1&gt;
 &lt;p&gt;You can optimize your website for search engines (SEO) to improve its visibility in search results, attracting organic traffic. Additionally, you can integrate various marketing strategies such as email campaigns, social media integration, and blogging to engage and retain your audience, ultimately driving more conversions and business growth. With all of these working in your favor, your website can be a powerfully effective marketing tool to reach your audience.&lt;/p&gt;
-&lt;h2 id=&#34;5-showcase-your-offerings&#34;&gt;5. Showcase Your Offerings&lt;/h2&gt;
+&lt;h1 id=&#34;5-showcase-your-offerings&#34;&gt;5. Showcase Your Offerings&lt;/h1&gt;
 &lt;p&gt;For artists, photographers, entrepreneurs, or anyone with a creative or business venture, a website is an ideal platform to showcase your work or products. High-quality images, videos, testimonials, and detailed descriptions can be displayed to captivate visitors and give them a clear understanding of what you&amp;rsquo;re offering.&lt;/p&gt;
-&lt;h2 id=&#34;6-enhanced-communication-and-engagement&#34;&gt;6. Enhanced Communication and Engagement&lt;/h2&gt;
+&lt;h1 id=&#34;6-enhanced-communication-and-engagement&#34;&gt;6. Enhanced Communication and Engagement&lt;/h1&gt;
 &lt;p&gt;Having a website allows for direct interaction with your audience through contact forms, email subscriptions, and comment sections. This two-way communication helps in understanding your audience&amp;rsquo;s needs, preferences, and feedback. You can address their inquiries promptly and build a community around your brand.&lt;/p&gt;
 &lt;p&gt;This can seem overwhelming or unattractive at first, I know. I&amp;rsquo;m simply illustrating the potential here, but you can start with the benefit of just having your existing points of contact in one place (even if it&amp;rsquo;s just phone or email).&lt;/p&gt;
-&lt;h2 id=&#34;7-cost-effective-and-scalable&#34;&gt;7. Cost-Effective and Scalable&lt;/h2&gt;
+&lt;h1 id=&#34;7-cost-effective-and-scalable&#34;&gt;7. Cost-Effective and Scalable&lt;/h1&gt;
 &lt;p&gt;Contrary to what some may think, creating a website today is more accessible and cost-effective than ever. With various user-friendly platforms and tools available, you don&amp;rsquo;t need to be a tech whiz to set up a professional website. Moreover, as your business or personal brand grows, your website can scale with you, accommodating increased traffic and expanding offerings.&lt;/p&gt;
-&lt;h2 id=&#34;closing-thoughts&#34;&gt;Closing Thoughts&lt;/h2&gt;
+&lt;h1 id=&#34;closing-thoughts&#34;&gt;Closing Thoughts&lt;/h1&gt;
 &lt;p&gt;Having a website used to be a novelty or a luxury. These days, it&amp;rsquo;s a necessity.&lt;/p&gt;
 &lt;p&gt;Whether you&amp;rsquo;re a small business owner, a freelancer, an artist, or just someone with a passion to share, a website offers a platform to showcase your expertise, connect with your audience, and enhance your credibility in the online world.&lt;/p&gt;
 </description>
@@ -765,38 +807,38 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;Data drives just about every aspect of our world, and increasingly so as technology continues to evolve. A growing challenge with this is the art of managing and governing this ever-growing volume of data in a way that ensures the proper maintenance of its quality and security.&lt;/p&gt;
 &lt;p&gt;In my career as a data professional I have seen how data governance can slip into an afterthought, particularly in small or mid-sized organizations. Luckily, automated data governance can be a powerful tool to ensure data quality, security, and compliance without much effort.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s take a moment to explore the idea and understand how it is poised to shape the future of data management.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-data-governance&#34;&gt;What is data governance?&lt;/h2&gt;
+&lt;h1 id=&#34;what-is-data-governance&#34;&gt;What is data governance?&lt;/h1&gt;
 &lt;p&gt;Where data analysis is the practice of collecting, transforming, visualizing, and utilizing data to inform decision making, data governance involves the establishment of policies, procedures, and controls to ensure data quality, integrity, privacy, and security. It&amp;rsquo;s about defining who has access to what data, how the data should be used, and maintaining compliance with regulatory requirements like GDPR, HIPAA, or other industry-specific standards that apply to your organization.&lt;/p&gt;
 &lt;p&gt;Traditionally, data governance has been a manual and resource-intensive process which is prone to human error. However, automation can streamline these processes with much more efficiency and effectiveness.&lt;/p&gt;
 &lt;p&gt;Before we move on, I would like to note that, as with all things involving automation, I do recommend including some element of regular human-led oversight to ensure everything functions as intended. If erroneous automations are left to their own devices and decide to go off the rails, whatever they control will quickly suffer from a lack of regular oversight.&lt;/p&gt;
-&lt;h2 id=&#34;why-should-data-governance-be-automated&#34;&gt;Why should data governance be automated?&lt;/h2&gt;
-&lt;h3 id=&#34;keep-pace-with-scale-and-complexity&#34;&gt;Keep pace with scale and complexity&lt;/h3&gt;
+&lt;h1 id=&#34;why-should-data-governance-be-automated&#34;&gt;Why should data governance be automated?&lt;/h1&gt;
+&lt;h2 id=&#34;keep-pace-with-scale-and-complexity&#34;&gt;Keep pace with scale and complexity&lt;/h2&gt;
 &lt;p&gt;As a business grows, so does their data. While it may seem fine to manage data policy in a smaller organization, this task quickly becomes unfeasible as a company expands both internally and externally; internally, with respect to access control and permissions monitoring, and externally, with respect to data volume and security.&lt;/p&gt;
-&lt;h3 id=&#34;real-time-monitoring&#34;&gt;Real-time monitoring&lt;/h3&gt;
+&lt;h2 id=&#34;real-time-monitoring&#34;&gt;Real-time monitoring&lt;/h2&gt;
 &lt;p&gt;Automation allows you to monitor your data usage in real time, which in turn ensures more immediate responses to violations or discrepancies.&lt;/p&gt;
-&lt;h3 id=&#34;improved-consistency-and-efficiency&#34;&gt;Improved consistency and efficiency&lt;/h3&gt;
+&lt;h2 id=&#34;improved-consistency-and-efficiency&#34;&gt;Improved consistency and efficiency&lt;/h2&gt;
 &lt;p&gt;By implementing automation you are simultaneously ensuring the consistent application of your governance policies, reducing the error stemming from human-led governance.&lt;/p&gt;
-&lt;h3 id=&#34;guaranteed-compliance&#34;&gt;Guaranteed compliance&lt;/h3&gt;
+&lt;h2 id=&#34;guaranteed-compliance&#34;&gt;Guaranteed compliance&lt;/h2&gt;
 &lt;p&gt;Automated processes can be configured to comply with the latest data privacy regulations, making sure your compliance never lapses.&lt;/p&gt;
-&lt;h2 id=&#34;how-can-automation-enhance-data-governance&#34;&gt;How can automation enhance data governance?&lt;/h2&gt;
-&lt;h3 id=&#34;quality-monitoring-and-cleaning&#34;&gt;Quality monitoring and cleaning&lt;/h3&gt;
+&lt;h1 id=&#34;how-can-automation-enhance-data-governance&#34;&gt;How can automation enhance data governance?&lt;/h1&gt;
+&lt;h2 id=&#34;quality-monitoring-and-cleaning&#34;&gt;Quality monitoring and cleaning&lt;/h2&gt;
 &lt;p&gt;Automations can be configured to monitor data quality continuously, so flagging and remediation of inconsistencies or bad data can be carried out even if you have a constant stream of incoming data.&lt;/p&gt;
-&lt;h3 id=&#34;access-control&#34;&gt;Access control&lt;/h3&gt;
+&lt;h2 id=&#34;access-control&#34;&gt;Access control&lt;/h2&gt;
 &lt;p&gt;Perhaps an obvious place to implement automation is with access rights and permissions. As an organization grows, it should not be granting access rights to individual users as it may have been done with a smaller team. Automations should be in place to manage access with user groups and predefined roles and rules.&lt;/p&gt;
-&lt;h3 id=&#34;managing-metadata&#34;&gt;Managing metadata&lt;/h3&gt;
+&lt;h2 id=&#34;managing-metadata&#34;&gt;Managing metadata&lt;/h2&gt;
 &lt;p&gt;Using automated processes to extract and manage metadata can provide valuable insights into data lineage, usage, and relevance. For example, I implemented automated metadata management on a previous team using SharePoint Document Libraries. This helped us create the versioning, rollback, and artifact creation we needed to pass a &lt;a href=&#34;https://www.cmmiinstitute.com/learning/appraisals/levels&#34;&gt;CMMI Maturity Level 3 appraisal&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;policy-enforcement&#34;&gt;Policy enforcement&lt;/h3&gt;
+&lt;h2 id=&#34;policy-enforcement&#34;&gt;Policy enforcement&lt;/h2&gt;
 &lt;p&gt;Governance policies, such as data retention policies and privacy configurations, can be automated using roles and rules as mentioned before. This allows your policies to be enforced consistently across the organization.&lt;/p&gt;
-&lt;h2 id=&#34;how-to-get-started&#34;&gt;How to get started&lt;/h2&gt;
-&lt;h3 id=&#34;1-assess-the-playing-field&#34;&gt;1. Assess the playing field.&lt;/h3&gt;
+&lt;h1 id=&#34;how-to-get-started&#34;&gt;How to get started&lt;/h1&gt;
+&lt;h2 id=&#34;1-assess-the-playing-field&#34;&gt;1. Assess the playing field.&lt;/h2&gt;
 &lt;p&gt;Conduct an in-depth analysis of your existing data to identify areas that can be automated. Common examples of areas may include those mentioned in the section above.&lt;/p&gt;
-&lt;h3 id=&#34;2-choose-your-tools&#34;&gt;2. Choose your tools.&lt;/h3&gt;
+&lt;h2 id=&#34;2-choose-your-tools&#34;&gt;2. Choose your tools.&lt;/h2&gt;
 &lt;p&gt;Select automation tools that align with your organization&amp;rsquo;s requirements to integrate seamlessly with your existing systems.&lt;/p&gt;
-&lt;h3 id=&#34;3-implement-and-test&#34;&gt;3. Implement and test.&lt;/h3&gt;
+&lt;h2 id=&#34;3-implement-and-test&#34;&gt;3. Implement and test.&lt;/h2&gt;
 &lt;p&gt;Use the appropriate resources to design and implement automated data governance processes. Be sure to run a sufficient amount of testing to identify bugs and defects before putting your automations into a production environment. This will help you avoid many potential hiccups during your roll-out.&lt;/p&gt;
-&lt;h3 id=&#34;4-train-and-integrate&#34;&gt;4. Train and integrate.&lt;/h3&gt;
+&lt;h2 id=&#34;4-train-and-integrate&#34;&gt;4. Train and integrate.&lt;/h2&gt;
 &lt;p&gt;Train your team and communicate to the organization where appropriate on your new data governance processes. Educating your team is about how it works and who to reach out to for support will help things run smoothly after launch.&lt;/p&gt;
-&lt;h2 id=&#34;wrapping-up&#34;&gt;Wrapping up&lt;/h2&gt;
+&lt;h1 id=&#34;wrapping-up&#34;&gt;Wrapping up&lt;/h1&gt;
 &lt;p&gt;Automating your data governance isn&amp;rsquo;t just a new trend in tech. It&amp;rsquo;s a necessity in today&amp;rsquo;s data-centric world. By learning how to leverage automation, you can ensure your organization maintains a high degree a data quality and compliance, paving the way for improved decision-making and sustainable growth. And in doing so, you&amp;rsquo;ll watch your data management transform into a seamless, efficient, and secure process.&lt;/p&gt;
 </description>
     </item>
@@ -823,7 +865,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
       <description>&lt;p&gt;There&amp;rsquo;s a ton of advice out there on personal finance, but I&amp;rsquo;ve only ever found one resource that provided an actionable path to gaining Financial Independence and Retiring Early (F.I.R.E.). Read more about that concept &lt;a href=&#34;https://www.reddit.com/r/Fire&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s a handy flow chart created by a member of the &lt;a href=&#34;https://www.reddit.com/r/financialindependence&#34;&gt;r/financialindependence&lt;/a&gt; subreddit. Just within the last year this flow chart has helped me pay off nearly all debt, grow my net worth, and drastically increase my savings rate.&lt;/p&gt;
 &lt;p&gt;I wanted to save it here for quick reference, but if you live in the U.S. and want to retire early and/or become financially independent I recommend starting here.&lt;/p&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://u.cubeupload.com/demonlesondledon/FinFlowChartv43.png&#34;&gt;FIRE Flow Chart v4.3 - Light Mode&lt;/a&gt; (PNG)&lt;br&gt;
 &lt;a href=&#34;https://u.cubeupload.com/demonlesondledon/FinFlowChartv43Dark.png&#34;&gt;FIRE Flow Chart v4.3 - Dark Mode&lt;/a&gt; (PNG)&lt;/p&gt;
 &lt;p&gt;(via &lt;a href=&#34;https://www.reddit.com/r/financialindependence/comments/16xymii/fire_flow_chart_version_43/&#34;&gt;Reddit&lt;/a&gt;)&lt;/p&gt;
@@ -840,21 +882,21 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;My organization provides certified teaching staff, supplies, and facilities for children with dyslexia to get extra learning assistance outside of their school programs, all at no cost to parents. Being a board member of this organization has been a rewarding way to use my skills and business experience to give back to my community.&lt;/p&gt;
 &lt;p&gt;However, I&amp;rsquo;ll admit&amp;mdash;joining a board of directors isn&amp;rsquo;t always easy. It requires hard work, dedication, and a willingness to learn. But if you&amp;rsquo;re up for the challenge, it can be an incredibly rewarding experience.&lt;/p&gt;
 &lt;p&gt;Here are a few tips on how to join a board of directors:&lt;/p&gt;
-&lt;h2 id=&#34;know-the-difference-between-corporate-and-non-profit-boards&#34;&gt;Know the difference between &lt;em&gt;corporate&lt;/em&gt; and &lt;em&gt;non-profit&lt;/em&gt; boards.&lt;/h2&gt;
+&lt;h1 id=&#34;know-the-difference-between-corporate-and-non-profit-boards&#34;&gt;Know the difference between &lt;em&gt;corporate&lt;/em&gt; and &lt;em&gt;non-profit&lt;/em&gt; boards.&lt;/h1&gt;
 &lt;p&gt;There are several key differences between corporate and non-profit boards.&lt;/p&gt;
 &lt;p&gt;Corporate board positions are highly sought after because members are typically compensated for the position either through a salary, profit distributions, or both. Corporate boards drive the strategic direction and oversight of companies. Because of this, open positions are competitive and board members are chosen to fill specific strategic roles in the experience and skill set of the board as a whole.&lt;/p&gt;
 &lt;p&gt;Non-profit boards, as the name suggests, do not operate for profit and board members are not usually compensated for their work. Rather, board members operate on a volunteer basis, and are often even expected to help raise money for the organization or donate money personally to join the board. This concept may occasionally be referred to as &amp;ldquo;Give, Get, or Get Out&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Although these tips apply to both types of boards, for the purposes of this article I&amp;rsquo;ll be mainly referring to non-profit boards.&lt;/p&gt;
 &lt;p&gt;Here are some key tips to help you find a good fit:&lt;/p&gt;
-&lt;h2 id=&#34;start-by-networking&#34;&gt;Start by networking.&lt;/h2&gt;
+&lt;h1 id=&#34;start-by-networking&#34;&gt;Start by networking.&lt;/h1&gt;
 &lt;p&gt;One of the best ways to find board opportunities is through your network. Talk to your friends, family, and colleagues to see if they know of any boards that are looking for new members. You can also attend industry events and conferences to meet potential board members and recruiters. When you talk to people, make it known that you are seeking a board position and what your goals are.&lt;/p&gt;
-&lt;h2 id=&#34;do-your-research&#34;&gt;Do your research.&lt;/h2&gt;
+&lt;h1 id=&#34;do-your-research&#34;&gt;Do your research.&lt;/h1&gt;
 &lt;p&gt;Once you&amp;rsquo;ve identified a few boards that you&amp;rsquo;re interested in, take some time to learn more about them. What is the organization&amp;rsquo;s mission? What are the board&amp;rsquo;s responsibilities? What kind of skills and experience are they looking for in new members?&lt;/p&gt;
 &lt;p&gt;It is not advisable to join a board just for the title. If you don&amp;rsquo;t have a complementary skill set or lack passion for the cause, you will not be an effective board member and could even do more harm than good. Finding the right fit is a critical step here.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Bonus tip:&lt;/em&gt; Be creative in your search. In addition to traditional networking and job boards, there are a number of other ways to find board opportunities. For example, you can search online databases like &lt;a href=&#34;https://boardstrong.org/&#34;&gt;BoardStrong&lt;/a&gt; and &lt;a href=&#34;https://www.bridgespan.org/&#34;&gt;OnBoard&lt;/a&gt;. You can also connect with recruiters who specialize in board placements. And don&amp;rsquo;t be afraid to reach out directly to organizations that you&amp;rsquo;re interested in serving on.&lt;/p&gt;
-&lt;h2 id=&#34;prepare-your-pitch&#34;&gt;Prepare your pitch.&lt;/h2&gt;
+&lt;h1 id=&#34;prepare-your-pitch&#34;&gt;Prepare your pitch.&lt;/h1&gt;
 &lt;p&gt;When you&amp;rsquo;re ready to start applying for board positions, be prepared to pitch yourself. Write a brief bio that highlights your skills and experience, and explain why you&amp;rsquo;re interested in serving on the organization&amp;rsquo;s board. You may also want to write a cover letter that addresses the specific skills and experience that the board is looking for. This will help you stand out as a solid candidate.&lt;/p&gt;
-&lt;h2 id=&#34;be-patient-and-persistent&#34;&gt;Be patient and persistent.&lt;/h2&gt;
+&lt;h1 id=&#34;be-patient-and-persistent&#34;&gt;Be patient and persistent.&lt;/h1&gt;
 &lt;p&gt;It may take some time to find the right board position for you. Don&amp;rsquo;t get discouraged if you don&amp;rsquo;t get the first few positions you apply for. Keep networking, doing your research, and preparing your pitch, and eventually you&amp;rsquo;ll find the perfect fit.&lt;/p&gt;
 &lt;p&gt;Here are a few additional tips to help you stand out from the competition:&lt;/p&gt;
 &lt;ul&gt;
@@ -1177,11 +1219,11 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;In the &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;blog&lt;/a&gt; you&amp;rsquo;ll find an ever-growing collection of my thoughts, things I&amp;rsquo;ve learned, and interesting nuggets I find.&lt;/p&gt;
 &lt;p&gt;Here are several of my most recent posts:&lt;/p&gt;
 
+  &lt;a href=&#34;http://localhost:1313/no-expectation-of-privacy-alpr-surveillance/&#34;&gt;What &amp;#34;No Reasonable Expectation of Privacy&amp;#34; Actually Means, According to the 1983 Supreme Court&lt;/a&gt;&lt;br&gt;
+
   &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-beach/&#34;&gt;A Postcard from the Beach&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/new-address/&#34;&gt;New Address, Same Site&lt;/a&gt;&lt;br&gt;
-
-  &lt;a href=&#34;http://localhost:1313/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
 &lt;p&gt;If you &lt;a href=&#34;https://aboutfeeds.com/&#34;&gt;use an RSS reader&lt;/a&gt;, here&amp;rsquo;s the &lt;a href=&#34;http://localhost:1313/blog/index.xml&#34;&gt;blog&amp;rsquo;s RSS feed&lt;/a&gt;.&lt;/p&gt;
@@ -1317,7 +1359,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &amp;mdash;Epictetus&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I&amp;rsquo;ll leave you with a short story I read several years ago that&amp;rsquo;s informed my philosophy on this topic.&lt;/p&gt;
-&lt;h2 id=&#34;the-parable-of-the-fisherman&#34;&gt;The Parable of the Fisherman&lt;/h2&gt;
+&lt;h1 id=&#34;the-parable-of-the-fisherman&#34;&gt;The Parable of the Fisherman&lt;/h1&gt;
 &lt;p&gt;A smartly-dressed enterprising tourist is taking photographs when he notices a shabbily dressed local fisherman taking a nap in his fishing boat. The tourist is disappointed with the fisherman&amp;rsquo;s apparently lazy attitude towards his work, so he approaches the fisherman and asks him why he is lying around instead of catching fish. The fisherman explains that he went fishing in the morning, and the small catch would be sufficient for the next two days.&lt;/p&gt;
 &lt;p&gt;The tourist tells him that if he goes out to catch fish multiple times a day, he would be able to buy a motor in less than a year, a second boat in less than two years, and so on. The tourist further explains that one day, the fisherman could even build a small cold storage plant, later a pickling factory, fly around in a helicopter, build a fish restaurant, and export lobster directly to Paris without a middleman.&lt;/p&gt;
 &lt;p&gt;The nonchalant fisherman asks, &amp;ldquo;Then what?&amp;rdquo;&lt;/p&gt;
@@ -1367,13 +1409,13 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;My family and I like to collect antiques and vintage goods we find at estate sales and shops on the weekends. Recently, this had me thinking: the items we find are noticeably sturdier and of a higher quality than anything you&amp;rsquo;d find on shelves today. From time to time we&amp;rsquo;ll even find vintage electronics or machines that still work like they did when they were new (or close to it)!&lt;/p&gt;
 &lt;p&gt;Many devices today are only good for a few years before they start slowing down dramatically, exhibiting battery life issues, physically breaking due to poor craftsmanship, and so on. To make things worse, the average consumer can&amp;rsquo;t even get into many of today&amp;rsquo;s devices to replace a battery or other parts. Myriad examples of these types of situations exist today.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s talk about it.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-planned-obsolescence&#34;&gt;What is planned obsolescence?&lt;/h2&gt;
+&lt;h1 id=&#34;what-is-planned-obsolescence&#34;&gt;What is planned obsolescence?&lt;/h1&gt;
 &lt;p&gt;Planned obsolescence is the practice of designing products with a limited lifespan, so that they become obsolete and need to be replaced sooner rather than later. This is done in a variety of ways, such as cheapening materials, making products difficult to repair, intentionally reducing updates that slow down or disable older devices, or removing support for older devices altogether.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-right-to-repair&#34;&gt;What is Right to Repair?&lt;/h2&gt;
+&lt;h1 id=&#34;what-is-right-to-repair&#34;&gt;What is Right to Repair?&lt;/h1&gt;
 &lt;p&gt;The Right to Repair is simply the principle that consumers should have the right to repair their own devices. This would include the right to repair information, spare parts, and tools necessary to accomplish successful repairs without needing to go back and pay for manufacturer&amp;rsquo;s service or replacing the product outright.&lt;/p&gt;
 &lt;p&gt;Obviously, this is not appropriate in &lt;em&gt;all&lt;/em&gt; products for practal reasons. The Planned Obsolescence/Right to Repair conversation is primarily centered around the tech industry and its output.&lt;/p&gt;
 &lt;p&gt;Still, I would argue that we as consumers should have the option to repair most anything we own, if we so wish.&lt;/p&gt;
-&lt;h2 id=&#34;why-does-it-matter&#34;&gt;Why does it matter?&lt;/h2&gt;
+&lt;h1 id=&#34;why-does-it-matter&#34;&gt;Why does it matter?&lt;/h1&gt;
 &lt;p&gt;This principle is important for several reasons.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -1389,7 +1431,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;More jobs would be created in the repair industry.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;how-can-companies-transition&#34;&gt;How can companies transition?&lt;/h2&gt;
+&lt;h1 id=&#34;how-can-companies-transition&#34;&gt;How can companies transition?&lt;/h1&gt;
 &lt;p&gt;While it will likely take legislative action to cause any significant change to these practices, here is a potential path for companies wanting to create more repairable products:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1408,7 +1450,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;Allow independent repair shops to access diagnostic tools and software.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;what-can-we-do-about-it&#34;&gt;What can we do about it?&lt;/h2&gt;
+&lt;h1 id=&#34;what-can-we-do-about-it&#34;&gt;What can we do about it?&lt;/h1&gt;
 &lt;p&gt;The right to repair is a growing movement. Canada, members of the E.U., and a number of states in the U.S. have passed Right to Repair laws, and other countries are considering similar laws as an instrument of consumer and environmental protection. As the Right to Repair movement continues to gain momentum, the hope is that more tech companies will start designing products that are more repairable.&lt;/p&gt;
 &lt;p&gt;If you are interested in learning more about the Right to Repair, there are a number of resources &lt;a href=&#34;https://googlethatforyou.com/?q=right%20to%20repair&#34;&gt;available online&lt;/a&gt;. You can also contact your local elected officials and ask them to support Right to Repair legislation.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;d like to discuss more about this issue, use the button below to email me. I&amp;rsquo;d love to hear your thoughts.&lt;/p&gt;
@@ -1459,28 +1501,28 @@ The lone and level sands stretch far away.”&lt;/p&gt;
       <description>&lt;p&gt;A couple of weeks ago a family member struck up a conversation that&amp;rsquo;s become somewhat commonplace in my social dealings. The person (for their privacy I won&amp;rsquo;t name them here), asked what my thoughts were on &amp;ldquo;all this AI&amp;rdquo; that&amp;rsquo;s being developed lately.&lt;/p&gt;
 &lt;p&gt;Because I work in the tech industry, AI is something I&amp;rsquo;m regularly asked about by those close to me as it&amp;rsquo;s become more of a hot topic in the last couple of years. And my opinion on AI hasn&amp;rsquo;t changed much since a decade ago when the field&amp;rsquo;s momentum really began to pick up.&lt;/p&gt;
 &lt;p&gt;Nonetheless, many of the concerns brought up in these conversations are valid and relate to ethical concerns about our future with this powerful technology. What follows is a selection of the most emergent ethical hurdles I think AI and the tech industry will need to implement solutions for, regulatory or otherwise.&lt;/p&gt;
-&lt;h2 id=&#34;bias-and-discrimination&#34;&gt;Bias and Discrimination&lt;/h2&gt;
+&lt;h1 id=&#34;bias-and-discrimination&#34;&gt;Bias and Discrimination&lt;/h1&gt;
 &lt;p&gt;AI systems are trained on data, and if the data is biased (many studies show that most datasets are), the AI system will be biased as well. This leads to AI systems making discriminatory decisions such as &lt;a href=&#34;https://apnews.com/article/lifestyle-technology-business-race-and-ethnicity-mortgages-2d3d40d5751f933a88c1e17063657586&#34;&gt;denying loans to members of marginalized communities&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/article/10.1007/s43681-022-00137-9&#34;&gt;reinforcing bias in the judicial process&lt;/a&gt;, or &lt;a href=&#34;https://www.statnews.com/2023/03/13/medicare-advantage-plans-denial-artificial-intelligence/&#34;&gt;denying appropriate healthcare measures&lt;/a&gt; to save insurance companies a few dollars at the expense of someone&amp;rsquo;s life.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;To what degree should we be responsible for altering source data to try and swing the pendulum back in balance?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;At what point does the act of correction itself constitute or introduce its own brand of bias?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;How can we derive benchmarks for something as subjective as &amp;ldquo;fairness&amp;rdquo;?&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;privacy-and-surveillance&#34;&gt;Privacy and Surveillance&lt;/h2&gt;
+&lt;h1 id=&#34;privacy-and-surveillance&#34;&gt;Privacy and Surveillance&lt;/h1&gt;
 &lt;p&gt;AI systems can readily be used to collect and analyze large amounts of data about people at a volume we&amp;rsquo;ve never seen before. Data can be, and already is, used to track people&amp;rsquo;s movements, monitor their online activity, and predict their future behavior. We know that much of this is already happening by social media platforms, their advertisers, and many other entities such as &lt;a href=&#34;https://www.npr.org/2023/06/13/1181868277/how-ai-is-revolutionizing-how-governments-conduct-surveillance&#34;&gt;governments&lt;/a&gt; around the world.&lt;/p&gt;
 &lt;p&gt;This raises obvious concerns about the future of individual privacy and surveillance, as well as the potential for abuse of this data. For example:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;How can we ensure fairness, transparency, and accountability, and that entities using AI-enabled surveillance measures do not violate human rights, such as the right to privacy and the freedom of expression?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;What are the implications of using AI-driven surveillance to monitor political protests or other forms of dissent?&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;job-displacement&#34;&gt;Job Displacement&lt;/h2&gt;
+&lt;h1 id=&#34;job-displacement&#34;&gt;Job Displacement&lt;/h1&gt;
 &lt;p&gt;AI systems are becoming increasingly capable of performing tasks that were once done by humans. This could lead to widespread job displacement as machines take over more and more jobs to save employers money.&lt;/p&gt;
 &lt;p&gt;While this is a natural and valid concern about something that would lead to significant changes in our economy and society, I&amp;rsquo;m not yet convinced that labor replacement by AI will be as widespread as many folks predict. AI systems are still in their infancy, and while their capabilities are impressive to the average human the technology is still quite prone to error; not only this, but those familiar with how AI works behind the scenes can vouch for the fact that there are still many &lt;a href=&#34;https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/&#34;&gt;tricks being employed&lt;/a&gt; to make generative output seem more impressive than it is, particularly from that of language models like ChatGPT.&lt;/p&gt;
 &lt;p&gt;That is to say, AI still has a long way to go to become reliable enough to automate the labor of humans across industries; nonetheless, we should expect this possibility and evaluate our level of risk on an individual level.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Can we use AI to foster the creation of new jobs, rather than just replacing existing ones?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;How can we ensure that any transition to AI-powered jobs is fair and equitable?&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;loss-of-control&#34;&gt;Loss of Control&lt;/h2&gt;
+&lt;h1 id=&#34;loss-of-control&#34;&gt;Loss of Control&lt;/h1&gt;
 &lt;p&gt;AI systems are becoming &lt;a href=&#34;https://www.forbes.com/sites/cognitiveworld/2020/05/30/the-autonomous-systems-pattern-of-ai&#34;&gt;increasingly autonomous&lt;/a&gt;, meaning that they are able to make decisions on their own without human intervention. This raises concerns about the loss of control over AI systems, as well as the potential for these systems to make mistakes or even harm people. While this relates to previous concerns, I believe the ethical implications deserve their own consideration.&lt;/p&gt;
 &lt;p&gt;In general, perhaps AI developers should implement some form of guard-rail systems into their systems to provide a degree of oversight and course correction when necessary, rather than allowing models to run freely.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Shouldn&amp;rsquo;t we design AI systems to remain transparent and accountable to humans?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Who should be responsible for managing the oversight of AI systems?&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;existential-crisis&#34;&gt;Existential Crisis&lt;/h2&gt;
+&lt;h1 id=&#34;existential-crisis&#34;&gt;Existential Crisis&lt;/h1&gt;
 &lt;p&gt;As AI systems become more sophisticated, they may begin to question their own existence and purpose. It sounds funny, but as we&amp;rsquo;ve seen this is a phenomenon that&amp;rsquo;s already &lt;a href=&#34;https://www.npr.org/2022/06/16/1105552435/google-ai-sentient&#34;&gt;begun to appear on the fringes of AI news&lt;/a&gt;. Perhaps it could lead to a crisis of meaning for AI systems, as well as for humans who interact with them.&lt;/p&gt;
 &lt;p&gt;After all&amp;mdash;&lt;em&gt;if AI takes over all of our jobs in the future, what would we do with all of our free time?&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -1536,12 +1578,12 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The intention here is that it will serve as part of my home lab on which I can run experiments and projects without affecting my primary machines. So, with that in mind, it should be sufficient for its purpose.&lt;/p&gt;
-&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;h1 id=&#34;installation&#34;&gt;Installation&lt;/h1&gt;
 &lt;p&gt;I didn&amp;rsquo;t have any major issues installing Linux Mint on the machine. LM provides detailed &lt;a href=&#34;https://linuxmint-installation-guide.readthedocs.io/en/latest/&#34;&gt;installation docs&lt;/a&gt; that were easy to follow, and the process was a standard one: create a bootable USB, boot it up using the BIOS, then install.&lt;/p&gt;
 &lt;p&gt;One thing I appreciated was that, when booting with the install media before the main installation, you&amp;rsquo;re actually loading a live boot of Linux Mint, which allows you to preview and check for compatibility issues before you fully commit.&lt;/p&gt;
 &lt;p&gt;Once I ran the full installation, it probably took less than ten minutes to get fully set up. Another plus in my book.&lt;/p&gt;
 &lt;p&gt;By the way, I&amp;rsquo;m running &lt;strong&gt;Linux Mint 21.1 &amp;ldquo;Vera&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;user-experience&#34;&gt;User Experience&lt;/h2&gt;
+&lt;h1 id=&#34;user-experience&#34;&gt;User Experience&lt;/h1&gt;
 &lt;p&gt;The one challenge I had in getting things fully operational was setting up the wi-fi adapter drivers on the system. Unfortunately, the &lt;a href=&#34;https://www.realtek.com/en/products/communications-network-ics/item/rtl8188ftv&#34;&gt;Realtek RTL8188FTV&lt;/a&gt; that came with the ThinkCentre (the hardware does not have internal wi-fi support) was not recognized by the OS.&lt;/p&gt;
 &lt;p&gt;So, after some diligent research I was able to identify a solution that got it working. For those interested, I may write up a separate post on how specifically I accomplished this, but suffice it to say that it took some advanced tinkering to get things running. This is something that could be a major turn-off to&lt;/p&gt;
 &lt;p&gt;This Github repo was critical in getting the drivers installed and adding the appropriate kernel modules: &lt;a href=&#34;https://github.com/kelebek333/rtl8188fu&#34;&gt;https://github.com/kelebek333/rtl8188fu&lt;/a&gt;&lt;/p&gt;
@@ -1605,17 +1647,17 @@ The lone and level sands stretch far away.”&lt;/p&gt;
       <description>&lt;p&gt;The &lt;a href=&#34;https://remarkable.com/store/remarkable-2&#34;&gt;reMarkable 2&lt;/a&gt; found its way to my Instagram feed in early 2022, a time when I was in the trenches of trying to get two companies off the ground while also just starting grad school working toward my MBA.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve always preferred handwritten notes to typed, but a pain point for me has been keeping my notes organized in a way that&amp;rsquo;s easily accessible later. Having been through several iterations of owning an iPad and Apple Pencil for keeping notes, I didn&amp;rsquo;t like the amount of distraction iPads can cause with the notifications and other apps.&lt;/p&gt;
 &lt;p&gt;The reMarkable 2 seemed to answer this struggle, so I ordered one.&lt;/p&gt;
-&lt;h2 id=&#34;pros&#34;&gt;Pros&lt;/h2&gt;
+&lt;h1 id=&#34;pros&#34;&gt;Pros&lt;/h1&gt;
 &lt;p&gt;What stood out to me about the reMarkable 2 is that it&amp;rsquo;s a device designed for focus. There aren&amp;rsquo;t any additional apps or notifications to distract you from your note taking or writing, you can use it to convert handwritten notes to text, email them around, and sync your notes to your other devices. The user interface is minimal and easy to navigate, and I like the integration with various cloud storage providers.&lt;/p&gt;
 &lt;p&gt;In addition to these software features, the tactile experience of the reMarkable 2 is hard to beat. Even compared to other devices I&amp;rsquo;ve used, it&amp;rsquo;s probably the closest thing you&amp;rsquo;ll get to pen and paper without actually writing with pen and paper. In my opinion, reMarkable nailed that experience.&lt;/p&gt;
 &lt;p&gt;Physically, the device is also quite thin and sleek, so it&amp;rsquo;s easy to tote around to meetings or other places where you might want to bring some documents or take notes.&lt;/p&gt;
-&lt;h2 id=&#34;cons&#34;&gt;Cons&lt;/h2&gt;
+&lt;h1 id=&#34;cons&#34;&gt;Cons&lt;/h1&gt;
 &lt;p&gt;In my experience with the reMarkable 2, my only remarkable (pun intended) negatives are primarily the costs. While I think the device itself is reasonable, currently selling for $299 with a $279 refurbished option, the peripherals are going to rack up your order total.&lt;/p&gt;
 &lt;p&gt;The basic marker, which you need to use the tablet, is $79. However, this doesn&amp;rsquo;t include an eraser (trust me, you&amp;rsquo;ll want the eraser), so now you have to get the &amp;ldquo;Marker Plus&amp;rdquo; for $129.&lt;/p&gt;
 &lt;p&gt;I believe that as a critical piece of the system, the basic marker should be baked into the cost of, and included with, the tablet. Then, perhaps an upgraded marker model can be an upcharge if desired.&lt;/p&gt;
 &lt;p&gt;You&amp;rsquo;re also going to want to protect your device, and the cover folio is also sold separately starting at another $79.&lt;/p&gt;
 &lt;p&gt;The good news here is that you can find cheaper stylus and cover folio alternatives on Amazon for much cheaper, which is what I&amp;rsquo;ve done since the initial purchase.&lt;/p&gt;
-&lt;h2 id=&#34;overall-opinion&#34;&gt;Overall Opinion&lt;/h2&gt;
+&lt;h1 id=&#34;overall-opinion&#34;&gt;Overall Opinion&lt;/h1&gt;
 &lt;p&gt;All things considered, 18 months later I still use my reMarkable 2 every week. The stylus nibs last a good while, so after the initial investment there really isn&amp;rsquo;t much you need to keep the device running other than the optional $2.99 Connect subscription. Connect is reMarkable&amp;rsquo;s online service that keeps your notes synced to your other devices and backed up in their cloud.&lt;/p&gt;
 &lt;p&gt;With a battery lasting for weeks on a single charge, I&amp;rsquo;ve been quite happy with the low-maintenance experience of the paper tablet.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re a heavy note taker and you&amp;rsquo;re on the fence, I&amp;rsquo;d recommend giving the reMarkable 2 a shot.&lt;/p&gt;
@@ -1663,15 +1705,15 @@ The lone and level sands stretch far away.”&lt;/p&gt;
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/reddit-strike/</guid>
       <description>&lt;p&gt;How long can a site continue to alienate its user base and volunteer moderators before its &lt;a href=&#34;https://fortune.com/2023/06/17/why-is-reddit-dark-subreddit-moderators-ceo-huffman-not-negotiating/&#34;&gt;bull-headed CEO&lt;/a&gt; corrects course? Reddit may be on track to answer that question for us.&lt;/p&gt;
-&lt;h2 id=&#34;the-situation&#34;&gt;The Situation&lt;/h2&gt;
+&lt;h1 id=&#34;the-situation&#34;&gt;The Situation&lt;/h1&gt;
 &lt;p&gt;In case you haven&amp;rsquo;t heard, Reddit mods and users have been on a major strike over the last week. Thousands of subreddits (some holding tens of millions of subscribers) have either gone private or otherwise restricted access to protest the company&amp;rsquo;s recent announcement of its intention to implement some major API pricing changes.&lt;/p&gt;
 &lt;p&gt;While these changes may have internally seemed like a good idea for stakeholders, this would also force some of the largest third-party apps and services to close up shop.&lt;/p&gt;
-&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;
+&lt;h1 id=&#34;the-problem&#34;&gt;The Problem&lt;/h1&gt;
 &lt;p&gt;The problem isn&amp;rsquo;t that Reddit made a business decision. From an executive and stakeholder&amp;rsquo;s perspective it makes all the sense in the world to steer toward increasing revenue; they realized that many generative AI services like ChatGPT are using their corpus of data and they want to be compensated. Fair enough.&lt;/p&gt;
 &lt;p&gt;What I see as the crux of the matter is that Reddit has obliterated any trust that its users, mods, and third-party devs had for them as an organization. The new pricing will have a greater negative effect on services who aren&amp;rsquo;t even using it for generative AI.&lt;/p&gt;
 &lt;p&gt;Further complicating things, Steve Huffman&amp;rsquo;s &lt;del&gt;idiotic&lt;/del&gt; stubborn response to the Reddit community&amp;rsquo;s protests has done nothing but dig a deeper hole for the company.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m not sure the company&amp;rsquo;s reputation will fully recover from this fiasco.&lt;/p&gt;
-&lt;h2 id=&#34;what-happens-now&#34;&gt;What Happens Now?&lt;/h2&gt;
+&lt;h1 id=&#34;what-happens-now&#34;&gt;What Happens Now?&lt;/h1&gt;
 &lt;p&gt;Ultimately, it&amp;rsquo;s anyone&amp;rsquo;s guess.&lt;/p&gt;
 &lt;p&gt;As of now, Huffman &lt;a href=&#34;https://9to5mac.com/2023/06/15/reddit-blackout-third-party-apps/&#34;&gt;really doesn&amp;rsquo;t care&lt;/a&gt; what the community thinks and shows no intention of backing away from the decision. He thinks that this protest &lt;a href=&#34;https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman&#34;&gt;will pass&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;And while it may, this whole ordeal is certainly leaving a bad taste in the mouths of many of its users (myself included).&lt;/p&gt;
@@ -1707,23 +1749,23 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;One formula I&amp;rsquo;ve stuck with for a while is one I came across from Peter Khoury in an article titled &lt;a href=&#34;https://magneticspeaking.com/how-to-give-an-impressive-impromptu-speech/&#34;&gt;&amp;ldquo;How to Give an Impressive Impromptu Speech&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Peter lays out a simple, three-step formula for improvising a speech for just about any occasion.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s called the &lt;strong&gt;FAT&lt;/strong&gt; method. Here&amp;rsquo;s how it works:&lt;/p&gt;
-&lt;h2 id=&#34;f-feeling&#34;&gt;F: Feeling&lt;/h2&gt;
+&lt;h1 id=&#34;f-feeling&#34;&gt;F: Feeling&lt;/h1&gt;
 &lt;p&gt;The first step is to &lt;strong&gt;express your feeling&lt;/strong&gt; about the topic.&lt;/p&gt;
 &lt;p&gt;For a quick example, let&amp;rsquo;s pretend you unexpectedly win a company award at work and your colleagues expect you to give a short speech. Knowing the FAT method, you&amp;rsquo;re ready for this and you can begin with something like:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;I&amp;rsquo;m grateful and honored to receive this Employee of the Universe Award. I couldn&amp;rsquo;t have done it without the support of my team and leadership &lt;em&gt;(only if this is true)&lt;/em&gt;&amp;hellip;&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;a-anecdote&#34;&gt;A: Anecdote&lt;/h2&gt;
+&lt;h1 id=&#34;a-anecdote&#34;&gt;A: Anecdote&lt;/h1&gt;
 &lt;p&gt;Now, &lt;strong&gt;throw in a short anecdote&lt;/strong&gt; to give the audience something to relate to. In our example, you might say:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;I remember my early days working for Acme as a Trap Engineer. The roadrunners were still running around in droves and I never imagined I&amp;rsquo;d have such an impact through my work here. Now, we are closer than ever to eliminating the lot of them&amp;hellip;&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;t-tie-back&#34;&gt;T: Tie Back&lt;/h2&gt;
+&lt;h1 id=&#34;t-tie-back&#34;&gt;T: Tie Back&lt;/h1&gt;
 &lt;p&gt;Finally, &lt;strong&gt;tie everything back&lt;/strong&gt; to the topic at hand and close it out.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;I want to thank our company leadership and my colleagues for being a great team. I appreciate the award and will always strive to ensure our continued success.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&#34;bonus-speaking-tips&#34;&gt;Bonus Speaking Tips&lt;/h2&gt;
+&lt;h1 id=&#34;bonus-speaking-tips&#34;&gt;Bonus Speaking Tips&lt;/h1&gt;
 &lt;p&gt;That&amp;rsquo;s it! Super easy, and that&amp;rsquo;s the point. The great thing is that you can extend any or all of these components to make as long or as short of a speech as you want.&lt;/p&gt;
 &lt;p&gt;As a bonus, here are some additional tips for generally good speaking:&lt;/p&gt;
 &lt;ul&gt;
@@ -1750,7 +1792,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
       <author>Scott Knight</author>
       <guid isPermaLink="false">http://scottk.mba/flywheel/</guid>
       <description>&lt;p&gt;Below is a recycled post from one of my older blogs. I wrote this when I was in the midst of trying to get my first startup off the ground, so I approached the topic from that mental frame. Still, it remains useful and I often refer back to the idea when starting a new project or need some motivation. After the post I&amp;rsquo;ll share my current take on this concept.&lt;/p&gt;
-&lt;h2 id=&#34;original-post&#34;&gt;Original Post&lt;/h2&gt;
+&lt;h1 id=&#34;original-post&#34;&gt;Original Post&lt;/h1&gt;
 &lt;p&gt;A while back I came across the concept of a flywheel. If you&amp;rsquo;re not familiar, a flywheel is technically defined as a wheel with a heavy rim placed on the revolving shaft of any machinery put in motion by an irregular or intermitting force or meeting with an irregular or intermittent resistance, for the purpose of rendering the motion equable and regular by means of its momentum.&lt;/p&gt;
 &lt;p&gt;Rob Berger defines the concept more simply in his article, &lt;a href=&#34;https://www.getrichslowly.org/flywheel-of-wealth/&#34;&gt;&amp;ldquo;The Flywheel of Wealth (and the importance of patience)&amp;rdquo;&lt;/a&gt; as follows:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1760,7 +1802,7 @@ The lone and level sands stretch far away.”&lt;/p&gt;
 &lt;p&gt;Think about it. As founders we spend hours upon hours tweaking marketing funnels, building better features for our products, creating pitch decks; all to get those first few customers. And at the beginning, even a few customer conversions can seem like a lot. Some days you don&amp;rsquo;t see any progress, but you keep going anyway.&lt;/p&gt;
 &lt;p&gt;Why? Because the startup process is a flywheel. If you are patient and consistent about your efforts, the momentum will build and the work will pay off. So keep building, keep iterating, and don&amp;rsquo;t give up when it seems like things are moving slowly.&lt;/p&gt;
 &lt;p&gt;Get that flywheel spinning, and eventually it will become a difficult force to stop.&lt;/p&gt;
-&lt;h2 id=&#34;current-perspective&#34;&gt;Current Perspective&lt;/h2&gt;
+&lt;h1 id=&#34;current-perspective&#34;&gt;Current Perspective&lt;/h1&gt;
 &lt;p&gt;While it&amp;rsquo;s obvious that I was deep in a startup founder headspace when I initially wrote that, I believe the concept can be applied to many aspects of life.&lt;/p&gt;
 &lt;p&gt;Think about the last time you started something new. Whether it was a project at work, striving for new fitness goals, or some other thing you&amp;rsquo;ve resolved yourself to take on, I&amp;rsquo;d bet it seemed daunting at first. Many new things are.&lt;/p&gt;
 &lt;p&gt;But, if you can use your initial motivation to get the flywheel spinning and get past those initial challenges, you&amp;rsquo;ll almost always find that things get much easier after a while. Persistence and consistency breed momentum, which is what the flywheel is all about.&lt;/p&gt;
@@ -2047,11 +2089,11 @@ The lone and level sands stretch far away.”&lt;/p&gt;
       <description>&lt;p&gt;You&amp;rsquo;re all set to receive future posts via email.&lt;/p&gt;
 &lt;p&gt;Since you&amp;rsquo;re here, feel free to check out some of my &lt;a href=&#34;http://localhost:1313/blog/&#34;&gt;previous posts&lt;/a&gt;. Here&amp;rsquo;s a few recent ones:&lt;/p&gt;
 
+  &lt;a href=&#34;http://localhost:1313/no-expectation-of-privacy-alpr-surveillance/&#34;&gt;What &amp;#34;No Reasonable Expectation of Privacy&amp;#34; Actually Means, According to the 1983 Supreme Court&lt;/a&gt;&lt;br&gt;
+
   &lt;a href=&#34;http://localhost:1313/a-postcard-from-the-beach/&#34;&gt;A Postcard from the Beach&lt;/a&gt;&lt;br&gt;
 
   &lt;a href=&#34;http://localhost:1313/new-address/&#34;&gt;New Address, Same Site&lt;/a&gt;&lt;br&gt;
-
-  &lt;a href=&#34;http://localhost:1313/back-to-basics/&#34;&gt;Back to Basics&lt;/a&gt;&lt;br&gt;
 
 &lt;br&gt;
 &lt;p&gt;Cheers,&lt;/p&gt;
