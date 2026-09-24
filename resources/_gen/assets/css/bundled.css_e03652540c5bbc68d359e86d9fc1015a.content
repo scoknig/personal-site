@@ -9132,10 +9132,10 @@ a:focus-visible, button:focus-visible, input:focus-visible {
   max-width: 650px;
 }
 #nav a {
-  font-weight: 500;
+  font-weight: 400;
   color: var(--ink);
-  text-decoration: none;
-  font-variant-caps: small-caps;
+  font-style: italic;
+  /* font-variant-caps: small-caps; */
   letter-spacing: .06em;
 }
 #nav :hover {
