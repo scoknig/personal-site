@@ -18,7 +18,7 @@
           {{ with $paginator.First }}
             <li class="page-item">
               <a class="page-link" href="{{ .URL }}">
-                Newest
+                « Newest
               </a>
             </li>
           {{ end }}
@@ -26,13 +26,13 @@
           {{ with $paginator.Prev }}
             <li class="page-item">
               <a class="page-link" href="{{ .URL }}">
-                Previous
+                ‹ Previous
               </a>
             </li>
           {{ else }}
             <li class="page-item disabled">
               <a class="page-link">
-                Previous
+                ‹ Previous
               </a>
             </li>
           {{ end }}
@@ -40,13 +40,13 @@
           {{ with $paginator.Next }}
             <li class="page-item">
               <a class="page-link" href="{{ .URL }}">
-                Next
+                Next ›
               </a>
             </li>
           {{ else }}
             <li class="page-item disabled">
               <a class="page-link">
-                Next
+                Next ›
               </a>
             </li>
           {{ end }}
@@ -54,7 +54,7 @@
           {{ with $paginator.Last }}
             <li class="page-item">
               <a class="page-link" href="{{ .URL }}">
-                Oldest
+                Oldest »
               </a>
             </li>
           {{ end }}
